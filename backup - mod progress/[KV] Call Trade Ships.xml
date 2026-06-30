@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<CallTradeShips.ModName>Call Trade Ships</CallTradeShips.ModName>
+	<CallTradeShips.Call>Call orbital trader: {0}</CallTradeShips.Call>
+	<CallTradeShips.CallWithCost>Call orbital trader: {0} (cost: {1} silver)</CallTradeShips.CallWithCost>
+	<CallTradeShips.Cost>Cost</CallTradeShips.Cost>
+	<CallTradeShips.NotEnoughSilver>Not enough silver to call for trade ships ({0} but need {1})</CallTradeShips.NotEnoughSilver>
+	
+	<!-- For TraderShips mod - https://github.com/AUTOMATIC1111/TraderShips -->
+	<CallTradeShips.AllowOrbitalTraders>Allow Orbital Traders</CallTradeShips.AllowOrbitalTraders>
+	<CallTradeShips.CallTraderShip>Call trader to land</CallTradeShips.CallTraderShip>
+	<CallTradeShips.CallTraderShipCost>Call trader to land (cost: {0} silver)</CallTradeShips.CallTraderShipCost>
+</LanguageData>

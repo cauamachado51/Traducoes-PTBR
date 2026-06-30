@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Mod Settings -->
+  <BestMix.Name>Best Mix</BestMix.Name>
+  <BestMix.AllowBestMix>Permitir Best Mix:</BestMix.AllowBestMix>
+  <BestMix.AllowMealMakersOnly>Permitir apenas fabricantes de refeições:</BestMix.AllowMealMakersOnly>
+                     <!-- Allow Best Mix Bill setting -->
+  <BestMix.AllowBMBillSet>Permitir configuração de receita Best Mix</BestMix.AllowBMBillSet>
+               <!-- Use the map rather than bill radius for evaluating stock levels -->
+  <BestMix.MapStock>Use o mapa em vez do raio da receita para avaliar os níveis de estoque:</BestMix.MapStock>
+  <BestMix.InStorage>Os ingredientes precisam estar em armazenamento válido para avaliar os níveis de estoque:</BestMix.InStorage>
+  <BestMix.MaxBillFail>BestMix não conseguiu alterar o número máximo de receitas para bancadas, isso será devido a um conflito de mod.</BestMix.MaxBillFail>
+  <BestMix.MaxBillDone>BestMix alterou o número máximo de receitas de doadores de receitas para {0}</BestMix.MaxBillDone>
+  <BestMix.UseRadiusLimit>Use o limitador de raio de pesquisa de região:</BestMix.UseRadiusLimit>
+  <BestMix.RadiusLimit>Raio para limitador de alcance de pesquisa de região:</BestMix.RadiusLimit>
+  <!-- Settings Debug -->
+  <BestMix.IncludeRegionLimiter>Incluir limitador adicional no alcance da região:</BestMix.IncludeRegionLimiter>
+  <BestMix.DebugSort>Depurar o processo de classificação:</BestMix.DebugSort>
+  <BestMix.DebugChosen>Depurar lista escolhida:</BestMix.DebugChosen>
+  <BestMix.DebugFound>A depuração encontrou todos os ingredientes:</BestMix.DebugFound>
+  <BestMix.DebugIgnore>Ignorar limitador de mensagens de log:</BestMix.DebugIgnore>
+  <BestMix.Chosen>Escolha</BestMix.Chosen>
+  <BestMix.NoChosen>Sem escolha</BestMix.NoChosen>
+  <BestMix.NullChosen>Nulo Escolhido</BestMix.NullChosen>
+  <BestMix.FoundAll>encontrei TODOS os ingredientes.</BestMix.FoundAll>
+  <BestMix.NotFoundAll>NÃO encontrei todos os ingredientes.</BestMix.NotFoundAll>
+  <!--  Initialiser -->
+  <BestMix.SetupCount>[Best Mix] foi aplicado a {0} bancada.</BestMix.SetupCount>
+  <!-- Content -->
+  <BestMix.ModeDistanceDIS>Mais próximo (padrão)</BestMix.ModeDistanceDIS>
+  <BestMix.ModeDaysToRotDTR>Item vence/deteriora</BestMix.ModeDaysToRotDTR>
+  <BestMix.ModeHealthHPT>Item danificado</BestMix.ModeHealthHPT>
+  <BestMix.ModeHealthRHP>Item Robusto</BestMix.ModeHealthRHP>
+  <BestMix.ModeValueVLC>Valor mais barato</BestMix.ModeValueVLC>
+  <BestMix.ModeValueVLE>Valor mais caro</BestMix.ModeValueVLE>
+  <BestMix.ModeTemperatureTMP>Temp. Mais quente</BestMix.ModeTemperatureTMP>
+  <BestMix.ModeTemperatureFRZ>Temp. Mais frio</BestMix.ModeTemperatureFRZ>
+  <BestMix.ModeRandomRND>Aleatório</BestMix.ModeRandomRND>
+  <BestMix.ModeFractionBIT>Fração de Estoque</BestMix.ModeFractionBIT>
+  <BestMix.ModeStockMST>Mais estoque</BestMix.ModeStockMST>
+  <BestMix.ModeStockLST>Menor estoque</BestMix.ModeStockLST>
+  <BestMix.ModeBeautyBTY>Beleza mais bonita</BestMix.ModeBeautyBTY>
+  <BestMix.ModeBeautyUGY>Beleza mais feia</BestMix.ModeBeautyUGY>
+  <BestMix.ModeMassHVY>Massa mais pesada</BestMix.ModeMassHVY>
+  <BestMix.ModeMassLGT>Massa mais leve</BestMix.ModeMassLGT>
+  <BestMix.ModeFlammableFLM>Ignição de item</BestMix.ModeFlammableFLM>
+  <BestMix.ModeProtectPTB>Proteger de contundente</BestMix.ModeProtectPTB>
+  <BestMix.ModeProtectPTS>Proteger de afiado</BestMix.ModeProtectPTS>
+  <BestMix.ModeProtectPTH>Proteger de calor</BestMix.ModeProtectPTH>
+  <BestMix.ModeProtectPTE>Proteger de eletricidade</BestMix.ModeProtectPTE>
+  <BestMix.ModeInsulateINH>Isolar calor</BestMix.ModeInsulateINH>
+  <BestMix.ModeInsulateINC>Isolar frio</BestMix.ModeInsulateINC>
+  <BestMix.ModeTextileSOF>Maciez têxtil</BestMix.ModeTextileSOF>
+  <BestMix.ModeWeaponWSP>Arma mais afiada</BestMix.ModeWeaponWSP>
+  <BestMix.ModeWeaponWBT>Arma mais contundente</BestMix.ModeWeaponWBT>
+  <BestMix.ModeFoodNUL>Nutrição mais baixa</BestMix.ModeFoodNUL>
+  <BestMix.ModeFoodNUH>Nutrição mais alta</BestMix.ModeFoodNUH>
+  <BestMix.ModeFoodSPF>Estraga primeiro</BestMix.ModeFoodSPF>
+  <BestMix.CurrentMode>Seleção atual Best Mix: {0}</BestMix.CurrentMode>
+  <BestMix.SelectModeLabel>Best Mix</BestMix.SelectModeLabel>
+  <BestMix.SelectModeDesc>Usado para selecionar o modo Best Mix</BestMix.SelectModeDesc>
+  <BestMix.DoNothing>(Sem alteração)</BestMix.DoNothing>
+  <BestMix.DebugLabel>Depuração</BestMix.DebugLabel>
+  <BestMix.VersionInfo>Versão do mod instalada: {0}</BestMix.VersionInfo>
+  <BestMix.DebugDesc>Alternar registro de listagem de ingredientes potenciais</BestMix.DebugDesc>
+</LanguageData>

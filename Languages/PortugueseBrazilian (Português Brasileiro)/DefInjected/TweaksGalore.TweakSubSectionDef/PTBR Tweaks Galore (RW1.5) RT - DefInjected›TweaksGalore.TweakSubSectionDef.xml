@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+ <!-- Section_General.xml -->
+  <!-- No Friend Shaped Manhunters -->
+  <TweakSubSection_NoFriendShapedManhunters.label>Nenhum amigo em forma de caçadores de homens</TweakSubSection_NoFriendShapedManhunters.label>
+  <TweakSubSection_NoFriendShapedManhunters.description>Define parâmetros que decidem se um animal pode se tornar caçador ou não. Isso não impede que isso aconteça se eles sofrerem dano. Isso pode fazer com que a missão inicial Royalty não seja acionada, pois requer um animal caçador que se encaixe especificamente nos parâmetros que esse ajuste foi projetado para evitar. Eu recomendo habilitar isso DEPOIS dessa missão..</TweakSubSection_NoFriendShapedManhunters.description>
+
+  <!-- Tainted Apparel -->
+  <TweakSubSection_TaintedApparel.label>Vestuário contaminado</TweakSubSection_TaintedApparel.label>
+  <TweakSubSection_TaintedApparel.description>Ajustes específicos para vestuário contaminado.</TweakSubSection_TaintedApparel.description>
+
+  <!-- Prisoners Don't Have Keys -->
+  <TweakSubSection_PrisonersDontHaveKeys.label>Prisioneiros não têm chaves</TweakSubSection_PrisonersDontHaveKeys.label>
+  <TweakSubSection_PrisonersDontHaveKeys.description>Controla seletivamente se prisioneiros e escravos podem abrir portas durante fugas e rebeliões.</TweakSubSection_PrisonersDontHaveKeys.description>
+
+  <!-- Slim Rim -->
+  <TweakSubSection_SlimRim.label>Corpos</TweakSubSection_SlimRim.label>
+  <TweakSubSection_SlimRim.description>Permite a limitação de tipos de corpos de peões na geração, a substituição será masculina ou feminina dependendo do gênero atual dos peões.</TweakSubSection_SlimRim.description>
+
+  <!-- Trait Count Adjustment -->
+  <TweakSubSection_TraitCountAdjustment.label>Ajuste de Contagem de Traços</TweakSubSection_TraitCountAdjustment.label>
+  <TweakSubSection_TraitCountAdjustment.description>A partir da versão 1.4, isso não é totalmente funcional, mudanças na forma como as características são geradas fizeram com que as primeiras 1-3 sempre pudessem ser geradas normalmente, independentemente do que eu fizesse. Então, isso só é útil atualmente para aqueles que querem garantir mais de 1 ou ter mais em geral. Não afetará recém-nascidos/crianças, pois eles têm um sistema complicado para seu crescimento.</TweakSubSection_TraitCountAdjustment.description>
+
+  <!-- Ancient Deconstruction -->
+  <TweakSubSection_AncientDeconstruction.label>Desconstrução Antiga</TweakSubSection_AncientDeconstruction.label>
+  <TweakSubSection_AncientDeconstruction.description>Torna as Ruínas Antigas adicionadas pela Ideologia e/ou Biotecnologia desconstruíveis em vez de ter que destruí-las.</TweakSubSection_AncientDeconstruction.description>
+
+  <!-- Dynamic Population -->
+  <TweakSubSection_DynamicPopulation.label>População Dinâmica</TweakSubSection_DynamicPopulation.label>
+  <TweakSubSection_DynamicPopulation.description>Fornece controle sobre os limites populacionais universalmente, anulando as limitações do contador de histórias.</TweakSubSection_DynamicPopulation.description>
+
+  <!-- Raid Strategies -->
+  <TweakSubSection_RaidStrategies.label>Estratégias de invasão</TweakSubSection_RaidStrategies.label>
+  <TweakSubSection_RaidStrategies.description>Fornece controle sobre as estratégias de ataque que podem ser usadas por facções. Tenha em mente que se uma facção usar apenas estratégias que você desabilitou, elas nunca serão vistas, mas isso ainda não aconteceu.</TweakSubSection_RaidStrategies.description>
+
+ <!-- Section_Jobs.xml -->
+  <!-- Faster Smoothing -->
+  <TweakSubSection_FasterSmoothing.label>Alisamento mais rápido</TweakSubSection_FasterSmoothing.label>
+  <TweakSubSection_FasterSmoothing.description>Altera a velocidade com que o alisamento da pedra é feito para um valor personalizado.</TweakSubSection_FasterSmoothing.description>
+
+  <!-- Skills -->
+  <TweakSubSection_Skills.label>Habilidades</TweakSubSection_Skills.label>
+  <TweakSubSection_Skills.description>O que estatisticamente falando, falta.</TweakSubSection_Skills.description>
+
+  <!-- Hunters Can Use Melee -->
+  <TweakSubSection_HuntersCanMelee.label>Caçadores podem usar corpo a corpo</TweakSubSection_HuntersCanMelee.label>
+  <TweakSubSection_HuntersCanMelee.description>Permite que os caçadores usem combate corpo a corpo, independentemente de quão bem eles podem fazê-lo.</TweakSubSection_HuntersCanMelee.description>
+
+ <!-- Section_Power.xml -->
+  <TweakSubSection_PowerAdjusting.label>Ajuste de energia</TweakSubSection_PowerAdjusting.label>
+  <TweakSubSection_PowerAdjusting.description>Se habilitado, permite que as alterações de energia abaixo entrem em vigor. Se elas normalmente produzem, então configura quanto elas produzem em vez disso, o que será mostrado como um controle deslizante de valor negativo.</TweakSubSection_PowerAdjusting.description>
+
+ <!-- Section_Research.xml -->
+  <TweakSubSection_TechTraversal.label>Travessia tecnológica</TweakSubSection_TechTraversal.label>
+  <TweakSubSection_TechTraversal.description>Ajustes específicos mudam o nível de tecnologia dos jogadores conforme eles progridem.</TweakSubSection_TechTraversal.description>
+
+ <!-- Section_Resources.xml -->
+  <!-- Stackable Chunks -->
+  <TweakSubSection_StackableChunks.label>Pedaços empilháveis</TweakSubSection_StackableChunks.label>
+  <TweakSubSection_StackableChunks.description>Permite que pedaços de pedra e escória sejam empilháveis. Alterar isso no meio do salvamento CAUSARÁ problemas.</TweakSubSection_StackableChunks.description>
+
+<!-- part2 1.5 mods -->
+ <!-- Section_02Anima.xml -->
+  <!-- Anima Scream -->
+  <TweakSubSection_AnimaScream.label>Grito Anima</TweakSubSection_AnimaScream.label>
+  <TweakSubSection_AnimaScream.description>Ajustes específicos ao grito de anima quando você corta a árvore de anima.</TweakSubSection_AnimaScream.description>
+
+  <!-- Anima Tree -->
+  <TweakSubSection_AnimaTree.label>Árvore Anima</TweakSubSection_AnimaTree.label>
+  <TweakSubSection_AnimaTree.description>Ajustes específicos para a própria árvore anima.</TweakSubSection_AnimaTree.description>
+
+  <!-- Anima Shrines -->
+  <TweakSubSection_AnimaShrines.label>Santuários de Anima</TweakSubSection_AnimaShrines.label>
+  <TweakSubSection_AnimaShrines.description>Eles são específicos para os santuários da natureza que podem ser construídos para aprimorar a árvore Anima.</TweakSubSection_AnimaShrines.description>
+
+ <!-- Section_02Entities.xml -->
+  <!-- Harbinger Tree -->
+  <TweakSubSection_HarbingerTree.label>Árvore precursora</TweakSubSection_HarbingerTree.label>
+  <TweakSubSection_HarbingerTree.description>Ajustes específicos à árvore precursora (Harbinger).</TweakSubSection_HarbingerTree.description>
+
+ <!-- Section_02Gauranlen.xml -->
+  <!-- Gauranlen Tree -->
+  <TweakSubSection_GauranlenTree.label>Árvore Gauranlen</TweakSubSection_GauranlenTree.label>
+  <TweakSubSection_GauranlenTree.description>Ajustes específicos para a própria árvore Gauranlen.</TweakSubSection_GauranlenTree.description>
+
+  <!-- Dryads -->
+  <TweakSubSection_Dryads.label>Dríades</TweakSubSection_Dryads.label>
+  <TweakSubSection_Dryads.description>Ajustes específicos para as dríades que vêm da Árvore Gauranlen.</TweakSubSection_Dryads.description>
+
+ <!-- Section_03Mechanoids.xml -->
+  <!-- Better Gloomlight -->
+  <TweakSubSection_BetterGloomlight.label>Melhor luz sombria</TweakSubSection_BetterGloomlight.label>
+  <TweakSubSection_BetterGloomlight.description>Altera a luz sombria frequentemente encontrada em aglomerados de mechs para produzir mais luz, por isso é realmente útil.</TweakSubSection_BetterGloomlight.description>
+
+ <!-- Section_General.xml -->
+  <!-- Gene Stats -->
+  <TweakSubSection_Biotech_GeneStats.label>Estatísticas genéticas</TweakSubSection_Biotech_GeneStats.label>
+
+  <!-- Mechanitor Tweaks -->
+  <TweakSubSection_Biotech_MechanitorTweaks.label>Ajustes no mecanizador</TweakSubSection_Biotech_MechanitorTweaks.label>
+
+ <!-- Section_Mechanoids.xml -->
+  <!-- Player Mech Stats -->
+  <TweakSubSection_PlayerMechs.label>Estatísticas do Mecanóide do Jogador</TweakSubSection_PlayerMechs.label>
+  <TweakSubSection_PlayerMechs.description>Permite a alteração das estatísticas de trabalho dos mecanóides dos jogadores para que eles não sejam tão ruins.</TweakSubSection_PlayerMechs.description>
+
+</LanguageData>

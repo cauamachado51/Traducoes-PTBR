@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+   <!-- Settings.xml -->
+	<WVC_MMWM_Settings>Work Modes</WVC_MMWM_Settings>
+
+	<WVC_Label_MainModeLabelSetting>Main</WVC_Label_MainModeLabelSetting>
+	<WVC_Label_BonusModeLabelSetting>Bonus</WVC_Label_BonusModeLabelSetting>
+	<WVC_Label_WorkModeMechanicsLabelSetting>Mechanics</WVC_Label_WorkModeMechanicsLabelSetting>
+
+	<WVC_WorkModes_ResetButton>Reset</WVC_WorkModes_ResetButton>
+
+	<WVC_WorkModes_ResetButtonWarning>The settings will be changed, are you sure?</WVC_WorkModes_ResetButtonWarning>
+	<WVC_WorkModes_ResetButton_SettingsChanged>The settings have been changed.</WVC_WorkModes_ResetButton_SettingsChanged>
+
+	<!-- Main -->
+	<WVC_Label_FindAndDestroy>Find and destroy</WVC_Label_FindAndDestroy>
+	<WVC_Label_WaitEnemy>Wait enemy</WVC_Label_WaitEnemy>
+	<WVC_Label_WorkAndWaitEnemy>Work and wait</WVC_Label_WorkAndWaitEnemy>
+	<WVC_Label_DefendYourself>Defend yourself</WVC_Label_DefendYourself>
+	<WVC_Label_Ambush>Ambush</WVC_Label_Ambush>
+	<WVC_Label_WorkAndRecharge>Work and recharge</WVC_Label_WorkAndRecharge>
+	<WVC_Label_SafeWorkAndRecharge>Work if safe</WVC_Label_SafeWorkAndRecharge>
+	<WVC_Label_EscaortAndRecharge>Escort and recharge</WVC_Label_EscaortAndRecharge>
+	<WVC_Label_WorkRechargeEscort>Work, recharge and escort</WVC_Label_WorkRechargeEscort>
+	<WVC_Label_EscortIfEnemyOnMap>Escort if enemy</WVC_Label_EscortIfEnemyOnMap>
+
+	<WVC_ToolTip_Setting>Before disabling, switch all mechanoid modes to vanilla. A restart is required to apply the settings.</WVC_ToolTip_Setting>
+
+	<!-- Bonus -->
+	<WVC_Label_EscortIfEnemyWorkAndRecharge>Escort if enemy, work and recharge</WVC_Label_EscortIfEnemyWorkAndRecharge>
+	<WVC_Label_EscortIfDraftedOrDowned>Escort if drafted or downed</WVC_Label_EscortIfDraftedOrDowned>
+	<WVC_Label_HiveMindResearching>Hive mind researching</WVC_Label_HiveMindResearching>
+	<WVC_Label_Scavenging>Scavenging</WVC_Label_Scavenging>
+	<WVC_Label_ScavenZoneCells>Scavenge zone min required cells: {0}</WVC_Label_ScavenZoneCells>
+
+	<WVC_ToolTip_BonusSetting>Bonus mode. It is disabled by default. Enabling is compatible with saves.</WVC_ToolTip_BonusSetting>
+
+	<!-- Idle Optimization -->
+	<WVC_Label_enableShutdownForAllMechanoids>Idle optimization for vanilla modes</WVC_Label_enableShutdownForAllMechanoids>
+	<WVC_ToolTip_enableShutdownForAllMechanoids>If enabled, idle optimization will also affect vanilla modes.</WVC_ToolTip_enableShutdownForAllMechanoids>
+
+	<WVC_Label_enableSmartChargingForAllMechanoids>Smart charging for vanilla modes</WVC_Label_enableSmartChargingForAllMechanoids>
+	<WVC_ToolTip_enableSmartChargingForAllMechanoids>If enabled, then the mechanoids will go to charge when they are not busy with anything, and not only when the charge runs out.</WVC_ToolTip_enableSmartChargingForAllMechanoids>
+
+	<WVC_ToolTip_VanillaModeOptimizationWarning>Does not affect combat mechanoids, as their idle has been replaced with a simulated patrol.</WVC_ToolTip_VanillaModeOptimizationWarning>
+
+	<!-- Features -->
+	<WVC_Label_enableShutdownSearching>Enable shutdown zone searching</WVC_Label_enableShutdownSearching>
+	<WVC_ToolTip_enableShutdownSearching>If enabled, mechanoids will search for a mechanoid shutdown zone before shutdown.</WVC_ToolTip_enableShutdownSearching>
+
+	<WVC_Label_enableEnemySearching>Enable enemy searching</WVC_Label_enableEnemySearching>
+	<WVC_ToolTip_enableEnemySearching>If enabled, in safe modes, mechanoids will check the map for enemies.</WVC_ToolTip_enableEnemySearching>
+
+	<WVC_ToolTip_enableSearchingWarning>If you don't understand what this option does, leave it enabled.</WVC_ToolTip_enableSearchingWarning>
+
+	<WVC_Label_enableSmartEscort>Smart escort</WVC_Label_enableSmartEscort>
+	<WVC_ToolTip_enableSmartEscort>If enabled, it allows you to select an escort target for mechanoids.
+
+Restart required!</WVC_ToolTip_enableSmartEscort>
+
+	<WVC_Label_shutdownModeZonesOrSpots>Shutdown mode: Zones or Spots</WVC_Label_shutdownModeZonesOrSpots>
+	<WVC_ToolTip_shutdownModeZonesOrSpots>If enabled, zones will be used. Alternatively, spots. It is recommended to enable it.
+
+This option is for advanced users. If you don't know what spots are, then leave it enabled.
+
+Restart required!</WVC_ToolTip_shutdownModeZonesOrSpots>
+
+	<WVC_Label_useCustomShutdownBehavior>Use custom shutdown behavior</WVC_Label_useCustomShutdownBehavior>
+	<WVC_ToolTip_useCustomShutdownBehavior>Vanilla shutdown is too stupid, but reliable. If you encounter bugs related to mechanoid shutdown, disable this option.</WVC_ToolTip_useCustomShutdownBehavior>
+
+	<WVC_Label_enableDormantMode>Dormant mode</WVC_Label_enableDormantMode>
+	<WVC_ToolTip_enableDormantMode>If enabled, then when the mechanoid is in shutdown mode it does not consume bandwidth.
+
+In case of performance problems, it is recommended to disable it.
+
+Restart required!</WVC_ToolTip_enableDormantMode>
+	<WVC_Label_mechBandwithCostInDormantMode>Dormant mode bandwidth cost factor x{0}%</WVC_Label_mechBandwithCostInDormantMode>
+	
+   <!-- Misc_Gameplay.xml -->
+    <!-- Zones -->
+	<WVC_MechanoidShutdownZone>Mechanoid shutdown zone</WVC_MechanoidShutdownZone>
+	<WVC_MechanoidShutdownZoneDesc>Mechanoids will return here before shutting down.</WVC_MechanoidShutdownZoneDesc>
+
+	<WVC_ShutdownZone_AllowWorkers>Work type</WVC_ShutdownZone_AllowWorkers>
+	<WVC_ShutdownZone_AllowSafe>Safe type</WVC_ShutdownZone_AllowSafe>
+	<WVC_ShutdownZone_AllowCombatants>Combat type</WVC_ShutdownZone_AllowCombatants>
+	<WVC_ShutdownZone_AllowAmbush>Ambush type</WVC_ShutdownZone_AllowAmbush>
+
+	<WVC_WorkModes_allowAllGroups>All groups allowed</WVC_WorkModes_allowAllGroups>
+
+	<WVC_ShutdownZone_BasicDesc>Responsible for whether mechanoids with this type of work will be able to shutdown here.</WVC_ShutdownZone_BasicDesc>
+	<WVC_WorkModes_allowAllGroupsDesc>Responsible for whether all mechanoids, regardless of the group, can use this zone.</WVC_WorkModes_allowAllGroupsDesc>
+
+	<WVC_WorkModes_On>On</WVC_WorkModes_On>
+	<WVC_WorkModes_Off>Off</WVC_WorkModes_Off>
+
+	<!-- <WVC_ShutdownZoneInPrisonCell>Shutdown zone cannot be in a prison cell.</WVC_ShutdownZoneInPrisonCell> -->
+	<!-- <WVC_ShutdownZoneNotStandable>Shutdown zone cannot be located on impassable terrain or located on other objects.</WVC_ShutdownZoneNotStandable> -->
+	<!-- <WVC_ShutdownZoneNotStandable>Shutdown zone should be standable.</WVC_ShutdownZoneNotStandable> -->
+
+	<!-- <WVC_MechanoidShutdownZone_FreeCells>Cells not occupied by mechanoids: {0}</WVC_MechanoidShutdownZone_FreeCells> -->
+
+	<!-- Scavenge Zone -->
+	<WVC_MechanoidScavengeZone>Mechanoid scavenge zone</WVC_MechanoidScavengeZone>
+	<WVC_MechanoidScavengeZoneDesc>In the "Scavenging" work mode, mechanoids will look for useful resources in this zone.</WVC_MechanoidScavengeZoneDesc>
+
+	<WVC_MechanoidScavengeZone_CellsCount>Cells: {0} | Minimum allowed: {1}</WVC_MechanoidScavengeZone_CellsCount>
+
+	<!-- SmartEscort -->
+	<WVC_WorkModes_AssignToPawnEscortLabel>Assign to escort</WVC_WorkModes_AssignToPawnEscortLabel>
+	<WVC_WorkModes_AssignToPawnEscortLabelReset>Reset escorted pawn</WVC_WorkModes_AssignToPawnEscortLabelReset>
+	<!-- <WVC_WorkModes_AssignedPawnEscortLabel>{0} assigned escort {1}</WVC_WorkModes_AssignedPawnEscortLabel> -->
+	<WVC_WorkModes_AssignToPawnEscortDesc>{0} assigned escort {1}
+
+Allows you to specify to the mechanoid what colonist it will escort.
+
+{0} cannot follow anyone other than an overseer in a caravan or on non-home maps.</WVC_WorkModes_AssignToPawnEscortDesc>
+
+	<WVC_WorkModes_AssignToPawnEscortAssigned>{0} assigned to escort {1}.</WVC_WorkModes_AssignToPawnEscortAssigned>
+	<WVC_WorkModes_AssignToPawnEscortNoLongerEscort>{0} no longer escort {1}.</WVC_WorkModes_AssignToPawnEscortNoLongerEscort>
+	<WVC_WorkModes_EscortsAssignTargetLabel>Assigned to escorts {0}</WVC_WorkModes_EscortsAssignTargetLabel>
+
+	<!-- Job Givers -->
+	<WVC_WorkModes_ChangeModDefaultMessage>{0} is not researched. Mode changed to {1}.</WVC_WorkModes_ChangeModDefaultMessage>
+
+	<!-- Tech Req -->
+	<WVC_WorkModes_ModeTechnologyRequirement>Required technologies:</WVC_WorkModes_ModeTechnologyRequirement>
+	<WVC_WorkModes_TechnologyAllowsModes>Allows use new modes:</WVC_WorkModes_TechnologyAllowsModes>
+	<WVC_WorkModes_TechnologyAllowsModes_Desc> - &lt;color=#00cccc&gt;{0}&lt;/color&gt;: {1}</WVC_WorkModes_TechnologyAllowsModes_Desc>
+
+	<!-- Group Zoning -->
+	<WVC_WorkModes_CurrentZoneGroup>Current group</WVC_WorkModes_CurrentZoneGroup>
+	<WVC_WorkModes_CurrentZoneOwner>Current owner</WVC_WorkModes_CurrentZoneOwner>
+
+	<WVC_WorkModes_ChosenGroupLabel>Assign group</WVC_WorkModes_ChosenGroupLabel>
+	<WVC_WorkModes_ChosenGroupDesc>Allows you to designate a group of mechanoids that will return to this zone.</WVC_WorkModes_ChosenGroupDesc>
+	<WVC_WorkModes_GroupIsChosen>Group {0} assigned to {1}.</WVC_WorkModes_GroupIsChosen>
+
+	<WVC_WorkModes_ChosenMechanitorLabel>Assign mechanitor</WVC_WorkModes_ChosenMechanitorLabel>
+	<WVC_WorkModes_ChosenMechanitorDesc>Allows you to assign a zone owner.</WVC_WorkModes_ChosenMechanitorDesc>
+	<WVC_WorkModes_MechanitorIsChosen>{0} assigned as owner of {1}.</WVC_WorkModes_MechanitorIsChosen>
+
+	<WVC_WorkModes_ResetOwnerLabel>Reset owner</WVC_WorkModes_ResetOwnerLabel>
+	<WVC_WorkModes_ResetOwnerDesc>Allows you to reset a zone owner.</WVC_WorkModes_ResetOwnerDesc>
+	<WVC_WorkModes_ResetOwnerMessage>{0} settings are reset to default.</WVC_WorkModes_ResetOwnerMessage>
+
+	<!-- Group Zoning Mechs -->
+	<WVC_WorkModes_RestrictZoneByGroupLabel>Use only group zones</WVC_WorkModes_RestrictZoneByGroupLabel>
+	<WVC_WorkModes_RestrictZoneByGroupDesc>Allows you to limit the mechanoid's choice of zones to those specifically assigned to its group.</WVC_WorkModes_RestrictZoneByGroupDesc>
+	<WVC_WorkModes_RestrictZoneByGroupInspect>Uses only zones of its group</WVC_WorkModes_RestrictZoneByGroupInspect>
+
+	<WVC_WorkModes_DormantModeStatPart>In shutdown mode x{0}%</WVC_WorkModes_DormantModeStatPart>
+
+</LanguageData>

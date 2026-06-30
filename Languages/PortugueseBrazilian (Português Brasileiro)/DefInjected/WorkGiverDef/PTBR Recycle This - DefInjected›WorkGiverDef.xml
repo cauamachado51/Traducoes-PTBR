@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Destroy items -->
+  <RecycleThis_Destroy.label>Destruir itens</RecycleThis_Destroy.label>
+  <!-- EN: recycling -->
+  <RecycleThis_Destroy.gerund>reciclando</RecycleThis_Destroy.gerund>
+  <!-- EN: recycle -->
+  <RecycleThis_Destroy.verb>reciclar</RecycleThis_Destroy.verb>
+  
+  <!-- EN: Recycle items -->
+  <RecycleThis_Recycle.label>Reciclar itens</RecycleThis_Recycle.label>
+  <!-- EN: recycling -->
+  <RecycleThis_Recycle.gerund>reciclando</RecycleThis_Recycle.gerund>
+  <!-- EN: recycle -->
+  <RecycleThis_Recycle.verb>reciclar</RecycleThis_Recycle.verb>
+  
+</LanguageData>

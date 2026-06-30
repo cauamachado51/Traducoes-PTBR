@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <Fluffy.AnimalTab>Animal Tab</Fluffy.AnimalTab>
+
+    <AnimalTab.LabelHeaderTip>Clique: classificar por nome\nCtrl + clique: classificar por tipo</AnimalTab.LabelHeaderTip>
+    <AnimalTab.AnimalRenamed>{0} agora é conhecido como {1}.</AnimalTab.AnimalRenamed>
+    <AnimalTab.CtrlClickToRename>Ctrl + click: renomear</AnimalTab.CtrlClickToRename>
+    <AnimalTab.GatherableTip>{0} x{1}</AnimalTab.GatherableTip>
+    <AnimalTab.AllowedAreaTip>Shift + click: Restrição de área permitida em massa\nCtrl + click: gerenciar áreas</AnimalTab.AllowedAreaTip>
+    <AnimalTab.MasterHeaderTip>Shift + click: Atribuição de mestre em massa</AnimalTab.MasterHeaderTip>
+    <AnimalTab.MassAssignMasterNone>Desatribuir tudo</AnimalTab.MassAssignMasterNone>
+    <AnimalTab.MassAssignMasterBonded>Atribuir a colonos vinculados</AnimalTab.MassAssignMasterBonded>
+    <AnimalTab.MassAssignMaster>Atribuir tudo a {0} ( Habilidade {1}, {2}/{3} pode ser atribuído )</AnimalTab.MassAssignMaster>
+    <AnimalTab.NoObedientAnimals>Nenhum animal obediente para atribuir</AnimalTab.NoObedientAnimals>
+
+    <AnimalTab.Not>não {0}</AnimalTab.Not>
+    <AnimalTab.Any>qualquer</AnimalTab.Any>
+    <AnimalTab.All>Todos</AnimalTab.All>
+
+    <!-- deprecated list strings -->
+    <AnimalTab.And>e</AnimalTab.And>
+    <AnimalTab.Or>ou</AnimalTab.Or>
+    <AnimalTab.Comma>,</AnimalTab.Comma>
+
+    <!-- new list strings, includes whitespace.
+    It looks like the original translations had whitespace,
+    but that it was dropped at some point.
+    -->
+    <AnimalTab.List.Comma>, </AnimalTab.List.Comma>
+    <AnimalTab.List.And> e </AnimalTab.List.And>
+    <AnimalTab.List.Or> ou </AnimalTab.List.Or>
+
+    <AnimalTab.FilterTip>Mostrando {0} animais\n\nClique para mostrar {1} animais</AnimalTab.FilterTip>
+    <AnimalTab.TrainableFilterTip>Mostrando animais treinados em {0}\n\nClique para alterar o filtro</AnimalTab.TrainableFilterTip>
+    <AnimalTab.IntelligenceFilterTip>Mostrando animais com inteligência {0} ou superior\n\nClique para alterar o filtro</AnimalTab.IntelligenceFilterTip>
+    <AnimalTab.PawnKindFilterTip>Mostrando {0}\n\nClique para alterar o filtro</AnimalTab.PawnKindFilterTip>
+    <AnimalTab.FilterInactiveTip>Mostrando todos os animais\n\nClique para alterar o filtro</AnimalTab.FilterInactiveTip>
+    <AnimalTab.XofYShown>{0} de {1} animais mostrados</AnimalTab.XofYShown>
+    <AnimalTab.BondedFilterTip.ShowBondedWithX>Mostrando animais ligados a {0}\n\nClique para alterar o filtro</AnimalTab.BondedFilterTip.ShowBondedWithX>
+    <AnimalTab.BondedFilterTip.HideBondedWithX>Escondendo animais ligados a {0}\n\nClique para alterar o filtro</AnimalTab.BondedFilterTip.HideBondedWithX>
+    <AnimalTab.ShowBonded>Mostrar animais vinculados</AnimalTab.ShowBonded>
+    <AnimalTab.HideBonded>Esconder animais vinculados</AnimalTab.HideBonded>
+    <AnimalTab.BondedWithX>Ligado com {0}</AnimalTab.BondedWithX>
+    <AnimalTab.ClearFilter>Limpar Filtro</AnimalTab.ClearFilter>
+
+    <!-- Because for some odd reason, TrainableIntelligendeDefs have their labels defined with keyed translations
+    and vanilla doesn't define the label for 'Super Advanced', presumably because it is not used. -->
+    <TrainableIntelligence_SuperAdvanced>super avançado</TrainableIntelligence_SuperAdvanced>
+
+    <!-- training tooltip status lines -->
+    <Fluffy.AnimalTab.XHasMasteredY>{0} dominou {1}</Fluffy.AnimalTab.XHasMasteredY>
+    <Fluffy.AnimalTab.XHasLearnedYOutOfZ>{0} aprendeu {1}/{2} desta habilidade</Fluffy.AnimalTab.XHasLearnedYOutOfZ>
+    <Fluffy.AnimalTab.XHasForgottenYOutOfZ>{0} Esqueceu {1}/{2} desta habilidade</Fluffy.AnimalTab.XHasForgottenYOutOfZ>
+    <Fluffy.AnimalTab.XIsDesignatedTrainY>{0} é designado para treinar {1}</Fluffy.AnimalTab.XIsDesignatedTrainY>
+    <Fluffy.AnimalTab.XIsNotDesignatedTrainY>{0} não está designado para treinar {1}, e perderá a habilidade com o tempo</Fluffy.AnimalTab.XIsNotDesignatedTrainY>
+
+    <!-- handler restrictions / handler e handling talvez seja tutor e tutelar  -->
+    <Fluffy.AnimalTab.HandlerX>Treinador: {0}</Fluffy.AnimalTab.HandlerX>¹¹¹
+    <Fluffy.AnimalTab.Handler>Treinador</Fluffy.AnimalTab.Handler>
+    <Fluffy.AnimalTab.HandlerMode.Any>Qualquer um</Fluffy.AnimalTab.HandlerMode.Any>
+    <Fluffy.AnimalTab.HandlerMode.Level>Por habilidade</Fluffy.AnimalTab.HandlerMode.Level>
+    <Fluffy.AnimalTab.HandlerMode.Specific>Peão específico</Fluffy.AnimalTab.HandlerMode.Specific>
+    <Fluffy.AnimalTab.Level>habilidade {0}-{1}</Fluffy.AnimalTab.Level>
+    <Fluffy.AnimalTab.CanNeverDoHandling>, nunca pode treinar</Fluffy.AnimalTab.CanNeverDoHandling>
+    <Fluffy.AnimalTab.NotAssignedToHandling>, não atribuído a treinar</Fluffy.AnimalTab.NotAssignedToHandling>
+    <Fluffy.AnimalTab.InsufficientSkill>, habilidade muito baixa</Fluffy.AnimalTab.InsufficientSkill>
+    <Fluffy.AnimalTab.NotAllowed.SpecificHandler>Não pode treinar {0}, apenas {1} é permitido.</Fluffy.AnimalTab.NotAllowed.SpecificHandler>
+    <Fluffy.AnimalTab.NotAllowed.SkillTooLow>Não pode treinar {0}, habilidade muito baixa ({1}&lt;{2})</Fluffy.AnimalTab.NotAllowed.SkillTooLow>
+    <Fluffy.AnimalTab.NotAllowed.SkillTooHigh>Não pode treinar {0}, habilidade muito alta ({1}&gt;{2})</Fluffy.AnimalTab.NotAllowed.SkillTooHigh>
+    <Fluffy.AnimalTab.RightClickToChangeHandler>Clique direito: alterar treinador</Fluffy.AnimalTab.RightClickToChangeHandler>
+    <Fluffy.AnimalTab.HandlerHeaderTip>Shift + click: Atribuir treinador em massa</Fluffy.AnimalTab.HandlerHeaderTip>
+    <Fluffy.AnimalTab.HandlerHeaderTip_RightClick>Shift + clique direito: Atribuir treinador em massa</Fluffy.AnimalTab.HandlerHeaderTip_RightClick>
+
+    <Fluffy.AnimalTab.NoHandlerInRange>Nenhum treinador válido</Fluffy.AnimalTab.NoHandlerInRange>
+    <Fluffy.AnimalTab.NoHandlerInRange.Tip>Não há treinadores com habilidade na faixa definida para:\n\n    {0}\n\nVocê pode querer afrouxar as restrições do treinador.</Fluffy.AnimalTab.NoHandlerInRange.Tip>
+
+    <Fluffy.AnimalTab.InvalidHandlers>Treinador inválido</Fluffy.AnimalTab.InvalidHandlers>
+    <Fluffy.AnimalTab.InvalidHandlers.Tip>Os treinadores designados para esses animais não são capazes de fazer o trabalho:\n\n    {0}\n\nVocê pode querer atribuir treinadores mais capazes e habilitar o trabalho de treinador.</Fluffy.AnimalTab.InvalidHandlers.Tip>
+
+    <Fluffy.AnimalTab.HandlerDied>{0} não é mais um treinador válido para {1}</Fluffy.AnimalTab.HandlerDied>
+
+    <!-- options -->
+    <Fluffy.AnimalTab.HighContrast>Caixas de seleção de maior contraste</Fluffy.AnimalTab.HighContrast>
+    <Fluffy.AnimalTab.HighContrast.Tooltip>Quando ativadas, as caixas de seleção terão um quadrado branco desenhado ao seu redor para que se destaquem mais.</Fluffy.AnimalTab.HighContrast.Tooltip>
+</LanguageData>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- LWM.Settings.Keys.xml -->
+<!-- Settings -->
+<LanguageData>
+  <LWMDSignoredDueTo>Esta configuração foi ignorada devido ao mod {0}</LWMDSignoredDueTo>
+  <!--Some basic vanilla compatibility-->
+  <LWMDSVanillaShelves>Balanciamento da prateleira vanilla</LWMDSVanillaShelves>
+  <LWMDSVanillaShelvesDesc>Prateleiras Vanilla custam 20 por padrão. Os banquinhos vanilla custam 25 por padrão. Isso me parece um tanto bobo... As prateleiras baratas do mundo real custam consideravelmente mais do que as cadeiras baratas do mundo real. Enquanto um peão adulto pesa mais do que 2 armaduras de cota de malha, as prateleiras são muito mais altas que um banquinho... As prateleiras (20) custam até menos que uma mesa (28), apesar de precisarem de 3 (ou 4) níveis! Acho que 60 materiais é uma quantidade mais razoável. MAS - você pode escolher o valor vanilla de 20 se quiser :)</LWMDSVanillaShelvesDesc>
+  <LWMDSVanillaShelvesCost>Custo das prateleiras Vanilla (Vanilla custa 20, LWM refere 60):</LWMDSVanillaShelvesCost>
+  <LWMDSmakeAllStorageDeepStorage>Torne qualquer armazenamento em Deep Storage?</LWMDSmakeAllStorageDeepStorage>
+  <LWMDSmakeAllStorageDeepStorageDesc>Trate todos os itens de armazenamento (por exemplo, prateleiras vanilla e armazenamentos de mod) como Deep Storage. Na maior parte das vezes isto não afeta muito, mas significa que você obtém a sofisticada aba de conteúdo do armazenamento de Deep Storage.</LWMDSmakeAllStorageDeepStorageDesc>
+  <!--Who can haul TO storage-->
+  <LWMDShaulToStorageExplanation>Quem pode usar o armazenamento:\nPor padrão, apenas os humanos (ou alienígenas semelhantes aos humanos) têm a inteligência necessária para colocar as coisas no armazenamento: empilhar com cuidado, organizar prateleiras, manipular travas, etc..\nQUALQUER UM pode retirar DO armazenamento.</LWMDShaulToStorageExplanation>
+  <LWMDSrobotsCanUse>Os robôs podem transportar para o estoque? (alguns robôs são suportados)</LWMDSrobotsCanUse>
+  <LWMDSrobotsCanUseDesc>Permitir que os robôs transportem para o Deep Storage. Robôs de "Misc. Robots" são suportados; suporte para Projeto RimFactory - Drones está chegando.</LWMDSrobotsCanUseDesc>
+  <LWM_DS_IntTitle>Inteligência mínima necessária para transportar para Deep Storage</LWM_DS_IntTitle>
+  <LWM_DS_IntDesc>Esta opção permite que os seus animais/robôs/qualquer outra coisa transportem para o Deep Storage.\nA maioria das raças alienígenas tem "Humanlike" ou melhor.  A maioria dos animais é "animal".  Os Mecanóides Vanilla são "utilizadores de ferramentas".  Robôs de vários mods?  O teu palpite é tão bom quanto o meu, mas tenta primeiro os utilizadores de ferramentas e depois talvez os animais.\nObserve que QUALQUER UM pode tirar DO Deep Storage.</LWM_DS_IntDesc>
+  <LWM_DS_Int_Animal>Animal (Animais e alguns robôs de mod)</LWM_DS_Int_Animal>
+  <LWM_DS_Int_ToolUser>utilizadores de ferramentas (Mecanóides e alguns robôs de mod)</LWM_DS_Int_ToolUser>
+  <LWM_DS_Int_Humanlike>humanóides (Humanos e a maioria dos mod de aliens, Padrão)</LWM_DS_Int_Humanlike>
+
+  <!--How long does storing take?-->
+  <LWMDSstoringDelaySettings>Configurações de atraso de armazenamento</LWMDSstoringDelaySettings>
+  <LWMDSstoringDelayExplanation>Por padrão, colocar coisas no Deep Storage leva algum tempo (organização). O tempo necessário pode ser um cálculo complicado, às vezes incluindo quantos tipos de itens estão armazenados e quantos itens estão sendo armazenados. Usar alguns mods quebra esse cálculo.</LWMDSstoringDelayExplanation>
+  <LWMDSstoringTakesTimeLabel>Se você realmente deseja DESLIGAR o atraso durante o armazenamento, desmarque esta opção.</LWMDSstoringTakesTimeLabel>
+  <LWMDSstoringTakesTimeDesc>Desligar isso não é como o LWM funciona. Mas ei, esse é o seu jogo! Você faz você!</LWMDSstoringTakesTimeDesc>
+  <LWMDSstoringGlobalScale>Tempo de armazenamento global:  {0}%\nSe você quiser ajustar quanto tempo os peões levam para armazenar itens (talvez você ache que demora muito), você pode ajustar esta configuração e ela se aplicará a todas as unidades de armazenamento.</LWMDSstoringGlobalScale>
+  <LWMDSstoringTimeConsidersStackSize>O tempo de armazenamento considera o tamanho da pilha? (Stack XXL? Ogre Stack?)</LWMDSstoringTimeConsidersStackSize>
+  <LWMDSstoringTimeConsidersStackSizeDesc>Se selecionado (padrão), o armazenamento de 75 de algo pode demorar mais do que o armazenamento de 3. Isso afeta principalmente os Saltos. Você provavelmente deseja desativar isso se estiver usando um mod que aumenta o tamanho das pilhas.</LWMDSstoringTimeConsidersStackSizeDesc>
+
+  <LWM_DS_defaultStoragePriority>Prioridade padrão do armazenamento:</LWM_DS_defaultStoragePriority>
+
+  <LWM_DS_userInterface>Interface de usuário</LWM_DS_userInterface>
+  <LWM_DS_useEjectButton>Mostrar botão "Ejetar" (Soltar)</LWM_DS_useEjectButton>
+  <LWM_DS_useEjectButtonDesc>Mostrar o botão Ejetar na aba Conteúdo. A alteração desta configuração entra em vigor imediatamente.</LWM_DS_useEjectButtonDesc>
+  <LWM_DS_VanillaHasContentsInBrackets>RimWorld 1.4 introduziu botões de suporte para selecionar itens nas prateleiras. Isso é ótimo, mas se você tiver 957.457 itens armazenados, os botões podem preencher a tela. Você pode alterar a maneira como funciona aqui. NOTA: Todas as configurações exigem uma reinicialização para entrar em vigor!</LWM_DS_VanillaHasContentsInBrackets>
+  <LWM_DS_UseVanillaContentsInBrackets>Comportamento Vanilla</LWM_DS_UseVanillaContentsInBrackets>
+  <LWM_DS_UseVanillaContentsInBracketsDesc>Quando um edifício de armazenamento é selecionado, todos os itens armazenados ficam disponíveis como botões para seleção na parte inferior da tela. É NECESSÁRIO REINICIAR</LWM_DS_UseVanillaContentsInBracketsDesc>
+  <LWM_DS_showContentsInBrackets>Mostrar [botões de item] em tudo?</LWM_DS_showContentsInBrackets>
+  <LWM_DS_showContentsInBracketsDesc>Se estiver desativado, nada disso será mostrado. Menos desordem! Mais rápido! Ótimo se você tiver um grande número de itens diversos. É NECESSÁRIO REINICIAR</LWM_DS_showContentsInBracketsDesc>
+  <LWM_DS_howManyContentsInBrackets>X [botões] podem ser mostrados?</LWM_DS_howManyContentsInBrackets>
+  <LWM_DS_useDSRightClick>Use o clique direito personalizado do Deep Storage</LWM_DS_useDSRightClick>
+  <LWM_DS_useDSRightClickDesc>A interface personalizada do botão direito do Deep Storage DEVE funcionar e deve tornar as coisas mais fáceis de usar - especialmente em armários de armas com mods como Dual Wielding. Desative esta opção para usar a lógica do Vanilla caso algo quebre, mas isso pode dificultar algumas tarefas (por exemplo, carregar caravanas). Nota: desabilitar isso pode quebrar algumas mecânicas do jogo.\n\nRequer reinicialização para entrar em vigor.</LWM_DS_useDSRightClickDesc>
+  <!-- Architect menu settings -->
+  <LWM_DS_Storage_ArchitectMenuSettings>Localização no Menu Arquiteto:</LWM_DS_Storage_ArchitectMenuSettings>
+  <LWM_DS_Storage_ArchitectMenuAlwaysShowCategory>Sempre mostrar a categoria estoque?</LWM_DS_Storage_ArchitectMenuAlwaysShowCategory>
+  <LWM_DS_Storage_ArchitectMenuAlwaysShowDesc>ATENÇÃO: ao alterar "Localização no Menu Arquiteto:" de estoque para outro, todos os armazenamentos vanilla e mod irão para esse local.\n\nO local padrão para todas as unidades de Deep Storage é na categoria "estoque" no Menu Arquiteto. Se você alterá-lo, por padrão, a categoria estoque desaparece - e tentamos limpar quaisquer outras categorias de "estoque" de outros mods. Marque isto se quiser que ele esteja sempre lá, mesmo que não haja unidades de Deep Storage (vanilla e mods) nele.</LWM_DS_Storage_ArchitectMenuAlwaysShowDesc>
+  <LWM_DS_Storage_ArchitectMenuMoveALL>Coloque (quase) TODAS as unidades de armazenamento aqui?</LWM_DS_Storage_ArchitectMenuMoveALL>
+  <LWM_DS_Storage_ArchitectMenuMoveALLDesc>ATENÇÃO: ao alterar "Localização no Menu Arquiteto:" de estoque para outro, todos os armazenamentos vanilla e mod irão para esse local.\n\nMarque isto para mover coisas como prateleiras vanilla ou unidades de armazenamento de outros mods para "estoque" também. Os edifícios de armazenamento de "produção" (como funis) não são movidos. REQUER REINICIALIZAR PARA DESLIGAR TOTALMENTE! Se você desmarcar esta opção, os itens irão parar em "Móveis" até você reiniciar.</LWM_DS_Storage_ArchitectMenuMoveALLDesc>
+  <!-- more settings -->
+
+  <LWMDSoverCapacityCheck>Verifique se o armazenamento está acima da capacidade</LWMDSoverCapacityCheck>
+  <LWMDSoverCapacityCheckDesc>Se mais de uma coisa acabar no estoque, os peões precisam limpá-lo. Desativar isso evita que.\n\nDESLIGUE para permitir que alguns outros mods de armazenamento funcionem:\n  RimFactory</LWMDSoverCapacityCheckDesc>
+  <!-- Graphics -->
+  <LWMDSuseOldBoringStackingGraphic>Use gráfico de empilhamento mais antigo (chato, mas organizado)?</LWMDSuseOldBoringStackingGraphic>
+  <LWMDSuseOldBoringStackingGraphicDesc>A partir do RW 1.4, os itens armazenados são empilhados para que cada item fique visível. Muitas pessoas acham isso desarrumado, feio, excessivamente ocupado ou irritante. Selecione esta opção para usar os gráficos antigos, onde todos os itens ficavam diretamente um em cima do outro. NOTA: REQUER REINICIAR PARA ENTRAR EM EFEITO</LWMDSuseOldBoringStackingGraphicDesc>
+  <!-- Per DSU Settings -->
+  <LWMDSperDSUSettings>EXPERIMENTAL: Configs de armazenamento para cada tipo de unidade: Cuidado</LWMDSperDSUSettings>
+  <LWMDSperDSUturnOn>ATIVAR AS CONFIGURAÇÕES DE EDIFÍCIO MODIFICADAS PELO USUÁRIO:</LWMDSperDSUturnOn>
+
+  <LWMDSperDSUturnOnDesc>Isso permite editar as propriedades de cada edifício do Deep Storage (vanilla e mods)! Não quebre nada, ok? DESLIGAR ISTO REINICIARÁ TODAS AS CONFIGURAÇÕES PARA O PADRÃO.\n\nATENÇÃO: Desmarcar um edifício fará com que ele suma do mapa e não apareça mais para construir. diminuir a quantidade que pode armazenar, não sumirá com os itens. (TODO:... não dá para traduzir)</LWMDSperDSUturnOnDesc>
+  <LWMDSperDSUWarning>Observação: nenhuma configuração será salva a menos que você ative o recurso acima!</LWMDSperDSUWarning>
+  <LWMDSpDSUlabel>Nome</LWMDSpDSUlabel>
+  <LWMDSpDSUshowContents>Mostrar conteúdos para este tipo de edifício</LWMDSpDSUshowContents>
+  <LWMDSpDSUoverlay>Que tipo de sobreposição de contagem (pequenos números brancos) usar</LWMDSpDSUoverlay>
+  <LWMDSpDSUstoragePriority>Prioridade de armazenamento padrão para este edifício</LWMDSpDSUstoragePriority>
+  <LWMDSpDSUchangeFilterQ>Altere quais itens são permitidos neste edifício?</LWMDSpDSUchangeFilterQ>
+  <LWMDSpDSUchangeFilterQDesc>Se você NÃO estiver usando uma lista personalizada de itens aqui, desmarque esta opção.</LWMDSpDSUchangeFilterQDesc>
+  <LWM_DS_Default>(padrão: {0})</LWM_DS_Default>
+  <LWM.ResetAllToDefault>Redefinir TUDO para o padrão</LWM.ResetAllToDefault>
+  <!-- - - - - - - - - - - - - - - -  Settings button in game - - - - - - - - - - - - - -->
+  <LWMDS_BuildingSettings>Configurações da unidade de armazenamento</LWMDS_BuildingSettings>
+  <LWMDS_PerBuildingSettings>Configurações para ISTO {0}</LWMDS_PerBuildingSettings>
+  <LWMDS_ApplyChangesToGroup>Aplicar quaisquer alterações a todo o grupo de armazenamento?</LWMDS_ApplyChangesToGroup>
+  <LWMDS_ApplyChangesToGroupDesc>Esta unidade de armazenamento faz atualmente parte de um grupo de {0} unidades. Se esta opção estiver marcada, quaisquer alterações feitas aqui serão aplicadas a TODOS eles!</LWMDS_ApplyChangesToGroupDesc>
+  <LWMDS_PerBuildingSettingsDesc>A alteração de qualquer uma dessas configurações afetará apenas ESTE edifício. Todos os outros não serão afetados (NOTA: atualmente não afeta o restante do grupo vinculado, se estiver vinculado. Isso provavelmente acontecerá mais tarde, mas ainda não)</LWMDS_PerBuildingSettingsDesc>
+  <LWMDS_CurrentMaxNumStacksTotals>Atualmente: {0} pilhas/célula ({1} total)</LWMDS_CurrentMaxNumStacksTotals>
+  <LWMDS_DefaultMaxNumStacksTotals>Padrão: {0} pilhas/célula ({1} total)</LWMDS_DefaultMaxNumStacksTotals>
+  
+<!-- LWM.DeepStorage.Keys.xml -->
+  <!-- General -->
+  <NoItemsAreStoredHere>Nenhum item está armazenado aqui no momento.</NoItemsAreStoredHere>
+  <LWM_DS_Total>Total: {0}</LWM_DS_Total>
+  <LWM_DS_PerCell>{0} por célula</LWM_DS_PerCell><!-- {0} in each cell, {0} for each cell, etc -->
+  <LWM_DS_TotalAndPerCell>{0} total; {1} por célula</LWM_DS_TotalAndPerCell>
+  <LWM_DS_kg>{0}kg</LWM_DS_kg><!-- mass -->
+  <LWM_DS_BulkEtcOf>{0} {1}</LWM_DS_BulkEtcOf><!-- for CE:  "15 bulk", etc -->
+  <LWM_DSU_GainsName>O {0} agora se chama {1}.</LWM_DSU_GainsName><!-- rename building -->
+  <!-- Content tab -->
+  <!--     3 / 10 stacks with total mass of 4.5 / 10 kg -->
+  <!--   or if using CE: -->
+  <!--     0 / 10 items with total bulk of 0 / 10 kg -->
+  <LWM.ContentsHeaderMaxMass>{0} / {1} com total {2} de {3} / {4} kg</LWM.ContentsHeaderMaxMass>
+  <LWM.ContentsHeaderMax>{0} / {1} com total {2} de {3} kg</LWM.ContentsHeaderMax>
+  <LWM.ContentsHeaderMinMax>{0} / {1}, máx. {2}, com total {3} de {4} kg</LWM.ContentsHeaderMinMax>
+  <LWM.ContentsHeaderStacksMax>{0} pilhas, máx. {1}, limitado com total {2} de {3} kg</LWM.ContentsHeaderStacksMax>
+  <LWM.ContentsHeaderItemsMax>{0} itens, máx. {1} (limitado por {2}), com total {2} de {3} kg</LWM.ContentsHeaderItemsMax>
+  <LWM.ContentsDropDesc>Solte este item no chão para que os colonos possam interagir com ele mais facilmente.\n\nSe você achar que este botão adiciona confusão e não é útil, você pode desligá-lo nas configurações do mod.</LWM.ContentsDropDesc>
+  <LWM.XStacks>{0} pilhas</LWM.XStacks><!-- Will be used above as 3 / 4 stacks with...-->
+  <LWM.XItems>{0} itens</LWM.XItems><!-- 3 / 4 items ...-->
+  <LWM.ContentsHeaderMaxSize>    (Não é possível armazenar itens acima de {0} de {1} kg)</LWM.ContentsHeaderMaxSize><!--mass of 3 kg, bulk of 2kg-->
+  <LWM.ContentsHeaderPawnUsing>  {0} está usando isso.</LWM.ContentsHeaderPawnUsing>
+  <LWM.ContentsHeaderPawnsUsing>  Isto está sendo usado por: {0}.</LWM.ContentsHeaderPawnsUsing><!-- "Red, John, Abigail" etc -->
+  <LWM_DS_Empty>vazio</LWM_DS_Empty>
+  <!-- Stat text (information window)-->
+  <LWM_DS_maxNumStacks>número máximo de pilhas por célula</LWM_DS_maxNumStacks>
+  <LWM_DS_maxNumStacksDesc>O número máximo de pilhas que podem ser colocadas em um único espaço. Edifícios com duas células terão o dobro da capacidade de armazenamento.\n\nObserve que outros fatores podem reduzir a capacidade de armazenamento.</LWM_DS_maxNumStacksDesc>
+  <LWM_DS_minNumStacks>número mínimo de pilhas por célula</LWM_DS_minNumStacks>
+  <LWM_DS_minNumStacksDesc>O número mínimo de itens que podem ser armazenados em um único espaço.\n\nNão importa o que aconteça, esta unidade de armazenamento pode armazenar pelo menos {0} itens.</LWM_DS_minNumStacksDesc>
+  <LWM_DS_maxTotalMass>massa total máxima</LWM_DS_maxTotalMass>
+  <LWM_DS_maxTotalMassDesc>A massa máxima que a unidade de armazenamento pode armazenar. Quando a unidade estiver cheia, não será possível adicionar mais itens (embora a maioria das unidades sempre possa armazenar no mínimo dois itens). Observe que se o edifício tiver mais de uma célula, esse limite será dividido igualmente entre todas as células.</LWM_DS_maxTotalMassDesc>
+  <LWM_DS_maxMassOfStoredItem>massa máxima de qualquer item armazenado</LWM_DS_maxMassOfStoredItem>
+  <LWM_DS_maxMassOfStoredItemDesc>A massa máxima de qualquer item que pode ser armazenado nesta unidade. RimWorld Vanilla não possui nenhuma estatística para "tamanho", então a massa é usada. Se você estiver usando o mod Combat Extended, eles terão uma estatística "Bulk" que será usada em seu lugar.\n\nA ideia básica é a mesma: alguns itens são grandes demais para caberem facilmente aqui.</LWM_DS_maxMassOfStoredItemDesc>
+  <LWM_DS_allowedCategories>Categorias armazenáveis</LWM_DS_allowedCategories>
+  <LWM_DS_allowedCategoriesDesc>Estas são as categorias que esta unidade foi projetada para armazenar.\n\nSe você estiver usando um mod além do Deep Storage do LWM, isso pode não ser perfeitamente preciso. Observe também: itens específicos podem ou não servir por outros motivos.</LWM_DS_allowedCategoriesDesc>
+  <LWM_DS_allowedDefs>Itens armazenáveis</LWM_DS_allowedDefs>
+  <LWM_DS_allowedDefsDesc>Estes são itens que esta unidade foi projetada para armazenar.\n\nSe você estiver usando um mod além do Deep Storage do LWM, isso pode não ser perfeitamente preciso. Observe também: itens específicos podem ou não servir por outros motivos.</LWM_DS_allowedDefsDesc>
+  <LWM_DS_disallowedStuff>  não mais</LWM_DS_disallowedStuff><!--    (not storable), Not Storable, etc. -->
+  <LWM_DS_disallowedStuffDesc>Você pode pensar que esses itens seriam armazenáveis neste tipo de unidade, mas você está errado. Eles não podem ser armazenados aqui.\n\nSe você estiver usando um mod além do Deep Storage do LWM, isso pode não ser perfeitamente preciso. Observe também: itens específicos podem ou não servir por outros motivos.</LWM_DS_disallowedStuffDesc>
+  
+</LanguageData>

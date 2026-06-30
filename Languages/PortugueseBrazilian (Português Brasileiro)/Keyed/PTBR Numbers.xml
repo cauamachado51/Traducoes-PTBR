@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<koisama.Numbers.Title>visão geral de Numbers</koisama.Numbers.Title>
+	<koisama.Numbers.Count>Contagem de linhas</koisama.Numbers.Count>
+	<koisama.Numbers.ClickToToggle>Clique para selecionar o tipo de peão.</koisama.Numbers.ClickToToggle>
+	<Numbers_ColumnHeader_Tooltip>Clique com o botão direito para remover a coluna. Clique e arraste para mover.</Numbers_ColumnHeader_Tooltip>
+	<koisama.Numbers.SetPresetLabel>Predefinições</koisama.Numbers.SetPresetLabel>
+
+	<!--- becomes Load {medical/combat} preset -->
+	<Numbers_Presets.Load>Carregar {0} predefição</Numbers_Presets.Load>
+	<Numbers_Presets.Medical>médica</Numbers_Presets.Medical>
+	<Numbers_Presets.Combat>combate</Numbers_Presets.Combat>
+	<Numbers_Presets.WorkTabPlus>trabalho+</Numbers_Presets.WorkTabPlus>
+	<Numbers_Presets.ColonistNeeds>necessidade de colonos</Numbers_Presets.ColonistNeeds>
+	<Numbers_Presets.Psycasting>psycasting</Numbers_Presets.Psycasting>
+
+	<Numbers_SetAsDefault>Definir a visualização atual como padrão</Numbers_SetAsDefault>
+	<Numbers_SetAsDefaultExplanation>Defina a visualização atual como padrão para este tipo de visualização ({0}).\n\nEsta visualização será então usada para novas colônias.\n\nPode ser excluído nas configurações do mod:\n  [Menu] =&gt; [Options] =&gt; [Mod settings] =&gt; [Numbers].</Numbers_SetAsDefaultExplanation>
+	<Numbers_NoDefaultStoredForThisView>Não há padrões armazenados para o tipo de peão atualmente visualizado.</Numbers_NoDefaultStoredForThisView>
+	<Numbers_LoadDefault>Carregar visualização padrão</Numbers_LoadDefault>
+
+	<Numbers_showMoreInfoThanVanilla>Mostre necessidades e empregos mesmo onde normalmente estariam ocultos.</Numbers_showMoreInfoThanVanilla>
+	<Numbers_coolerThanTheWildlifeTab>Números é tudo que eu sempre quis na guia Vida Selvagem e quero que ele assuma o controle.</Numbers_coolerThanTheWildlifeTab>
+	<Numbers_coolerThanTheAnimalTab>Números também é tudo que eu sempre quis da guia Animal e quero que ele assuma o controle.</Numbers_coolerThanTheAnimalTab>
+	<Numbers_maxTableHeight>Altura máxima da janela do Numbers em relação ao tamanho da tela.</Numbers_maxTableHeight>
+	<Numbers_pawnTableClickSelect>Cliques do mouse nas tabelas de peões os selecionam. (Alt-clique para trabalhar como antes)</Numbers_pawnTableClickSelect>
+	<Numbers_pawnTableClickSelect_Desc>Deve se comportar intuitivamente como qualquer outra seleção. Pressione Esc para fechar a janela da guia.\n\nClique com a tecla Shift pressionada para selecionar/desmarcar vários. Clique duas vezes para centralizar a câmera. Clique com o botão direito para selecionar um único peão. Alt-clique para fechar a janela, selecione e vá para aquele peão. Nota: Aplica-se a *todas* PawnTables, não apenas a Numbers.</Numbers_pawnTableClickSelect_Desc>
+	<Numbers_pawnTableHighSelected>Destacar peões selecionados.</Numbers_pawnTableHighSelected>
+	<Numbers_pawnTableHighSelected_Desc>Nota: Aplica-se a *todas* PawnTables, não apenas a Numbers.</Numbers_pawnTableHighSelected_Desc>
+	<Numbers_useSmolFont>Use fonte minúscula para cabeçalhos (experimental)</Numbers_useSmolFont>
+
+	<Numbers_LoadSavedLayout>Carregar visualização salva</Numbers_LoadSavedLayout>
+	<Numbers_NothingSaved>Nada salvo</Numbers_NothingSaved>
+	<Numbers_SaveCurrentLayout>Salvar visualização atual</Numbers_SaveCurrentLayout>
+
+</LanguageData>

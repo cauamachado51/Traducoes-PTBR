@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <!--Controller-->
+  <Quick_Links>Quick Links</Quick_Links>
+  <!--LabelActionsLookup-->
+  <Cut_blighted_plants>Cut blighted plants</Cut_blighted_plants>
+  <Harvest_fully_grown_plants>Harvest fully grown plants</Harvest_fully_grown_plants>
+  <Chop_fully_grown_trees>Chop fully grown trees</Chop_fully_grown_trees>
+  <Create_high_fertility_growing_zone>Create high fertility growing zone</Create_high_fertility_growing_zone>
+  <Create_standard_fertility_growing_zone>Create standard fertility growing zone</Create_standard_fertility_growing_zone>
+  <Create_low_fertility_growing_zone>Create low fertility growing zone</Create_low_fertility_growing_zone>
+  <Walls_only>Walls only</Walls_only>
+  <Floors_only>Floor only</Floors_only>
+  <Mine_but_not_under_mountain>Mine, but not under mountain</Mine_but_not_under_mountain>
+  <Mine_mineable>Mine {mineable}</Mine_mineable>
+  <Mine_mineable_not_under_mountain>Mine {mineable} (not under mountain)</Mine_mineable_not_under_mountain>
+  <!--PatchCommandActionRightClickFloatMenuOptions-->
+  <Select_order>Select order</Select_order>
+  <!--DesignatorLookup-->
+  <Bulk_build_item>Bulk build item</Bulk_build_item>
+  <!--BuildPodCommand-->
+  <Build_transport_pod>Build transport pod</Build_transport_pod>
+</LanguageData>

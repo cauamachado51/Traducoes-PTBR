@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<TD.MiningPriority>Mining Priority</TD.MiningPriority>
+	<TD.RestrictBest>Restrinja a mineração com rendimento aos melhores mineradores</TD.RestrictBest>
+	<TD.RestrictBestDesc>Porque os mineiros pouco qualificados não produzirão tanto. O rendimento aumenta até a habilidade 8, mas problemas de saúde podem afetá-lo. Verifique o rendimento de mineração na janela de estatísticas.</TD.RestrictBestDesc>
+	<TD.MineValue>Minerar em ordem de valor</TD.MineValue>
+	<TD.SettingIgnoreBusy>Ignore os melhores mineiros que estão ocupados com outro trabalho</TD.SettingIgnoreBusy>
+	<TD.SettingIgnoreBusyDesc>Verifica se o seu melhor mineiro está ocupado com outro trabalho e permite que os próximos mineradores mais qualificados minerem</TD.SettingIgnoreBusyDesc>
+	<TD.SettingMinerGoodEnough>Incluir mineradores que sejam bons o suficiente</TD.SettingMinerGoodEnough>
+	<TD.SettingMinerGoodEnoughDesc>Por exemplo, se o seu melhor mineiro tiver um rendimento de 80%, uma configuração de 75% permitiria um minerador com um rendimento de 60%..</TD.SettingMinerGoodEnoughDesc>
+	<TD.SettingPartialyMined>Prefira alvos parcialmente minerados</TD.SettingPartialyMined>
+	<TD.JobFailReasonNotBestMiner>Não é o melhor mineiro</TD.JobFailReasonNotBestMiner>
+	<TD.SettingFinishUpDrills>Prefira brocas profundas que estejam mais próximas de acabar</TD.SettingFinishUpDrills>
+	
+</LanguageData>

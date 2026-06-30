@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <!--Controller-->
+  <Quick_Links>Quick Links</Quick_Links>
+  <!--LabelActionsLookup-->
+  <Cut_blighted_plants>Corte plantas estragadas</Cut_blighted_plants>
+  <Harvest_fully_grown_plants>Colha plantas totalmente crescidas</Harvest_fully_grown_plants>
+  <Chop_fully_grown_trees>Cortar árvores totalmente crescidas</Chop_fully_grown_trees>
+  <Create_high_fertility_growing_zone>Criar zona de cultivo de alta fertilidade</Create_high_fertility_growing_zone>
+  <Create_standard_fertility_growing_zone>Criar uma zona de cultivo de fertilidade padrão</Create_standard_fertility_growing_zone>
+  <Create_low_fertility_growing_zone>Criar zona de cultivo de fertilidade baixa</Create_low_fertility_growing_zone>
+  <Walls_only>Apenas paredes</Walls_only>
+  <Floors_only>Apenas piso</Floors_only>
+  <Mine_but_not_under_mountain>minerar, mas não debaixo da montanha</Mine_but_not_under_mountain>
+  <Mine_mineable>Minerar {mineable}</Mine_mineable>
+  <Mine_mineable_not_under_mountain>Minerar {mineable} (não debaixo da montanha)</Mine_mineable_not_under_mountain>
+  <!--PatchCommandActionRightClickFloatMenuOptions-->
+  <Select_order>Selecionar ordem</Select_order>
+  <!--DesignatorLookup-->
+  <Bulk_build_item>Item de construção em massa</Bulk_build_item>
+  <!--BuildPodCommand-->
+  <Build_transport_pod>Criar cápsula de transporte</Build_transport_pod>
+</LanguageData>

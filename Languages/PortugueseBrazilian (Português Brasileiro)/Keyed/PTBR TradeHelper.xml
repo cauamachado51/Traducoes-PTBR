@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<TradeHelperTitleGift>Presente</TradeHelperTitleGift>
+	<TradeHelperTitleBuying>Comprando</TradeHelperTitleBuying>
+	<TradeHelperTitleSelling>Vendendo</TradeHelperTitleSelling>
+	<TradeHelperTitleWishlist>Lista de Desejos</TradeHelperTitleWishlist>
+	<TradeHelperSettingDescription>Lista de Desejos: Você pode adicionar itens à sua lista de desejos, separados por vírgula (,) e quando um item da sua lista de desejos também aparecer no inventário do Trader, ele será destacado. Abaixo está um exemplo que destaca 2 itens:
+
+Hiper tecido, Plastiaço
+
+Dica avançada: a lista de desejos também suporta correspondência de caracteres curinga (? e *), o que significa que você pode fazer o seguinte para corresponder a qualquer item que contenha a palavra ‘Componente’ como Componente avançado:
+
+Componente*, *arquita
+
+</TradeHelperSettingDescription>
+</LanguageData>

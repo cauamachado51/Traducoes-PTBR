@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <InjuredCarry>Injured Carry</InjuredCarry>
+	<InjuredCarry.Settings.RescueNotInjured>Resgate não ferido</InjuredCarry.Settings.RescueNotInjured>
+  <InjuredCarry.Settings.RescueNotInjured.Desc>Resgatar peões não feridos</InjuredCarry.Settings.RescueNotInjured.Desc>
+</LanguageData>

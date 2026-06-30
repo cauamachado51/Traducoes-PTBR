@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+  <!-- Keyes.xml -->
+     <MapPreview.Title>Visualização do mapa</MapPreview.Title>
+     
+     <MapPreview.Settings.Tab.Preview>Pré-visualizar</MapPreview.Settings.Tab.Preview>
+     <MapPreview.Settings.Tab.Toolbar>Barra de ferramentas</MapPreview.Settings.Tab.Toolbar>
+     <MapPreview.Settings.EnableMapPreviewHeader>Mostrar pre-visualizações de mapas ...</MapPreview.Settings.EnableMapPreviewHeader>
+     <MapPreview.Settings.EnableMapPreviewInEntry>... ao iniciar um novo jogo (escolhendo a peça para se estabelecer)</MapPreview.Settings.EnableMapPreviewInEntry>
+     <MapPreview.Settings.EnableMapPreviewInPlay>... enquanto joga (na tela do mapa mundial)</MapPreview.Settings.EnableMapPreviewInPlay>
+     <MapPreview.Settings.EnableToolbarHeader>Mostrar barra de ferramentas do mapa mundial ...</MapPreview.Settings.EnableToolbarHeader>
+     <MapPreview.Settings.EnableToolbarInEntry>... ao iniciar um novo jogo (escolhendo a peça para se estabelecer)</MapPreview.Settings.EnableToolbarInEntry>
+     <MapPreview.Settings.EnableToolbarInPlay>... enquanto joga (na tela do mapa mundial)</MapPreview.Settings.EnableToolbarInPlay>
+     <MapPreview.Settings.LockWindowPositions>Bloquear as posições da janela</MapPreview.Settings.LockWindowPositions>
+     <MapPreview.Settings.AutoOpenPreviewOnWorldMap>Janela de visualização aberta automaticamente ao alternar para o mapa-múndi</MapPreview.Settings.AutoOpenPreviewOnWorldMap>
+     <MapPreview.Settings.TriggerPreviewOnWorldObjects>Mostrar visualização do mapa quando um assentamento ou local de missão for selecionado</MapPreview.Settings.TriggerPreviewOnWorldObjects>
+     <MapPreview.Settings.EnableSeedRerollFeature>Mostrar botão de relançamento de semente do mapa</MapPreview.Settings.EnableSeedRerollFeature>
+     <MapPreview.Settings.EnableSeedRerollFeature.MapRerollConflict>Mostrar botão de reroll de semente do mapa (não disponível porque o mod Map Reroll está instalado)</MapPreview.Settings.EnableSeedRerollFeature.MapRerollConflict>
+     <MapPreview.Settings.EnableSeedRerollWindow>Use a janela auxiliar de reroll (mantenha a tecla shift pressionada ao clicar no botão de reroll para inverter)</MapPreview.Settings.EnableSeedRerollWindow>
+     <MapPreview.Settings.EnableWorldSeedRerollFeature>Mostrar botão de relançamento de seed mundial</MapPreview.Settings.EnableWorldSeedRerollFeature>
+     <MapPreview.Settings.PreviewWindowSize>Tamanho da janela de pré-visualização</MapPreview.Settings.PreviewWindowSize>
+     <MapPreview.Settings.IncludeCaves>Incluir cavernas na pré-visualização (desative para tornar a geração de pré-visualização mais rápida)</MapPreview.Settings.IncludeCaves>
+     <MapPreview.Settings.EnableTrueTerrainColors>Use cores de terreno verdadeiras (permite suporte para terreno adicionado por mods, também se aplica a Map Reroll)</MapPreview.Settings.EnableTrueTerrainColors>
+     <MapPreview.Settings.SkipRiverFlowCalc>Use a otimização do gerador de rio (mais rápido, mas um pouco diferente do vanilla)</MapPreview.Settings.SkipRiverFlowCalc>
+     <MapPreview.Settings.CompatibilityMode>Modo de compatibilidade (aumenta o uso de memória, mas pode ajudar se você tiver problemas de compatibilidade com mods)</MapPreview.Settings.CompatibilityMode>
+     <MapPreview.Settings.RefreshTerrainColors>Atualizar cores do terreno</MapPreview.Settings.RefreshTerrainColors>
+     
+     <MapPreview.World.WaitForPreview>Há uma visualização do mapa sendo gerada no momento, aguarde antes de continuar...</MapPreview.World.WaitForPreview>
+     <MapPreview.World.ShowHidePreview>Alternar a visualização do mapa.</MapPreview.World.ShowHidePreview>
+     <MapPreview.World.RerollMapSeed>Role novamente a semente para este mapa.</MapPreview.World.RerollMapSeed>
+     <MapPreview.World.ResetMapSeed>Desfaça as novas rolagens e redefina a semente deste mapa para o original.</MapPreview.World.ResetMapSeed>
+     <MapPreview.World.RerollWorldSeed>Gere um novo mundo com uma semente aleatória.</MapPreview.World.RerollWorldSeed>
+     <MapPreview.World.OpenSettings>Abra as configurações de visualização do mapa.</MapPreview.World.OpenSettings>
+     
+     <MapPreview.World.RerollWindow.Title>Rerolar a semente do mapa</MapPreview.World.RerollWindow.Title>
+     <MapPreview.World.RerollWindow.Close>Fechar</MapPreview.World.RerollWindow.Close>
+     <MapPreview.World.RerollWindow.RefreshSeeds>Atualizar sementes (segure shift para pular)</MapPreview.World.RerollWindow.RefreshSeeds>
+     <MapPreview.World.RerollWindow.ZoomOut>Reduzir o zoom</MapPreview.World.RerollWindow.ZoomOut>
+     <MapPreview.World.RerollWindow.ZoomIn>Mais Zoom</MapPreview.World.RerollWindow.ZoomIn>
+     <MapPreview.World.RerollWindow.Apply>Aplicar esta semente</MapPreview.World.RerollWindow.Apply>
+     <MapPreview.World.RerollWindow.Pin>Fixe esta semente</MapPreview.World.RerollWindow.Pin>
+     <MapPreview.World.RerollWindow.Unpin>Desafixar esta semente</MapPreview.World.RerollWindow.Unpin>
+     <MapPreview.World.RerollWindow.GoTo.Label>Insira o número de novas jogadas:</MapPreview.World.RerollWindow.GoTo.Label>
+     <MapPreview.World.RerollWindow.GoTo.Invalid>Número inválido, apenas dígitos e + são permitidos.</MapPreview.World.RerollWindow.GoTo.Invalid>
+     
+     <MapPreview.PreviewGenerationFailed>Um conflito com um de seus mods fez com que o gerador de visualização do mapa falhasse. Relate isso na página do workshop Map Preview para que um patch de compatibilidade possa ser criado. Depois de fechar esta mensagem, faça o upload do seu arquivo de log e inclua esse link no seu relatório de bug.</MapPreview.PreviewGenerationFailed>
+     
+     <MapPreview.Integration.MapDesigner.OpenSettings>Abra o Map Designer.</MapPreview.Integration.MapDesigner.OpenSettings>
+     <MapPreview.Integration.MapDesigner.UnavailableForTile>O Map Designer não pode ser usado neste bloco.</MapPreview.Integration.MapDesigner.UnavailableForTile>
+     <MapPreview.Integration.MapDesigner.Enabled>Mostrar Botão Designer de Mapa</MapPreview.Integration.MapDesigner.Enabled>
+     
+     <MapPreview.Integration.PrepareLanding.Open>Abra Preparar aterrissagem.</MapPreview.Integration.PrepareLanding.Open>
+     <MapPreview.Integration.PrepareLanding.Enabled>Mostrar botão Preparar aterrissagem</MapPreview.Integration.PrepareLanding.Enabled>
+     
+     <MapPreview.Integration.WorldEdit.Open>Abrir edição de mundo.</MapPreview.Integration.WorldEdit.Open>
+     <MapPreview.Integration.WorldEdit.Enabled>Mostrar botão de edição do mundo</MapPreview.Integration.WorldEdit.Enabled>
+     
+     <MapPreview.Integration.LandformSettings.Open>Abra as configurações de relevo.</MapPreview.Integration.LandformSettings.Open>
+     <MapPreview.Integration.LandformSettings.Enabled>Mostrar botão de configurações de relevo</MapPreview.Integration.LandformSettings.Enabled>
+  
+  <!-- HugsLogPublisher.xml -->
+     <HugsLogPublisher.copy>Copiar</HugsLogPublisher.copy>
+     <HugsLogPublisher.shareBtn>Compartilhar logs</HugsLogPublisher.shareBtn>
+     <HugsLogPublisher.shareConfirmTitle>Confirme</HugsLogPublisher.shareConfirmTitle>
+     <HugsLogPublisher.shareConfirmMessage>Faça upload dos logs do jogo agora?\n\nIsso publicará os logs do jogo em um servidor público e fornecerá o link para compartilhar com outras pessoas. Isso é útil se você precisar de ajuda para resolver um problema ou quiser relatar um problema a um autor de mod.\n\nNenhuma informação privada será compartilhada.</HugsLogPublisher.shareConfirmMessage>
+     <HugsLogPublisher.publisherTitle>Log editor</HugsLogPublisher.publisherTitle>
+     <HugsLogPublisher.uploading>Uploading{0}</HugsLogPublisher.uploading>
+     <HugsLogPublisher.shortening>Obtendo link{0}</HugsLogPublisher.shortening>
+     <HugsLogPublisher.uploaded>Upload completo!</HugsLogPublisher.uploaded>
+     <HugsLogPublisher.uploadError>Upload error: {0}</HugsLogPublisher.uploadError>
+     <HugsLogPublisher.copiedToClipboard>Copiado para a área de transferência.</HugsLogPublisher.copiedToClipboard>
+     <HugsLogPublisher.abortBtn>Abortar</HugsLogPublisher.abortBtn>
+     <HugsLogPublisher.retryBtn>Repetir</HugsLogPublisher.retryBtn>
+     <HugsLogPublisher.browseBtn>Abra no navegador</HugsLogPublisher.browseBtn>
+     <HugsLogPublisher.useRecommendedSettings>Use as configurações recomendadas</HugsLogPublisher.useRecommendedSettings>
+     <HugsLogPublisher.shortUrls>Use URL encurtador</HugsLogPublisher.shortUrls>
+     <HugsLogPublisher.shortUrls_tip>Produz um link mais curto durante o upload. Não recomendado no Steam – links curtos são removidos automaticamente.</HugsLogPublisher.shortUrls_tip>
+     <HugsLogPublisher.platformInfo>Incluir informações da plataforma</HugsLogPublisher.platformInfo>
+     <HugsLogPublisher.platformInfo_tip>Inclui informações sobre sua CPU, memória e placa de vídeo no log.</HugsLogPublisher.platformInfo_tip>
+     <HugsLogPublisher.unlimitedLogSize>Permitir tamanho de log ilimitado</HugsLogPublisher.unlimitedLogSize>
+     <HugsLogPublisher.unlimitedLogSize_tip>Quando desativado, o tamanho do log é limitado a 10 mil linhas para evitar que logs muito longos causem problemas.</HugsLogPublisher.unlimitedLogSize_tip>
+     <HugsLogPublisher.toClipboardBtn>Para a área de transferência</HugsLogPublisher.toClipboardBtn>
+     <HugsLogPublisher.uploadBtn>Upload</HugsLogPublisher.uploadBtn>
+     <HugsLogPublisher.filesBtn>arquivos</HugsLogPublisher.filesBtn>
+     <HugsLogPublisher.openLogFile>Abra o arquivo de log</HugsLogPublisher.openLogFile>
+     <HugsLogPublisher.openSaveDir>Abra a pasta de salvamento</HugsLogPublisher.openSaveDir>
+     <HugsLogPublisher.openModsDir>Abra a pasta mods</HugsLogPublisher.openModsDir>
+
+</LanguageData>

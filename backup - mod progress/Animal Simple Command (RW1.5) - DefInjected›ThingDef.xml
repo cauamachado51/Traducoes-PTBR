@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <ASC_ManualHide.label>ペット教本：隠密</ASC_ManualHide.label>
+  <ASC_ManualHide.description>ペットに新しい技能を教えます。
+
+・隠密
+　身を潜めて姿を隠します。
+　移動や攻撃をすると即座に解除されます。</ASC_ManualHide.description>
+
+
+  <ASC_ManualProvoke.label>ペット教本：挑発</ASC_ManualProvoke.label>
+  <ASC_ManualProvoke.description>ペットに新しい技能を教えます。
+
+・挑発
+　周囲の注意を引き付けます。
+　周囲の全ての敵がこのペットに攻撃してくるようになります。</ASC_ManualProvoke.description>
+
+
+  <ASC_ManualDefend.label>ペット教本：鉄壁</ASC_ManualDefend.label>
+  <ASC_ManualDefend.description>ペットに新しい技能を教えます。
+
+・鉄壁
+　守りを固めて受けるダメージを軽減します。
+　移動や攻撃をすると即座に解除されます。</ASC_ManualDefend.description>
+
+
+  <ASC_ManualLeader.label>ペット教本：リーダー</ASC_ManualLeader.label>
+  <ASC_ManualLeader.description>ペットに新しい技能を教えます。
+
+・指示
+　コロニーに属する全てのペットに指示を出し、一斉に行動させます。</ASC_ManualLeader.description>
+</LanguageData>

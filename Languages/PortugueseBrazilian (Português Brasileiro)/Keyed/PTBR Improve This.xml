@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<IT_SkillReq>Requisitos de habilidade:</IT_SkillReq>
+	<IT_SkillTrials>Testes de habilidade:</IT_SkillTrials>
+	<IT_TrialOdds>Limite de chance</IT_TrialOdds>
+	<IT_DoTrials>Faça testes</IT_DoTrials>
+	
+	<ImproveLabel>Melhorar</ImproveLabel>
+	<ImproveDesc>Tentativa de melhorar a qualidade deste edifício.</ImproveDesc>
+	<MessageQualityTooLow>Qualidade {0} muito baixo.</MessageQualityTooLow>
+	
+	<ImproveSkillInspireNeeded>Deve ser nível de habilidade {0}, ou nível de habilidade {1} e inspirado</ImproveSkillInspireNeeded>
+	<ImproveSkillInspireOrRoleNeeded>Deve ser nível de habilidade {0}, ou nível de habilidade {1} e inspirado e especialista em produção</ImproveSkillInspireOrRoleNeeded>
+	<ImproveInspireNeeded>Deve ser nível de habilidade {0} ou inspirado</ImproveInspireNeeded>
+	<ImproveInspireOrRoleNeeded>Deve ser nível de habilidade {0} ou inspirado ou um especialista em produção</ImproveInspireOrRoleNeeded>
+	
+	<NeedsSkill>Precisa de nível de habilidade {0} para terminar.</NeedsSkill>
+	
+	<DesignateOnLabel>Melhorar Isto</DesignateOnLabel>
+	<DesignateOnDesc>Definir edifícios a serem melhorados</DesignateOnDesc>
+	<DesignateOffLabel>Cancelar melhorar isso</DesignateOffLabel>
+	<DesignateOffDesc>Desdefinir edifícios a serem melhorados</DesignateOffDesc>
+</LanguageData>

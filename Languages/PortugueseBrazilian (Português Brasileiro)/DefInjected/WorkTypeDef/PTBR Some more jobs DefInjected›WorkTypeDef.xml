@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Nurse -->
+
+  <SMJ_Nurse.label>Enfermeiro</SMJ_Nurse.label>
+  <SMJ_Nurse.description>Cuidar dos doentes, levar-lhes comida e confortá-los. Os enfermeiros cuidam dos colonos e dos prisioneiros.</SMJ_Nurse.description>
+  <SMJ_Nurse.labelShort>Enfermeiro</SMJ_Nurse.labelShort>
+  <SMJ_Nurse.pawnLabel>Enfermeiro</SMJ_Nurse.pawnLabel>
+  <SMJ_Nurse.gerundLabel>Cuidado</SMJ_Nurse.gerundLabel>
+  <SMJ_Nurse.verb>Cuidar</SMJ_Nurse.verb>
+  
+  <!-- Surgeon -->
+
+  <SMJ_Surgeon.label>Cirurgião</SMJ_Surgeon.label>
+  <SMJ_Surgeon.description>Realizar cirurgias. Os cirurgiões tratam dos colonos e dos prisioneiros.</SMJ_Surgeon.description>
+  <SMJ_Surgeon.labelShort>Cirurgião</SMJ_Surgeon.labelShort>
+  <SMJ_Surgeon.pawnLabel>Cirurgião</SMJ_Surgeon.pawnLabel>
+  <SMJ_Surgeon.gerundLabel>Cuidado</SMJ_Surgeon.gerundLabel>
+  <SMJ_Surgeon.verb>Cuidar</SMJ_Surgeon.verb>
+
+  <!-- Refueling -->
+  
+  <SMJ_Refueling.label>Reabastecedor</SMJ_Refueling.label>
+  <SMJ_Refueling.description>Reabastecer de madeira ou de combustível químico, rearmar as torres, encher e esvaziar os barris de fermentação.</SMJ_Refueling.description>
+  <SMJ_Refueling.labelShort>Reabastecedor</SMJ_Refueling.labelShort>
+  <SMJ_Refueling.pawnLabel>Reabastecedor</SMJ_Refueling.pawnLabel>
+  <SMJ_Refueling.gerundLabel>transportado</SMJ_Refueling.gerundLabel>
+  <SMJ_Refueling.verb>Transportar</SMJ_Refueling.verb>
+  
+  <!-- CleanClearSnow -->
+  
+  <SMJ_ClearSnow.label>Limpa-neves</SMJ_ClearSnow.label>
+  <SMJ_ClearSnow.description>Limpar a neve.</SMJ_ClearSnow.description>
+  <SMJ_ClearSnow.labelShort>Limpa-neves</SMJ_ClearSnow.labelShort>
+  <SMJ_ClearSnow.pawnLabel>Limpa-neves</SMJ_ClearSnow.pawnLabel>
+  <SMJ_ClearSnow.gerundLabel>limpo</SMJ_ClearSnow.gerundLabel>
+  <SMJ_ClearSnow.verb>Limpar</SMJ_ClearSnow.verb>
+  
+  <!-- Recruiting -->
+  
+  <SMJ_Recruiting.label>Recrutador</SMJ_Recruiting.label>
+  <SMJ_Recruiting.description>Recrutamento de prisioneiros.</SMJ_Recruiting.description>
+  <SMJ_Recruiting.labelShort>Recrutador</SMJ_Recruiting.labelShort>
+  <SMJ_Recruiting.pawnLabel>Recrutador</SMJ_Recruiting.pawnLabel>
+  <SMJ_Recruiting.gerundLabel>recrutado</SMJ_Recruiting.gerundLabel>
+  <SMJ_Recruiting.verb>recrutar</SMJ_Recruiting.verb>
+  
+  <!-- Tame -->
+  
+  <SMJ_Tame.label>Domesticador</SMJ_Tame.label>
+  <SMJ_Tame.description>Domesticação de animais selvagens.</SMJ_Tame.description>
+  <SMJ_Tame.labelShort>Domesticador</SMJ_Tame.labelShort>
+  <SMJ_Tame.pawnLabel>Domesticador</SMJ_Tame.pawnLabel>
+  <SMJ_Tame.gerundLabel>domesticado</SMJ_Tame.gerundLabel>
+  <SMJ_Tame.verb>Domar</SMJ_Tame.verb>
+  
+  <!-- ProduceDrugs -->
+  
+  <SMJ_ProduceDrugs.label>Farmacêutico</SMJ_ProduceDrugs.label>
+  <SMJ_ProduceDrugs.description>Produto de drogas e medicamentos.</SMJ_ProduceDrugs.description>
+  <SMJ_ProduceDrugs.labelShort>Farmacêutico</SMJ_ProduceDrugs.labelShort>
+  <SMJ_ProduceDrugs.pawnLabel>Farmacêutico</SMJ_ProduceDrugs.pawnLabel>
+  <SMJ_ProduceDrugs.gerundLabel>produção</SMJ_ProduceDrugs.gerundLabel>
+  <SMJ_ProduceDrugs.verb>Produtos</SMJ_ProduceDrugs.verb>
+  
+  <!-- Cremating -->
+  
+  <SMJ_Cremating.label>Incinerador</SMJ_Cremating.label>
+  <SMJ_Cremating.description>Transporta cadáveres e opera o crematório ou a fogueira para queimar objetos.</SMJ_Cremating.description>
+  <SMJ_Cremating.labelShort>Incinerador</SMJ_Cremating.labelShort>
+  <SMJ_Cremating.pawnLabel>Incinerador</SMJ_Cremating.pawnLabel>
+  <SMJ_Cremating.gerundLabel>transportado</SMJ_Cremating.gerundLabel>
+  <SMJ_Cremating.verb>Transportar</SMJ_Cremating.verb>
+  
+  <!-- Merge -->
+  
+  <SMJ_Merge.label>Fundidor</SMJ_Merge.label>
+  <SMJ_Merge.description>Funda pilhas de objetos.</SMJ_Merge.description>
+  <SMJ_Merge.labelShort>Fundidor</SMJ_Merge.labelShort>
+  <SMJ_Merge.pawnLabel>Transportador</SMJ_Merge.pawnLabel>
+  <SMJ_Merge.gerundLabel>transportado</SMJ_Merge.gerundLabel>
+  <SMJ_Merge.verb>Transportar</SMJ_Merge.verb>
+
+  <!-- Tooltip Updates -->
+  
+  <Doctor.description>Cuidar dos doentes. Os médicos cuidarão dos colonos e dos prisioneiros.</Doctor.description>
+  <Warden.description>Gerir, alimentar e fazer companhia aos prisioneiros.</Warden.description>
+  <Handling.description>Formação, alimentação, abate e colheita de produtos animais, como ovos e leite.</Handling.description>
+  <Cleaning.description>Limpeza de pisos na base.</Cleaning.description>
+  
+
+</LanguageData>

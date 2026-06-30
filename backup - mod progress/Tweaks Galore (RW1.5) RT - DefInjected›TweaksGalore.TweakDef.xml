@@ -1,0 +1,652 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+ <!-- Section_General.xml -->
+  <!-- Individual Tweaks -->
+  <Tweak_TraderPawnAlert.label>Trader Pawn Alert</Tweak_TraderPawnAlert.label>
+  <Tweak_TraderPawnAlert.description>Shows an alert if there's a trader on the colony map.</Tweak_TraderPawnAlert.description>
+
+  <Tweak_OrbitalTraderAlert.label>Orbital Trader Alert</Tweak_OrbitalTraderAlert.label>
+  <Tweak_OrbitalTraderAlert.description>Shows an alert if there's an orbital trader, if you have a comms console built.</Tweak_OrbitalTraderAlert.description>
+
+
+  <!-- <TweaksGalore.TweakDef>
+		<defName>Tweak_RealisticRooms</defName>
+		<label>Realistic Rooms</label>
+		<description>Adjusts room requirements so you can get away with smaller spaces, each size is lowered to roughly half of the vanilla values.</description>
+		<tweakWorker>TweaksGalore.TweakWorker_RealisticRooms</tweakWorker>
+		<tweakType>Bool</tweakType>
+		<defaultValue>false</defaultValue>
+		<section>TweakSection_Vanilla_General</section>
+	</TweaksGalore.TweakDef> -->
+  <Tweak_DisableLethalDamageThreshold.label>Disable Lethal Damage Threshold</Tweak_DisableLethalDamageThreshold.label>
+  <Tweak_DisableLethalDamageThreshold.description>Vanilla RimWorld has it so pawns can recieve a maximum of 150 damage across all body parts before killing them. This removes that threshold, so they instead only die from an actual cause.</Tweak_DisableLethalDamageThreshold.description>
+
+  <Tweak_HayDoesntNeedCooling.label>hay doesn't need cooling</Tweak_HayDoesntNeedCooling.label>
+  <Tweak_HayDoesntNeedCooling.description>Patches hay so it won't rot if it isn't cooled.</Tweak_HayDoesntNeedCooling.description>
+
+  <Tweak_UsefulGrass.label>useful grass</Tweak_UsefulGrass.label>
+  <Tweak_UsefulGrass.description>Patches grass and tall grass so when it's cut it provides 2 Hay (less if not fully grown).</Tweak_UsefulGrass.description>
+
+  <Tweak_UsefulBushes.label>useful bushes</Tweak_UsefulBushes.label>
+  <Tweak_UsefulBushes.description>Patches bushes so they provide 2 Wood when cut (less if not fully grown).</Tweak_UsefulBushes.description>
+
+  <Tweak_AnimalResourceLabel.label>Animal Resource Label</Tweak_AnimalResourceLabel.label>
+  <Tweak_AnimalResourceLabel.description>Attaches details to milkable and shearable animals info that tells you how long is left till they can be harvested and what you'll get out of it.</Tweak_AnimalResourceLabel.description>
+
+  <Tweak_DisableSpecialSkinShader.label>Disable Special Skin Shader</Tweak_DisableSpecialSkinShader.label>
+  <Tweak_DisableSpecialSkinShader.description>In vanilla, skin that isn't overridden to a natural colour by genes has a special shader on it adding a pinkish red tint to it, which personally I think looks horrible on a lot of natural skin tones. This disables it and uses the shader typically assigned when they use an unnatural skin colour.</Tweak_DisableSpecialSkinShader.description>
+
+
+  <!-- <TweaksGalore.TweakDef>
+		<defName>Tweak_BetterPyromania</defName>
+		<label>Better Pyromania</label>
+		<description>Turns pyromania into a need, similar to chemical dependence, making it much easier to manage without bouts of the flamies.</description>
+		<tweakType>Bool</tweakType>
+		<defaultValue>false</defaultValue>
+		<section>TweakSection_Vanilla_General</section>
+	</TweaksGalore.TweakDef> -->
+  <Tweak_BoomalopesBleedChemfuel.label>Boomalopes Bleed Chemfuel</Tweak_BoomalopesBleedChemfuel.label>
+  <Tweak_BoomalopesBleedChemfuel.description>Changes the blood def from boomalopes and boomrats to be chemfuel puddles instead.</Tweak_BoomalopesBleedChemfuel.description>
+
+  <Tweak_BuildablePackedDirt.label>Buildable Packed Dirt</Tweak_BuildablePackedDirt.label>
+  <Tweak_BuildablePackedDirt.description>Simply adds a buildable version of the packed dirt paths from vanilla.</Tweak_BuildablePackedDirt.description>
+
+  <Tweak_MinifiableCryptosleep.label>Minifiable Cryptosleep Caskets</Tweak_MinifiableCryptosleep.label>
+  <Tweak_MinifiableCryptosleep.description>Allows cryptosleep caskets to be moved.</Tweak_MinifiableCryptosleep.description>
+
+  <Tweak_ChattyComms.label>Chatty Comms</Tweak_ChattyComms.label>
+  <Tweak_ChattyComms.description>Adds a recreation type to comms consoles allowing them to be used by pawns to gain recreation through 'chatting'.</Tweak_ChattyComms.description>
+
+  <Tweak_DestroyAnything.label>Destroy Anything</Tweak_DestroyAnything.label>
+  <Tweak_DestroyAnything.description>Allows the smelting of pretty much anything anything in the crematorium aside from weapons, apparel and minified buildings. Be careful so you don't burn anything important.</Tweak_DestroyAnything.description>
+
+  <Tweak_DisableNarrowHeads.label>Disable Narrow Heads</Tweak_DisableNarrowHeads.label>
+  <Tweak_DisableNarrowHeads.description>Removes the narrow head shapes, they do not fit many of even the vanilla hair and beard styles properly and thanks to 1.4 making them defs it is very easy to just YEET. Can cause errors due to mods commonly directly referencing the removed head types.</Tweak_DisableNarrowHeads.description>
+
+  <Tweak_DontPackFood.label>Don't Pack Food</Tweak_DontPackFood.label>
+  <Tweak_DontPackFood.description>Prevents pawns from stuffing food into their inventory to carry around.</Tweak_DontPackFood.description>
+
+  <Tweak_FullDeconstructReturn.label>Full Deconstruct Return</Tweak_FullDeconstructReturn.label>
+  <Tweak_FullDeconstructReturn.description>Returns the full amount it takes to build something. No more punishment for moving a building that isn't uninstallable.</Tweak_FullDeconstructReturn.description>
+
+  <Tweak_GlowingAmbrosia.label>Glowing Ambrosia</Tweak_GlowingAmbrosia.label>
+  <Tweak_GlowingAmbrosia.description>Gives Ambrosia a slight glow around it, making natural spawning Ambrosia easier to find on a map in the dark.</Tweak_GlowingAmbrosia.description>
+
+  <Tweak_GlowingHealroot.label>Glowing Healroot</Tweak_GlowingHealroot.label>
+  <Tweak_GlowingHealroot.description>Gives Healroot a slight glow around it, making natural spawning Healroot easier to find on a map in the dark.</Tweak_GlowingHealroot.description>
+
+  <Tweak_GrowableAmbrosia.label>Growable Ambrosia</Tweak_GrowableAmbrosia.label>
+  <Tweak_GrowableAmbrosia.description>Allows the growing of Ambrosia in plant zones.</Tweak_GrowableAmbrosia.description>
+
+  <Tweak_GrowableGrass.label>Growable Grass</Tweak_GrowableGrass.label>
+  <Tweak_GrowableGrass.description>Allows the growing of grass and tall grass in plant zones. If you have Biotech you can also grow grey grass from that.</Tweak_GrowableGrass.description>
+
+  <Tweak_GrowableMushrooms.label>Growable Mushrooms</Tweak_GrowableMushrooms.label>
+  <Tweak_GrowableMushrooms.description>Allows the growing of Glowstool and Agarilux in plant zones.</Tweak_GrowableMushrooms.description>
+
+  <Tweak_GrowableWildBerries.label>Growable Wild Berries</Tweak_GrowableWildBerries.label>
+  <Tweak_GrowableWildBerries.description>Allows the growing of wild berries in plant zones.</Tweak_GrowableWildBerries.description>
+
+  <Tweak_HealrootToXerigium.label>Healroot to Xerigium</Tweak_HealrootToXerigium.label>
+  <Tweak_HealrootToXerigium.description>Reverts the old name change of the herbal medicine plant Healroot back to Xerigium like it used to be in older game versions.</Tweak_HealrootToXerigium.description>
+
+  <Tweak_HiddenWires.label>Hidden Wires</Tweak_HiddenWires.label>
+  <Tweak_HiddenWires.description>Visually hides the ugly wires that connect to the power conduits from buildings that don't specifically need to be placed on top of conduits.</Tweak_HiddenWires.description>
+
+  <Tweak_IncidentPawnStats.label>Incident Pawn Stats</Tweak_IncidentPawnStats.label>
+  <Tweak_IncidentPawnStats.description>Displays the information of any pawns rewarded as part of incidents.</Tweak_IncidentPawnStats.description>
+
+  <Tweak_InfestationBlockingFloors.label>Infestation Blocking Floors</Tweak_InfestationBlockingFloors.label>
+  <Tweak_InfestationBlockingFloors.description>Prevents infestations happening on harder floors (anything crafted from metal or stone materials). Only prevents the event picking that spot, hives can still spawn on them if an event happens closeby.</Tweak_InfestationBlockingFloors.description>
+
+  <Tweak_InsultingSpreeNerf.label>Insulting Spree Nerf</Tweak_InsultingSpreeNerf.label>
+  <Tweak_InsultingSpreeNerf.description>Makes the Insulting Spree mental break less annoying to deal with.\n- Intensity: Minor to Major\n- Max Duration: 45,000 ticks to 20,000 ticks\n- Min Duration: 25,000 ticks to 2,500 ticks\n- Base Event Chance: 0.5 to 0.15</Tweak_InsultingSpreeNerf.description>
+
+  <Tweak_ImpassableDeepWater.label>Impassable Deep Water</Tweak_ImpassableDeepWater.label>
+  <Tweak_ImpassableDeepWater.description>Changes deep water to be impassable by pawns, preventing them from pathing through it.</Tweak_ImpassableDeepWater.description>
+
+  <Tweak_LagFreeLamps.label>Lag Free Lamps</Tweak_LagFreeLamps.label>
+  <Tweak_LagFreeLamps.description>Removes the fuel comp from fuelled lamps, so they now no longer run code constantly they impact performance that little bit less.</Tweak_LagFreeLamps.description>
+
+  <Tweak_LowerPrisonerExpectations.label>Lower Prisoner Expectations</Tweak_LowerPrisonerExpectations.label>
+  <Tweak_LowerPrisonerExpectations.description>Brings prisoner expectations down to a more reasonable 'low expectations' level. They just tried to kill your colony most of the time, they don't deserve to have expectations.</Tweak_LowerPrisonerExpectations.description>
+
+  <Tweak_MegaslothToMegatherium.label>Megasloth to Megatherium</Tweak_MegaslothToMegatherium.label>
+  <Tweak_MegaslothToMegatherium.description>Reverts the name change of the Megatherium so it retains the obviously cooler name.</Tweak_MegaslothToMegatherium.description>
+
+  <Tweak_NextRestockTimer.label>Next Restock Timer</Tweak_NextRestockTimer.label>
+  <Tweak_NextRestockTimer.description>Displays in the world map information of settlements whether or not they have restocked since you last visited and how long till their next restock.</Tweak_NextRestockTimer.description>
+
+  <Tweak_NoBreakdowns.label>No Breakdowns</Tweak_NoBreakdowns.label>
+  <Tweak_NoBreakdowns.description>Removes the breakdown comp from anything that has it, artificially enforced resource sinks are LAZY.</Tweak_NoBreakdowns.description>
+
+  <Tweak_WaterproofElectronics.label>Waterproof Electronics</Tweak_WaterproofElectronics.label>
+  <Tweak_WaterproofElectronics.description>Prevents electronics that normally would short circuit in the rain from doing so.</Tweak_WaterproofElectronics.description>
+
+  <Tweak_LowerShellLayering.label>Lower Shell Layering</Tweak_LowerShellLayering.label>
+  <Tweak_LowerShellLayering.description>Changes the shell layer of all vanilla apparel that as of 1.5 renders over hair when it really should render under it.</Tweak_LowerShellLayering.description>
+
+
+  <!-- No Friend Shaped Manhunters -->
+  <Tweak_NoFriendShapedManhunters.label>Enabled</Tweak_NoFriendShapedManhunters.label>
+  <Tweak_NoFriendShapedManhunters.description>Sets parameters which decide if an animal can arrive as manhunter or not.</Tweak_NoFriendShapedManhunters.description>
+
+  <Tweak_NFSM_PreventByTrainability.label>Prevent By Trainability</Tweak_NFSM_PreventByTrainability.label>
+  <Tweak_NFSM_PreventByTrainability.description>Controls whether intermediate or advanced trainable animals can be manhunters.</Tweak_NFSM_PreventByTrainability.description>
+
+  <Tweak_NFSM_PreventByNuzzleable.label>Prevent If Nuzzle-able</Tweak_NFSM_PreventByNuzzleable.label>
+  <Tweak_NFSM_PreventByNuzzleable.description>If animal can nuzzle, it won't spawn as part of manhunter incidents.</Tweak_NFSM_PreventByNuzzleable.description>
+
+  <Tweak_NFSM_PreventByWildness.label>Prevent If Wildness Below</Tweak_NFSM_PreventByWildness.label>
+  <Tweak_NFSM_PreventByWildness.description>If the animals wildness is below this value, it won't spawn as part of manhunter incidents.</Tweak_NFSM_PreventByWildness.description>
+
+  <Tweak_NFSM_PreventByCombatPower.label>Prevent If Combat Power Below</Tweak_NFSM_PreventByCombatPower.label>
+  <Tweak_NFSM_PreventByCombatPower.description>If the animals combat power is below this value, it won't spawn as part of manhunter incidents.</Tweak_NFSM_PreventByCombatPower.description>
+
+  <Tweak_NFSM_PreventWhenTaming.label>Prevent When Taming</Tweak_NFSM_PreventWhenTaming.label>
+  <Tweak_NFSM_PreventWhenTaming.description>Prevents animals that fit the parameters from turning manhunter when taming.</Tweak_NFSM_PreventWhenTaming.description>
+
+
+  <!-- Tainted Apparel -->
+  <Tweak_TaintDisabled.label>Disable Taint</Tweak_TaintDisabled.label>
+  <Tweak_TaintDisabled.description>If enabled, apparel will not be tainted at all, doesn't apply retroactively to existing tainted apparel.</Tweak_TaintDisabled.description>
+
+  <Tweak_TaintOnRot.label>Taint on Rot</Tweak_TaintOnRot.label>
+  <Tweak_TaintOnRot.description>If enabled, apparel will be tainted when a pawn begins rotting rather than when they die.</Tweak_TaintOnRot.description>
+
+  <Tweak_OnlyTaintFirstLayer.label>Only Taint First Layer</Tweak_OnlyTaintFirstLayer.label>
+  <Tweak_OnlyTaintFirstLayer.description>If enabled, only apparel covering the innermost layer will be tainted, typically this will result in armour being fine but clothing being tainted.</Tweak_OnlyTaintFirstLayer.description>
+
+
+  <!-- Prisoners Don't Have Keys -->
+  <Tweak_PrisonersDontHaveKeys.label>Enabled</Tweak_PrisonersDontHaveKeys.label>
+  <Tweak_PrisonersDontHaveKeys.description>Selectively controls whether prisoners and slaves can open doors during breakout and rebellion.</Tweak_PrisonersDontHaveKeys.description>
+
+  <Tweak_PDHKPrisoners.label>Applies to Prisoners</Tweak_PDHKPrisoners.label>
+  <Tweak_PDHKPrisoners.description>Whether or not this applies to prisoners.</Tweak_PDHKPrisoners.description>
+
+  <Tweak_PDHKSlaves.label>Applies to Slaves</Tweak_PDHKSlaves.label>
+  <Tweak_PDHKSlaves.description>Whether or not this applies to slaves.</Tweak_PDHKSlaves.description>
+
+  <Tweak_PDHKOwnDoor.label>Can Open Own Door</Tweak_PDHKOwnDoor.label>
+  <Tweak_PDHKOwnDoor.description>Whether or not escaping pawns can open their own door, the one leading into their cell.</Tweak_PDHKOwnDoor.description>
+
+
+  <!-- Slim Rim -->
+  <Tweak_SlimRim.label>Enabled</Tweak_SlimRim.label>
+  <Tweak_SlimRim.description>Allows the limiting of pawn body types on generation, the replacement will be either Male or Female depending on the pawns current gender.</Tweak_SlimRim.description>
+
+  <Tweak_SlimRimFat.label>Fat</Tweak_SlimRimFat.label>
+  <Tweak_SlimRimFat.description>If enabled, limits the fat body type from spawning.</Tweak_SlimRimFat.description>
+
+  <Tweak_SlimRimHulk.label>Hulk</Tweak_SlimRimHulk.label>
+  <Tweak_SlimRimHulk.description>If enabled, limits the hulk body type from spawning.</Tweak_SlimRimHulk.description>
+
+  <Tweak_SlimRimThin.label>Thin</Tweak_SlimRimThin.label>
+  <Tweak_SlimRimThin.description>If enabled, limits the thin body type from spawning.</Tweak_SlimRimThin.description>
+
+
+  <!-- Trait Count Adjustment -->
+  <Tweak_TraitCountAdjustment.label>Enabled</Tweak_TraitCountAdjustment.label>
+  <Tweak_TraitCountAdjustment.description>If enabled, allows the range to take effect.</Tweak_TraitCountAdjustment.description>
+
+  <Tweak_TraitCountRange.label>Trait Count Range</Tweak_TraitCountRange.label>
+  <Tweak_TraitCountRange.description>Range count of traits which can generate.</Tweak_TraitCountRange.description>
+
+
+  <!-- Ancient Deconstruction -->
+  <Tweak_AncientDeconstruction.label>Enabled</Tweak_AncientDeconstruction.label>
+  <Tweak_AncientDeconstruction.description>Makes the Ancient Ruins added by Ideology and Biotech deconstructable instead of having to destroy them.</Tweak_AncientDeconstruction.description>
+
+  <Tweak_AncientDeconstructionProper.label>Give Proper Materials</Tweak_AncientDeconstructionProper.label>
+  <Tweak_AncientDeconstructionProper.description>Changes returned items to some reasonable materials instead of just slag.</Tweak_AncientDeconstructionProper.description>
+
+  <Tweak_AncientReconstruction.label>Reconstruction</Tweak_AncientReconstruction.label>
+  <Tweak_AncientReconstruction.description>Makes the Ancient Ruins buildable, using the same materials you would gain from deconstructing them.</Tweak_AncientReconstruction.description>
+
+
+  <!-- Dynamic Population -->
+  <Tweak_DynamicPopulation.label>Enabled</Tweak_DynamicPopulation.label>
+  <Tweak_DynamicPopulation.description>When enabled, will use the values below to handle population thresholds.</Tweak_DynamicPopulation.description>
+
+  <Tweak_DynamicPopulation_CriticallyLow.label>Critically Low</Tweak_DynamicPopulation_CriticallyLow.label>
+  <Tweak_DynamicPopulation_CriticallyLow.description>Population below or equal to this is considered critically low.</Tweak_DynamicPopulation_CriticallyLow.description>
+
+  <Tweak_DynamicPopulation_Low.label>Low</Tweak_DynamicPopulation_Low.label>
+  <Tweak_DynamicPopulation_Low.description>Population below or equal to this is considered low.</Tweak_DynamicPopulation_Low.description>
+
+  <Tweak_DynamicPopulation_Typical.label>Typical</Tweak_DynamicPopulation_Typical.label>
+  <Tweak_DynamicPopulation_Typical.description>Population below or equal to this is considered typical.</Tweak_DynamicPopulation_Typical.description>
+
+  <Tweak_DynamicPopulation_High.label>High</Tweak_DynamicPopulation_High.label>
+  <Tweak_DynamicPopulation_High.description>Population below or equal to this is considered high.</Tweak_DynamicPopulation_High.description>
+
+  <Tweak_DynamicPopulation_CriticallyHigh.label>Critically High</Tweak_DynamicPopulation_CriticallyHigh.label>
+  <Tweak_DynamicPopulation_CriticallyHigh.description>Population below or equal to this is considered critically high.</Tweak_DynamicPopulation_CriticallyHigh.description>
+
+  <Tweak_DynamicPopulation_Maximum.label>Maximum</Tweak_DynamicPopulation_Maximum.label>
+  <Tweak_DynamicPopulation_Maximum.description>Population below or equal to this is considered maximum.</Tweak_DynamicPopulation_Maximum.description>
+
+
+  <!-- Raid Strategies -->
+  <Tweak_DisableRaidStrat_AutoFlee.label>Disable Raiders Fleeing</Tweak_DisableRaidStrat_AutoFlee.label>
+  <Tweak_DisableRaidStrat_AutoFlee.description>When enabled, will prevent raiders from fleeing.</Tweak_DisableRaidStrat_AutoFlee.description>
+
+  <Tweak_DisableRaidStrat_BreachRaids.label>Disable Breach Raids</Tweak_DisableRaidStrat_BreachRaids.label>
+  <Tweak_DisableRaidStrat_BreachRaids.description>When enabled, will prevent breach raids.</Tweak_DisableRaidStrat_BreachRaids.description>
+
+  <Tweak_DisableRaidStrat_DropPods.label>Disable Drop Pod Raids</Tweak_DisableRaidStrat_DropPods.label>
+  <Tweak_DisableRaidStrat_DropPods.description>When enabled, will prevent drop pod raids.</Tweak_DisableRaidStrat_DropPods.description>
+
+  <Tweak_DisableRaidStrat_SapperRaids.label>Disable Sapper Raids</Tweak_DisableRaidStrat_SapperRaids.label>
+  <Tweak_DisableRaidStrat_SapperRaids.description>When enabled, will prevent sapper raids.</Tweak_DisableRaidStrat_SapperRaids.description>
+
+  <Tweak_DisableRaidStrat_SiegeRaids.label>Disable Siege Raids</Tweak_DisableRaidStrat_SiegeRaids.label>
+  <Tweak_DisableRaidStrat_SiegeRaids.description>When enabled, will prevent siege raids.</Tweak_DisableRaidStrat_SiegeRaids.description>
+
+  <Tweak_DisableRaidStrat_WaterRaids.label>Disable Water Raids</Tweak_DisableRaidStrat_WaterRaids.label>
+  <Tweak_DisableRaidStrat_WaterRaids.description>When enabled, will prevent water raids.</Tweak_DisableRaidStrat_WaterRaids.description>
+
+ <!-- Section_Resources.xml.xml -->
+  <Tweak_MetalDoesntBurn.label>Metal Doesn't Burn</Tweak_MetalDoesntBurn.label>
+  <Tweak_MetalDoesntBurn.description>Removes flammability from Steel and Plasteel, setting gold and silver slightly above 0 so they can still 'melt'.</Tweak_MetalDoesntBurn.description>
+
+  <Tweak_NoMineableComponents.label>No Mineable Components</Tweak_NoMineableComponents.label>
+  <Tweak_NoMineableComponents.description>Removes compacted components from map generation.</Tweak_NoMineableComponents.description>
+
+  <Tweak_NoMineablePlasteel.label>No Mineable Plasteel</Tweak_NoMineablePlasteel.label>
+  <Tweak_NoMineablePlasteel.description>Removes compacted plasteel from map generation.</Tweak_NoMineablePlasteel.description>
+
+  <Tweak_OldComponentNames.label>Old Component Names</Tweak_OldComponentNames.label>
+  <Tweak_OldComponentNames.description>Back in my day we had industrial and spacer components! Now you can too!</Tweak_OldComponentNames.description>
+
+  <Tweak_PrettyPreciousMetals.label>Pretty Precious Metals</Tweak_PrettyPreciousMetals.label>
+  <Tweak_PrettyPreciousMetals.description>Changes the beauty of gold and silver (the item, not as a material) from -4 to 4.</Tweak_PrettyPreciousMetals.description>
+
+  <Tweak_StrongerSteel.label>Stronger Steel</Tweak_StrongerSteel.label>
+  <Tweak_StrongerSteel.description>Doubles the durability of steel as a material.</Tweak_StrongerSteel.description>
+
+
+  <!-- Stackable Chunks -->
+  <Tweak_StackableChunks.label>Enabled</Tweak_StackableChunks.label>
+  <Tweak_StackableChunks.description>Allows stone chunks and slag to be stackable. Changing this mid-save WILL cause issues.</Tweak_StackableChunks.description>
+
+  <Tweak_StackableChunks_Stone.label>Stone Chunk Stack Size</Tweak_StackableChunks_Stone.label>
+  <Tweak_StackableChunks_Slag.label>Slag Chunk Stack Size</Tweak_StackableChunks_Slag.label>
+
+ <!-- Section_Jobs.xml -->
+  <!-- <TweaksGalore.TweakDef>
+		<defName>Tweak_SkilledTreeChopping</defName>
+		<label>Skilled Tree Chopping</label>
+		<description>Similar to Skilled Stone Cutting, adds a skill that can be used to speed up chopping down trees specifically. Patches for a bunch of mods are already included so axes and the like will have an actual effect.</description>
+		<tweakType>Bool</tweakType>
+		<defaultValue>false</defaultValue>
+		<section>TweakSection_Vanilla_Jobs</section>
+	</TweaksGalore.TweakDef> -->
+  <Tweak_SkilledStoneCutting.label>Skilled Stonecutting</Tweak_SkilledStoneCutting.label>
+  <Tweak_SkilledStoneCutting.description>Makes stonecutting give crafting skill increases, and makes more skilled crafters create blocks quicker.</Tweak_SkilledStoneCutting.description>
+
+
+  <!-- Faster Smoothing -->
+  <Tweak_FasterSmoothing.label>Enabled</Tweak_FasterSmoothing.label>
+  <Tweak_FasterSmoothing.description>Changes the speed at which stone smoothing is done to a custom value.</Tweak_FasterSmoothing.description>
+
+  <Tweak_FasterSmoothingFactor.label>Speed Factor</Tweak_FasterSmoothingFactor.label>
+  <Tweak_FasterSmoothingFactor.description>Changes the speed at which stone smoothing is done to a custom value.</Tweak_FasterSmoothingFactor.description>
+
+
+  <!-- Skills -->
+  <Tweak_SkillTweaks.label>Enabled</Tweak_SkillTweaks.label>
+  <Tweak_SkillTweaks.description>If enabled, allows the skill tweaks to function.</Tweak_SkillTweaks.description>
+
+  <Tweak_SkillLossMultiplier.label>Skill Loss Multiplier</Tweak_SkillLossMultiplier.label>
+  <Tweak_SkillLossMultiplier.description>Multiplier on rate of skill loss.</Tweak_SkillLossMultiplier.description>
+
+  <Tweak_SkillGainMultiplier.label>Skill Gain Multiplier</Tweak_SkillGainMultiplier.label>
+  <Tweak_SkillGainMultiplier.description>Multiplier on rate of skill gain.</Tweak_SkillGainMultiplier.description>
+
+  <Tweak_SkillLossThreshold.label>Skill Loss Threshold</Tweak_SkillLossThreshold.label>
+  <Tweak_SkillLossThreshold.description>The level a skill has to reach before skill loss starts happening, it will prevent skill loss entirely below that level.</Tweak_SkillLossThreshold.description>
+
+  <Tweak_SkillLearningPerDay.label>Skill Learning Per Day</Tweak_SkillLearningPerDay.label>
+  <Tweak_SkillLearningPerDay.description>After a set amount of xp has been learnt for this skill since the last midnight passes, the amount that that can be learnt is lowered. This lets you change how much xp a pawn can gain in any given skill before that kicks in.</Tweak_SkillLearningPerDay.description>
+
+
+  <!-- Hunters Can Use Melee -->
+  <Tweak_HuntersCanMelee.label>Enabled</Tweak_HuntersCanMelee.label>
+  <Tweak_HuntersCanMelee.description>Allows hunters to use melee, regardless of how well they can do so.</Tweak_HuntersCanMelee.description>
+
+  <Tweak_HuntersCanMeleeFisting.label>Allow Fists</Tweak_HuntersCanMeleeFisting.label>
+  <Tweak_HuntersCanMeleeFisting.description>Allows hunters to use their fists to hunt, stupid but it works.</Tweak_HuntersCanMeleeFisting.description>
+
+ <!-- Section_Mechanoids.xml -->
+  <Tweak_MechanoidHeatArmor.label>Mechanoid Heat Armor</Tweak_MechanoidHeatArmor.label>
+  <Tweak_MechanoidHeatArmor.description>Changes the heat armor mechanoids have, if you leave the setting at the max value (200%, the vanilla default) then it'll be ignored.</Tweak_MechanoidHeatArmor.description>
+
+  <Tweak_MechanoidAdaptation.label>Disable Mechanoid Adaptation</Tweak_MechanoidAdaptation.label>
+  <Tweak_MechanoidAdaptation.description>Disables the ability for Mechanoids to adapt to EMP, so EMP remains super effective regardless.</Tweak_MechanoidAdaptation.description>
+
+  <Tweak_PreReleaseShipParts.label>Pre-1.0 Ship Parts</Tweak_PreReleaseShipParts.label>
+  <Tweak_PreReleaseShipParts.description>Returns psychic and defoliator ship parts to their B18 state where they actually provide a decent reward.
+
+&lt;b&gt;Psychic Ship Part Leavings:&lt;/b&gt;
+- 100x Steel
+- 35x Plasteel
+- 8x Steel Slag
+- 4x Industrial Components
+- 1x Spacer Components
+- 1x AI Persona Core
+
+&lt;b&gt;Defoliator Ship Part Leavings:&lt;/b&gt;
+- 100x Steel
+- 35x Plasteel
+- 8x Steel Slag
+- 4x Industrial Component
+- 1x Spacer Component
+- 5x Glittertech Medicine</Tweak_PreReleaseShipParts.description>
+
+ <!-- Section_Power.xml -->
+  <!-- <TweaksGalore.TweakDef Name="TweakBase_PowerAdjuster" Abstract="True">
+		<tweakWorker>TweaksGalore.TweakWorker_PowerValue</tweakWorker>
+		<tweakType>Int</tweakType>
+	</TweaksGalore.TweakDef> -->
+  <Tweak_PowerAdjusting.label>Enabled</Tweak_PowerAdjusting.label>
+  <Tweak_PowerAdjusting.description>If enabled, allows the below power changes to take effect. Requires restart for the values to actually work, as they're assigned on startup.</Tweak_PowerAdjusting.description>
+
+ <!-- Section_Research.xml -->
+  <Tweak_TechTraversal_ShowTechCounter.label>Show Tech Level &amp; Counter</Tweak_TechTraversal_ShowTechCounter.label>
+  <Tweak_TechTraversal_ShowTechCounter.description>If enabled, the vanilla research window will now have a small indicator of the tech level of the research project currently selected and have a counter telling you the total projects you have completed for that level.\n\nThis will only ever be applied the the vanilla window, if you want another mods UI to be affected, ask them, there is nothing stopping them implementing their own independant counter!</Tweak_TechTraversal_ShowTechCounter.description>
+
+  <Tweak_TechTraversal_Enabled.label>Enabled</Tweak_TechTraversal_Enabled.label>
+  <Tweak_TechTraversal_Enabled.description>If enabled, allows the rest of the tweaks in the Tech Traversal subsection to function, otherwise they are disabled.</Tweak_TechTraversal_Enabled.description>
+
+  <Tweak_TechTraversal_AlwaysLowestLevel.label>Always Lowest Level</Tweak_TechTraversal_AlwaysLowestLevel.label>
+  <Tweak_TechTraversal_AlwaysLowestLevel.description>If enabled, the players tech level will always be the lowest unfinished tech level. So if you start with the vanilla Crashlanded scenario, instead of starting Ultratech, you'd start Neolithic till you advance through everything.</Tweak_TechTraversal_AlwaysLowestLevel.description>
+
+  <Tweak_TechTraversal_LowestTechLevel.label>Lowest Tech Level</Tweak_TechTraversal_LowestTechLevel.label>
+  <Tweak_TechTraversal_LowestTechLevel.description>This allows you to set what the lowest tech level is allowed to be, Neolithic by default as there are no research projects lower than that in vanilla, however I've allowed you to go lower in the case where a mod adds research for that.</Tweak_TechTraversal_LowestTechLevel.description>
+
+
+  <!-- <TweaksGalore.TweakDef>
+		<defName>Tweak_TechTraversal_CostIncreasePerTechLevel</defName>
+		<label>Cost Increase Per Tech Level</label>
+		<description>This is the added cost per tech level between the players tech level and that of the specified research project. If you're a level below, in vanilla you'd have to spend 150% of the time compared to it being the same level. If you're two levels below, it'd be 200%. This lets you change that additional 50% per level to something else.</description>
+		<tweakType>Float</tweakType>
+		<formatting>
+			<percentage>true</percentage>
+		</formatting>
+		<defaultValue>0.5</defaultValue>
+		<floatRange>0.0~3.0</floatRange>
+		<subSection>TweakSubSection_TechTraversal</subSection>
+	</TweaksGalore.TweakDef>
+	<TweaksGalore.TweakDef>
+		<defName>Tweak_TechTraversal_CostDecreasePerTechLevel</defName>
+		<label>Cost Decrease Per Tech Level</label>
+		<description>In vanilla there is no discount for being a higher tech level than what you are attempting to research, this lets you change that. For each additional tech level above the project level you are attempting to research, it'll add this much of a discount, up to a max of 95% to avoid issues.</description>
+		<tweakType>Float</tweakType>
+		<formatting>
+			<percentage>true</percentage>
+		</formatting>
+		<defaultValue>0</defaultValue>
+		<floatRange>0.0~0.95</floatRange>
+		<subSection>TweakSubSection_TechTraversal</subSection>
+	</TweaksGalore.TweakDef> -->
+  <Tweak_TechTraversal_PercentageNeeded.label>Percentage Needed</Tweak_TechTraversal_PercentageNeeded.label>
+  <Tweak_TechTraversal_PercentageNeeded.description>This value dictates how much research of a specific level needs to be completed to move beyond it.</Tweak_TechTraversal_PercentageNeeded.description>
+
+
+  <!-- <TweaksGalore.TweakDef>
+		<defName>Tweak_TechTraversal_HideHigherTech</defName>
+		<label>Hide Higher Tech</label>
+		<description>If enabled, this hides any research projects of a tech level higher than your current tech level.</description>
+		<tweakType>Bool</tweakType>
+		<defaultValue>false</defaultValue>
+		<subSection>TweakSubSection_TechTraversal</subSection>
+	</TweaksGalore.TweakDef> -->
+  <Tweak_TechTraversal_IgnoreTechprints.label>Don't Count Techprints</Tweak_TechTraversal_IgnoreTechprints.label>
+  <Tweak_TechTraversal_IgnoreTechprints.description>If enabled, this makes the counter and calculation completely ignore any research which requires a techprint.</Tweak_TechTraversal_IgnoreTechprints.description>
+
+  <Tweak_TechTraversal_OnlyVanillaResearch.label>Only Count Vanilla/DLC Research</Tweak_TechTraversal_OnlyVanillaResearch.label>
+  <Tweak_TechTraversal_OnlyVanillaResearch.description>If enabled, this makes the counter and calculation completely ignore any research added by mods.</Tweak_TechTraversal_OnlyVanillaResearch.description>
+
+<!-- part2 1.5 mods -->
+ <!-- Section_01General (2).xml -->
+  <Tweak_NoBiocoding.label>No Biocoding</Tweak_NoBiocoding.label>
+  <Tweak_NoBiocoding.description>If enabled, removes biocoding from weapons so they don't spawn with it. Does not affect any that have already spawned but will affect mod added ones.</Tweak_NoBiocoding.description>
+
+  <Tweak_NoDeathAcidifiers.label>No Death Acidifiers</Tweak_NoDeathAcidifiers.label>
+  <Tweak_NoDeathAcidifiers.description>If enabled, removes death acidifiers from pawnKinds so they don't spawn with them. Does not affect any pawns that have already spawned, but will affect mod added pawns.</Tweak_NoDeathAcidifiers.description>
+
+  <Tweak_PinataDeathAcidifiers.label>Pinata Death Acidifiers</Tweak_PinataDeathAcidifiers.label>
+  <Tweak_PinataDeathAcidifiers.description>If enabled, changes death acidifier functionality to instead drop all equipment on the ground, and instantly dessicate the pawn. As opposed to their vanilla behaviour of destroying the equipment. Cus why not? Everyone loves a loot pinata.</Tweak_PinataDeathAcidifiers.description>
+
+  <Tweak_AllowAnyBuildingsInThroneRoom.label>Allow Any Buildings In Throneroom</Tweak_AllowAnyBuildingsInThroneRoom.label>
+  <Tweak_AllowAnyBuildingsInThroneRoom.description>If enabled, removes building restrictions in thronerooms. Includes Altars.</Tweak_AllowAnyBuildingsInThroneRoom.description>
+
+  <Tweak_AllowAltarInThroneRoom.label>Allow Altar in Throneroom</Tweak_AllowAltarInThroneRoom.label>
+  <Tweak_AllowAltarInThroneRoom.description>If enabled, specifically allows altars to be built in thronerooms. Pointless if 'any' are allowed already.</Tweak_AllowAltarInThroneRoom.description>
+
+  <Tweak_DelayedRoyalty.label>Delayed Royalty</Tweak_DelayedRoyalty.label>
+  <Tweak_DelayedRoyalty.description>Delays the Royalty starter quests by a few days more than usual to give additional time to get ready for them.</Tweak_DelayedRoyalty.description>
+
+  <Tweak_FreeMeditation.label>Free Meditation</Tweak_FreeMeditation.label>
+  <Tweak_FreeMeditation.description>Allows any pawn to use any meditation focus building regardless of the focus types they have. Automatically patches all vanilla and modded meditation sources.</Tweak_FreeMeditation.description>
+
+  <Tweak_NoBackstoryLimits.label>No Backstory Limits</Tweak_NoBackstoryLimits.label>
+  <Tweak_NoBackstoryLimits.description>Allows any pawn to use Natural or Artistic meditation focus types regardless of backstory. If Vanilla Psycasts Expanded is active, this will also handle the psycaster paths being unlockable.</Tweak_NoBackstoryLimits.description>
+
+  <Tweak_NoTradingPermit.label>No Trading Permit</Tweak_NoTradingPermit.label>
+  <Tweak_NoTradingPermit.description>If enabled, removes the need to have a permit to trade with the Shattered Empire.</Tweak_NoTradingPermit.description>
+
+  <Tweak_UninstallableMechShields.label>Uninstallable Mech Shields</Tweak_UninstallableMechShields.label>
+  <Tweak_UninstallableMechShields.description>If enabled, allows you to uninstall mech cluster shields for your own use. This also prevents them shutting down when the cluster is cleared so they remain useful.</Tweak_UninstallableMechShields.description>
+
+  <Tweak_WaitThisIsBetter.label>Wait, This Is Better</Tweak_WaitThisIsBetter.label>
+  <Tweak_WaitThisIsBetter.description>Adds previous tier tags to all royal acceptable apparel (including modded) so that apprel of a higher tier will satisfy pawns looking for a lower tier. Should really be the default.</Tweak_WaitThisIsBetter.description>
+
+ <!-- Section_01General.xml -->
+  <Tweak_StrapsArentClothes.label>Slave Straps For Nudists</Tweak_StrapsArentClothes.label>
+  <Tweak_StrapsArentClothes.description>Makes slave straps acceptable for nudists, it makes no real sense that they'd be clothes so this feels like a bugfix honestly.</Tweak_StrapsArentClothes.description>
+
+  <Tweak_YouLookFine.label>You Look Fine!</Tweak_YouLookFine.label>
+  <Tweak_YouLookFine.description>Stops pawns from changing their look at the style bench every five goddamn minutes, it's a story simulator not Barbies Makeup Challenge.</Tweak_YouLookFine.description>
+
+  <Tweak_DarklightGlowPods.label>Darklight Glow Pods</Tweak_DarklightGlowPods.label>
+  <Tweak_DarklightGlowPods.description>Makes glow pods spawned in insectoid nests use the darklight colour.</Tweak_DarklightGlowPods.description>
+
+  <Tweak_DisableDesiredApparel.label>Disable Desired Apparel</Tweak_DisableDesiredApparel.label>
+  <Tweak_DisableDesiredApparel.description>Disables default Ideology desired apparel from showing up, that random shit that factions use throughout them for no fucking reason.</Tweak_DisableDesiredApparel.description>
+
+  <Tweak_NoMemeLimit.label>No Meme Limit</Tweak_NoMemeLimit.label>
+  <Tweak_NoMemeLimit.description>Raises the limit of how many memes you can choose to 1000...so effectively no limit.</Tweak_NoMemeLimit.description>
+
+  <Tweak_ProperSuppression.label>Proper Suppression</Tweak_ProperSuppression.label>
+  <Tweak_ProperSuppression.description>Changes suppression mechanics slightly so that rebellions never happen if your slaves are kept suppressed. Also prevents suppressed pawns from taking part in rebellions when they do happen.</Tweak_ProperSuppression.description>
+
+  <Tweak_SuppressionThreshold.label>Suppression Threshold</Tweak_SuppressionThreshold.label>
+  <Tweak_SuppressionThreshold.description>Controls the percentage at which rebellions are considered suppressed, if Proper Suppression is enabled this is the threshold at which rebellions would be disabled entirely.</Tweak_SuppressionThreshold.description>
+
+  <Tweak_UnlockedIdeologyBuildings.label>Unlocked Ideology Buildings</Tweak_UnlockedIdeologyBuildings.label>
+  <Tweak_UnlockedIdeologyBuildings.description>Removes the meme restriction on ideology buildings so you can use them regardless of what memes you have. Includes floors and apparel.</Tweak_UnlockedIdeologyBuildings.description>
+
+ <!-- Section_02Anima.xml -->
+  <Tweak_AnimaTweaks.label>Enable Anima Tweaks</Tweak_AnimaTweaks.label>
+  <Tweak_AnimaTweaks.description>This entire section is disabled by default for compatibility sake mostly, some Anima related tweaks function regardless of if they've been changed (any changing a radius for example) so this allows them all to be skipped over without any potential for conflicts if you prefer another anima tweak mod.</Tweak_AnimaTweaks.description>
+
+  <Tweak_AnimaPsylinkLevelNeeds.label>Anima Grass Per Psylink Level</Tweak_AnimaPsylinkLevelNeeds.label>
+  <Tweak_AnimaPsylinkLevelNeeds.description>The values are the amount of grass needed to be grown on top of what was already needed for the previous level.</Tweak_AnimaPsylinkLevelNeeds.description>
+
+  <Tweak_MeditationGain.label>Meditation Psyfocus Gain Rate</Tweak_MeditationGain.label>
+  <Tweak_MeditationGain.description>The amount of psyfocus a pawn gains per day of mediation.</Tweak_MeditationGain.description>
+
+  <!-- Anima Scream -->
+  <Tweak_DisableAnimaScream.label>Disable Anima Scream</Tweak_DisableAnimaScream.label>
+  <Tweak_DisableAnimaScream.description>Disables the Anima Scream debuff from chopping them down.</Tweak_DisableAnimaScream.description>
+
+  <Tweak_AnimaScreamDebuff.label>Anima Scream Debuff</Tweak_AnimaScreamDebuff.label>
+  <Tweak_AnimaScreamDebuff.description>The impact on mood from the thought applied.</Tweak_AnimaScreamDebuff.description>
+
+  <Tweak_AnimaScreamDuration.label>Anima Scream Duration</Tweak_AnimaScreamDuration.label>
+  <Tweak_AnimaScreamDuration.description>The duration on the thought applied, in days.</Tweak_AnimaScreamDuration.description>
+
+  <Tweak_AnimaScreamStackLimit.label>Anima Scream Stack Limit</Tweak_AnimaScreamStackLimit.label>
+  <Tweak_AnimaScreamStackLimit.description>The stack limit for the thought applied.</Tweak_AnimaScreamStackLimit.description>
+
+  <!-- Anima Tree -->
+  <Tweak_ReplantableAnima.label>Replantable Anima</Tweak_ReplantableAnima.label>
+  <Tweak_ReplantableAnima.description>Makes it so you can move Anima trees like any other.</Tweak_ReplantableAnima.description>
+
+  <Tweak_AnimaArtificialBuildingRadius.label>Artificial Building Radius</Tweak_AnimaArtificialBuildingRadius.label>
+  <Tweak_AnimaArtificialBuildingRadius.description>The radius in which a debuff is applied to the trees effects if artificial buildings are built in it.</Tweak_AnimaArtificialBuildingRadius.description>
+
+  <Tweak_AnimaNaturalBuildingRadius.label>Natural Building Radius</Tweak_AnimaNaturalBuildingRadius.label>
+  <Tweak_AnimaNaturalBuildingRadius.description>The radius in which a buff is applied to the trees effects for natural buildings.</Tweak_AnimaNaturalBuildingRadius.description>
+
+  <Tweak_AnimaNaturalBuildingMax.label>Natural Building Max</Tweak_AnimaNaturalBuildingMax.label>
+  <Tweak_AnimaNaturalBuildingMax.description>The maximum number of buildings which can buff the Anima Tree.</Tweak_AnimaNaturalBuildingMax.description>
+
+  <!-- Anima Shrines -->
+  <Tweak_NatureShrinesAlwaysBuildable.label>Nature Shrines Always Buildable</Tweak_NatureShrinesAlwaysBuildable.label>
+  <Tweak_NatureShrinesAlwaysBuildable.description>Nature Shrines are usually only buildable when you have a nature based Psycaster, this unlocks that limitation.</Tweak_NatureShrinesAlwaysBuildable.description>
+
+  <Tweak_ShrineArtificialBuildingRadius.label>Artificial Building Radius</Tweak_ShrineArtificialBuildingRadius.label>
+  <Tweak_ShrineArtificialBuildingRadius.description>The radius in which a debuff is applied to the trees effects if artificial buildings are built in it.</Tweak_ShrineArtificialBuildingRadius.description>
+
+  <Tweak_ShrineNaturalBuildingRadius.label>Natural Building Radius</Tweak_ShrineNaturalBuildingRadius.label>
+  <Tweak_ShrineNaturalBuildingRadius.description>The radius in which a buff is applied to the trees effects for natural buildings.</Tweak_ShrineNaturalBuildingRadius.description>
+
+ <!-- Section_02Entities.xml -->
+  <!-- Harbinger Tree -->
+  <Tweak_HabringerTweaks.label>Enable Habringer Tweaks</Tweak_HabringerTweaks.label>
+  <Tweak_HabringerTweaks.description>This entire section is disabled by default for compatibility sake, and must be enabled for the tweaks inside it to do anything.</Tweak_HabringerTweaks.description>
+
+  <Tweak_ReplantableHarbinger.label>Replantable Harbinger</Tweak_ReplantableHarbinger.label>
+  <Tweak_ReplantableHarbinger.description>Makes it so you can move Harbinger trees like any other.</Tweak_ReplantableHarbinger.description>
+
+ <!-- Section_02Gauranlen.xml -->
+  <Tweak_GauranlenTweaks.label>Enable Gauranlen Tweaks</Tweak_GauranlenTweaks.label>
+  <Tweak_GauranlenTweaks.description>This entire section is disabled by default for compatibility sake mostly, some Gauranlen related tweaks function regardless of if they've been changed (any changing a radius for example) so this allows them all to be skipped over without any potential for conflicts if you prefer another gauranlen tweak mod.</Tweak_GauranlenTweaks.description>
+
+
+  <!-- Gauranlen Tree -->
+  <Tweak_ReplantableGauranlen.label>Replantable Gauranlen</Tweak_ReplantableGauranlen.label>
+  <Tweak_ReplantableGauranlen.description>Makes it so you can move Gauranlen trees like any other.</Tweak_ReplantableGauranlen.description>
+
+  <Tweak_GauranlenArtificialBuildingRadius.label>Artificial Building Radius</Tweak_GauranlenArtificialBuildingRadius.label>
+  <Tweak_GauranlenArtificialBuildingRadius.description>The radius in which a debuff is applied to the trees effects if artificial buildings are built in it.</Tweak_GauranlenArtificialBuildingRadius.description>
+
+  <Tweak_GauranlenInitialConnection.label>Initial Connection Range</Tweak_GauranlenInitialConnection.label>
+  <Tweak_GauranlenInitialConnection.description>Initial connection strength will be a random value in this range.</Tweak_GauranlenInitialConnection.description>
+
+  <Tweak_GauranlenConnectionGain.label>Connection Gain</Tweak_GauranlenConnectionGain.label>
+  <Tweak_GauranlenConnectionGain.description>The amount of connection gained for each hour of pruning.</Tweak_GauranlenConnectionGain.description>
+
+  <Tweak_GauranlenConnectionLoss.label>Connection Loss</Tweak_GauranlenConnectionLoss.label>
+  <Tweak_GauranlenConnectionLoss.description>A multiplier on the loss rate of the connection.</Tweak_GauranlenConnectionLoss.description>
+
+  <Tweak_GauranlenConnectionLossBuildings.label>Connection Loss From Buildings</Tweak_GauranlenConnectionLossBuildings.label>
+  <Tweak_GauranlenConnectionLossBuildings.description>A multiplier on the loss rate of the connection specifically due to artificial buildings in range.</Tweak_GauranlenConnectionLossBuildings.description>
+
+  <Tweak_GauranlenMossGrowthRadius.label>Moss Growth Radius</Tweak_GauranlenMossGrowthRadius.label>
+  <Tweak_GauranlenMossGrowthRadius.description>The radius in which gauranlen moss will grow inside.</Tweak_GauranlenMossGrowthRadius.description>
+
+  <Tweak_GauranlenMossGrowthDays.label>Moss Growth Days</Tweak_GauranlenMossGrowthDays.label>
+  <Tweak_GauranlenMossGrowthDays.description>The number of days it takes for gauranlen moss to grow to maturity.</Tweak_GauranlenMossGrowthDays.description>
+
+  <!-- Dryads -->
+  <Tweak_DryadMaxCount.label>Max Dryads</Tweak_DryadMaxCount.label>
+  <Tweak_DryadMaxCount.description>Max number of dryads when connection is full. This is technically done on a point curve with multiple values, but to keep it simple I just distribute the max linearly through it.</Tweak_DryadMaxCount.description>
+
+  <Tweak_DryadSpawnDays.label>Dryad Spawn Days</Tweak_DryadSpawnDays.label>
+  <Tweak_DryadSpawnDays.description>Number of days between the spawning of Dryads.</Tweak_DryadSpawnDays.description>
+
+  <Tweak_DryadCocoonDays.label>Dryad Cocoon Days</Tweak_DryadCocoonDays.label>
+  <Tweak_DryadCocoonDays.description>Number of days Dryads remain in their cocoons.</Tweak_DryadCocoonDays.description>
+
+  <Tweak_GaumakerCocoonDays.label>Gaumaker Cocoon Days</Tweak_GaumakerCocoonDays.label>
+  <Tweak_GaumakerCocoonDays.description>Number of days Gaumaker Dryads remain in their cocoons.</Tweak_GaumakerCocoonDays.description>
+
+  <Tweak_GaumakerPodDays.label>Gaumaker Pod Days</Tweak_GaumakerPodDays.label>
+  <Tweak_GaumakerPodDays.description>Number of days it takes for a Gaumaker pod to mature.</Tweak_GaumakerPodDays.description>
+
+  <Tweak_GaumakerSeedYield.label>Gaumaker Seed Yield</Tweak_GaumakerSeedYield.label>
+  <Tweak_GaumakerSeedYield.description>Number of seeds obtained from a Gaumaker pod.</Tweak_GaumakerSeedYield.description>
+
+ <!-- Section_03Mechanoids.xml -->
+  <!-- Better Gloomlight -->
+  <Tweak_BetterGloomlight.label>Enabled</Tweak_BetterGloomlight.label>
+  <Tweak_BetterGloomlight.description>Changes the gloomlight often found in mech clusters to produce more light so it's actually useful.</Tweak_BetterGloomlight.description>
+
+  <Tweak_BetterGloomlightSunlamp.label>Work As Sunlamp</Tweak_BetterGloomlightSunlamp.label>
+  <Tweak_BetterGloomlightSunlamp.description>With Better Gloomlight and this enabled, they'll instead produce enough light to be equal to that of a free sunlamp.</Tweak_BetterGloomlightSunlamp.description>
+
+  <Tweak_BetterGloomlightDarklight.label>Darklight Glow</Tweak_BetterGloomlightDarklight.label>
+  <Tweak_BetterGloomlightDarklight.description>Changes the colour of the gloomlight to match that of 'Darklight'.</Tweak_BetterGloomlightDarklight.description>
+
+ <!-- Section_Mechanoids.xml -->
+  <!-- Player Mech Stats -->
+  <Tweak_PlayerMechStats.label>Enabled</Tweak_PlayerMechStats.label>
+  <Tweak_PlayerMechStats.description>Allows the changing of mechanoid stats, useful for disabling if there's any compatibility issues.</Tweak_PlayerMechStats.description>
+
+  <Tweak_MechDischargeRate.label>Energy Drain Rate</Tweak_MechDischargeRate.label>
+  <Tweak_MechDischargeRate.description>Controls the rate at which mechanoid energy drains.</Tweak_MechDischargeRate.description>
+
+  <Tweak_MechSkillLevel.label>Skill Level</Tweak_MechSkillLevel.label>
+  <Tweak_MechSkillLevel.description>Controls the skill level all mechanoids have (vanilla is universal like this, it's weird).</Tweak_MechSkillLevel.description>
+
+  <Tweak_MechAdj_GlobalWorkSpeed.label>Global Work Speed</Tweak_MechAdj_GlobalWorkSpeed.label>
+  <Tweak_MechAdj_ConstructoidWorkSpeed.label>Constructoid - Construction Speed</Tweak_MechAdj_ConstructoidWorkSpeed.label>
+  <Tweak_MechAdj_AgrihandWorkSpeed.label>Agrihand - Plant Work Speed</Tweak_MechAdj_AgrihandWorkSpeed.label>
+  <Tweak_MechAdj_CleansweeperWorkSpeed.label>Cleansweeper - Cleaning Speed</Tweak_MechAdj_CleansweeperWorkSpeed.label>
+
+ <!-- Section_General.xml -->
+  <Tweak_ShowGenesTab.label>Show Genes Tab</Tweak_ShowGenesTab.label>
+  <Tweak_ShowGenesTab.description>By default the Genes tab is hidden on pawns, if you don't have another mod revealing it, you can use this to do so instead. Just keep in mind this was potentially hidden in vanilla for a reason.</Tweak_ShowGenesTab.description>
+
+  <Tweak_SpawnPregnancyChance.label>Spawn Pregnancy Chance</Tweak_SpawnPregnancyChance.label>
+  <Tweak_SpawnPregnancyChance.description>PawnKinds usually have a 3% chance to spawn pregnant if children are enabled which is multiplied by fertility of the pawn, this lets you change that base chance. Any pawnKind that doesn't use the default value will be skipped so as not to cause problems.</Tweak_SpawnPregnancyChance.description>
+
+  <!-- Gene Stats -->
+  <Tweak_FlattenComplexity.label>Flatten Complexity</Tweak_FlattenComplexity.label>
+  <Tweak_FlattenComplexity.description>Remove complexity values from genes so they are all set to 0.</Tweak_FlattenComplexity.description>
+
+  <Tweak_FlattenMetabolism.label>Flatten Metabolism</Tweak_FlattenMetabolism.label>
+  <Tweak_FlattenMetabolism.description>Remove metabolism values from genes so they are all set to 0.</Tweak_FlattenMetabolism.description>
+
+  <Tweak_FlattenArchites.label>Flatten Archites</Tweak_FlattenArchites.label>
+  <Tweak_FlattenArchites.description>Remove archite values from genes so they are all set to 0.</Tweak_FlattenArchites.description>
+
+  <!-- Mechanitor Tweaks -->
+  <Tweak_MechanitorTweaks.label>Enabled</Tweak_MechanitorTweaks.label>
+  <Tweak_MechanitorTweaks.description>This controls if any of the mechanitor tweaks even try to function, some tweaks have no other way of knowing if they should even run.</Tweak_MechanitorTweaks.description>
+
+  <Tweak_MechanitorDisableRange.label>Disable Range Limit</Tweak_MechanitorDisableRange.label>
+  <Tweak_MechanitorDisableRange.description>Makes mechanoids controllable regardless of distance to Mechanitor. If they can design a neural interface they can design something with better than cheap wifi range.</Tweak_MechanitorDisableRange.description>
+
+  <Tweak_MechanitorBandwidthBase.label>Bandwidth Base</Tweak_MechanitorBandwidthBase.label>
+  <Tweak_MechanitorBandwidthBase.description>Controls the initial bandwidth all Mechanitors have.</Tweak_MechanitorBandwidthBase.description>
+
+  <Tweak_MechanitorControlGroupBase.label>Control Group Base</Tweak_MechanitorControlGroupBase.label>
+  <Tweak_MechanitorControlGroupBase.description>Controls the initial number of control groups all Mechanitors have.</Tweak_MechanitorControlGroupBase.description>
+
+  <Tweak_BandwidthPerBandNode.label>Bandwitdth Per Band Node</Tweak_BandwidthPerBandNode.label>
+  <Tweak_BandwidthPerBandNode.description>Controls the bandwidth a band node adds to a given mechanitor.</Tweak_BandwidthPerBandNode.description>
+
+ <!-- Section_Polux.xml -->
+  <Tweak_PoluxTweaks.label>Enable Polux Tweaks</Tweak_PoluxTweaks.label>
+  <Tweak_PoluxTweaks.description>This entire section is disabled by default for compatibility sake mostly, some Polux related tweaks function regardless of if they've been changed (any changing a radius for example) so this allows them all to be skipped over without any potential for conflicts if you prefer another polux tweak mod.</Tweak_PoluxTweaks.description>
+
+  <Tweak_ReplantablePolux.label>Replantable Polux</Tweak_ReplantablePolux.label>
+  <Tweak_ReplantablePolux.description>Makes it so you can move Polux trees like any other.</Tweak_ReplantablePolux.description>
+
+  <Tweak_IgnoreArtificialBuildings.label>Ignore Artificial Buildings</Tweak_IgnoreArtificialBuildings.label>
+  <Tweak_IgnoreArtificialBuildings.description>Vanilla usually disables the tree's effects if there are artificial buildings in its radius, this disables that behaviour and lets it function anyway.</Tweak_IgnoreArtificialBuildings.description>
+
+  <Tweak_PoluxEffectRadius.label>Effect Radius</Tweak_PoluxEffectRadius.label>
+  <Tweak_PoluxEffectRadius.description>The radius in which the polux tree will cleanse of pollution.</Tweak_PoluxEffectRadius.description>
+
+  <Tweak_PoluxEffectRate.label>Effect Rate</Tweak_PoluxEffectRate.label>
+  <Tweak_PoluxEffectRate.description>A multiplier on the time between each attempt to cleanse pollution around the tree.</Tweak_PoluxEffectRate.description>
+
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<TD.ToggleBlueprintOverRock>Coloque projetos sobre a rocha da montanha</TD.ToggleBlueprintOverRock>
+	<TD.SettingsNoOverwallCoolers>Oculte os incríveis refrigeradores de parede do menu de construção</TD.SettingsNoOverwallCoolers>
+	<TD.SettingsNoNormalCoolers>Oculte o refrigerador e a ventilação normais no menu de construção</TD.SettingsNoNormalCoolers>
+	<TD.SettingsCornerBuildable>Os ladrilhos de canto podem ser construídos e minerados por dentro</TD.SettingsCornerBuildable>
+	<TD.SettingsCornerBuildableDesc>Às vezes, isso pode causar problemas estranhos de caminho - desligue-o para talvez consertar isso.</TD.SettingsCornerBuildableDesc>
+	
+</LanguageData>

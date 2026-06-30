@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+  <OIX.EndogeneChance>Chance de herança endógena por parente: {0}%</OIX.EndogeneChance>
+  <OIX.XenogeneChance>Chance de herança de Xenogene por parente: {0}%</OIX.XenogeneChance>
+  <OIX.ArchiteMultiplier>Multiplicador de herança Arquita: {0}</OIX.ArchiteMultiplier>
+  <OIX.CurrentModVersion>Versão do mod instalada: {0}</OIX.CurrentModVersion>
+  
+</LanguageData>

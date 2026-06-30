@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--Common/Defs/StatDefs/Stats_Stonecutting.xml-->
+                    <!-- stonecutting speed -->
+<StonecuttingSpeed.label>velocidade de corte de pedra</StonecuttingSpeed.label>
+                          <!-- Speed at which this person cuts rough stone into blocks. -->
+<StonecuttingSpeed.description>Velocidade com que esta pessoa corta pedra bruta em blocos.</StonecuttingSpeed.description>
+
+</LanguageData>

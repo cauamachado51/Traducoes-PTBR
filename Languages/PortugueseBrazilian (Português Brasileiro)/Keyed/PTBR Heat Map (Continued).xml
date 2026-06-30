@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <FALCHM.OverrideVanillaOverlay>Substituir sobreposição vanilla</FALCHM.OverrideVanillaOverlay>
+  <FALCHM.OverrideVanillaOverlayDesc>Use a sobreposição do Heat Map em vez da sobreposição vanilla. 
+(default: {default})</FALCHM.OverrideVanillaOverlayDesc>
+
+  <FALCHM.ShowIndoorsOnly>Sobrepor apenas áreas internas</FALCHM.ShowIndoorsOnly>
+  <FALCHM.ShowIndoorsOnlyDesc>Mostrar a sobreposição apenas para áreas internas. 
+(default: {default})</FALCHM.ShowIndoorsOnlyDesc>
+
+  <FALCHM.OverlayOpacity>Opacidade da sobreposição</FALCHM.OverlayOpacity>
+  <FALCHM.OverlayOpacityDesc>Reduza este valor para tornar a sobreposição mais transparente.
+(default: {default}%)</FALCHM.OverlayOpacityDesc>
+
+  <FALCHM.UpdateDelay>Atraso na atualização da sobreposição</FALCHM.UpdateDelay>
+  <FALCHM.UpdateDelayDesc>Número de ticks de atraso entre as atualizações do widget e do texto de temperatura enquanto o jogo não está pausado. Números mais baixos fornecem atualizações mais suaves, mas podem afetar o desempenho em máquinas de baixo custo.
+(default: {default})</FALCHM.UpdateDelayDesc>
+
+  <FALCHM.ShowOutDoorThermometer>Mostrar termômetro externo</FALCHM.ShowOutDoorThermometer>
+  <FALCHM.ShowOutDoorThermometerDesc>Exibe um widget no canto superior direito da IU mostrando a temperatura externa atual.
+(default: {default})</FALCHM.ShowOutDoorThermometerDesc>
+
+  <FALCHM.ThermometerOpacity>Opacidade do termômetro</FALCHM.ThermometerOpacity>
+  <FALCHM.ThermometerOpacityDesc>Reduza este valor para tornar a cor de fundo do termômetro de temperatura externa mais transparente.
+(default: {default}%)</FALCHM.ThermometerOpacityDesc>
+
+  <FALCHM.ThermometerFixed>Bloquear a posição do termômetro</FALCHM.ThermometerFixed>
+  <FALCHM.ThermometerFixedDesc>Bloqueia o widget do termômetro no lugar, desativando o arrasto com a tecla Shift pressionada.
+(default: {default})</FALCHM.ThermometerFixedDesc>
+
+  <FALCHM.ThermometerRight>Margem direita do termômetro</FALCHM.ThermometerRight>
+  <FALCHM.ThermometerRightDesc>Altera a margem entre o widget do termômetro e a direita da tela. O widget pode ser arrastado usando shift-clique durante o jogo.
+(default: {default})</FALCHM.ThermometerRightDesc>
+
+  <FALCHM.ThermometerTop>Margem superior do termômetro</FALCHM.ThermometerTop>
+  <FALCHM.ThermometerTopDesc>Altera a margem entre o widget do termômetro e a parte superior da tela. O widget pode ser arrastado usando shift-clique durante o jogo.
+(default: {default})</FALCHM.ThermometerTopDesc>
+
+  <FALCHM.ShowTemperatureOverRooms>Mostrar temperatura nas salas</FALCHM.ShowTemperatureOverRooms>
+  <FALCHM.ShowTemperatureOverRoomsDesc>Quando a sobreposição estiver ativada, também exibirá a temperatura ambiente no centro da sala.
+(default: {default})</FALCHM.ShowTemperatureOverRoomsDesc>
+
+  <FALCHM.GradientHue>Matiz gradiente de cor {índice}</FALCHM.GradientHue>
+  <FALCHM.GradientHueDesc>Define quais cores serão utilizadas no gradiente de cores da sobreposição. As cores são dadas como matiz em grau.
+(default: {default})
+
+- Colours:
+0°/360°	= vermelho
+60°	= amarelo
+120°	= verde
+180°	= ciano
+240°	= azul
+300°	= magenta
+  
+Cada grau de temperatura entre min/max (padrão: {min} a {max} °C) tem uma largura de passo de gradiente relativo de 1, exceto para os valores entre temperatura de conforto mín/máx (padrão: {comfortMin} a {comfortMax} °C), que têm uma largura de passo de 4. 
+I.e. cada grau da faixa de temperatura de conforto ocupa quatro vezes mais no gradiente de cor do que fora dos níveis de conforto.
+Por exemplo, ao usar as configurações padrão, o verde será aplicado a uma faixa de temperatura menor do que o vermelho ou o azul.</FALCHM.GradientHueDesc>
+
+  <FALCHM.UseCustomeRange>Usar intervalo personalizado</FALCHM.UseCustomeRange>
+  <FALCHM.UseCustomeRangeDesc>Quando desativado, o gradiente de cores é mapeado automaticamente para a faixa de conforto humano conforme definido pelo jogo.
+
+Quando ativado, os limites de temperatura personalizados para o gradiente de cor podem ser definidos.
+(padrão: {default})</FALCHM.UseCustomeRangeDesc>
+
+  <FALCHM.CustomRangeMin>Intervalo personalizado mínimo</FALCHM.CustomRangeMin>
+  <FALCHM.CustomRangeMinDesc>Limite inferior de temperatura do gradiente de cor.
+As temperaturas abaixo disso serão coloridas usando o matiz de gradiente de cor 0, padrão: azul. 
+Usa unidades de temperatura atuais
+(padrão: {default})</FALCHM.CustomRangeMinDesc>
+
+  <FALCHM.CustomRangeMax>Máximo de intervalo personalizado</FALCHM.CustomRangeMax>
+  <FALCHM.CustomRangeMaxDesc>Limite superior de temperatura do gradiente de cor.
+As temperaturas acima disso serão coloridas usando o matiz de gradiente de cor 4, padrão: vermelho. 
+Usa unidades de temperatura atuais
+(padrão: {default})</FALCHM.CustomRangeMaxDesc>
+
+  <FALCHM.CustomRangeComfortMin>Faixa de conforto personalizada mín.</FALCHM.CustomRangeComfortMin>
+  <FALCHM.CustomRangeComfortMinDesc>Temperatura de conforto mais baixa.
+Entre a temperatura de conforto mínima e máxima, a cor muda quatro vezes mais rapidamente do que fora destes limites, tornando as pequenas alterações mais perceptíveis.
+Usa unidades de temperatura atuais
+(padrão: {default})</FALCHM.CustomRangeComfortMinDesc>
+
+  <FALCHM.CustomRangeComfortMax>Faixa de conforto personalizada máxima</FALCHM.CustomRangeComfortMax>
+  <FALCHM.CustomRangeComfortMaxDesc>Temperatura superior de conforto.
+Entre a temperatura de conforto mínima e máxima, a cor muda quatro vezes mais rapidamente do que fora destes limites, tornando as pequenas alterações mais perceptíveis.
+Usa unidades de temperatura atuais
+(padrão: {default})</FALCHM.CustomRangeComfortMaxDesc>
+
+  <FALCHM.ThermometerTooltip>Temperatura externa. 
+Clique para alternar a sobreposição do mapa de calor.
+Shift-clique e arraste para mover o widget, a posição pode ser bloqueada nas configurações do mod.
+Este widget pode ser desativado nas configurações do mod.</FALCHM.ThermometerTooltip>
+  <FALCHM.ShowHeatMap>Mostrar mapa de calor</FALCHM.ShowHeatMap>
+</LanguageData>

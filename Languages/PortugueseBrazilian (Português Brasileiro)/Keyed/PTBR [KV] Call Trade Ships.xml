@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<CallTradeShips.ModName>Call Trade Ships</CallTradeShips.ModName>
+	<CallTradeShips.Call>Chamar comerciante orbital: {0}</CallTradeShips.Call>
+	<CallTradeShips.CallWithCost>Chamar comerciante orbital: {0} (custo: {1} prata)</CallTradeShips.CallWithCost>
+	<CallTradeShips.Cost>custo</CallTradeShips.Cost>
+	<CallTradeShips.NotEnoughSilver>Não tem prata suficiente para chamar comerciante orbital ({0} mas precisa {1})</CallTradeShips.NotEnoughSilver>
+	
+	<!-- For TraderShips mod - https://github.com/AUTOMATIC1111/TraderShips -->
+	<CallTradeShips.AllowOrbitalTraders>Permitir comerciantes orbitais</CallTradeShips.AllowOrbitalTraders>
+	<CallTradeShips.CallTraderShip>Chamar comerciante para pousar</CallTradeShips.CallTraderShip>
+	<CallTradeShips.CallTraderShipCost>Chamar comerciante para pousar (custo: {0} prata)</CallTradeShips.CallTraderShipCost>
+</LanguageData>

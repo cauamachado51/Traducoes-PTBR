@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+   <!-- Settings.xml -->
+	<WVC_MMWM_Settings>Work Modes</WVC_MMWM_Settings>
+
+	<WVC_Label_MainModeLabelSetting>Principal</WVC_Label_MainModeLabelSetting>
+	<WVC_Label_BonusModeLabelSetting>Bônus</WVC_Label_BonusModeLabelSetting>
+	<WVC_Label_WorkModeMechanicsLabelSetting>Mecânicas</WVC_Label_WorkModeMechanicsLabelSetting>
+
+	<WVC_WorkModes_ResetButton>Redefinir</WVC_WorkModes_ResetButton>
+
+	<WVC_WorkModes_ResetButtonWarning>As configurações serão alteradas, tem certeza?</WVC_WorkModes_ResetButtonWarning>
+	<WVC_WorkModes_ResetButton_SettingsChanged>As configurações foram alteradas.</WVC_WorkModes_ResetButton_SettingsChanged>
+
+	<!-- Main -->
+	<WVC_Label_FindAndDestroy>Encontrar e destruir</WVC_Label_FindAndDestroy>
+	<WVC_Label_WaitEnemy>Espere o inimigo</WVC_Label_WaitEnemy>
+	<WVC_Label_WorkAndWaitEnemy>Trabalhe e espere</WVC_Label_WorkAndWaitEnemy>
+	<WVC_Label_DefendYourself>Defenda-se</WVC_Label_DefendYourself>
+	<WVC_Label_Ambush>Emboscar</WVC_Label_Ambush>
+	<WVC_Label_WorkAndRecharge>Trabalhe e recarregue</WVC_Label_WorkAndRecharge>
+	<WVC_Label_SafeWorkAndRecharge>Trabalhe se for seguro</WVC_Label_SafeWorkAndRecharge>
+	<WVC_Label_EscaortAndRecharge>Escoltar e recarregar</WVC_Label_EscaortAndRecharge>
+	<WVC_Label_WorkRechargeEscort>Trabalhar, recarregar e escoltar</WVC_Label_WorkRechargeEscort>
+	<WVC_Label_EscortIfEnemyOnMap>Escoltar se há inimigo</WVC_Label_EscortIfEnemyOnMap>
+
+	<WVC_ToolTip_Setting>Antes de desativar, mude todos os modos mecanóides para vanilla. É necessária uma reinicialização para aplicar as configurações.</WVC_ToolTip_Setting>
+
+	<!-- Bonus -->
+	<WVC_Label_EscortIfEnemyWorkAndRecharge>Escolte se há inimigo, trabalhe e recarregue</WVC_Label_EscortIfEnemyWorkAndRecharge>
+	<WVC_Label_EscortIfDraftedOrDowned>Escoltar se for convocado ou derrubado</WVC_Label_EscortIfDraftedOrDowned>
+	<WVC_Label_HiveMindResearching>Investigação de mente colmeia</WVC_Label_HiveMindResearching>
+	<WVC_Label_Scavenging>Coleta</WVC_Label_Scavenging>
+	<WVC_Label_ScavenZoneCells>Zona de coleta mínima de células necessárias: {0}</WVC_Label_ScavenZoneCells>
+
+	<WVC_ToolTip_BonusSetting>Modo bônus. É desativado por padrão. A ativação é compatível com salvamentos.</WVC_ToolTip_BonusSetting>
+
+	<!-- Idle Optimization -->
+	<WVC_Label_enableShutdownForAllMechanoids>Otimização ociosa para modos vanilla</WVC_Label_enableShutdownForAllMechanoids>
+	<WVC_ToolTip_enableShutdownForAllMechanoids>Se ativada, a otimização ociosa também afetará os modos vanilla.</WVC_ToolTip_enableShutdownForAllMechanoids>
+
+	<WVC_Label_enableSmartChargingForAllMechanoids>Carregamento inteligente para modos vanilla</WVC_Label_enableSmartChargingForAllMechanoids>
+	<WVC_ToolTip_enableSmartChargingForAllMechanoids>Se ativado, os mecanóides irão carregar quando não estiverem ocupados com nada, e não apenas quando a carga acabar.</WVC_ToolTip_enableSmartChargingForAllMechanoids>
+
+	<WVC_ToolTip_VanillaModeOptimizationWarning>Não afeta os mecanóides de combate, já que sua inatividade foi substituída por uma patrulha simulada.</WVC_ToolTip_VanillaModeOptimizationWarning>
+
+	<!-- Features -->
+	<WVC_Label_enableShutdownSearching>Ativar pesquisa de zona de desligamento</WVC_Label_enableShutdownSearching>
+	<WVC_ToolTip_enableShutdownSearching>Se ativado, os mecanóides procurarão uma zona de desligamento do mecanóide antes do desligamento.</WVC_ToolTip_enableShutdownSearching>
+
+	<WVC_Label_enableEnemySearching>Ativar busca de inimigos</WVC_Label_enableEnemySearching>
+	<WVC_ToolTip_enableEnemySearching>Se ativado, em modos de segurança, os mecanóides verificarão se há inimigos no mapa.</WVC_ToolTip_enableEnemySearching>
+
+	<WVC_ToolTip_enableSearchingWarning>Se você não entende o que esta opção faz, deixe-a ativada.</WVC_ToolTip_enableSearchingWarning>
+
+	<WVC_Label_enableSmartEscort>Escolta inteligente</WVC_Label_enableSmartEscort>
+	<WVC_ToolTip_enableSmartEscort>Se ativado, permite selecionar um alvo de escolta para mecanóides.
+
+É necessário reiniciar!</WVC_ToolTip_enableSmartEscort>
+
+	<WVC_Label_shutdownModeZonesOrSpots>Modo de desligamento: zonas ou pontos</WVC_Label_shutdownModeZonesOrSpots>
+	<WVC_ToolTip_shutdownModeZonesOrSpots>Se ativado, as zonas serão usadas. Como alternativa, pontos. Recomenda-se habilitá-lo.
+
+Esta opção é para usuários avançados. Se você não sabe o que são pontos, deixe-o ativado.
+
+É necessário reiniciar!</WVC_ToolTip_shutdownModeZonesOrSpots>
+
+	<WVC_Label_useCustomShutdownBehavior>Use comportamento de desligamento personalizado</WVC_Label_useCustomShutdownBehavior>
+	<WVC_ToolTip_useCustomShutdownBehavior>O desligamento Vanilla é muito estúpido, mas confiável. Se você encontrar bugs relacionados ao desligamento do mecanóide, desative esta opção.</WVC_ToolTip_useCustomShutdownBehavior>
+
+	<WVC_Label_enableDormantMode>Modo inativo</WVC_Label_enableDormantMode>
+	<WVC_ToolTip_enableDormantMode>Se ativado, quando o mecanóide estiver no modo de desligamento, ele não consumirá largura de banda.
+
+Em caso de problemas de desempenho, é recomendado desativá-lo.
+
+É necessário reiniciar!</WVC_ToolTip_enableDormantMode>
+	<WVC_Label_mechBandwithCostInDormantMode>Fator de custo de largura de banda em modo inativo x{0}%</WVC_Label_mechBandwithCostInDormantMode>
+	
+   <!-- Misc_Gameplay.xml -->
+    <!-- Zones -->
+	<WVC_MechanoidShutdownZone>Zona de desligamento mecanóide</WVC_MechanoidShutdownZone>
+	<WVC_MechanoidShutdownZoneDesc>Os mecanóides retornarão aqui antes de desligar.</WVC_MechanoidShutdownZoneDesc>
+
+	<WVC_ShutdownZone_AllowWorkers>Tipo de trabalho</WVC_ShutdownZone_AllowWorkers>
+	<WVC_ShutdownZone_AllowSafe>Tipo seguro</WVC_ShutdownZone_AllowSafe>
+	<WVC_ShutdownZone_AllowCombatants>Tipo combate</WVC_ShutdownZone_AllowCombatants>
+	<WVC_ShutdownZone_AllowAmbush>Tipo emboscada</WVC_ShutdownZone_AllowAmbush>
+
+	<WVC_WorkModes_allowAllGroups>Todos os grupos são permitidos</WVC_WorkModes_allowAllGroups>
+
+	<WVC_ShutdownZone_BasicDesc>Responsável por saber se mecanóides com este tipo de trabalho poderão desligar aqui.</WVC_ShutdownZone_BasicDesc>
+	<WVC_WorkModes_allowAllGroupsDesc>Responsável por saber se todos os mecanóides, independente do grupo, podem usar esta zona.</WVC_WorkModes_allowAllGroupsDesc>
+
+	<WVC_WorkModes_On>Ligado</WVC_WorkModes_On>
+	<WVC_WorkModes_Off>Desligado</WVC_WorkModes_Off>
+
+	<!-- <WVC_ShutdownZoneInPrisonCell>Shutdown zone cannot be in a prison cell.</WVC_ShutdownZoneInPrisonCell> -->
+	<!-- <WVC_ShutdownZoneNotStandable>Shutdown zone cannot be located on impassable terrain or located on other objects.</WVC_ShutdownZoneNotStandable> -->
+	<!-- <WVC_ShutdownZoneNotStandable>Shutdown zone should be standable.</WVC_ShutdownZoneNotStandable> -->
+
+	<!-- <WVC_MechanoidShutdownZone_FreeCells>Cells not occupied by mechanoids: {0}</WVC_MechanoidShutdownZone_FreeCells> -->
+
+	<!-- Scavenge Zone -->
+	<WVC_MechanoidScavengeZone>Zona de coleta mecanóide</WVC_MechanoidScavengeZone>
+	<WVC_MechanoidScavengeZoneDesc>No modo de trabalho "Coleta", os mecanóides procurarão recursos úteis nesta zona.</WVC_MechanoidScavengeZoneDesc>
+
+	<WVC_MechanoidScavengeZone_CellsCount>Células: {0} | Mínimo permitido: {1}</WVC_MechanoidScavengeZone_CellsCount>
+
+	<!-- SmartEscort -->
+	<WVC_WorkModes_AssignToPawnEscortLabel>Atribuir para escoltar</WVC_WorkModes_AssignToPawnEscortLabel>
+	<WVC_WorkModes_AssignToPawnEscortLabelReset>Redefinir peão escoltado</WVC_WorkModes_AssignToPawnEscortLabelReset>
+	<!-- <WVC_WorkModes_AssignedPawnEscortLabel>{0} assigned escort {1}</WVC_WorkModes_AssignedPawnEscortLabel> -->
+	<WVC_WorkModes_AssignToPawnEscortDesc>{0} escolta atribuída {1}
+
+Permite que você especifique ao mecanóide qual colono ele irá escoltar.
+
+{0} não pode seguir ninguém além de um supervisor em uma caravana ou em mapas fora de casa.</WVC_WorkModes_AssignToPawnEscortDesc>
+
+	<WVC_WorkModes_AssignToPawnEscortAssigned>{0} atribuído para escoltar {1}.</WVC_WorkModes_AssignToPawnEscortAssigned>
+	<WVC_WorkModes_AssignToPawnEscortNoLongerEscort>{0} não escolta mais {1}.</WVC_WorkModes_AssignToPawnEscortNoLongerEscort>
+	<WVC_WorkModes_EscortsAssignTargetLabel>atribuído para escoltar {0}</WVC_WorkModes_EscortsAssignTargetLabel>
+
+	<!-- Job Givers -->
+	<WVC_WorkModes_ChangeModDefaultMessage>{0} não é pesquisado. Modo alterado para {1}.</WVC_WorkModes_ChangeModDefaultMessage>
+
+	<!-- Tech Req -->
+	<WVC_WorkModes_ModeTechnologyRequirement>Tecnologias necessárias:</WVC_WorkModes_ModeTechnologyRequirement>
+	<WVC_WorkModes_TechnologyAllowsModes>Permite usar novos modos:</WVC_WorkModes_TechnologyAllowsModes>
+	<WVC_WorkModes_TechnologyAllowsModes_Desc> - &lt;color=#00cccc&gt;{0}&lt;/color&gt;: {1}</WVC_WorkModes_TechnologyAllowsModes_Desc>
+
+	<!-- Group Zoning -->
+	<WVC_WorkModes_CurrentZoneGroup>Grupo atual</WVC_WorkModes_CurrentZoneGroup>
+	<WVC_WorkModes_CurrentZoneOwner>Proprietário atual</WVC_WorkModes_CurrentZoneOwner>
+
+	<WVC_WorkModes_ChosenGroupLabel>Atribuir grupo</WVC_WorkModes_ChosenGroupLabel>
+	<WVC_WorkModes_ChosenGroupDesc>Permite atribuir um grupo de mecanóides que retornarão a esta zona.</WVC_WorkModes_ChosenGroupDesc>
+	<WVC_WorkModes_GroupIsChosen>Grupo {0} atribuído a {1}.</WVC_WorkModes_GroupIsChosen>
+
+	<WVC_WorkModes_ChosenMechanitorLabel>Atribuir mecanizador</WVC_WorkModes_ChosenMechanitorLabel>
+	<WVC_WorkModes_ChosenMechanitorDesc>Permite que você atribua um proprietário de zona.</WVC_WorkModes_ChosenMechanitorDesc>
+	<WVC_WorkModes_MechanitorIsChosen>{0} atribuído como proprietário de {1}.</WVC_WorkModes_MechanitorIsChosen>
+
+	<WVC_WorkModes_ResetOwnerLabel>Redefinir proprietário</WVC_WorkModes_ResetOwnerLabel>
+	<WVC_WorkModes_ResetOwnerDesc>Permite que você redefina o proprietário de uma zona.</WVC_WorkModes_ResetOwnerDesc>
+	<WVC_WorkModes_ResetOwnerMessage>{0} as configurações foram redefinidas para o padrão.</WVC_WorkModes_ResetOwnerMessage>
+
+	<!-- Group Zoning Mechs -->
+	<WVC_WorkModes_RestrictZoneByGroupLabel>Use apenas zonas de grupo</WVC_WorkModes_RestrictZoneByGroupLabel>
+	<WVC_WorkModes_RestrictZoneByGroupDesc>Permite que você limite a escolha de zonas do mecanóide àquelas especificamente atribuídas ao seu grupo.</WVC_WorkModes_RestrictZoneByGroupDesc>
+	<WVC_WorkModes_RestrictZoneByGroupInspect>Usa apenas zonas do seu grupo</WVC_WorkModes_RestrictZoneByGroupInspect>
+
+	<WVC_WorkModes_DormantModeStatPart>No modo de desligamento x{0}%</WVC_WorkModes_DormantModeStatPart>
+
+</LanguageData>

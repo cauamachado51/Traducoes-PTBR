@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<TKSPriortyTreatmentName>Priority Treatment Ressurected</TKSPriortyTreatmentName>
+	<TKSIncludeSickness>Tratar doenças de longa duração</TKSIncludeSickness>
+	<TKSIncludeSicknessToolTip>Por padrão, seus médicos tratarão lesões apenas como emergências absolutas. Marque esta caixa para incluir todas as formas de tratamento (incluindo tratamento de doenças de longo prazo).</TKSIncludeSicknessToolTip>
+	<TKSWakeUpToTend>Acorde para cuidar</TKSWakeUpToTend>
+	<TKSWakeUpToTendToolTip>Verifique isso para que seus médicos acordem e cuidem mesmo que estejam dormindo. Se você estiver usando outro mod que faça isso (ou seja, Wake Up), você pode deixar esta opção desmarcada.</TKSWakeUpToTendToolTip>
+	<TKSDocPriority>Requisito de prioridade médica de emergência</TKSDocPriority>
+	<TKSDocPriorityToolTip>Os peões devem ter sua prioridade médica definida para este número ou menos para serem afetados por este mod.</TKSDocPriorityToolTip>
+	<TKSAllowEating>Permitir que os médicos comam</TKSAllowEating>
+	<TKSAllowEatingToolTip>Se esta caixa estiver desmarcada, os médicos continuarão a fazer tratamento de emergência em vez de se alimentarem (cuide dos seus médicos!)</TKSAllowEatingToolTip>
+	<TKSDebugPrint>Alterne para mostrar informações extras de depuração nos logs.</TKSDebugPrint>
+</LanguageData>

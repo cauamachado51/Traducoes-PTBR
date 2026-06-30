@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Do low-skilled scrapping, smelting and destroying of things.\n\n<i><color=#66E0E4FF>Recycle This</color></i> -->
+  <RecycleThis_Recycle.description>对所选的物品进行分解、熔炼和销毁。</RecycleThis_Recycle.description>
+  <!-- EN: recycling -->
+  <RecycleThis_Recycle.gerundLabel>回收利用</RecycleThis_Recycle.gerundLabel>
+  <!-- EN: recycle -->
+  <RecycleThis_Recycle.labelShort>回收</RecycleThis_Recycle.labelShort>
+  <!-- EN: Recycler -->
+  <RecycleThis_Recycle.pawnLabel>回收器</RecycleThis_Recycle.pawnLabel>
+  <!-- EN: Recycle at -->
+  <RecycleThis_Recycle.verb>回收在</RecycleThis_Recycle.verb>
+  
+</LanguageData>

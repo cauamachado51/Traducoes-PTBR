@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+   <!-- novo -->
+	<Mint.GearMenu>Menu Mint Gear (Experimental)</Mint.GearMenu>
+	<Mint.GearMenuVisible>Botão principal visível</Mint.GearMenuVisible>
+	<Mint.GearMenuDesc>Ative um botão para abrir um menu de gerenciamento de equipamentos que permite arrastar e soltar equipamentos disponíveis em qualquer peão</Mint.GearMenuDesc>
+	<Mint.Setup>Setup</Mint.Setup>
+	<Mint.AssignMenu>Mint Menu atribuição</Mint.AssignMenu>
+	<Mint.AssignMenuDesc>Substitua o menu de atribuição padrão por uma versão mint</Mint.AssignMenuDesc>
+	<MessageCantEquipWhileDowned>Não é possível equipar enquanto estiver caído</MessageCantEquipWhileDowned>
+	<Mint.ShowMintBillsButton>Mostrar botão de receitas mint</Mint.ShowMintBillsButton>
+	<Mint.ShowMintBillsButtonTip>Mostrar o botão Mint receitas na lista de abas principais na parte inferior da tela</Mint.ShowMintBillsButtonTip>
+	<ReplacePlantMenuTip>Abra o mint menu de planta em vez do menu suspenso de vanilla; se desativado, você pode clicar com a tecla Ctrl pressionada para abrir o menu mint</ReplacePlantMenuTip>
+	<Mint.ShowBillWorkIcons>Mostre ícones de trabalho para fazer</Mint.ShowBillWorkIcons>
+	<Mint.ShowBillIngredientIcons>Mostrar ícones de ingredientes</Mint.ShowBillIngredientIcons>
+	<Mint.ConfirmDeleteTemplate>Confirmar exclusão do clone</Mint.ConfirmDeleteTemplate>
+	<Mint.RenameTemplateTip>Renomear</Mint.RenameTemplateTip>
+	<Mint.Clones>Clones</Mint.Clones>
+	<Mint.Bills>Receitas</Mint.Bills>
+	<Mint.PasteTemplateTip>Colar a pilha de receitas na bancada</Mint.PasteTemplateTip>
+	<Mint.CloneBills>Clonar receitas</Mint.CloneBills>
+	<Mint.DeleteTemplate>Excluir modelo</Mint.DeleteTemplate>
+	<Mint.CloneWorktable>Clone a pilha de receitas desta bancada</Mint.CloneWorktable>
+	<Mint.SelectABenchToAddBills>Selecione uma bancada para adicionar uma receita</Mint.SelectABenchToAddBills>
+	
+   <!-- ReTradução -->
+    <OverrideArchitectTab>Mint menu aba arquiteto</OverrideArchitectTab>
+	<OverrideArchitectTabDesc>Faça do mint menu arquiteto a aba padrão (Segure Ctrl para padrão)</OverrideArchitectTabDesc>
+	<OverrideResearchTab>Mint menu aba Pesquisa</OverrideResearchTab>
+    <OverrideResearchTabDesc>Faça do mint menu pesquisa a aba padrão (Segure Ctrl para padrão)</OverrideResearchTabDesc>
+    <AutoCloseArchitectDesc>Fecha o menu do arquiteto quando um designador (ordem/construção) é selecionado</AutoCloseArchitectDesc>
+	<ReplacePlantMenu>Mint menu aba plantas</ReplacePlantMenu>
+	<HideFinishedProjects>Ocultar pesquisa finalizada</HideFinishedProjects>
+    <HideLockedProjects>Ocultar pesquisa bloqueada</HideLockedProjects>
+
+</LanguageData>

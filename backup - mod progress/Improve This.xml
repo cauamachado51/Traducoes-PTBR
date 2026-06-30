@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<IT_SkillReq>Skill Requirements:</IT_SkillReq>
+	<IT_SkillTrials>Skill Trials:</IT_SkillTrials>
+	<IT_TrialOdds>Chance cutoff</IT_TrialOdds>
+	<IT_DoTrials>Do Trials</IT_DoTrials>
+	
+	<ImproveLabel>Improve</ImproveLabel>
+	<ImproveDesc>Attempt to improve the quality of this building.</ImproveDesc>
+	<MessageQualityTooLow>Quality {0} too low.</MessageQualityTooLow>
+	
+	<ImproveSkillInspireNeeded>Must be skill level {0}, or skill level {1} and inspired</ImproveSkillInspireNeeded>
+	<ImproveSkillInspireOrRoleNeeded>Must be skill level {0}, or skill level {1} and inspired and a Production Specialist</ImproveSkillInspireOrRoleNeeded>
+	<ImproveInspireNeeded>Must be skill level {0} or inspired</ImproveInspireNeeded>
+	<ImproveInspireOrRoleNeeded>Must be skill level {0} or inspired or a Production Specialist</ImproveInspireOrRoleNeeded>
+	
+	<NeedsSkill>Needs skill level {0} to finish.</NeedsSkill>
+	
+	<DesignateOnLabel>Set Improve This</DesignateOnLabel>
+	<DesignateOnDesc>Set buildings to be improved</DesignateOnDesc>
+	<DesignateOffLabel>Unset Improve This</DesignateOffLabel>
+	<DesignateOffDesc>Unset buildings to be improved</DesignateOffDesc>
+</LanguageData>

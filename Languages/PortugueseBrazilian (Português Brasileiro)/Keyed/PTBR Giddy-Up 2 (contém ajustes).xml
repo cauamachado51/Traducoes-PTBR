@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+   <!-- GiddyUpCore_Keys.xml -->
+	<GUC_StatPart_Mounted>Montado</GUC_StatPart_Mounted>
+	<GUC_StatPart_MountMoveSpeed>Velocidade de movimento da montaria (substitui a velocidade de movimento do peão)</GUC_StatPart_MountMoveSpeed>
+	<GUC_StatPart_HandlingMultiplier>Multiplicador para habilidade de manejo do cavaleiro</GUC_StatPart_HandlingMultiplier>
+	<GUC_StatPart_HandlingSkill>Habilidade de manejo com animais do cavaleiro</GUC_StatPart_HandlingSkill>
+	<GUC_StatPart_SkillReq>Requisito de habilidade para animal</GUC_StatPart_SkillReq>
+	<GUC_StatPart_LevelsAbove>Níveis acima do requisito de habilidade</GUC_StatPart_LevelsAbove>
+	<GUC_StatPart_HandlingMovementImpact>Impacto da velocidade por nível (definido nas configurações do mod</GUC_StatPart_HandlingMovementImpact>
+	<GUC_StatPart_MountTypeMultiplier>Multiplicador para tipo de montaria</GUC_StatPart_MountTypeMultiplier>
+	
+	<GUC_HandlingAccuracyImpact_Title>Impacto da precisão por nível de manuseamento dos animais (Min: {0}% Max: {1}% Padrão: {2}% Atual: {3}%)</GUC_HandlingAccuracyImpact_Title>
+	<GUC_HandlingAccuracyImpact_Description>Se a perícia de manuseamento de animais de um peão for inferior ao nível que seria necessário para domar o animal, esta é uma penalização por nível. Caso contrário, é um bónus por nível.</GUC_HandlingAccuracyImpact_Description>  
+	
+	<GUC_HandlingMovementImpact_Title>Impacto do movimento por nível de manuseamento dos animais (Min: {0}% Max: {1}% Padrão: {2}% Atual: {3}%)</GUC_HandlingMovementImpact_Title>
+	<GUC_HandlingMovementImpact_Description>Se a perícia de manuseamento de animais de um peão for inferior ao nível que seria necessário para domar o animal, esta é uma penalização por nível. Caso contrário, é um bónus por nível.</GUC_HandlingMovementImpact_Description>
+	
+	<GUC_AccuracyPenalty_Title>Penalidade de precisão montado (Min: {0}% Max: {1}% Padrão: {2}% Atual: {3}%)</GUC_AccuracyPenalty_Title>
+	<GUC_AccuracyPenalty_Description>Penalização da precisão quando os peões estão montados</GUC_AccuracyPenalty_Description>
+	
+	<GUC_BodySizeFilter_Title>Filtrar por tamanho do corpo (Min: {0} Max: {1} Padrão: {2} Atual: {3})</GUC_BodySizeFilter_Title>
+	<GUC_BodySizeFilter_Description>Filtrar animais montáveis por tamanho do corpo</GUC_BodySizeFilter_Description>
+		
+	<GUC_CannotMount>Não é possível montar: </GUC_CannotMount>
+	<GUC_NotInModOptions>Não é uma espécie montável</GUC_NotInModOptions>
+	<GUC_AnimalBusy>Animal ocupado</GUC_AnimalBusy>
+	<GUC_NotFullyGrown>Animal imaturo</GUC_NotFullyGrown>
+	<GUC_NeedsObedience>O animal precisa de ser domesticado</GUC_NeedsObedience>
+	<GUC_IsPoorCondition>Animal em mau estado</GUC_IsPoorCondition>
+	<GUC_IsRoped>O animal está amarrado</GUC_IsRoped>
+	<GUC_Mount>Montar</GUC_Mount>
+	<GUC_Mount_GodMode>Montar (god mode)</GUC_Mount_GodMode>
+	<GUC_Dismount>Desmontar</GUC_Dismount>
+	<GUC_DismountWithoutHitching>Desmontar sem amarrar</GUC_DismountWithoutHitching>
+	<GUC_SwitchMount>Trocar montaria</GUC_SwitchMount>
+	
+	<GUC_Mountable_Tab>Animais montáveis</GUC_Mountable_Tab>
+	<GUC_DrawBehavior_Tab>Comportamento de desenho</GUC_DrawBehavior_Tab>
+	<GUC_DrawBehavior_Description>Qualquer animal assinalado terá o seu comportamento de renderização trocado (desenhado à frente dos peões).</GUC_DrawBehavior_Description>
+	
+	<GUC_Core_Tab>Núcleo</GUC_Core_Tab>
+	<GUC_RnR_Tab>Ride and Roll</GUC_RnR_Tab>
+	<GUC_BattleMounts_Tab>Battle Mounts</GUC_BattleMounts_Tab>
+	<GUC_Caravans_Tab>Caravans</GUC_Caravans_Tab>
+	
+	<GU_Enable_RnR>Ativar o módulo Ride and Roll</GU_Enable_RnR>
+	<GU_Enable_RnR_Description>Desativar este módulo irá remover a funcionalidade relacionada com os peões que usam montarias para se deslocarem no mapa por conveniência ou para trabalhos. Para alterar a definição é necessário reiniciar o jogo.</GU_Enable_RnR_Description>
+	
+	<GU_Enable_BattleMounts>Ativar o módulo Battle Mounts</GU_Enable_BattleMounts>
+	<GU_Enable_BattleMounts_Description>Desativar este módulo irá remover a funcionalidade relacionada com os peões (tanto colonos como inimigos) que usam animais como montarias de batalha. Para alterar a definição é necessário reiniciar o jogo.</GU_Enable_BattleMounts_Description>
+	
+	<GU_Enable_Caravans>Ativar o módulo Caravans</GU_Enable_Caravans>
+	<GU_Enable_Caravans_Description>Desativar este módulo irá remover a funcionalidade relacionada com os peões (tanto colonos como amigos) que montam animais quando saem e entram no mapa. Para alterar a definição é necessário reiniciar o jogo.</GU_Enable_Caravans_Description>
+	                <!-- Reset offset cache -->
+	<GU_Reset_Cache>Redefinir cache de deslocamento</GU_Reset_Cache>
+	
+	<GU_Car_TooYoung>Demasiado jovem</GU_Car_TooYoung>
+	<GU_IncompatibleEquipment>Equipamento incompatível</GU_IncompatibleEquipment>
+	<GU_CannotRide>Cavaleiro incapaz</GU_CannotRide>
+	<GUC_TooHeavy>Demasiado pesado</GUC_TooHeavy>
+	
+   <!-- BattleMounts_Keys.xml -->
+    <BM_MinHandlingLevel_Title>Nível mínimo de manuseamento para aparecer com a montaria (Min: {0} Max: {1} Padrão: {2} Atual: {3})</BM_MinHandlingLevel_Title>
+	<BM_MinHandlingLevel_Description>Os peões inimigos e convidados não chegarão numa montaria a não ser que tenham pelo menos esta habilidade de manuseamento de animais.</BM_MinHandlingLevel_Description>
+	
+	<BM_InBiomeWeight_Title>Chance de montaria inimiga do seu bioma (Min: {0}% Max: {1}% Padrão: {2}% Atual: {3}%)</BM_InBiomeWeight_Title>
+	<BM_InBiomeWeight_Description>A probabilidade de uma montaria usada por um peão inimigo for do seu bioma.</BM_InBiomeWeight_Description>
+	
+	<BM_OutBiomeWeight_Title>Chance de montaria inimiga de qualquer bioma (Min: {0}% Max: {1}% Padrão: {2}% Atual: {3}%)</BM_OutBiomeWeight_Title>
+	<BM_OutBiomeWeight_Description>A chance de uma montaria usada por um peão inimigo ser de qualquer bioma.</BM_OutBiomeWeight_Description>
+	
+	<BM_NonWildWeight_Title>Chance de animais domésticos (Min: {0}% Max: {1}% Padrão: {2}% Atual: {3}%)</BM_NonWildWeight_Title>
+	<BM_NonWildWeight_Description>A chance de uma montaria usada por um peão inimigo ser uma criatura comumente domesticada.</BM_NonWildWeight_Description>
+	
+	<BM_EnemyMountChance_Title>Chance de montaria do peão inimigo (Min: {0}% Max: {1}% Padrão: {2}% Atual: {3}%)</BM_EnemyMountChance_Title>
+	<BM_EnemyMountChance_Description>Chance de um determinado peão inimigo ter uma montaria durante uma invasão.</BM_EnemyMountChance_Description>
+	
+	<BM_EnemyMountChanceTribal_Title>Probabilidade de montaria de peões pré-industriais inimigos (Min: {0}% Max: {1}% Padrão: {2}% Atual: {3}%)</BM_EnemyMountChanceTribal_Title>
+	<BM_EnemyMountChanceTribal_Description>Chance de um determinado peão inimigo pré-industrial ter uma montaria durante um ataque.</BM_EnemyMountChanceTribal_Description>
+	
+	<BM_SizeOk>Montável</BM_SizeOk>
+	<BM_SizeNotOk>Não montável</BM_SizeNotOk>
+	<BM_DrawFront>Animal na frente</BM_DrawFront>
+	<BM_DrawBack>Animal atrás do peão</BM_DrawBack>
+	
+   <!-- GiddyUpCaravan_Keys.xml -->
+    <GU_Car_NotReachable_DropAnimal_NPC_Message> O visitante não conseguiu aceder ao local de montaria do visitante. Certifique-se de que todos os locais são acessíveis.</GU_Car_NotReachable_DropAnimal_NPC_Message>
+	
+	<GU_Car_visitorMountChance_Title>Chance de montaria de visitantes (Min: {0}% Max: {1}% Padrão: {2}% Atual: {3}%)</GU_Car_visitorMountChance_Title>
+	<GU_Car_visitorMountChance_Description>Chance de os visitantes de uma facção pré-industrial aparecerem montados num animal.</GU_Car_visitorMountChance_Description>
+	
+	<GU_Car_visitorMountChanceTribal_Title>Chance de montaria de visitantes Pre-industriais (Min: {0}% Max: {1}% Padrão: {2}% Atual: {3}%)</GU_Car_visitorMountChanceTribal_Title>
+	<GU_Car_visitorMountChanceTribal_Description>Chance de os visitantes de uma facção pré-industrial aparecerem montados num animal.</GU_Car_visitorMountChanceTribal_Description>
+	
+	<GU_Car_GiveCaravanSpeed_Title>Dar um bónus de velocidade de caravana a montarias incomuns</GU_Car_GiveCaravanSpeed_Title>
+	<!-- ajuste -->
+	<GU_Car_GiveCaravanSpeed_Description>Por padrão, as regras de vanilla aplicam-se aos animais que concedem um bónus de velocidade de montaria à caravana. Use esta opção para conceder um bónus de velocidade de montaria a quaisquer outros animais que normalmente não poderiam ser montados. O bónus que lhes é atribuído depende do seu tamanho, velocidade, selvageria e valor. (substitui "Fator de velocidade de condução em caravana" de Customize Animals só de abrir este mod setting, mas ao abrir o mod setting de Customize Animals volta suas configs.(mesmo as intactas))</GU_Car_GiveCaravanSpeed_Description>
+	
+	<GU_Car_RidePackAnimals_Title>Os comerciantes montam animais de carga</GU_Car_RidePackAnimals_Title>
+	<GU_Car_RidePackAnimals_Description>As caravanas comerciais podem entrar no mapa montadas nos seus animais de carga. Pode desativar este comportamento no caso de encontrar algum tipo de conflito de mods.</GU_Car_RidePackAnimals_Description>
+	
+	<GU_Car_Designator_GU_DropAnimal_NPC_Clear_Label>Limpar local de montaria do visitante</GU_Car_Designator_GU_DropAnimal_NPC_Clear_Label>
+	<GU_Car_Designator_GU_DropAnimal_NPC_Clear_Description>Limpar locais designados para montaria de convidados</GU_Car_Designator_GU_DropAnimal_NPC_Clear_Description>
+	
+	<GU_Car_Designator_GU_DropAnimal_NPC_Expand_Label>Colocar ponto de montaria para visitantes</GU_Car_Designator_GU_DropAnimal_NPC_Expand_Label>
+	<GU_Car_Designator_GU_DropAnimal_NPC_Expand_Description>Colocar pontos de entrega para montarias de convidados. Quando os comerciantes ou os visitantes chegam, deixam temporariamente as suas montarias no local de montaria mais próximo do local onde se reúnem. As montarias ficarão perto do ponto de entrega até que o seu cavaleiro volte. </GU_Car_Designator_GU_DropAnimal_NPC_Expand_Description>
+	
+	<!-- note for translators: The following items need to be really short to fit -->
+	<GU_Car_No_Rider>Nenhum cavaleiro</GU_Car_No_Rider>
+	<GU_Car_Set_Rider>Definir cavaleiro</GU_Car_Set_Rider>
+	<GU_Car_NotInModOptions> </GU_Car_NotInModOptions>
+	<GU_Car_NotFullyGrown> </GU_Car_NotFullyGrown>
+	<GU_Car_NeedsObedience> </GU_Car_NeedsObedience>
+	<GU_Car_AnimalNotSelected> </GU_Car_AnimalNotSelected>
+	<GU_Car_PawnNotSelected>não selecionado</GU_Car_PawnNotSelected>
+	
+   <!-- GiddyUpRideAndRoll_Keys.xml -->
+    <GU_RR_NoMountedHunting_Title>Proibir caça montada</GU_RR_NoMountedHunting_Title>
+	<GU_RR_NoMountedHunting_Description>Proibir a caça montada, quando se utiliza o Combat Extended recomenda-se que esta opção seja ativada, caso contrário os animais podem ser feridos durante o jogo.</GU_RR_NoMountedHunting_Description>
+	
+	<GU_RR_AutomountDisabledByDefault_Title>Montaria automática desativada por padrão</GU_RR_AutomountDisabledByDefault_Title>
+	<GU_RR_AutomountDisabledByDefault_Description>A definição de montaria automática dos animais recém-adquiridos será desativada.</GU_RR_AutomountDisabledByDefault_Description>
+	
+	<GU_RR_DisableSlavePawnColumn_Title>Não há coluna de subsídio para escravos</GU_RR_DisableSlavePawnColumn_Title>
+	<GU_RR_DisableSlavePawnColumn_Description>Desativa a coluna na aba animal usada para controlar se os escravos podem ou não ser montados automaticamente. Será aplicado no próximo reinício do jogo.</GU_RR_DisableSlavePawnColumn_Description>
+	
+	<GU_RR_MinAutoMountDistance_Title>Encontre uma montaria se a viagem for mais longa que... (Min: {0} Max: {1} Padrão: {2} Atual: {3})</GU_RR_MinAutoMountDistance_Title>
+	<GU_RR_MinAutoMountDistance_Description>Um peão procurará uma montaria para fazer o seu trabalho se a distância exceder este limite. A distância da tarefa tem em conta várias etapas, por exemplo, apanhar algo e transportá-lo para o armazém.</GU_RR_MinAutoMountDistance_Description>
+	
+	<GU_RR_MinAutoMountDistanceFromAnimal_Title>Distância máxima do animal (Min: {0} Max: {1} Padrão: {2} Atual: {3})</GU_RR_MinAutoMountDistanceFromAnimal_Title>
+	<GU_RR_MinAutoMountDistanceFromAnimal_Description>Se a distância entre um peão e uma montaria for inferior a este limite, o peão considerará a possibilidade de a montar.</GU_RR_MinAutoMountDistanceFromAnimal_Description>
+	
+	<GU_RR_AutoHitchDistance_Title>Limiar de auto-amarrar (Min: {0} Max: {1} Padrão: {2} Atual: {3})</GU_RR_AutoHitchDistance_Title>
+	<GU_RR_AutoHitchDistance_Description>A O peão tentará deixar a sua montaria num local designado primeiro. Se o local mais próximo do seu destino for mais longe do que este limite, o peão irá amarrar automaticamente a sua montaria.</GU_RR_AutoHitchDistance_Description>
+	
+	<GU_RR_InjuredThreshold_Title>Limite para montar criatura ferida (Padrão: {2}% Atual: {3}%)</GU_RR_InjuredThreshold_Title>
+	<GU_RR_InjuredThreshold_Description>Um animal não pode ser montado quando a sua saúde desce abaixo deste limite.</GU_RR_InjuredThreshold_Description>
+	
+	<GU_RR_Designator_GU_DropAnimal_Expand_Label>Local de montaria</GU_RR_Designator_GU_DropAnimal_Expand_Label> <!--Should be short-->
+	                       <!-- Os peões usarão pontos de montaria ao montar um animal que não precisa ser cercado. Se isso acontecer, eles irão apenas para um cercado próximo -->
+	<GU_RR_Designator_GU_DropAnimal_Expand_Description>Os peões usarão pontos de montaria para desmontar um animal, se estiver próximo da onde realmente querem ir (bom para colocar na porta de casa). caso contrário, amarrarão no chão ao lado de seu destino ou colocaram o animal num curral próximo. (o original fala "usarão o ponto ao montar um animal que não precisa ser cercado", acho que quer dizer: se seu animal estiver querendo sair do mapa, eles o levam para o curral em vez de usar o ponto)</GU_RR_Designator_GU_DropAnimal_Expand_Description>
+	                                         <!--Clear mount spot-->
+	<GU_RR_Designator_GU_DropAnimal_Clear_Label>Limpar ponto de montaria</GU_RR_Designator_GU_DropAnimal_Clear_Label> <!--Should be short-->
+		                                         <!--Clears mount drop spots-->
+	<GU_RR_Designator_GU_DropAnimal_Clear_Description>Limpar ponto de queda da montaria.</GU_RR_Designator_GU_DropAnimal_Clear_Description>
+	
+		                                         <!--Clear forbid riding area-->
+	<GU_RR_Designator_GU_NoMount_Clear_Label>Limpar área de montaria proibida</GU_RR_Designator_GU_NoMount_Clear_Label> <!--Should be short-->
+		                                         <!--Clears the forbid riding area-->
+	<GU_RR_Designator_GU_NoMount_Clear_Description>Limpar áreas de montaria proibidas.</GU_RR_Designator_GU_NoMount_Clear_Description>
+	
+	<GU_RR_Designator_GU_NoMount_Expand_Label>área de montaria proibida </GU_RR_Designator_GU_NoMount_Expand_Label>
+	<GU_RR_Designator_GU_NoMount_Expand_Description>Os peões evitarão cavalgar as suas montarias numa zona proibida. Se o seu destino se situar numa zona proibida, utilizarão um local de montaria próximo se o animal não precisar de ser cercado. Se for o caso, procurarão um curral. (colocar o ponto de montaria dentro faz com que eles vão amarrar dentro da área proibida se for mais perto do destino)</GU_RR_Designator_GU_NoMount_Expand_Description>
+	
+	<GU_RR_NoDropAnimal_Label>Sem pontos de montaria</GU_RR_NoDropAnimal_Label>
+	<GU_RR_NoDropAnimal_Description>Foi designada uma zona de montaria proibida, mas não existem pontos de montaria.</GU_RR_NoDropAnimal_Description>
+	
+	<GU_RR_NotReachable_DropAnimal_Message>O colono não conseguiu chegar ao local de montaria em {0}.</GU_RR_NotReachable_DropAnimal_Message>
+	
+	<GU_RR_Gizmo_LeaveRider_Label>Deixar o cavaleiro</GU_RR_Gizmo_LeaveRider_Label>
+	<GU_RR_Gizmo_LeaveRider_Description>Ordenar ao animal que pare à espera do cavaleiro.</GU_RR_Gizmo_LeaveRider_Description>
+
+	<GU_RR_WaitForRiderTimer_Title>Esperar pelo temporizador do cavaleiro ({3} horas)</GU_RR_WaitForRiderTimer_Title>
+	<GU_RR_WaitForRiderTimer_Description>Quando um cavaleiro desmonta, mas pode precisar da montaria para a viagem de volta, este é o tempo que o animal vai esperar. Note-se que um animal pode partir prematuramente em caso de emergência, por exemplo, se estiver a morrer de fome.</GU_RR_WaitForRiderTimer_Description>
+
+</LanguageData>

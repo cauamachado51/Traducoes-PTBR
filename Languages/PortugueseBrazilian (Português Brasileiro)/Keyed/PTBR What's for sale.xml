@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<WDYS.CommandShowSettlementGoods>What's for sale?</WDYS.CommandShowSettlementGoods>
+	<WDYS.CommandShowSettlementGoodsDesc>Mostre o que esse assentamento vende.</WDYS.CommandShowSettlementGoodsDesc>
+	<WDYS.WindowTitle>{0} estoque comercial atual ({1} antes de reabastecer)</WDYS.WindowTitle>
+	<WDYS.BeforeRestock>{0} antes de reabastecer</WDYS.BeforeRestock>
+	<WDYS.HaveXSilver>{0} ter {1} prata</WDYS.HaveXSilver>
+	<WDYS.SearchBar>Pesquise em estoque comercial: </WDYS.SearchBar>
+	<WDYS.MarketValue>Valor de mercado. Isso não leva em consideração o impacto potencial no preço do colono.</WDYS.MarketValue>
+	<WDYS.Pawn>{0} é o seu melhor negociante ({1} melhoria). O preço será mostrado de acordo com isso.</WDYS.Pawn>
+	<WDYS.NeedTradeConsoleUI>Você precisa de um console comercial avançado para receber informações sobre estoques comerciais</WDYS.NeedTradeConsoleUI>
+	<WDYS.Pawns>Peões</WDYS.Pawns>
+	<WDYS.ResourcesRaw>Recursos brutos</WDYS.ResourcesRaw>
+	<WDYS.Manufactured>Fabricado</WDYS.Manufactured>
+	<WDYS.Apparel>Vestuário</WDYS.Apparel>
+	<WDYS.Weapons>Armas</WDYS.Weapons>
+	<WDYS.Items>Itens</WDYS.Items>
+	<WDYS.Buildings>Construções</WDYS.Buildings>
+	<WDYS.Other>Outros</WDYS.Other>
+	<WDYS.Foods>Comidas</WDYS.Foods>
+	<WDYS.Quit>Fechar</WDYS.Quit>
+	<WDYS.Reset>Redefinir</WDYS.Reset>
+	<WDYS.ResetToolTip>Redefinir janela.\n(Isso não é feito automaticamente por motivos de desempenho)</WDYS.ResetToolTip>
+	<WDYS>What's for sale?</WDYS>
+
+	<WDYS.OnlyIndustrial>Somente facções de nível industrial e de alta tecnologia podem enviar a você informações sobre estoques comerciais</WDYS.OnlyIndustrial>
+  <WDYS.NeedTradeConsole>Você precisa de um console comercial para receber informações sobre estoques comerciais</WDYS.NeedTradeConsole>
+  <WDYS.GlobalStockTab>Aba Pesquisa Global</WDYS.GlobalStockTab>
+	<WDYS.MaxDays>Obtenha apenas estoque comercial de assentamento {0} ladrilhos ou menos longe do assentamento/caravana do negociador</WDYS.MaxDays>
+	<WDYS.NoTrader>Nenhum comerciante disponível</WDYS.NoTrader>
+	<WDYS.TilesAway>{0} é {1} ladrilhos de distância</WDYS.TilesAway>
+	<WDYS.EnableMaxTile>Ativar filtragem de distância</WDYS.EnableMaxTile>
+	<WDYS.NoPath>Impossível chegar a pé.</WDYS.NoPath>
+	<WDYS.OnlyShowReachable>Mostrar apenas estoque comercial de assentamento acessível</WDYS.OnlyShowReachable>
+</LanguageData>

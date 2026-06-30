@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+   <!-- GiddyUpCore_Keys.xml -->
+	<GUC_StatPart_Mounted>Mounted</GUC_StatPart_Mounted>
+	<GUC_StatPart_MountMoveSpeed>Mount move speed</GUC_StatPart_MountMoveSpeed>
+	<GUC_StatPart_HandlingMultiplier>Multiplier for handling skill of rider</GUC_StatPart_HandlingMultiplier>
+	<GUC_StatPart_HandlingSkill>Animal handling skill of rider</GUC_StatPart_HandlingSkill>
+	<GUC_StatPart_SkillReq>Skill requirement for animal</GUC_StatPart_SkillReq>
+	<GUC_StatPart_LevelsAbove>Levels above skill requirement</GUC_StatPart_LevelsAbove>
+	<GUC_StatPart_HandlingMovementImpact>Speed impact per level</GUC_StatPart_HandlingMovementImpact>
+	<GUC_StatPart_MountTypeMultiplier>Multiplier for mount type</GUC_StatPart_MountTypeMultiplier>
+	
+	<GUC_HandlingAccuracyImpact_Title>Accuracy impact per animal handling level (Min: {0}% Max: {1}% Default: {2}% Current: {3}%)</GUC_HandlingAccuracyImpact_Title>
+	<GUC_HandlingAccuracyImpact_Description>If the animal handling skill of a pawn is below the level that would be needed to tame the animal, this is a per level-penalty. Otherwise it is a per-level bonus.</GUC_HandlingAccuracyImpact_Description>  
+	
+	<GUC_HandlingMovementImpact_Title>Movement impact per animal handling level (Min: {0}% Max: {1}% Default: {2}% Current: {3}%)</GUC_HandlingMovementImpact_Title>
+	<GUC_HandlingMovementImpact_Description>If the animal handling skill of a pawn is below the level that would be needed to tame the animal, this is a per level-penalty. Otherwise it is a per-level bonus.</GUC_HandlingMovementImpact_Description>
+	
+	<GUC_AccuracyPenalty_Title>Mounted accuracy penalty (Min: {0}% Max: {1}% Default: {2}% Current: {3}%)</GUC_AccuracyPenalty_Title>
+	<GUC_AccuracyPenalty_Description>Accuracy penalty when pawns are mounted</GUC_AccuracyPenalty_Description>
+	
+	<GUC_BodySizeFilter_Title>Filter by body size (Min: {0} Max: {1} Default: {2} Current: {3})</GUC_BodySizeFilter_Title>
+	<GUC_BodySizeFilter_Description>Filter mountable animals by body size</GUC_BodySizeFilter_Description>
+		
+	<GUC_CannotMount>Cannot mount: </GUC_CannotMount>
+	<GUC_NotInModOptions>Not a mountable species</GUC_NotInModOptions>
+	<GUC_AnimalBusy>Animal busy</GUC_AnimalBusy>
+	<GUC_NotFullyGrown>Animal immature</GUC_NotFullyGrown>
+	<GUC_NeedsObedience>Animal requires taming</GUC_NeedsObedience>
+	<GUC_IsPoorCondition>Animal in poor condition</GUC_IsPoorCondition>
+	<GUC_IsRoped>Animal is roped</GUC_IsRoped>
+	<GUC_Mount>Mount</GUC_Mount>
+	<GUC_Mount_GodMode>Mount (god mode)</GUC_Mount_GodMode>
+	<GUC_Dismount>Dismount</GUC_Dismount>
+	<GUC_DismountWithoutHitching>Dismount without hitching</GUC_DismountWithoutHitching>
+	<GUC_SwitchMount>Switch mount</GUC_SwitchMount>
+	
+	<GUC_Mountable_Tab>Mountable animals</GUC_Mountable_Tab>
+	<GUC_DrawBehavior_Tab>Draw behavior</GUC_DrawBehavior_Tab>
+	<GUC_DrawBehavior_Description>Any checked animals will have their rendering behavior swapped (drawn in front of pawns).</GUC_DrawBehavior_Description>
+	
+	<GUC_Core_Tab>Core</GUC_Core_Tab>
+	<GUC_RnR_Tab>Ride and Roll</GUC_RnR_Tab>
+	<GUC_BattleMounts_Tab>Battle Mounts</GUC_BattleMounts_Tab>
+	<GUC_Caravans_Tab>Caravans</GUC_Caravans_Tab>
+	
+	<GU_Enable_RnR>Enable Ride and Roll module</GU_Enable_RnR>
+	<GU_Enable_RnR_Description>Disabling this module will remove functionality related to pawns using mounts to get around the map out of convenience or for jobs. Changing this setting requires a restart.</GU_Enable_RnR_Description>
+	
+	<GU_Enable_BattleMounts>Enable Battle Mounts module</GU_Enable_BattleMounts>
+	<GU_Enable_BattleMounts_Description>Disabling this module will remove functionality related to pawns (both colonists and enemies) using animals as battle mounts. Changing this setting requires a restart.</GU_Enable_BattleMounts_Description>
+	
+	<GU_Enable_Caravans>Enable Caravans module</GU_Enable_Caravans>
+	<GU_Enable_Caravans_Description>Disabling this module will remove functionality related to pawns (both colonists and friendlies) riding animals when they exit and enter the map. Changing this setting requires a restart.</GU_Enable_Caravans_Description>
+	
+	<GU_Reset_Cache>Reset offset cache</GU_Reset_Cache>
+	
+	<GU_Car_TooYoung>Too young</GU_Car_TooYoung>
+	<GU_IncompatibleEquipment>Incompatible equipment</GU_IncompatibleEquipment>
+	<GU_CannotRide>Rider incapable</GU_CannotRide>
+	<GUC_TooHeavy>Too heavy</GUC_TooHeavy>
+	
+   <!-- BattleMounts_Keys.xml -->
+    <BM_MinHandlingLevel_Title>Minimum handling level to spawn with mount (Min: {0} Max: {1} Default: {2} Current: {3})</BM_MinHandlingLevel_Title>
+	<BM_MinHandlingLevel_Description>Enemy and guest pawns will not arrive upon a mount unless they have at least this much skill in animal handling.</BM_MinHandlingLevel_Description>
+	
+	<BM_InBiomeWeight_Title>Enemy mount from your biome chance (Min: {0}% Max: {1}% Default: {2}% Current: {3}%)</BM_InBiomeWeight_Title>
+	<BM_InBiomeWeight_Description>The chance a mount used by an enemy pawn is one from your biome.</BM_InBiomeWeight_Description>
+	
+	<BM_OutBiomeWeight_Title>Enemy mount from any biome chance (Min: {0}% Max: {1}% Default: {2}% Current: {3}%)</BM_OutBiomeWeight_Title>
+	<BM_OutBiomeWeight_Description>The chance a mount used by an enemy pawn is one from any biome.</BM_OutBiomeWeight_Description>
+	
+	<BM_NonWildWeight_Title>Domestic animals chance (Min: {0}% Max: {1}% Default: {2}% Current: {3}%)</BM_NonWildWeight_Title>
+	<BM_NonWildWeight_Description>The chance a mount used by an enemy pawn is a commonly domesticated creature.</BM_NonWildWeight_Description>
+	
+	<BM_EnemyMountChance_Title>Enemy pawn mount chance (Min: {0}% Max: {1}% Default: {2}% Current: {3}%)</BM_EnemyMountChance_Title>
+	<BM_EnemyMountChance_Description>Chance that a given enemy pawn has a mount during a raid.</BM_EnemyMountChance_Description>
+	
+	<BM_EnemyMountChanceTribal_Title>Enemy pre-industrial pawn mount chance (Min: {0}% Max: {1}% Default: {2}% Current: {3}%)</BM_EnemyMountChanceTribal_Title>
+	<BM_EnemyMountChanceTribal_Description>Chance that a given pre-industrial enemy pawn has a mount during a raid.</BM_EnemyMountChanceTribal_Description>
+	
+	<BM_SizeOk>Mountable</BM_SizeOk>
+	<BM_SizeNotOk>Not Mountable</BM_SizeNotOk>
+	<BM_DrawFront>Animal in front</BM_DrawFront>
+	<BM_DrawBack>Animal behind pawn</BM_DrawBack>
+	
+   <!-- GiddyUpCaravan_Keys.xml -->
+    <GU_Car_NotReachable_DropAnimal_NPC_Message> Visitor could not reach visitor mount spot. Make sure all spots are reachable.</GU_Car_NotReachable_DropAnimal_NPC_Message>
+	
+	<GU_Car_visitorMountChance_Title>Visitors mount chance (Min: {0}% Max: {1}% Default: {2}% Current: {3}%)</GU_Car_visitorMountChance_Title>
+	<GU_Car_visitorMountChance_Description>Chance that visitors of a preindustrial faction will show up riding upon an animal.</GU_Car_visitorMountChance_Description>
+	
+	<GU_Car_visitorMountChanceTribal_Title>Pre-industrial visitors mount chance (Min: {0}% Max: {1}% Default: {2}% Current: {3}%)</GU_Car_visitorMountChanceTribal_Title>
+	<GU_Car_visitorMountChanceTribal_Description>Chance that visitors of a pre-industrial faction will show up riding upon an animal.</GU_Car_visitorMountChanceTribal_Description>
+	
+	<GU_Car_GiveCaravanSpeed_Title>Give caravan speed bonus to unusual mounts</GU_Car_GiveCaravanSpeed_Title>
+	<GU_Car_GiveCaravanSpeed_Description>By default, the vanilla rules apply to which animals grant a caravan riding speed bonus. Use this toggle to bestow a riding speed bonus to any other animals that wouldn't normally be rideable. The bonus they are given depends on their size, speed, wildness and value.</GU_Car_GiveCaravanSpeed_Description>
+	
+	<GU_Car_RidePackAnimals_Title>Traders ride pack animals</GU_Car_RidePackAnimals_Title>
+	<GU_Car_RidePackAnimals_Description>Trade caravans may enter the map riding their pack animals. You can turn this behavior off in the event you encounter a mod conflict of some kind.</GU_Car_RidePackAnimals_Description>
+	
+	<GU_Car_Designator_GU_DropAnimal_NPC_Clear_Label>Clear visitor mount spot</GU_Car_Designator_GU_DropAnimal_NPC_Clear_Label>
+	<GU_Car_Designator_GU_DropAnimal_NPC_Clear_Description>Clear designated guest mount spots</GU_Car_Designator_GU_DropAnimal_NPC_Clear_Description>
+	
+	<GU_Car_Designator_GU_DropAnimal_NPC_Expand_Label>Place visitor mount spot</GU_Car_Designator_GU_DropAnimal_NPC_Expand_Label>
+	<GU_Car_Designator_GU_DropAnimal_NPC_Expand_Description>Place drop off spots for guest mounts. When traders or visitors arrive, they will temporarily leave their mounts at the mount spot closest to the place they gather. Mounts will stay near the drop off point until their rider returns. </GU_Car_Designator_GU_DropAnimal_NPC_Expand_Description>
+	
+	<!-- note for translators: The following items need to be really short to fit -->
+	<GU_Car_No_Rider>No rider</GU_Car_No_Rider>
+	<GU_Car_Set_Rider>Set rider</GU_Car_Set_Rider>
+	<GU_Car_NotInModOptions> </GU_Car_NotInModOptions>
+	<GU_Car_NotFullyGrown> </GU_Car_NotFullyGrown>
+	<GU_Car_NeedsObedience> </GU_Car_NeedsObedience>
+	<GU_Car_AnimalNotSelected> </GU_Car_AnimalNotSelected>
+	<GU_Car_PawnNotSelected>not selected</GU_Car_PawnNotSelected>
+	
+   <!-- GiddyUpRideAndRoll_Keys.xml -->
+    <GU_RR_NoMountedHunting_Title>No mounted hunting</GU_RR_NoMountedHunting_Title>
+	<GU_RR_NoMountedHunting_Description>Forbid mounted hunting, when using Combat Extended it is recommended to turn this on, as otherwise animals may get harmed while playing the game.</GU_RR_NoMountedHunting_Description>
+	
+	<GU_RR_AutomountDisabledByDefault_Title>Automount disabled by default</GU_RR_AutomountDisabledByDefault_Title>
+	<GU_RR_AutomountDisabledByDefault_Description>Newly acquired animals' automount setting will be disabled.</GU_RR_AutomountDisabledByDefault_Description>
+	
+	<GU_RR_DisableSlavePawnColumn_Title>No slave allowance column</GU_RR_DisableSlavePawnColumn_Title>
+	<GU_RR_DisableSlavePawnColumn_Description>Disables the column in the animal tab used to control whether or not slaves are allowed to automount. Will apply next game restart.</GU_RR_DisableSlavePawnColumn_Description>
+	
+	<GU_RR_MinAutoMountDistance_Title>Find a mount if trip is longer than... (Min: {0} Max: {1} Default: {2} Current: {3})</GU_RR_MinAutoMountDistance_Title>
+	<GU_RR_MinAutoMountDistance_Description>A pawn will seek a mount to do their job if the distance exceeds this threshold. The job's distance factors multiple steps, for example picking something up and hauling it to storage.</GU_RR_MinAutoMountDistance_Description>
+	
+	<GU_RR_MinAutoMountDistanceFromAnimal_Title>Maximum distance from animal (Min: {0} Max: {1} Default: {2} Current: {3})</GU_RR_MinAutoMountDistanceFromAnimal_Title>
+	<GU_RR_MinAutoMountDistanceFromAnimal_Description>If the distance between a pawn and a mount is less than this threshold, they will consider riding it.</GU_RR_MinAutoMountDistanceFromAnimal_Description>
+	
+	<GU_RR_AutoHitchDistance_Title>Autohitch threshold (Min: {0} Max: {1} Default: {2} Current: {3})</GU_RR_AutoHitchDistance_Title>
+	<GU_RR_AutoHitchDistance_Description>A pawn will try to drop a mount off at a designated spot first. If the closest one from their destination is farther than this threshold, they will autohitch their mount instead.</GU_RR_AutoHitchDistance_Description>
+	
+	<GU_RR_InjuredThreshold_Title>Too injured threshold (Default: {2}% Current: {3}%)</GU_RR_InjuredThreshold_Title>
+	<GU_RR_InjuredThreshold_Description>An animal cannot mounted when their health falls below this threshold.</GU_RR_InjuredThreshold_Description>
+	
+	<GU_RR_Designator_GU_DropAnimal_Expand_Label>Place mount spot</GU_RR_Designator_GU_DropAnimal_Expand_Label> <!--Should be short-->
+	<GU_RR_Designator_GU_DropAnimal_Expand_Description>Pawns will use mount spots when riding an animal that does not need to be penned. If it does, they will just go to a nearby pen instead.</GU_RR_Designator_GU_DropAnimal_Expand_Description>
+	
+	<GU_RR_Designator_GU_DropAnimal_Clear_Label>Clear mount spot</GU_RR_Designator_GU_DropAnimal_Clear_Label> <!--Should be short-->
+	<GU_RR_Designator_GU_DropAnimal_Clear_Description>Clears mount drop spots.</GU_RR_Designator_GU_DropAnimal_Clear_Description>
+	
+	<GU_RR_Designator_GU_NoMount_Clear_Label>Clear forbid riding area</GU_RR_Designator_GU_NoMount_Clear_Label> <!--Should be short-->
+	<GU_RR_Designator_GU_NoMount_Clear_Description>Clears the forbid riding area.</GU_RR_Designator_GU_NoMount_Clear_Description>
+	
+	<GU_RR_Designator_GU_NoMount_Expand_Label>Expand forbid riding area </GU_RR_Designator_GU_NoMount_Expand_Label>
+	<GU_RR_Designator_GU_NoMount_Expand_Description>Pawns will avoid riding their mounts in a forbidden riding area. If their destination lies within one, they will use a nearby mount spot if the animal does not need to be penned. If it does, they will seek a pen instead.</GU_RR_Designator_GU_NoMount_Expand_Description>
+	
+	<GU_RR_NoDropAnimal_Label>No mount spots</GU_RR_NoDropAnimal_Label>
+	<GU_RR_NoDropAnimal_Description>A forbid riding area has been designated but no mount spots exist.</GU_RR_NoDropAnimal_Description>
+	
+	<GU_RR_NotReachable_DropAnimal_Message>Colonist could not reach mount spot at {0}.</GU_RR_NotReachable_DropAnimal_Message>
+	
+	<GU_RR_Gizmo_LeaveRider_Label>Leave rider</GU_RR_Gizmo_LeaveRider_Label>
+	<GU_RR_Gizmo_LeaveRider_Description>Order the animal to stop waiting for the rider.</GU_RR_Gizmo_LeaveRider_Description>
+
+	<GU_RR_WaitForRiderTimer_Title>Wait for rider timer ({3} hours)</GU_RR_WaitForRiderTimer_Title>
+	<GU_RR_WaitForRiderTimer_Description>When a rider dismounts, but may need the mount for the return ride back, this is how long the animal will wait. Note, an animal will prematurely leave for emergencies, such as starving.</GU_RR_WaitForRiderTimer_Description>
+
+</LanguageData>

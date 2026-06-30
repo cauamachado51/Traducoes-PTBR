@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!-- tabs -->
+	<Kopp_CISE_Weapons>Weapons and apparel</Kopp_CISE_Weapons>
+	<Kopp_CISE_Textiles>Textiles</Kopp_CISE_Textiles>
+	<Kopp_CISE_Misc>Rarely used</Kopp_CISE_Misc>
+	<Kopp_CISE_Unassigned>Unassigned</Kopp_CISE_Unassigned>
+	<Kopp_CISE_UnassignedCopy>Unassigned (copy)</Kopp_CISE_UnassignedCopy>
+	
+<!-- sections -->
+	<Kopp_CISE_PackAnimalsSection>Pack animals</Kopp_CISE_PackAnimalsSection>
+	<Kopp_CISE_TrainedAnimalsObedienceSection>Trained animals: Guard</Kopp_CISE_TrainedAnimalsObedienceSection>
+	<Kopp_CISE_TrainedAnimalsReleaseSection>Trained animals: Attack</Kopp_CISE_TrainedAnimalsReleaseSection>
+	<Kopp_CISE_TrainedAnimalsRescueSection>Trained animals: Rescue</Kopp_CISE_TrainedAnimalsRescueSection>
+	<Kopp_CISE_TrainedAnimalsHaulSection>Trained animals: Haul</Kopp_CISE_TrainedAnimalsHaulSection>
+	<Kopp_CISE_PawnsOthers>Others</Kopp_CISE_PawnsOthers>
+
+	<Kopp_CISE_BuildingMaterials>Materials</Kopp_CISE_BuildingMaterials>
+	<Kopp_CISE_Stoneblocks>Stoneblocks</Kopp_CISE_Stoneblocks>
+	<Kopp_CISE_Components>Components</Kopp_CISE_Components>
+	<Kopp_CISE_Shells>Shells</Kopp_CISE_Shells>
+	<Kopp_CISE_Rest>Uncategorized</Kopp_CISE_Rest>
+	<Kopp_CISE_PlantMatter>Plant matter</Kopp_CISE_PlantMatter>
+	<Kopp_CISE_Artifacts>Artifacts</Kopp_CISE_Artifacts>
+	<Kopp_CISE_BuildingsItem>Buildings</Kopp_CISE_BuildingsItem>
+	<Kopp_CISE_Bodyparts>Bodyparts</Kopp_CISE_Bodyparts>
+	<Kopp_CISE_Relicts>Relics</Kopp_CISE_Relicts>
+	<Kopp_CISE_Skilltrainers>Neurotrainers</Kopp_CISE_Skilltrainers>
+	<Kopp_CISE_Techprints>Techprints</Kopp_CISE_Techprints>
+
+	<Kopp_CISE_Food>Meals</Kopp_CISE_Food>
+	<Kopp_CISE_Medicine>Medicine</Kopp_CISE_Medicine>
+	<Kopp_CISE_Drugs>Drugs</Kopp_CISE_Drugs>
+	<Kopp_CISE_BuildingsTravelSupply>Buildings</Kopp_CISE_BuildingsTravelSupply>
+	<Kopp_CISE_Ammunition>Ammunition</Kopp_CISE_Ammunition>
+	<Kopp_CISE_AnimalFood>Animal food</Kopp_CISE_AnimalFood>
+
+	<Kopp_CISE_WeaponRangedSection>Ranged weapons</Kopp_CISE_WeaponRangedSection>
+	<Kopp_CISE_WeaponMeleeSection>Melee weapons</Kopp_CISE_WeaponMeleeSection>
+	<Kopp_CISE_ApparelArmorSection>Armored apparel</Kopp_CISE_ApparelArmorSection>
+	<Kopp_CISE_ApparelUtilitySection>Utility apparel</Kopp_CISE_ApparelUtilitySection>
+	<Kopp_CISE_ApparelNonArmorSection>Apparel</Kopp_CISE_ApparelNonArmorSection>
+
+	<Kopp_CISE_TextilesRest>Misc</Kopp_CISE_TextilesRest>
+	<Kopp_CISE_TextilesLeather>Leather</Kopp_CISE_TextilesLeather>
+	<Kopp_CISE_TextilesWool>Wool</Kopp_CISE_TextilesWool>
+
+	<Kopp_CISE_Meat>Raw meat</Kopp_CISE_Meat>
+	<Kopp_CISE_RawFood>Raw food</Kopp_CISE_RawFood>
+	<Kopp_CISE_Eggs>Eggs</Kopp_CISE_Eggs>
+	<Kopp_CISE_Beddings>Beddings</Kopp_CISE_Beddings>
+	<Kopp_CISE_StoneChunks>Chunks</Kopp_CISE_StoneChunks>
+	<Kopp_CISE_Corpses>Corpses</Kopp_CISE_Corpses>
+
+<!-- settings menu -->
+	<Kopp_CISE_Button_SettingsMenu>Tabs configuration</Kopp_CISE_Button_SettingsMenu>
+	<!-- Main -->
+	<Kopp_CISE_MainTabs_TabsSettings>Tab settings</Kopp_CISE_MainTabs_TabsSettings>
+	<Kopp_CISE_MainTabs_TabsSubcategories>Subcategory settings</Kopp_CISE_MainTabs_TabsSubcategories>
+
+	<Kopp_CISE_Button_Helper>Help me</Kopp_CISE_Button_Helper>
+
+	<Kopp_CISE_Button_NewTab>New tab</Kopp_CISE_Button_NewTab>
+	<Kopp_CISE_Button_SwitchTab>Put tab on position</Kopp_CISE_Button_SwitchTab>
+	<Kopp_CISE_Button_RenameTab>Rename tab</Kopp_CISE_Button_RenameTab>
+	<Kopp_CISE_Button_NewTabFromCfg>New tab from saved config</Kopp_CISE_Button_NewTabFromCfg>
+	<Kopp_CISE_Button_DeleteTab>Delete tab</Kopp_CISE_Button_DeleteTab>
+	<Kopp_CISE_Button_LoadConfig>Load config</Kopp_CISE_Button_LoadConfig>
+	<Kopp_CISE_Button_SaveConfig>Save config</Kopp_CISE_Button_SaveConfig>
+	<Kopp_CISE_Button_DeleteConfig>Delete config</Kopp_CISE_Button_DeleteConfig>
+	<Kopp_CISE_Button_RecreateDefaultConfig>Recreate default config</Kopp_CISE_Button_RecreateDefaultConfig>
+
+	<Kopp_CISE_TabGainsName>The tab is now called {0}.</Kopp_CISE_TabGainsName>
+	<Kopp_CISE_ConfirmLoadConfig>Really load config {0}?\n\nIf the config you are using right now is not saved it will be lost if you proceed.</Kopp_CISE_ConfirmLoadConfig>
+	<Kopp_CISE_DefaultConfigRecreated>The default config has been recreated! The old default config held {0} thingDefs while the new default config holds {1} thingDefs.</Kopp_CISE_DefaultConfigRecreated>
+	
+	<Kopp_CISE_UseVanillaPawnsTab>Set this to true to show the vanilla pawns tab instead of the mods one.\nIt might be useful/necessary if you use mods that alter the vanilla pawns tab.\nThis setting gets applied to all configs.</Kopp_CISE_UseVanillaPawnsTab>
+	<Kopp_CISE_ContentPawnsTab>The content of the pawns tab is hard coded\nand can not be changed.\n\n\n\nThe tab can be renamed and its position can\nbe switched though.</Kopp_CISE_ContentPawnsTab>
+	<!-- Subcategories -->
+	<Kopp_CISE_Button_NewSubcategory>New subcategory</Kopp_CISE_Button_NewSubcategory>
+	<Kopp_CISE_Button_SwitchSubcategory>Put subcategory on position</Kopp_CISE_Button_SwitchSubcategory>
+	<Kopp_CISE_Button_RenameSubcategory>Rename subcategory</Kopp_CISE_Button_RenameSubcategory>
+	<Kopp_CISE_Button_ExclusiveSubcategory>Exclusive or not</Kopp_CISE_Button_ExclusiveSubcategory>
+	<Kopp_CISE_Button_DeleteSubcategory>Delete subcategory</Kopp_CISE_Button_DeleteSubcategory>
+	
+	<Kopp_CISE_SubcategoryGainsName>The subcategory is now called {0}</Kopp_CISE_SubcategoryGainsName>
+	
+	<Kopp_CISE_ConfigSaved>The config is saved as {0}. Enter a valid name to rename it.</Kopp_CISE_ConfigSaved>
+	<Kopp_CISE_ConfigGainsName>Config renamed to {0}.</Kopp_CISE_ConfigGainsName>
+	<Kopp_CISE_ConfigGainsNameFail>The name {0} is either invalid or already in use. Choose another one.</Kopp_CISE_ConfigGainsNameFail>
+	
+	<!-- helper overlay -->
+	<Kopp_CISE_Helper_MainTabs>The mod has 2 different windows: 'Tab settings' and 'Subcategory settings'.
+\nVanilla has three tabs: Pawns, Travel Supplies and Items.
+\nIn Vanilla only the Pawns tab has subcategories: Colonists, Prisoners, Slaves, Animals, ...
+\nIn the row below you can see all the tabs that your config has and switch between them and then do changes.</Kopp_CISE_Helper_MainTabs>
+	
+	<Kopp_CISE_Helper_FilterUI>The filter UI:
+Allow items that should be shown in the corresponding tab.
+You can then attach these items to subcategories in the subcategory settings if you like.
+\nItems can appear in more than one tab.
+\nThings on the map that are in no tab will appear in a new tab called 'Unassigned' automatically.
+This tab is not visible in the tab settings as it can not be changed.
+\nHowever: You can easily make a new tab with all the things that you have not assigned to a tab yet by using the button 'New tab from saved config' on the right side of the gui, then select 'tmpConfig', then 'Unassigned'.
+Note that if you did not assign items of a certain quality (e.g. legendary weapons) or with a certain hitpoints percentage to a tab, the copied unassigned tab will only have the ones allowed, that are on the map right now. And every quality level/hitpoint percentage is allowed.</Kopp_CISE_Helper_FilterUI>
+
+	<Kopp_CISE_Helper_CategoryTabs>Add a new tab, either a blank one or a (independent) copy of a existing one.
+The copy will have all subcategories of the parent included and all allowed items of the parent selected.
+\nThere is a maximum of 15 tabs and a maximum of 15 subcategories per tab.</Kopp_CISE_Helper_CategoryTabs>
+	
+	<Kopp_CISE_Helper_Configs>A config contains all the infos needed to 'draw' the tabs and their content in the caravan/transporter gui.
+E.g. the number of tabs, the names, the subcategories and the selected items.
+\nImagine having a sheet of paper in front of you with that infos. This sheet of paper will ALWAYS be used to draw the tabs.
+All the changes you do will ALWAYS be done to that sheet, too. It is called 'tmpConfig'.
+Next to the sheet is a stack of papers, which represent the saved configs.
+\nIf you load a config, the corresponding paper of the stack gets copied and is replacing the sheet in front of you.
+If you save a config the sheet in front of you gets copied and the copy gets put on the stack of papers.
+\nThat means if you save a config and make changes to it afterwards these changes apply to the sheet in front of you but not to the saved config.
+\nAs a result it is not possible to overwrite a config. You have to delete the old one and save the new one.
+Configs are global, not per savegame. Your changes are either saved immediately or when closing the tab settings menu.
+The config you see when using this mod for the first time is a copy of 'defaultConfig'.
+If you only work with one config you dont have to worry about saving/loading or the config system at all. Just make changes and be happy.
+\nThe 'recreate default config' button may be useful if you add/remove mods while using this mod so the default config gets updated with new items.</Kopp_CISE_Helper_Configs>
+
+	<Kopp_CISE_Helper_Close>To close the helper overlay either press the button below, ESC, the button you used to open the overlay or use the close button in the top right corner.
+Sorry for the bad implementation...</Kopp_CISE_Helper_Close>
+
+	<!-- loading list -->
+	<Kopp_CISE_NeedsRestart>The following settings need a restart to be applied!</Kopp_CISE_NeedsRestart>
+	<Kopp_CISE_ShowLoadingList>Show loading list: </Kopp_CISE_ShowLoadingList>
+	<Kopp_CISE_ShowLoadingListTooltip>If set to true, you can see a list of all the items/pawns already selected when forming a caravan (or splitting, or loading transporters).</Kopp_CISE_ShowLoadingListTooltip>
+	<Kopp_CISE_Pawns>Pawns</Kopp_CISE_Pawns>
+	<Kopp_CISE_Items>Items</Kopp_CISE_Items>
+	<Kopp_CISE_CaravanItemSelectionEnhanced>Caravan Item Selection Enhanced</Kopp_CISE_CaravanItemSelectionEnhanced>
+
+	<!-- show 'select everything' even if dev mode is deactivated -->
+	<Kopp_CISE_ShowSelectEveryhing>Show the button 'Select everything' in the caravan forming dialog, regardless of whether the dev mode is acive: </Kopp_CISE_ShowSelectEveryhing>
+
+	<!-- Dropdown menu when pressing 'Reform caravan' if all or none items should be pre selected -->
+	<Kopp_CISE_ReformCaravanDropdown>Show a dropdown menu when clicking 'Reform caravan' to define if items and pawns should be preselected: </Kopp_CISE_ReformCaravanDropdown>
+	<Kopp_CISE_ReformSelectEverything>Preselect all (relevant) items and pawns (vanilla)</Kopp_CISE_ReformSelectEverything>
+	<Kopp_CISE_ReformSelectNone>Do not preselect any items or pawns</Kopp_CISE_ReformSelectNone>
+
+	<!-- presets -->
+	<Kopp_CISE_PresetGainsName>The tab is now called {0}.</Kopp_CISE_PresetGainsName>
+	<Kopp_CISE_UnselectedStuff>The following things could not be selected:</Kopp_CISE_UnselectedStuff>
+	<Kopp_CISE_PresetContains>The preset contains the following things:</Kopp_CISE_PresetContains>
+	<Kopp_CISE_Presets>Presets</Kopp_CISE_Presets>
+	<Kopp_CISE_Preset>Preset: </Kopp_CISE_Preset>
+	<Kopp_CISE_Load>Load</Kopp_CISE_Load>
+	<Kopp_CISE_LoadOnTop>Load on top of the current selection</Kopp_CISE_LoadOnTop>
+	<Kopp_CISE_Rename>Rename</Kopp_CISE_Rename>
+	<Kopp_CISE_Overwrite>Overwrite with the current selection</Kopp_CISE_Overwrite>
+	<Kopp_CISE_OverwriteConfirmation>Are you sure you want to overwrite this preset with the current selection?</Kopp_CISE_OverwriteConfirmation>
+	<Kopp_CISE_Delete>Delete</Kopp_CISE_Delete>
+	<Kopp_CISE_DeleteConfirmation>Are you sure you want to delete this preset?</Kopp_CISE_DeleteConfirmation>
+	<Kopp_CISE_ShowContent>Show content</Kopp_CISE_ShowContent>
+	<Kopp_CISE_SavePreset>Save the current selection as a new preset</Kopp_CISE_SavePreset>
+	<Kopp_CISE_NewPreset>New preset</Kopp_CISE_NewPreset>
+	<Kopp_CISE_UnselectedStuffAgain>Show again what could not be selected</Kopp_CISE_UnselectedStuffAgain>
+	<Kopp_CISE_HitpointRange>Presets: Allowed hitpoint range: </Kopp_CISE_HitpointRange>
+	<Kopp_CISE_HitpointRangeTooltip>If set to a different value than 100%, the mod takes hitpoints of items (that have a quality or are buildings) into account when loading a preset.\n\nExample: You save a preset with a revolver that has 60% hitpoints left and you set this value to 20%.\nWhen loading the preset there needs to be a revolver available that has between 40% and 80% hitpoints left (and has the same quality as the saved one), otherwise no revolver gets selected.</Kopp_CISE_HitpointRangeTooltip>
+
+	</LanguageData>

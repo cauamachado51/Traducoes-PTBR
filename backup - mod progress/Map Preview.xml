@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Keyes.xml -->
+     <MapPreview.Title>Map Preview</MapPreview.Title>
+     
+     <MapPreview.Settings.Tab.Preview>Preview</MapPreview.Settings.Tab.Preview>
+     <MapPreview.Settings.Tab.Toolbar>Toolbar</MapPreview.Settings.Tab.Toolbar>
+     <MapPreview.Settings.EnableMapPreviewHeader>Show map previews ...</MapPreview.Settings.EnableMapPreviewHeader>
+     <MapPreview.Settings.EnableMapPreviewInEntry>... while starting a new game (choosing the tile to settle on)</MapPreview.Settings.EnableMapPreviewInEntry>
+     <MapPreview.Settings.EnableMapPreviewInPlay>... while playing (on the world map screen)</MapPreview.Settings.EnableMapPreviewInPlay>
+     <MapPreview.Settings.EnableToolbarHeader>Show world map toolbar ...</MapPreview.Settings.EnableToolbarHeader>
+     <MapPreview.Settings.EnableToolbarInEntry>... while starting a new game (choosing the tile to settle on)</MapPreview.Settings.EnableToolbarInEntry>
+     <MapPreview.Settings.EnableToolbarInPlay>... while playing (on the world map screen)</MapPreview.Settings.EnableToolbarInPlay>
+     <MapPreview.Settings.LockWindowPositions>Lock window positions</MapPreview.Settings.LockWindowPositions>
+     <MapPreview.Settings.AutoOpenPreviewOnWorldMap>Automatically open preview window when switching to the world map</MapPreview.Settings.AutoOpenPreviewOnWorldMap>
+     <MapPreview.Settings.TriggerPreviewOnWorldObjects>Show map preview when a settlement or quest site is selected</MapPreview.Settings.TriggerPreviewOnWorldObjects>
+     <MapPreview.Settings.EnableSeedRerollFeature>Show map seed reroll button</MapPreview.Settings.EnableSeedRerollFeature>
+     <MapPreview.Settings.EnableSeedRerollFeature.MapRerollConflict>Show map seed reroll button (not available because Map Reroll mod is installed)</MapPreview.Settings.EnableSeedRerollFeature.MapRerollConflict>
+     <MapPreview.Settings.EnableSeedRerollWindow>Use reroll helper window (hold shift when clicking reroll button to invert)</MapPreview.Settings.EnableSeedRerollWindow>
+     <MapPreview.Settings.EnableWorldSeedRerollFeature>Show world seed reroll button</MapPreview.Settings.EnableWorldSeedRerollFeature>
+     <MapPreview.Settings.PreviewWindowSize>Preview window size</MapPreview.Settings.PreviewWindowSize>
+     <MapPreview.Settings.IncludeCaves>Include caves in preview (disable to make preview generation faster)</MapPreview.Settings.IncludeCaves>
+     <MapPreview.Settings.EnableTrueTerrainColors>Use true terrain colors (enables support for terrain added by mods, also applies to Map Reroll)</MapPreview.Settings.EnableTrueTerrainColors>
+     <MapPreview.Settings.SkipRiverFlowCalc>Use river generator optimization (faster, but slightly different from vanilla)</MapPreview.Settings.SkipRiverFlowCalc>
+     <MapPreview.Settings.CompatibilityMode>Compatibility mode (increases memory usage, but can help if you have mod compatibility issues)</MapPreview.Settings.CompatibilityMode>
+     <MapPreview.Settings.RefreshTerrainColors>Refresh terrain colors</MapPreview.Settings.RefreshTerrainColors>
+     
+     <MapPreview.World.WaitForPreview>There is a map preview currently generating, please wait before continuing...</MapPreview.World.WaitForPreview>
+     <MapPreview.World.ShowHidePreview>Toggle map preview.</MapPreview.World.ShowHidePreview>
+     <MapPreview.World.RerollMapSeed>Reroll the seed for this map.</MapPreview.World.RerollMapSeed>
+     <MapPreview.World.ResetMapSeed>Undo rerolls and reset the seed for this map to the original one.</MapPreview.World.ResetMapSeed>
+     <MapPreview.World.RerollWorldSeed>Generate a new world with a random seed.</MapPreview.World.RerollWorldSeed>
+     <MapPreview.World.OpenSettings>Open Map Preview settings.</MapPreview.World.OpenSettings>
+     
+     <MapPreview.World.RerollWindow.Title>Reroll Map Seed</MapPreview.World.RerollWindow.Title>
+     <MapPreview.World.RerollWindow.Close>Close</MapPreview.World.RerollWindow.Close>
+     <MapPreview.World.RerollWindow.RefreshSeeds>Refresh seeds (hold shift to jump)</MapPreview.World.RerollWindow.RefreshSeeds>
+     <MapPreview.World.RerollWindow.ZoomOut>Zoom out</MapPreview.World.RerollWindow.ZoomOut>
+     <MapPreview.World.RerollWindow.ZoomIn>Zoom in</MapPreview.World.RerollWindow.ZoomIn>
+     <MapPreview.World.RerollWindow.Apply>Apply this seed</MapPreview.World.RerollWindow.Apply>
+     <MapPreview.World.RerollWindow.Pin>Pin this seed</MapPreview.World.RerollWindow.Pin>
+     <MapPreview.World.RerollWindow.Unpin>Unpin this seed</MapPreview.World.RerollWindow.Unpin>
+     <MapPreview.World.RerollWindow.GoTo.Label>Enter number of rerolls:</MapPreview.World.RerollWindow.GoTo.Label>
+     <MapPreview.World.RerollWindow.GoTo.Invalid>Invalid number, only digits and + are allowed.</MapPreview.World.RerollWindow.GoTo.Invalid>
+     
+     <MapPreview.PreviewGenerationFailed>A conflict with one of your mods has caused the map preview generator to fail. Please report this on the Map Preview workshop page so that a compatibility patch can be created. After closing this message, please upload your log file and include that link in your bug report.</MapPreview.PreviewGenerationFailed>
+     
+     <MapPreview.Integration.MapDesigner.OpenSettings>Open Map Designer.</MapPreview.Integration.MapDesigner.OpenSettings>
+     <MapPreview.Integration.MapDesigner.UnavailableForTile>Map Designer can not be used on this tile.</MapPreview.Integration.MapDesigner.UnavailableForTile>
+     <MapPreview.Integration.MapDesigner.Enabled>Show Map Designer button</MapPreview.Integration.MapDesigner.Enabled>
+     
+     <MapPreview.Integration.PrepareLanding.Open>Open Prepare Landing.</MapPreview.Integration.PrepareLanding.Open>
+     <MapPreview.Integration.PrepareLanding.Enabled>Show Prepare Landing button</MapPreview.Integration.PrepareLanding.Enabled>
+     
+     <MapPreview.Integration.WorldEdit.Open>Open World Edit.</MapPreview.Integration.WorldEdit.Open>
+     <MapPreview.Integration.WorldEdit.Enabled>Show World Edit button</MapPreview.Integration.WorldEdit.Enabled>
+     
+     <MapPreview.Integration.LandformSettings.Open>Open landform settings.</MapPreview.Integration.LandformSettings.Open>
+     <MapPreview.Integration.LandformSettings.Enabled>Show landform settings button</MapPreview.Integration.LandformSettings.Enabled>
+  
+  <!-- HugsLogPublisher.xml -->
+     <HugsLogPublisher.copy>Copy</HugsLogPublisher.copy>
+     <HugsLogPublisher.shareBtn>Share logs</HugsLogPublisher.shareBtn>
+     <HugsLogPublisher.shareConfirmTitle>Confirm</HugsLogPublisher.shareConfirmTitle>
+     <HugsLogPublisher.shareConfirmMessage>Upload game logs now?\n\nThis will post your game logs to a public server and give you the link to share with others. This is useful if you need help fixing a problem or would like to report an issue to a mod author.\n\nNo private information will be shared.</HugsLogPublisher.shareConfirmMessage>
+     <HugsLogPublisher.publisherTitle>Log publisher</HugsLogPublisher.publisherTitle>
+     <HugsLogPublisher.uploading>Uploading{0}</HugsLogPublisher.uploading>
+     <HugsLogPublisher.shortening>Getting link{0}</HugsLogPublisher.shortening>
+     <HugsLogPublisher.uploaded>Upload complete!</HugsLogPublisher.uploaded>
+     <HugsLogPublisher.uploadError>Upload error: {0}</HugsLogPublisher.uploadError>
+     <HugsLogPublisher.copiedToClipboard>Copied to clipboard.</HugsLogPublisher.copiedToClipboard>
+     <HugsLogPublisher.abortBtn>Abort</HugsLogPublisher.abortBtn>
+     <HugsLogPublisher.retryBtn>Retry</HugsLogPublisher.retryBtn>
+     <HugsLogPublisher.browseBtn>Open in browser</HugsLogPublisher.browseBtn>
+     <HugsLogPublisher.useRecommendedSettings>Use recommended settings</HugsLogPublisher.useRecommendedSettings>
+     <HugsLogPublisher.shortUrls>Use URL shortener</HugsLogPublisher.shortUrls>
+     <HugsLogPublisher.shortUrls_tip>Produces a shorter link when uploading. Not recommended on Steam- short links are automatically removed.</HugsLogPublisher.shortUrls_tip>
+     <HugsLogPublisher.platformInfo>Include platform information</HugsLogPublisher.platformInfo>
+     <HugsLogPublisher.platformInfo_tip>Includes information about your CPU, memory and video card in the log.</HugsLogPublisher.platformInfo_tip>
+     <HugsLogPublisher.unlimitedLogSize>Allow unlimited log size</HugsLogPublisher.unlimitedLogSize>
+     <HugsLogPublisher.unlimitedLogSize_tip>When disabled, log size is limited to 10K lines to prevent very long logs from causing issues.</HugsLogPublisher.unlimitedLogSize_tip>
+     <HugsLogPublisher.toClipboardBtn>To clipboard</HugsLogPublisher.toClipboardBtn>
+     <HugsLogPublisher.uploadBtn>Upload</HugsLogPublisher.uploadBtn>
+     <HugsLogPublisher.filesBtn>Files</HugsLogPublisher.filesBtn>
+     <HugsLogPublisher.openLogFile>Open log file</HugsLogPublisher.openLogFile>
+     <HugsLogPublisher.openSaveDir>Open save folder</HugsLogPublisher.openSaveDir>
+     <HugsLogPublisher.openModsDir>Open mods folder</HugsLogPublisher.openModsDir>
+
+</LanguageData>

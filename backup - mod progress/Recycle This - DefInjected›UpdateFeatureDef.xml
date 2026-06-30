@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: \n            |Recent changes:\n            |-Fixed tools being unable to designate multiple items in one cell (storage mods fix).\n -->
+  <RecycleThis_update3.content>TODO</RecycleThis_update3.content>
+  <!-- EN: Recycle This -->
+  <RecycleThis_update3.modNameReadable>TODO</RecycleThis_update3.modNameReadable>
+  
+  <!-- EN: Update 4 of Recycle This mod brings you:\n            |-Completely reworked logic behind workgivers. Should give some perfomance improvements on old colonies.\n			|-Separation of destroy and recycle work givers. Now you can fine tune priority of those if you have Work Tab from Fluffy.\n			|-Improved mod compatibility. Now any modded workbenches (even gas benches from VFE) work with mod.\n			|-Recycling of none-smelthable apparel now requires either tailor bench or crafting spot.\n			|-Recycling speed now considers work speed factor of workbench.\n            |-New work type "Recycle". Vanilla smelting is also moved there.\n			|-Switched natural priority of "Art" and "Crafting", because it doesn't make sense in vanilla.\n			|-Added new bill "Scrap apparel" for all tailor benches (including modded ones). In case you want to automate your recycling through bills.\n			|-Mod options (only contained option to disable apparel scrapping) removed.\n -->
+  <RecycleThis_updatefour.content>TODO</RecycleThis_updatefour.content>
+  <!-- EN: Recycle This -->
+  <RecycleThis_updatefour.modNameReadable>TODO</RecycleThis_updatefour.modNameReadable>
+  
+</LanguageData>

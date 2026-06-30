@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: heavy bridges -->
+  <HeavyBridges.label>pontes pesadas</HeavyBridges.label>
+  <!-- EN: Build heavy bridges to provide passage over water and even construct heavy structures on them. -->
+  <HeavyBridges.description>Construa pontes pesadas para permitir a passagem sobre a água e até mesmo construa estruturas pesadas sobre elas.</HeavyBridges.description>
+  <!-- EN: deep water bridges -->
+  <DeepWaterBridges.label>pontes de águas profundas</DeepWaterBridges.label>
+  <!-- EN: Learn how to build large pillar structures for your bridges to be able to build bridges even on deep water. -->
+  <DeepWaterBridges.description>Aprenda a construir grandes estruturas de pilares para suas pontes para poder construir pontes mesmo em águas profundas.</DeepWaterBridges.description>
+</LanguageData>

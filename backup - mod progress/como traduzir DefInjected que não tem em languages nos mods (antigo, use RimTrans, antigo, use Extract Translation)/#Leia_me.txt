@@ -1,0 +1,10 @@
+em mods que não contem tradução ou só tem Keyed, é possivel traduzir olhando os arquivos da pasta Defs.
+
+abaixo você vê um arquivo de Defs do mod "Ranged DPS (Continued)", que esta em: 1.4/Defs/Stats_RangedDPS_Guns.xml
+
+mais abaixo sua tradução, do mod "Ranged DPS (Continued) rus", que esta em: 1.4/Languages\Russian\DefInjected\StatDef\Stats_RangedDPS_Guns_StatDef.xml
+   (não precisa ser na pasta "1.4" a tradução, pode ser direto em Languages)
+   
+como pode ver no arquivo de Defs, StatDef de <StatDef> é a pasta onde deve estar a tradução em DefInjected e ao pegar o que esta entre <defName>*aqui*</defName>, adicionar um ponto (.) e label de <label> ou description de <description> e combina-los, como neste ex: <RangedWeapon_AverageDPS.label>*tradução do label ou description*</RangedWeapon_AverageDPS.label>, é traduzido no jogo.
+
+outros que são de traduzir: <jobString></jobString>

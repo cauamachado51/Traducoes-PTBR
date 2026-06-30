@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+ <!-- Section_General.xml -->
+  <!-- No Friend Shaped Manhunters -->
+  <TweakSubSection_NoFriendShapedManhunters.label>No Friend Shaped Manhunters</TweakSubSection_NoFriendShapedManhunters.label>
+  <TweakSubSection_NoFriendShapedManhunters.description>Sets parameters which decide if an animal can arrive as manhunter or not. This does not prevent it happening if they take damage. This can result in the initial Royalty quest not firing as it requires manhunting animal that specifically fits the parameters this tweak is designed to prevent, I'd recommend enabling this AFTER that quest.</TweakSubSection_NoFriendShapedManhunters.description>
+
+
+  <!-- Tainted Apparel -->
+  <TweakSubSection_TaintedApparel.label>Tainted Apparel</TweakSubSection_TaintedApparel.label>
+  <TweakSubSection_TaintedApparel.description>Tweaks specific to tainted apparel.</TweakSubSection_TaintedApparel.description>
+
+
+  <!-- Prisoners Don't Have Keys -->
+  <TweakSubSection_PrisonersDontHaveKeys.label>Prisoners Don't Have Keys</TweakSubSection_PrisonersDontHaveKeys.label>
+  <TweakSubSection_PrisonersDontHaveKeys.description>Selectively controls whether prisoners and slaves can open doors during breakout and rebellion.</TweakSubSection_PrisonersDontHaveKeys.description>
+
+
+  <!-- Slim Rim -->
+  <TweakSubSection_SlimRim.label>Slim Rim</TweakSubSection_SlimRim.label>
+  <TweakSubSection_SlimRim.description>Allows the limiting of pawn body tpes on generation, the replacement will be either Male or Female depending on the pawns current gender.</TweakSubSection_SlimRim.description>
+
+
+  <!-- Trait Count Adjustment -->
+  <TweakSubSection_TraitCountAdjustment.label>Trait Count Adjustment</TweakSubSection_TraitCountAdjustment.label>
+  <TweakSubSection_TraitCountAdjustment.description>As of 1.4 this isn't fully functional, changes to the way traits generate made it so the first 1-3 can always generate like normal, regardless of what I do. So this is only usefuly currently for those who want to guarantee more than 1 or have more in general. Won't affect newborns/children as they have a complicated system for their growth.</TweakSubSection_TraitCountAdjustment.description>
+
+
+  <!-- Ancient Deconstruction -->
+  <TweakSubSection_AncientDeconstruction.label>Ancient Deconstruction</TweakSubSection_AncientDeconstruction.label>
+  <TweakSubSection_AncientDeconstruction.description>Makes the Ancient Ruins added by Ideology and/or Biotech deconstructable instead of having to destroy them.</TweakSubSection_AncientDeconstruction.description>
+
+
+  <!-- Dynamic Population -->
+  <TweakSubSection_DynamicPopulation.label>Dynamic Population</TweakSubSection_DynamicPopulation.label>
+  <TweakSubSection_DynamicPopulation.description>Provides control over the population thresholds universally, overriding storyteller limitations.</TweakSubSection_DynamicPopulation.description>
+
+
+  <!-- Raid Strategies -->
+  <TweakSubSection_RaidStrategies.label>Raid Strategies</TweakSubSection_RaidStrategies.label>
+  <TweakSubSection_RaidStrategies.description>Provides control over the raid strategies which can be used by factions. Keep in mind that if a faction only uses strategies you have disabled, they will never be seen, it hasn't come up yet though.</TweakSubSection_RaidStrategies.description>
+
+ <!-- Section_Jobs.xml -->
+  <!-- Faster Smoothing -->
+  <TweakSubSection_FasterSmoothing.label>Faster Smoothing</TweakSubSection_FasterSmoothing.label>
+  <TweakSubSection_FasterSmoothing.description>Changes the speed at which stone smoothing is done to a custom value.</TweakSubSection_FasterSmoothing.description>
+
+
+  <!-- Skills -->
+  <TweakSubSection_Skills.label>Skills</TweakSubSection_Skills.label>
+  <TweakSubSection_Skills.description>What you statistically speaking, lack.</TweakSubSection_Skills.description>
+
+
+  <!-- Hunters Can Use Melee -->
+  <TweakSubSection_HuntersCanMelee.label>Hunters Can Use Melee</TweakSubSection_HuntersCanMelee.label>
+  <TweakSubSection_HuntersCanMelee.description>Allows hunters to use melee, regardless of how well they can do so.</TweakSubSection_HuntersCanMelee.description>
+
+ <!-- Section_Power.xml -->
+  <!-- <TweaksGalore.TweakDef Name="TweakBase_PowerAdjuster" Abstract="True">
+		<tweakWorker>TweaksGalore.TweakWorker_PowerValue</tweakWorker>
+		<tweakType>Int</tweakType>
+	</TweaksGalore.TweakDef> -->
+  <TweakSubSection_PowerAdjusting.label>Power Adjusting</TweakSubSection_PowerAdjusting.label>
+  <TweakSubSection_PowerAdjusting.description>If enabled, allows the below power changes to take effect. If they usually produce then it configures how much they output instead, which will instead show as a negative value slider.</TweakSubSection_PowerAdjusting.description>
+
+ <!-- Section_Research.xml -->
+  <TweakSubSection_TechTraversal.label>Tech Traversal</TweakSubSection_TechTraversal.label>
+  <TweakSubSection_TechTraversal.description>Tweaks specific the players tech level changing as they progress.</TweakSubSection_TechTraversal.description>
+
+ <!-- Section_Resources.xml -->
+  <!-- Stackable Chunks -->
+  <TweakSubSection_StackableChunks.label>Stackable Chunks</TweakSubSection_StackableChunks.label>
+  <TweakSubSection_StackableChunks.description>Allows stone chunks and slag to be stackable. Changing this mid-save WILL cause issues.</TweakSubSection_StackableChunks.description>
+
+<!-- part2 1.5 mods -->
+ <!-- Section_02Anima.xml -->
+  <!-- Anima Scream -->
+  <TweakSubSection_AnimaScream.label>Anima Scream</TweakSubSection_AnimaScream.label>
+  <TweakSubSection_AnimaScream.description>Tweaks specific to the anima scream from when you cut down the anima tree.</TweakSubSection_AnimaScream.description>
+
+  <!-- Anima Tree -->
+  <TweakSubSection_AnimaTree.label>Anima Tree</TweakSubSection_AnimaTree.label>
+  <TweakSubSection_AnimaTree.description>Tweaks specific to the anima tree itself.</TweakSubSection_AnimaTree.description>
+
+  <!-- Anima Shrines -->
+  <TweakSubSection_AnimaShrines.label>Anima Shrines</TweakSubSection_AnimaShrines.label>
+  <TweakSubSection_AnimaShrines.description>These are specific to the nature shrines that can be built to enhance the Anima tree.</TweakSubSection_AnimaShrines.description>
+
+ <!-- Section_02Entities.xml -->
+  <!-- Harbinger Tree -->
+  <TweakSubSection_HarbingerTree.label>Habringer Tree</TweakSubSection_HarbingerTree.label>
+  <TweakSubSection_HarbingerTree.description>Tweaks specific to the Harbinger tree.</TweakSubSection_HarbingerTree.description>
+
+ <!-- Section_02Gauranlen.xml -->
+  <!-- Gauranlen Tree -->
+  <TweakSubSection_GauranlenTree.label>Gauranlen Tree</TweakSubSection_GauranlenTree.label>
+  <TweakSubSection_GauranlenTree.description>Tweaks specific to the Gauranlen tree itself.</TweakSubSection_GauranlenTree.description>
+
+  <!-- Dryads -->
+  <TweakSubSection_Dryads.label>Dryads</TweakSubSection_Dryads.label>
+  <TweakSubSection_Dryads.description>Tweaks specific to the dryads that come from the Gauranlen Tree.</TweakSubSection_Dryads.description>
+
+ <!-- Section_03Mechanoids.xml -->
+  <!-- Better Gloomlight -->
+  <TweakSubSection_BetterGloomlight.label>Better Gloomlight</TweakSubSection_BetterGloomlight.label>
+  <TweakSubSection_BetterGloomlight.description>Changes the gloomlight often found in mech clusters to produce more light so it's actually useful.</TweakSubSection_BetterGloomlight.description>
+
+ <!-- Section_General.xml -->
+  <!-- Gene Stats -->
+  <TweakSubSection_Biotech_GeneStats.label>Gene Stats</TweakSubSection_Biotech_GeneStats.label>
+
+  <!-- Mechanitor Tweaks -->
+  <TweakSubSection_Biotech_MechanitorTweaks.label>Mechanitor Tweaks</TweakSubSection_Biotech_MechanitorTweaks.label>
+
+ <!-- Section_Mechanoids.xml -->
+  <!-- Player Mech Stats -->
+  <TweakSubSection_PlayerMechs.label>Player Mechanoid Stats</TweakSubSection_PlayerMechs.label>
+  <TweakSubSection_PlayerMechs.description>Allows the changing of work stats for player mechanoids so they don't suck nearly as much.</TweakSubSection_PlayerMechs.description>
+
+</LanguageData>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Numbers_Age.label>Idade</Numbers_Age.label>
+  <Numbers_AnimalEggProgress.label>Progresso do ovo</Numbers_AnimalEggProgress.label>
+  <Numbers_Milkfullness.label>Volume do leite</Numbers_Milkfullness.label>
+  <Numbers_AnimalWoolGrowth.label>Crescimento da lã</Numbers_AnimalWoolGrowth.label>
+  <Numbers_Race.label>Raça</Numbers_Race.label>
+  <Numbers_Backstory.label>Título</Numbers_Backstory.label>
+  <Numbers_Equipment.label>Equipamento</Numbers_Equipment.label>
+  <Numbers_Inventory.label>Inventário</Numbers_Inventory.label>
+  <Numbers_JobCurrent.label>Trabalho atual</Numbers_JobCurrent.label>
+  <Numbers_JobQueued.label>Trabalho em fila</Numbers_JobQueued.label>
+  <Numbers_MentalState.label>Estado mental</Numbers_MentalState.label>
+  <Numbers_PrisonerInteraction.label>Interação com prisioneiros</Numbers_PrisonerInteraction.label>
+  <Numbers_PrisonerRecruitmentDifficulty.label>Dificuldade de recrutamento</Numbers_PrisonerRecruitmentDifficulty.label>
+  <Numbers_PrisonerResistance.label>Resistência restante</Numbers_PrisonerResistance.label>
+  <Numbers_Pain.label>Dor</Numbers_Pain.label>
+  <Numbers_Bleedrate.label>Taxa de sangramento</Numbers_Bleedrate.label>
+  <Numbers_NeedsTreatment.label>Precisa de tratamento</Numbers_NeedsTreatment.label>
+  <Numbers_Operations.label>Operações</Numbers_Operations.label>
+  <Numbers_Forbidden.label>Proibido</Numbers_Forbidden.label>
+  <Numbers_Inspiration.label>Inspiração</Numbers_Inspiration.label>
+
+  <Numbers_DiseaseProgress.label>Margem de imunidade a doenças</Numbers_DiseaseProgress.label>
+  <Numbers_DiseaseProgress.headerTip>Margem de imunidade a doenças</Numbers_DiseaseProgress.headerTip>
+
+  <Numbers_ManhunterOnTameFailChance.headerTip>Chance de vingança em falha domesticada</Numbers_ManhunterOnTameFailChance.headerTip>
+  <Numbers_Wildness.label>Selvageria</Numbers_Wildness.label>
+  <Numbers_TameChance.label>Chance de domesticar</Numbers_TameChance.label>
+  <Numbers_SelfTend.headerTip>Autocuidado</Numbers_SelfTend.headerTip>
+  <Numbers_HediffList.headerTip>Hediffs</Numbers_HediffList.headerTip>
+  <Numbers_Faction.label>Facção</Numbers_Faction.label>
+
+ <!-- part2 chinese traditional -->
+  <Numbers_AnimalFilthRate.label>Taxa de sujeira</Numbers_AnimalFilthRate.label>
+  <Numbers_Areas.label>área permitida</Numbers_Areas.label>
+  <Numbers_Bandwidth.label>Largura de banda</Numbers_Bandwidth.label>
+  <Numbers_Bandwidth.headerTip>Largura de banda</Numbers_Bandwidth.headerTip>
+  <Numbers_Endogenes.label>Genes da linha germinativa</Numbers_Endogenes.label>
+  <Numbers_Endogenes.headerTip>Genes da linha germinativa</Numbers_Endogenes.headerTip>
+  <Numbers_Entropy.label>Calor</Numbers_Entropy.label>
+  <Numbers_GenesRegrowTime.label>Genes regenerando</Numbers_GenesRegrowTime.label>
+  <Numbers_GenesRegrowTime.headerTip>Genes regenerando</Numbers_GenesRegrowTime.headerTip>
+  <Numbers_Guilt.label>Culpa</Numbers_Guilt.label>
+  <Numbers_Guilt.headerTip>Culpa</Numbers_Guilt.headerTip>
+  <Numbers_HediffBadList.headerTip>Hediffs ruins</Numbers_HediffBadList.headerTip>
+  <Numbers_Ideology.label>Ideologia</Numbers_Ideology.label>
+  <Numbers_Ideology.headerTip>Ideologia e certeza</Numbers_Ideology.headerTip>
+  <Numbers_InventoryDropAll.label>Largue todo o inventário</Numbers_InventoryDropAll.label>
+  <Numbers_LeatherType.label>Tipo de couro</Numbers_LeatherType.label>
+  <Numbers_Meditation.label>Foco</Numbers_Meditation.label>
+  <Numbers_Psyfocus.label>Psyfoco</Numbers_Psyfocus.label>
+  <Numbers_PsylinkLevel.label>Psylevel</Numbers_PsylinkLevel.label>
+  <Numbers_Recruitable.label>Inabalavelmente leal</Numbers_Recruitable.label>
+  <Numbers_Strip.label>Strip</Numbers_Strip.label>
+  <Numbers_Strip.headerTip>Strip</Numbers_Strip.headerTip>
+  
+  <Numbers_Traits.label>Traços</Numbers_Traits.label>
+  <Numbers_Traits.headerTip>Traços</Numbers_Traits.headerTip>
+  
+  <Numbers_Xenogenes.label>Xenogenes</Numbers_Xenogenes.label>
+  <Numbers_Xenogenes.headerTip>Xenogenes</Numbers_Xenogenes.headerTip>
+
+</LanguageData>

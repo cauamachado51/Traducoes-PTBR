@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+ <!-- settings -->
+  <SmartDeconstruct>Smarter Deconstruction and Mining</SmartDeconstruct>
+  <SmartDeconstruct.Buildings.Label>Verifique se há telhados ao desconstruir construções?</SmartDeconstruct.Buildings.Label>
+  <SmartDeconstruct.Buildings.Tooltip>A funcionalidade básica do mod, desative esta opção e desative 'Verificar telhados durante a mineração' para desativar o mod.</SmartDeconstruct.Buildings.Tooltip>
+  <SmartDeconstruct.CancelThick.Label>Cancelar ordens em telhados grossos?</SmartDeconstruct.CancelThick.Label>
+  <SmartDeconstruct.CancelThick.Tooltip>Se for verdade, os pedidos que causarão o colapso do telhado de uma montanha serão cancelados e uma mensagem de aviso será exibida. Não é recomendado desligar. Ignorado se 'Remover telhados grossos' for verdadeiro.</SmartDeconstruct.CancelThick.Tooltip>
+  <SmartDeconstruct.Mining.Label>Verifique se há telhados durante a mineração?</SmartDeconstruct.Mining.Label>
+  <SmartDeconstruct.Mining.Tooltip>Estender ou não a funcionalidade para mineração.</SmartDeconstruct.Mining.Tooltip>
+  <SmartDeconstruct.Thick.Label>Remova telhados grossos?</SmartDeconstruct.Thick.Label>
+  <SmartDeconstruct.Thick.Tooltip>Os peões podem remover telhados grossos? Nota: Isso será verdade se um mod que permite isso estiver instalado, porém não requer um.</SmartDeconstruct.Thick.Tooltip>
+  <SmartDeconstruct.ThickResearch.Label>Pesquisa para remoção de telhados grossos</SmartDeconstruct.ThickResearch.Label>
+  <SmartDeconstruct.ThickResearch.Tooltip>O projeto de pesquisa que servirá como pré-requisito para a remoção de telhados grossos será definido automaticamente se 'Extended Roofing' ou 'Raise the Roof' estiverem instalados. Requer que 'Remover telhados grossos' seja verdadeiro.</SmartDeconstruct.ThickResearch.Tooltip>
+  <SmartDeconstruct.NonColonists.Label>Habilitar para não colonos?</SmartDeconstruct.NonColonists.Label>
+  <SmartDeconstruct.NonColonists.Tooltip>Permitir que outros peões além de seus colonos e animais usem as verificações?</SmartDeconstruct.NonColonists.Tooltip>
+  <SmartDeconstruct.Animals.Label>Habilitar para animais?</SmartDeconstruct.Animals.Label>
+  <SmartDeconstruct.Animals.Tooltip>Permitir que os animais realizem essas verificações? Se for falso, os animais derrubarão os telhados sobre si mesmos, como no vanilla</SmartDeconstruct.Animals.Tooltip>
+  
+ <!-- alerts -->
+  <SmartDeconstruct.StoppedByThickRoof>{0} não pode {2} {1} por causa que o telhado da montanha desabaria.</SmartDeconstruct.StoppedByThickRoof>
+
+</LanguageData>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<Battery>Bateria</Battery>
+	<Producer>Produz</Producer>
+	<Consumer>Consome</Consumer>
+	<Watt>W</Watt>
+	<WattDays>Wd</WattDays>
+</LanguageData>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BGPScanner_Name>Better ground-penetrating scanner</BGPScanner_Name>
+  <BGPScanner_Multiplier>Multiplicador de tempo de saída escolhido</BGPScanner_Multiplier>
+  <BGPScanner_DivideByCommonality>Divida o tempo de busca por coisa profunda com a plazaidade</BGPScanner_DivideByCommonality>
+  <BGPScanner_DivideByCommonalityDesc>Quanto mais comum é a coisa, mais rápido será encontrar. Isso só se aplica ao escolher uma saída específica. É aplicado após o multiplicador de saída escolhido.</BGPScanner_DivideByCommonalityDesc>
+  <BGPScanner_AutoEff>modo automático de eficiência de varredura</BGPScanner_AutoEff>
+  <BGPScanner_AllowUnderRoof>Permitir construir o scanner de penetramento no solo sob um telhado</BGPScanner_AllowUnderRoof>
+  <BGPScanner_Auto>Ativar o modo automático</BGPScanner_Auto>
+  <BGPScanner_AutoDsc>Quando nenhum peão estiver usando o scanner de penetramento do solo, ele continuará a digitalizar na eficiência especificada abaixo.</BGPScanner_AutoDsc>
+  <BGPScanner_AutoFind>Modo automático encontrou um pedaço de {0} enterrado usando o scanner de penetramento do solo!</BGPScanner_AutoFind>
+</LanguageData>

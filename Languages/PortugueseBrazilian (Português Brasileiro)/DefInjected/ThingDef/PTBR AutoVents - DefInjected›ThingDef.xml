@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Auto Vents -->
+
+  <SLS_AutoVents.label>ventilação automática</SLS_AutoVents.label>
+  <SLS_AutoVents.description>Esta é uma ventilação automática que equaliza automaticamente a temperatura ambiente e envia ar fresco para a sala.</SLS_AutoVents.description>
+  <Blueprint_SLS_AutoVents.label>Ventilação automática (projeto)</Blueprint_SLS_AutoVents.label>
+  <Frame_SLS_AutoVents.label>Ventilação automática (construção)</Frame_SLS_AutoVents.label>
+  <Frame_SLS_AutoVents.description>Esta é uma ventilação automática que equaliza automaticamente a temperatura ambiente e envia ar fresco para a sala.</Frame_SLS_AutoVents.description>
+
+
+  <!-- Auto Vents Over Wall -->
+
+  <SLS_AutoVents_OW.label>ventilação automática de parede</SLS_AutoVents_OW.label>
+  <SLS_AutoVents_OW.description>É uma ventilação automática que equaliza automaticamente a temperatura ambiente e envia ar fresco para a sala através de paredes grossas.。</SLS_AutoVents_OW.description>
+  <Blueprint_SLS_AutoVents_OW.label>Ventilação automática de parede (projeto)</Blueprint_SLS_AutoVents_OW.label>
+  <Frame_SLS_AutoVents_OW.label>Ventilação automática de parede (construção)</Frame_SLS_AutoVents_OW.label>
+  <Frame_SLS_AutoVents_OW.description>É uma ventilação automática que equaliza automaticamente a temperatura ambiente e envia ar fresco para a sala através de paredes grossas.</Frame_SLS_AutoVents_OW.description>
+
+</LanguageData>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<MadSkills_SettingsCategory>Mad Skills</MadSkills_SettingsCategory>
+	<MadSkills_DailyXPSaturationThresholdLabel>Limite diário de XP</MadSkills_DailyXPSaturationThresholdLabel>
+	<MadSkills_DailyXPSaturationThresholdTip>Valor padrão do RimWorld: 4000
+Depois que essa quantidade de XP for ganha em uma habilidade, todo o aprendizado subsequente dela será multiplicado pelo valor abaixo, até meia-noite.</MadSkills_DailyXPSaturationThresholdTip>
+	<MadSkills_SaturatedXPMultiplierLabel>acima do limite</MadSkills_SaturatedXPMultiplierLabel>
+	<MadSkills_SaturatedXPMultiplierTip>Multiplicador acima do limite
+	
+Valor padrão do RimWorld: 20%
+Multiplica XP ganho em uma habilidade que já avançou o valor acima naquele dia.
+Defina como 100% para desativar completamente o limite diário de XP.</MadSkills_SaturatedXPMultiplierTip>
+	<MadSkills_MultiplierLabel>decaimento</MadSkills_MultiplierLabel>
+	<MadSkills_MultiplierTip>Multiplicador de decaimento
+	
+Valor padrão do RimWorld: 100%
+Valor para multiplicar a potência de decaimento de XP da habilidade padrão por.
+0% para nenhum, 50% para metade, 200% para o dobro, etc..</MadSkills_MultiplierTip>
+	<MadSkills_TieredLabel>Em camadas</MadSkills_TieredLabel>
+	<MadSkills_TieredTip>Valor padrão do RimWorld: desativado
+Impede que as habilidades desçam de nível; XP para o próximo nível decai de acordo com a configuração do multiplicador.</MadSkills_TieredTip>
+	<MadSkills_AlternativeGreatMemoryDescription>{PAWN_nameDef} tem uma memória fantástica para detalhes. {PAWN_pronoun} aprenderá novas habilidades um pouco mais rápido do que outras pessoas.</MadSkills_AlternativeGreatMemoryDescription>
+	<MadSkills_AlterGreatMemoryLabel>Alternativa "ótima memória"</MadSkills_AlterGreatMemoryLabel>
+	<MadSkills_AlterGreatMemoryTip>Valor padrão do RimWorld: desativado
+Altera o comportamento do traço "ótima memória": em vez de reduzir pela metade a taxa de declínio de habilidade, agora aumentará a taxa de aprendizado em 25%.</MadSkills_AlterGreatMemoryTip>
+
+</LanguageData>

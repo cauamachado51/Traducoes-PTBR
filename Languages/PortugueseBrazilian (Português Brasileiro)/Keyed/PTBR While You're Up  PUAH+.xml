@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <CodeOptimist.WhileYoureUp_PickUpAndHaul_Missing><![CDATA[Pick Up And Haul não está instalado]]></CodeOptimist.WhileYoureUp_PickUpAndHaul_Missing>
+  <CodeOptimist.WhileYoureUp_PickUpAndHaul_Tooltip><![CDATA[PUAH é opcional, mas será melhorado se instalado.]]></CodeOptimist.WhileYoureUp_PickUpAndHaul_Tooltip>
+  <CodeOptimist.WhileYoureUp_Opportunity_LoadReport><![CDATA[{ORIGINAL} a caminho de {DESTINATION}.]]></CodeOptimist.WhileYoureUp_Opportunity_LoadReport>
+  <CodeOptimist.WhileYoureUp_Opportunity_UnloadReport><![CDATA[Eficientemente {ORIGINAL}, a caminho de {DESTINATION}.]]></CodeOptimist.WhileYoureUp_Opportunity_UnloadReport>
+  <CodeOptimist.WhileYoureUp_HaulBeforeCarry_LoadReport><![CDATA[{ORIGINAL}, dirigiu-se para mais perto {DESTINATION}.]]></CodeOptimist.WhileYoureUp_HaulBeforeCarry_LoadReport>
+  <CodeOptimist.WhileYoureUp_HaulBeforeCarry_UnloadReport><![CDATA[Eficientemente {ORIGINAL}, próximo a {DESTINATION}.]]></CodeOptimist.WhileYoureUp_HaulBeforeCarry_UnloadReport>
+  <CodeOptimist.WhileYoureUp_PickUpAndHaulPlus_LoadReport><![CDATA[{ORIGINAL}.]]></CodeOptimist.WhileYoureUp_PickUpAndHaulPlus_LoadReport>
+  <CodeOptimist.WhileYoureUp_PickUpAndHaulPlus_UnloadReport><![CDATA[Eficientemente {ORIGINAL}.]]></CodeOptimist.WhileYoureUp_PickUpAndHaulPlus_UnloadReport>
+  <CodeOptimist.WhileYoureUp_Opportunity_Tab><![CDATA[Transportes de Oportunidades]]></CodeOptimist.WhileYoureUp_Opportunity_Tab>
+  <CodeOptimist.WhileYoureUp_Opportunity_Intro><![CDATA[<color=#999999>"</color><color=#87f6f6>... a caminho de ...</color><color=#999999>"
+
+Transportar no caminho para o trabalho é um recurso básico e, portanto, geralmente compatível com todos os mods. Alguns mods de armazenamento usam atrasos, portanto não são permitidos por padrão.
+
+Perdemos oportunidades quando sangramos ou formamos uma caravana.</color>]]></CodeOptimist.WhileYoureUp_Opportunity_Intro>
+  <CodeOptimist.WhileYoureUp_OpportunityAdvanced_Tab><![CDATA[Configurações avançadas]]></CodeOptimist.WhileYoureUp_OpportunityAdvanced_Tab>
+  <CodeOptimist.WhileYoureUp_OpportunityAdvanced_Text1><![CDATA[Vanilla, Padrão, buscador de caminho<color=#999999>: Proporções de distância máximas (ver dicas de ferramentas).</color>
+]]></CodeOptimist.WhileYoureUp_OpportunityAdvanced_Text1>
+  <CodeOptimist.WhileYoureUp_OpportunityAdvanced_Text2><![CDATA[Vanilla<color=#999999>: Distâncias/proporções máximas para limitar oportunidades em troca de desempenho.</color>
+Padrão, buscador de caminho<color=#999999>: Limites flexíveis usados ​​como heurística de desempenho.</color>
+]]></CodeOptimist.WhileYoureUp_OpportunityAdvanced_Text2>
+  <CodeOptimist.WhileYoureUp_OpportunityAdvanced_Text3><![CDATA[Vanilla apenas<color=#999999>: Contagem máxima de aparência de região (mais rápida que o buscador de caminhos, mas com distância variável — veja a dica de ferramenta).</color>
+]]></CodeOptimist.WhileYoureUp_OpportunityAdvanced_Text3>
+  <CodeOptimist.WhileYoureUp_HaulBeforeCarry_Tab><![CDATA[Suprimentos e Ingredientes]]></CodeOptimist.WhileYoureUp_HaulBeforeCarry_Tab>
+  <CodeOptimist.WhileYoureUp_HaulBeforeCarry_Intro><![CDATA[<color=#999999>"</color><color=#87f6f6>... próximo a ...</color><color=#999999>"
+
+Um peão encontrará o recurso mais próximo, que às vezes está aguardando entrega em um armazenamento próximo ao nosso local de trabalho. Ao fazer isso primeiro, nosso peão pode pegar extras.</color>]]></CodeOptimist.WhileYoureUp_HaulBeforeCarry_Intro>
+  <CodeOptimist.WhileYoureUp_HaulBeforeCarry_EqualPriority><![CDATA[<color=#999999>Se um recurso já estiver armazenado, nosso peão não economizará uma viagem para um transporte dedicado, mas ainda poderá pegar extras que agilizarão seu trabalho futuro.</color>]]></CodeOptimist.WhileYoureUp_HaulBeforeCarry_EqualPriority>
+  <CodeOptimist.WhileYoureUp_PickUpAndHaulPlus_Tab><![CDATA[Pick Up And Haul+]]></CodeOptimist.WhileYoureUp_PickUpAndHaulPlus_Tab>
+  <CodeOptimist.WhileYoureUp_PickUpAndHaulPlus_Text1><![CDATA[Melhorias e integrações]]></CodeOptimist.WhileYoureUp_PickUpAndHaulPlus_Text1>
+  <CodeOptimist.WhileYoureUp_PickUpAndHaulPlus_Text2><![CDATA[Pick Up And Haul
+
+<color=#999999>Os peões serão descarregados uma vez em cada destino, na ordem mais aproximada.
+
+Destinos transportáveis são armazenados em cache para melhorar o desempenho.</color>
+
+Transportes de Oportunidades
+
+<color=#999999>Reunir e descarregar todo o inventário de um peão nunca excederá os critérios de "oportunismo".".</color>
+
+Suprimentos e Ingredientes
+
+<color=#999999>Peões transportando suprimentos ou ingredientes extras para um armazenamento mais próximo também pegarão não-recursos, a menos que sangrem.</color>]]></CodeOptimist.WhileYoureUp_PickUpAndHaulPlus_Text2>
+  <CodeOptimist.WhileYoureUp_Debug_CellOccupied><![CDATA[Célula ocupada]]></CodeOptimist.WhileYoureUp_Debug_CellOccupied>
+  <CodeOptimist.WhileYoureUp_Debug_TooFar><![CDATA[Muito longe]]></CodeOptimist.WhileYoureUp_Debug_TooFar>
+  <CodeOptimist.WhileYoureUp_Debug_Dropping><![CDATA[Deixando cair]]></CodeOptimist.WhileYoureUp_Debug_Dropping>
+  <CodeOptimist.WhileYoureUp_Label_Enabled><![CDATA[Habilitado]]></CodeOptimist.WhileYoureUp_Label_Enabled>
+  <CodeOptimist.WhileYoureUp_Tooltip_Enabled><![CDATA[Alterne o mod inteiro sem reiniciar.
+Útil para solução de problemas.]]></CodeOptimist.WhileYoureUp_Tooltip_Enabled>
+  <CodeOptimist.WhileYoureUp_Label_UsePickUpAndHaulPlus><![CDATA[Use e melhore Pick Up And Haul]]></CodeOptimist.WhileYoureUp_Label_UsePickUpAndHaulPlus>
+  <CodeOptimist.WhileYoureUp_Tooltip_UsePickUpAndHaulPlus><![CDATA[Detalhes na aba quando habilitado.]]></CodeOptimist.WhileYoureUp_Tooltip_UsePickUpAndHaulPlus>
+  <CodeOptimist.WhileYoureUp_Label_DrawSpecialHauls><![CDATA[Desenhe desvios de caminho coloridos]]></CodeOptimist.WhileYoureUp_Label_DrawSpecialHauls>
+  <CodeOptimist.WhileYoureUp_Tooltip_DrawSpecialHauls><![CDATA[Os caminhos de trabalho originais são vermelhos, os novos caminhos oportunistas são verdes.
+
+Os caminhos originais de ingredientes/suprimentos são magenta, os novos caminhos ideais são ciano.
+
+Os caminhos amarelos são rejeitados, alternativas de descarregamento inoportunas quando a célula original fica ocupada.
+
+(Isso é sincronizado com vanilla's <i>Development mode → inspector icon → Visibility → Draw Opportunistic Jobs</i>.)]]></CodeOptimist.WhileYoureUp_Tooltip_DrawSpecialHauls>
+  <CodeOptimist.WhileYoureUp_Label_Opportunity_PathChecker><![CDATA[Verificação de caminho]]></CodeOptimist.WhileYoureUp_Label_Opportunity_PathChecker>
+  <CodeOptimist.WhileYoureUp_Tooltip_Opportunity_PathChecker><![CDATA[Nosso padrão é o desempenho, mas paredes intransponíveis e portas trancadas são ignoradas até uma verificação final – o que significa que não há oportunidade se falhar. Estas circunstâncias são menos comuns com uma base aberta.
+
+"Pathfind durante a pesquisa" é lento, mas garante a localização de uma oportunidade, se ela existir. Recomendado para pequenas colônias, máquinas rápidas(PC) ou aqueles desesperados por transporte em uma base montanhosa.]]></CodeOptimist.WhileYoureUp_Tooltip_Opportunity_PathChecker>
+  <CodeOptimist.WhileYoureUp_Label_Opportunity_PathChecker_Vanilla><![CDATA[Dentro de intervalos e contagem de região (vanilla)
+FPS: ★★★★  Oportunidades: ★☆☆☆]]></CodeOptimist.WhileYoureUp_Label_Opportunity_PathChecker_Vanilla>
+  <CodeOptimist.WhileYoureUp_Label_Opportunity_PathChecker_Default><![CDATA[Pathfind uma vez após a pesquisa (padrão)
+FPS: ★★★☆  Oportunidades: ★★★☆]]></CodeOptimist.WhileYoureUp_Label_Opportunity_PathChecker_Default>
+  <CodeOptimist.WhileYoureUp_Label_Opportunity_PathChecker_Pathfinding><![CDATA[Pathfind durante a pesquisa
+FPS: ★☆☆☆  Oportunidades: ★★★★]]></CodeOptimist.WhileYoureUp_Label_Opportunity_PathChecker_Pathfinding>
+  <CodeOptimist.WhileYoureUp_Label_Opportunity_TweakVanilla><![CDATA[Mostrar configurações avançadas de oportunidade...]]></CodeOptimist.WhileYoureUp_Label_Opportunity_TweakVanilla>
+  <CodeOptimist.WhileYoureUp_Tooltip_Opportunity_TweakVanilla><![CDATA[]]></CodeOptimist.WhileYoureUp_Tooltip_Opportunity_TweakVanilla>
+  <CodeOptimist.WhileYoureUp_Label_Opportunity_MaxStartToThing><![CDATA[<color=#dcffaf>iniciar</color>➡<color=#87f6f6>transportável</color>]]></CodeOptimist.WhileYoureUp_Label_Opportunity_MaxStartToThing>
+  <CodeOptimist.WhileYoureUp_Tooltip_Opportunity_MaxStartToThing><![CDATA[If (<color=#dcffaf>iniciar</color>➡<color=#87f6f6>transportável</color>) exceder esse valor, o transporte será desclassificado.
+
+"iniciar" é o local inicial do peão,
+Se um lançável estiver mais longe da posição inicial do peão do que isso, o transporte é desqualificado..]]></CodeOptimist.WhileYoureUp_Tooltip_Opportunity_MaxStartToThing>
+  <CodeOptimist.WhileYoureUp_Label_Opportunity_MaxStoreToJob><![CDATA[<color=#d09b61>armazenamento</color>➡<color=#d46f68>trabalho</color>]]></CodeOptimist.WhileYoureUp_Label_Opportunity_MaxStoreToJob>
+  <CodeOptimist.WhileYoureUp_Tooltip_Opportunity_MaxStoreToJob><![CDATA[If (<color=#d09b61>armazenamento</color>➡<color=#d46f68>trabalho</color>) exceder esse valor, o transporte será desclassificado.
+
+Se o armazenamento de um lançável estiver mais distante da posição final do peão do que esta, o transporte é desqualificado.]]></CodeOptimist.WhileYoureUp_Tooltip_Opportunity_MaxStoreToJob>
+  <CodeOptimist.WhileYoureUp_Label_Opportunity_MaxStartToThingPctOrigTrip><![CDATA[<color=#dcffaf>iniciar</color>➡<color=#87f6f6>transportável</color> : <color=#dcffaf>iniciar</color>➡<color=#d46f68>trabalho</color>]]></CodeOptimist.WhileYoureUp_Label_Opportunity_MaxStartToThingPctOrigTrip>
+  <CodeOptimist.WhileYoureUp_Tooltip_Opportunity_MaxStartToThingPctOrigTrip><![CDATA[If (<color=#dcffaf>iniciar</color>➡<color=#87f6f6>transportável</color> / <color=#dcffaf>iniciar</color>➡<color=#d46f68>trabalho</color>) exceder esse percentual, o transporte será desqualificado.]]></CodeOptimist.WhileYoureUp_Tooltip_Opportunity_MaxStartToThingPctOrigTrip>
+  <CodeOptimist.WhileYoureUp_Label_Opportunity_MaxStoreToJobPctOrigTrip><![CDATA[<color=#d09b61>storage</color>➡<color=#d46f68>trabalho</color> : <color=#dcffaf>iniciar</color>➡<color=#d46f68>trabalho</color>]]></CodeOptimist.WhileYoureUp_Label_Opportunity_MaxStoreToJobPctOrigTrip>
+  <CodeOptimist.WhileYoureUp_Tooltip_Opportunity_MaxStoreToJobPctOrigTrip><![CDATA[If (<color=#d09b61>storage</color>➡<color=#d46f68>trabalho</color> / <color=#dcffaf>iniciar</color>➡<color=#d46f68>trabalho</color>) exceder esse percentual, o transporte será desqualificado.]]></CodeOptimist.WhileYoureUp_Tooltip_Opportunity_MaxStoreToJobPctOrigTrip>
+  <CodeOptimist.WhileYoureUp_Label_Opportunity_MaxNewLegsPctOrigTrip><![CDATA[<color=#dcffaf>iniciar</color>➡<color=#87f6f6>transportável</color> + <color=#d09b61>storage</color>➡<color=#d46f68>trabalho</color> : <color=#dcffaf>iniciar</color>➡<color=#d46f68>trabalho</color>]]></CodeOptimist.WhileYoureUp_Label_Opportunity_MaxNewLegsPctOrigTrip>
+  <CodeOptimist.WhileYoureUp_Tooltip_Opportunity_MaxNewLegsPctOrigTrip><![CDATA[Esta é a proporção entre os "percursos adicionais" da nova viagem e a viagem original.]]></CodeOptimist.WhileYoureUp_Tooltip_Opportunity_MaxNewLegsPctOrigTrip>
+  <CodeOptimist.WhileYoureUp_Label_Opportunity_MaxTotalTripPctOrigTrip><![CDATA[<color=#dcffaf>iniciar</color>➡<color=#87f6f6>transportável</color>➡<color=#d09b61>storage</color>➡<color=#d46f68>trabalho</color> : <color=#dcffaf>iniciar</color>➡<color=#d46f68>trabalho</color>]]></CodeOptimist.WhileYoureUp_Label_Opportunity_MaxTotalTripPctOrigTrip>
+  <CodeOptimist.WhileYoureUp_Tooltip_Opportunity_MaxTotalTripPctOrigTrip><![CDATA[Esta é uma proporção entre a nova viagem e a viagem original.]]></CodeOptimist.WhileYoureUp_Tooltip_Opportunity_MaxTotalTripPctOrigTrip>
+  <CodeOptimist.WhileYoureUp_Label_Opportunity_MaxStartToThingRegionLookCount><![CDATA[<color=#dcffaf>iniciar</color>➡<color=#87f6f6>transportável</color>]]></CodeOptimist.WhileYoureUp_Label_Opportunity_MaxStartToThingRegionLookCount>
+  <CodeOptimist.WhileYoureUp_Tooltip_Opportunity_MaxStartToThingRegionLookCount><![CDATA[Para entender isso, habilite <i>Development mode → inspector icon → Visibility → Draw Regions</i>.
+
+A exploração começa na região inicial e se espalha por todos os vizinhos até encontrar a região de destino. Essa configuração limita o número total explorado - mesmo aqueles na direção errada.
+
+Não pode ser calculado perfeitamente à distância, pois as regiões variam em tamanho e vizinhos. (Um corredor tem apenas avanço e retorno, então eles serão explorados mais detalhadamente.)
+Mas em um campo completamente aberto, se um peão precisar percorrer a distância de n=3 regiões 12x12 de tamanho real (~36 ladrilhos), o algoritmo explorará 2(n^2+n)+1 ou 25 regiões.]]></CodeOptimist.WhileYoureUp_Tooltip_Opportunity_MaxStartToThingRegionLookCount>
+  <CodeOptimist.WhileYoureUp_Label_Opportunity_MaxStoreToJobRegionLookCount><![CDATA[<color=#d09b61>storage</color>➡<color=#d46f68>trabalho</color>]]></CodeOptimist.WhileYoureUp_Label_Opportunity_MaxStoreToJobRegionLookCount>
+  <CodeOptimist.WhileYoureUp_Tooltip_Opportunity_MaxStoreToJobRegionLookCount><![CDATA[Para entender isso, habilite <i>Development mode → inspector icon → Visibility → Draw Regions</i>.
+
+A exploração começa na região inicial, espalhando-se por todos os vizinhos até encontrar a região de destino. Essa configuração limita o número total explorado - mesmo aqueles na direção errada.
+
+Não pode ser calculado perfeitamente à distância, pois as regiões variam em tamanho e vizinhos. (Um corredor tem apenas avanço e retorno, portanto eles serão mais explorados.)
+Mas em um campo completamente aberto, se um peão precisar percorrer a distância de n=3 regiões 12x12 de tamanho real (~36 peças), o algoritmo explorará 2(n^2+n)+1 ou 25 regiões.]]></CodeOptimist.WhileYoureUp_Tooltip_Opportunity_MaxStoreToJobRegionLookCount>
+  <CodeOptimist.WhileYoureUp_Label_Opportunity_ToStockpiles><![CDATA[Estoques]]></CodeOptimist.WhileYoureUp_Label_Opportunity_ToStockpiles>
+  <CodeOptimist.WhileYoureUp_Tooltip_Opportunity_ToStockpiles><![CDATA[]]></CodeOptimist.WhileYoureUp_Tooltip_Opportunity_ToStockpiles>
+  <CodeOptimist.WhileYoureUp_Label_Opportunity_AutoBuildings><![CDATA[Edite manualmente (não atualizará com mod)]]></CodeOptimist.WhileYoureUp_Label_Opportunity_AutoBuildings>
+  <CodeOptimist.WhileYoureUp_Tooltip_Opportunity_AutoBuildings><![CDATA[]]></CodeOptimist.WhileYoureUp_Tooltip_Opportunity_AutoBuildings>
+  <CodeOptimist.WhileYoureUp_Label_HaulBeforeCarry_Supplies><![CDATA[Transportar materiais de construção extras para mais perto]]></CodeOptimist.WhileYoureUp_Label_HaulBeforeCarry_Supplies>
+  <CodeOptimist.WhileYoureUp_Tooltip_HaulBeforeCarry_Supplies><![CDATA[]]></CodeOptimist.WhileYoureUp_Tooltip_HaulBeforeCarry_Supplies>
+  <CodeOptimist.WhileYoureUp_Label_HaulBeforeCarry_Bills><![CDATA[Leve os ingredientes extras da receita para mais perto]]></CodeOptimist.WhileYoureUp_Label_HaulBeforeCarry_Bills>
+  <CodeOptimist.WhileYoureUp_Tooltip_HaulBeforeCarry_Bills><![CDATA[]]></CodeOptimist.WhileYoureUp_Tooltip_HaulBeforeCarry_Bills>
+  <CodeOptimist.WhileYoureUp_Label_HaulBeforeCarry_ToEqualPriority><![CDATA[Transporte recursos extras para mais perto do armazenamento de mesma prioridade]]></CodeOptimist.WhileYoureUp_Label_HaulBeforeCarry_ToEqualPriority>
+  <CodeOptimist.WhileYoureUp_Tooltip_HaulBeforeCarry_ToEqualPriority><![CDATA[]]></CodeOptimist.WhileYoureUp_Tooltip_HaulBeforeCarry_ToEqualPriority>
+  <CodeOptimist.WhileYoureUp_Label_HaulBeforeCarry_ToStockpiles><![CDATA[Estoques]]></CodeOptimist.WhileYoureUp_Label_HaulBeforeCarry_ToStockpiles>
+  <CodeOptimist.WhileYoureUp_Tooltip_HaulBeforeCarry_ToStockpiles><![CDATA[]]></CodeOptimist.WhileYoureUp_Tooltip_HaulBeforeCarry_ToStockpiles>
+  <CodeOptimist.WhileYoureUp_Label_HaulBeforeCarry_AutoBuildings><![CDATA[Edite manualmente (não atualizará com mod)]]></CodeOptimist.WhileYoureUp_Label_HaulBeforeCarry_AutoBuildings>
+  <CodeOptimist.WhileYoureUp_Tooltip_HaulBeforeCarry_AutoBuildings><![CDATA[]]></CodeOptimist.WhileYoureUp_Tooltip_HaulBeforeCarry_AutoBuildings>
+</LanguageData>

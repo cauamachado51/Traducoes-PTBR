@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <WeightPrice>Weight price</WeightPrice>
+    <WeightPriceFormat>{0} $/kg</WeightPriceFormat>
+
+    <WeightPriceTip>Preço por peso</WeightPriceTip>
+    <WeightPriceTipBuyPrice>Preço de compra: </WeightPriceTipBuyPrice>
+    <WeightPriceTipSellPrice>Preço de venda: </WeightPriceTipSellPrice>
+    <WeightPriceTipMass>Massa: </WeightPriceTipMass>
+    <WeightPriceTipTip>Preço por peso: </WeightPriceTipTip>
+</LanguageData>

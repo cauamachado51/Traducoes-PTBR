@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <ChemfuelPortableGenerator.label>gerador portátil</ChemfuelPortableGenerator.label>
+  <ChemfuelPortableGenerator.description>Produz energia através do consumo de biocombustível. Deve ser reabastecido manualmente periodicamente. Devido ao seu pequeno tamanho, é menos eficiente e precisa ser reabastecido com mais frequência do que um tamanho normal.</ChemfuelPortableGenerator.description>
+  
+</LanguageData>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<TD.HexColorValuesOnly>Apenas valores de cor hexadecimal</TD.HexColorValuesOnly>
+	<TD.ToggleBuildable>Alternar a sobreposição de terreno construível</TD.ToggleBuildable>
+	<TD.ToggleCoverage>Alternar a sobreposição de cobertura da construção (mostrada quando os construções selecionadas têm cobertura)</TD.ToggleCoverage>
+	<TD.ToggleBeauty>Alternar a sobreposição de beleza</TD.ToggleBeauty>
+	<TD.ToggleFertility>Alternar a sobreposição de terreno fértil</TD.ToggleFertility>
+	<TD.ToggleLighting>Alternar a sobreposição de iluminação</TD.ToggleLighting>
+	<TD.ToggleWalkSpeed>Alternar a sobreposição de velocidade de caminhada</TD.ToggleWalkSpeed>
+	<TD.TogglePlantHarveset>Alternar a sobreposição de colheita</TD.TogglePlantHarveset>
+	<TD.TogglePowerOverlay>Alternar a rede de energia</TD.TogglePowerOverlay>
+	<TDEnhancementPack>TD Enhancement Pack</TDEnhancementPack>
+	<TD.SizeAndFertile>Tamanho: {0:0} (Fertilidade: {1:0.0})</TD.SizeAndFertile>
+	<TD.FertileCount>Fértil</TD.FertileCount>
+	<TD.Size>Tamanho: {0}</TD.Size>
+	<TD.CountToSow>Para fazer: {0}</TD.CountToSow>
+	<TD.CountFullyGrown>Crescimento: {0}</TD.CountFullyGrown>
+	<TD.SettingOverlayBuildable>Ative uma alternância para uma sobreposição de terreno construivel</TD.SettingOverlayBuildable>
+	<TD.SettingOverlayBuildableDesc>Vermelho é terreno não construivel, Laranja é 'Médio', Amarelo é 'Leve' e claro é 'Pesado' (praticamente tudo pode ser construído em 'Pesado'')</TD.SettingOverlayBuildableDesc>
+	<TD.SettingOverlayCoverage>Habilite uma alternância para uma sobreposição de cobertura de construção</TD.SettingOverlayCoverage>
+	<TD.SettingOverlayCoverageDesc>Edifícios como balizas comerciais mostram seu alcance efetivo quando selecionados</TD.SettingOverlayCoverageDesc>
+	<TD.SettingOverlayBeauty>Ative uma alternância para a sobreposição de beleza</TD.SettingOverlayBeauty>
+	<TD.SettingOverlayFertility>Ative uma alternância para a sobreposição de fertilidade</TD.SettingOverlayFertility>
+	<TD.SettingOverlayFertilityUnder>A sobreposição de fertilidade mostra o valor do terreno abaixo dos pisos</TD.SettingOverlayFertilityUnder>
+	<TD.SettingOverlayWalkSpeed>Habilite uma alternância para a sobreposição de velocidade de caminhada</TD.SettingOverlayWalkSpeed>
+	<TD.SettingOverlayLighting>Habilite uma alternância para a sobreposição de iluminação</TD.SettingOverlayLighting>
+	<TD.SettingOverlayLightingDesc>As áreas externas iluminadas pelo sol não têm cor</TD.SettingOverlayLightingDesc>
+	<TD.SettingOverlayPower>Ative uma alternância para mostrar a rede de energia</TD.SettingOverlayPower>
+	<TD.SettingOverlayPlantHarvest>Habilite uma alternância para uma sobreposição de colheita</TD.SettingOverlayPlantHarvest>
+	<TD.SettingTradeClose>Definir velocidade após fechar negociação ou diálogo</TD.SettingTradeClose>
+	<TD.SettingTradeCloseSpeed>Velocidade após fechar: </TD.SettingTradeCloseSpeed>
+	<TD.SettingResearchingArrow>Mostrar seta indicando pesquisa em andamento</TD.SettingResearchingArrow>
+	<!-- 1.4 folder -->
+	<TD.SettingZoneFertility>Mostrar o tamanho da fertilidade contábil da Zona de Crescimento</TD.SettingZoneFertility>
+	<!-- 1.4 folder -->
+	<TD.SettingZoneFertilityDesc>O tamanho “fértil” é o tamanho equivalente da terra com 100% de fertilidade (e.g. 100 lotes em terra 140% fértil têm “tamanho fértil” de 140, pois renderiam o mesmo que 140 com 100% de fertilidade)</TD.SettingZoneFertilityDesc>
+	<TD.SettingSkillGainArrow>Mostrar setas indicando ganho de habilidade</TD.SettingSkillGainArrow>
+	<TD.SettingSkillGainArrowDesc>Na aba de personagem</TD.SettingSkillGainArrowDesc>
+	<TD.SettingSkillLossArrow>Mostrar setas indicando perda de habilidade</TD.SettingSkillLossArrow>
+	<TD.SettingSkillLossArrowDesc>As habilidades perdem experiência lentamente após o nível 10 (a seta pode ficar muito desbotada para taxas lentas)</TD.SettingSkillLossArrowDesc>
+	<TD.OtherFeatures>Outros recursos:</TD.OtherFeatures>
+	<TD.AreaEditing>As áreas podem ser reordenadas, recoloridas e copiadas/coladas no gerenciador de área</TD.AreaEditing>
+	<TD.NeverHome>Crie uma área chamada 'nunca casa' e a área nunca será adicionada à area de casa</TD.NeverHome>
+	<TD.SlaughterZone>Faça uma área chamada ‘Abate’ e os animais só serão abatidos nessa área</TD.SlaughterZone>
+	<TD.RequiresRestart>Isso requer uma reinicialização para entrar em vigor:</TD.RequiresRestart>
+	<TD.VariousCount>(vários) itens selecionados recebem uma contagem</TD.VariousCount>
+	<TD.RottedAwayClickable>Mensagens de comida 'apodrecida' podem ser clicadas para ver onde estava</TD.RottedAwayClickable>
+	<TD.PopupMessageRealtime>Mensagens pop-up como '% de chance de recrutamento' (pontos de texto) permanecem na tela em tempo real, para que não desapareçam em alta velocidade</TD.PopupMessageRealtime>
+	<TD.SettingsIgnoreSleeping>Colonos não alistados ignoram inimigos adormecidos</TD.SettingsIgnoreSleeping>
+	<TD.SettingsIgnoreSleepingDesc>Isso se aplica ao modo de reação 'Ataque'. Você acreditaria que seus colonos atacariam megaescaravelhos adormecidos se eles se aproximassem deles??</TD.SettingsIgnoreSleepingDesc>
+	<TD.ShowStopButtonUnDrafted>Mostrar botão de parada (não alistado)</TD.ShowStopButtonUnDrafted>
+	<TD.ShowStopButtonDrafted>Mostrar botão de parada (alistado)</TD.ShowStopButtonDrafted>
+	<TD.StopGizmo>Parar</TD.StopGizmo>
+	<TD.StopDescDrafted>Pare a ação atual</TD.StopDescDrafted>
+	<TD.StopDescUndrafted>Pare o trabalho atual (encontre outro trabalho, que pode ser o mesmo trabalho)</TD.StopDescUndrafted>
+	<TD.AddedByTD>Adicionado por TD Enhancement Pack</TD.AddedByTD>
+	<TD.AllowHarvesting>Permitir colheita</TD.AllowHarvesting>
+	<TD.AllowHarvestingDesc>Quando desativado, os colonos nunca colherão plantas nesta zona. Eles ainda vão semear.</TD.AllowHarvestingDesc>
+	<TD.SettingAllowHarvesting>Alternar ‘Permitir colheita’ de zonas de cultivo</TD.SettingAllowHarvesting>
+	<TD.SettingAllowHarvestingDesc>Também se aplica à Hidroponia (o status proibido é apenas para semear, então)</TD.SettingAllowHarvestingDesc>
+	<TD.SettingAreaForTypes>Adicione um botão de alternância para definir áreas que não serão exibidas para colonos/animais.</TD.SettingAreaForTypes>
+	<TD.SettingAreaForTypesDesc>Duas caixas de seleção no gerenciador de área. Quando desativada, essa área fica desabilitada para seleção de colonos/animais</TD.SettingAreaForTypesDesc>
+	<TD.FeatureConditionGreen>Boas condições corporais são verdes; A etiqueta de corpo inteiro é amarela</TD.FeatureConditionGreen>
+	<TD.WhatDropped>O que caiu: {0}</TD.WhatDropped>
+	<TD.Deterioration>Deterioração</TD.Deterioration>
+	<TD.DeteriorationAlert>Algo está se deteriorando e a saúde está ficando fraca. Coloque-o dentro de casa para mantê-lo seguro.</TD.DeteriorationAlert>
+	<TD.Match>Corresponder</TD.Match>
+	<TD.MatchDesc>Adicione uma zona de cultivo, mas apenas adiciona a terreno com fertilidade que corresponda à primeira célula escolhida</TD.MatchDesc>
+	<TD.SettingStopFlee>Pare de fugir se a ameaça desaparecer</TD.SettingStopFlee>
+	<TD.SettingStopFleeDesc>Tenho certeza que isso funciona\n\nA alteração da configuração não se aplica a pessoas que já estão em fuga</TD.SettingStopFleeDesc>
+	<TD.SettingDodgeGrenades>Desvie de granadas enquanto estiver alistado</TD.SettingDodgeGrenades>
+	<TD.SettingDodgeGrenadesDesc>É claro que isso interrompe o que você está fazendo.</TD.SettingDodgeGrenadesDesc>
+	<TD.SettingDodgeGrenadesEnemy>Colonos esquivam-se de granadas inimigas</TD.SettingDodgeGrenadesEnemy>
+	<TD.SettingDodgeGrenadesEnemyDesc>As pessoas nunca se esquivaram das granadas inimigas, mesmo as não alistadas. Agora você pode.</TD.SettingDodgeGrenadesEnemyDesc>
+	<TD.SettingDodgeGrenadesNPC>Os inimigos esquivam-se das suas granadas</TD.SettingDodgeGrenadesNPC>
+	<TD.SettingDodgeGrenadesNPCDesc>Agora eles também irão se esquivar de suas granadas. Eu não recomendo isso, mas acho que é realista.\n\nAlém disso, tecnicamente, duas facções irão se esquivar das granadas uma da outra se a opção "Colonos esquivam-se das granadas inimigas" estiver ativada..</TD.SettingDodgeGrenadesNPCDesc>
+	<TD.SettingDodgeGrenadesUnlessBelt>Não se esquive se o cinto de escudo estiver sendo usado</TD.SettingDodgeGrenadesUnlessBelt>
+	<TD.SettingQuickGrab>Permitir pegar itens de prateleiras de ladrilhos adjacentes</TD.SettingQuickGrab>
+	<TD.SettingAutoBuildable>Mostrar automaticamente a sobreposição de terreno construivel ao posicionar construções</TD.SettingAutoBuildable>
+	<TD.SettingAutoBuildableDesc>Construções com requisitos únicos, como pontes e sepulturas, mostrarão uma sobreposição de onde não podem ser construídos</TD.SettingAutoBuildableDesc>
+	<TD.SettingAutoCoverage>Mostrar automaticamente a sobreposição de cobertura da construção ao posicionar construções</TD.SettingAutoCoverage>
+	<TD.SettingAutoCoverageDesc>Construções como balizas comerciais mostram seu alcance efetivo</TD.SettingAutoCoverageDesc>
+	<TD.SettingAutoSmoothable>Destacar automaticamente terreno suavizado ao suavizar coisas</TD.SettingAutoSmoothable>
+	<TD.SettingAutoTreeGrowth>Destaque automaticamente o crescimento da árvore ao solicitar o corte de madeira</TD.SettingAutoTreeGrowth>
+	<TD.SettingAutoTreeGrowthDesc>Vermelho não pode ser colhido \nO verde pode ser colhido \nO branco está totalmente maduro \nO amarelo pode ser colhido "em breve"</TD.SettingAutoTreeGrowthDesc>
+	<TD.SettingAutoWindBlocker>Destaque automaticamente itens que bloqueiam o vento ao colocar turbinas eólicas</TD.SettingAutoWindBlocker>
+	<TD.SettingAutoFertility>Mostrar automaticamente a sobreposição de fertilidade ao colocar zonas de cultivo</TD.SettingAutoFertility>
+	<TD.SettingAutoLighting>Mostrar automaticamente a sobreposição de iluminação ao colocar luzes</TD.SettingAutoLighting>
+	<TD.SettingAutoPlantHarvest>Mostrar automaticamente a sobreposição da colheita ao solicitar a colheita da planta</TD.SettingAutoPlantHarvest>
+	<TD.SettingAutoAutorebuild>A reconstrução automática está ativada para um novo jogo</TD.SettingAutoAutorebuild>
+	<TD.SettingAutoRebuildTransportPod>Reconstruir automaticamente cápsulas de transporte quando iniciadas</TD.SettingAutoRebuildTransportPod>
+	<TD.CaravanLoadSelection>Formar uma caravana pré-seleciona todas as coisas que estão selecionadas no mapa</TD.CaravanLoadSelection>
+	<TD.CaravanSaveManifest>Fechar a caixa de diálogo de cápsulas de transporte/caravanas lembrará a lista de itens a serem enviados, ao abri-la novamente irá selecioná-los novamente</TD.CaravanSaveManifest>
+	<TD.CaravanDesc>*Nota: Fechar e reabrir com itens recém-selecionados não irá adicioná-los, pois a seleção anterior foi salva: basta clicar no botão reset e reabrir a janela para obter os itens recém-selecionados.</TD.CaravanDesc>
+	<TD.CaravanWorstFirst>As solicitações de doação dão primeiro os itens de menor valor</TD.CaravanWorstFirst>
+	<TD.CaravanWorstFirstDesc>Tenha em mente que pelo menos a qualidade normal ainda é necessária, mas isso evita doar itens lendários quando você tem itens normais disponíveis.</TD.CaravanWorstFirstDesc>
+	<TD.BlueprintAnyStuff>Clique com o botão direito em uma ferramenta de construção para selecionar qualquer material a partir do qual construir (mesmo quando você não o tiver disponível)</TD.BlueprintAnyStuff>
+	<!-- 1.4 folder -->
+	<TD.SettingCtrlQueueFront>Ctrl-shift-clique coloca ações na frente da fila</TD.SettingCtrlQueueFront>
+	<!-- 1.4 folder -->
+	<TD.SettingCtrlQueueFrontDesc>Normalmente, Shift-clique já apenas coloca a ação na fila, mas no final da fila. Isso permite que você faça fila na frente.</TD.SettingCtrlQueueFrontDesc>
+	<TD.SettingCopyPolicy>Mostrar um botão "Fazer cópia" nas configurações da política de roupas/alimentação</TD.SettingCopyPolicy>
+	<TD.SettingBillCountEquippedAny>Mostrar a opção "Conte Equipado" para cada receita</TD.SettingBillCountEquippedAny>
+	<TD.SettingBillCountEquippedAnyDesc>Armas e Vestuário sempre contam, mas por que não contar refeições + remédios em seu inventário??</TD.SettingBillCountEquippedAnyDesc>
+	<TD.SettingTopRightMouseover>As informações do ladrilho ao passar o mouse estão no canto superior direito</TD.SettingTopRightMouseover>
+	<TD.SettingTopRightMouseoverDesc>Então aparece quando algo é selecionado\n\nClaro que esta é uma má ideia se você ainda tiver o auxiliar de aprendizagem ativado.</TD.SettingTopRightMouseoverDesc>
+	<TD.SettingPawnTableHighlightSelected>Mostrar peões selecionados nas tabelas</TD.SettingPawnTableHighlightSelected>
+	<TD.SettingPawnTableHighlightSelectedDesc>Tabelas como aba de trabalho, aba de vida selvagem, etc..</TD.SettingPawnTableHighlightSelectedDesc>
+	<TD.SettingPawnTableArrowMouseover>Mostrar seta apontando para peão nas tabelas</TD.SettingPawnTableArrowMouseover>
+	<TD.SettingPawnTableClickSelect>Cliques do mouse nas tabelas de peões os selecionam. (Alt-click para funcionar como antes)</TD.SettingPawnTableClickSelect>
+	<TD.SettingPawnTableClickSelectDesc>Deve se comportar de forma intuitiva como qualquer outra seleção. Pressione Esc para fechar a janela da aba.\n\nShift-clique para selecionar/desmarcar vários. Clique e arraste para selecionar grupos. Clique duas vezes para selecionar todos do mesmo tipo. Clique com o botão direito para ampliar, sem selecionar. Alt-clique para fechar a janela, selecione e vá para aquele peão.</TD.SettingPawnTableClickSelectDesc>
+	<TD.SettingAlertDeterioration>Alerta para deterioração das coisas</TD.SettingAlertDeterioration>
+	<TD.SettingAlertDeteriorationDesc>Deteriorar coisas com menos de 50% de HP, que não são proibidos, e isso não inclui cadáveres em decomposição.</TD.SettingAlertDeteriorationDesc>
+	<TD.SettingAlertHeatstroke>Alerta para colonos com insolação</TD.SettingAlertHeatstroke>
+	<TD.SettingAlertBurning>Alerta para colonos queimando</TD.SettingAlertBurning>
+	<TD.SettingAlertToxic>Alerta para colonos que estão recebendo acúmulo tóxico</TD.SettingAlertToxic>
+	<TD.SettingAlertNoBill>Alerta para bancadas sem receitas configuradas</TD.SettingAlertNoBill>
+	<TD.SettingMatchGrow>Habilite uma ferramenta para criar uma zona de cultivo que corresponda ao terreno</TD.SettingMatchGrow>
+	<TD.SettingMatchGrowDesc>O terreno só é adicionado se a porcentagem de fertilidade corresponder ao primeiro ladrilho selecionado ao arrastar</TD.SettingMatchGrowDesc>A carta para pods de descarte aleatório de recursos informa o que foi descartado
+	<TD.DropPodWhatDropped>A carta para cápsulas de descarte aleatório de recursos informa o que foi descartado</TD.DropPodWhatDropped>
+	<TD.SarcophagusPreferred>Sarcófago preferido para uso em sepulturas</TD.SarcophagusPreferred>
+	<TD.SarcophagusPreferredDesc>As configurações padrão para um Sarcófago são Críticas, portanto são usadas antes dos túmulos. As configurações já são exclusivas para colonos, mas sem a configuração Crítica, os colonos seriam enterrados em sepulturas mais próximas</TD.SarcophagusPreferredDesc>
+	<TD.NoFrameDecon>Os quadros não podem ser desconstruídos, apenas cancelados</TD.NoFrameDecon>
+	<TD.NoFrameDeconDesc>A desconstrução devolveria menos recursos que o cancelamento</TD.NoFrameDeconDesc>
+	<TD.DropdownBuildingsOrder>Os designadores suspensos recebem sua ordem definida pelos designadores contidos</TD.DropdownBuildingsOrder>
+	<TD.DropdownBuildingsOrderDesc>e.g. luzes coloridas aparecem no menu de construção ao lado de outras luzes, em vez de no início da lista</TD.DropdownBuildingsOrderDesc>
+	<TD.SmoothSelectedStone>A pedra selecionada possui um botão para suavizá-la</TD.SmoothSelectedStone>
+	<TD.DeepDrillRandomrock>A perfuração profunda para pedra obtém um tipo de pedra aleatório</TD.DeepDrillRandomrock>
+	<TD.DeepDrillRandomrockDesc>Normalmente só obteria um tipo. Agora é aleatório entre os tipos de pedras disponíveis no mapa.</TD.DeepDrillRandomrockDesc>
+	<TD.LowerOverlayOpacities>Diminuir opacidades de sobreposição:</TD.LowerOverlayOpacities>
+	<TD.SettingUrgentRefill>Se você tiver a Allow Tool, os estoques terão um botão de alternância para 'recarga urgente'</TD.SettingUrgentRefill>
+	<TD.SettingUrgentRefillDesc>Se uma peça de um estoque escolhido estiver vazia, haverá um trabalho urgente de transporte para reabastecê-la. Ótimo para suprimentos de cozinha / bancada.\n\nRequer Allow Tool</TD.SettingUrgentRefillDesc>
+	<TD.SettingCameraDragFix>Corrigir o arrastamento do meio do mouse da câmera </TD.SettingCameraDragFix>
+	<TD.SettingCameraDragFixDesc>Arrastar anexa o mapa ao cursor em vez de se mover em uma velocidade sabe-se lá qual\n\nArrastar em FPS baixo não é afetado\n\nO deslizamento do mapa após o mouse parar é removido</TD.SettingCameraDragFixDesc>
+	<TD.WorkGiverRefillZones>reabastecer zonas urgentemente</TD.WorkGiverRefillZones>
+	<TD.RefillingUrgently>reabastecendo urgentemente</TD.RefillingUrgently>
+	<TD.GizmoUrgentRefill>Reabastecimento urgente</TD.GizmoUrgentRefill>
+	<TD.GizmoUrgentRefillDesc>Se alguma célula estiver desocupada, ela será reabastecida com urgência</TD.GizmoUrgentRefillDesc>
+	<TD.SettingHeaderArea>Coisas de área/zona</TD.SettingHeaderArea>
+	<TD.SettingHeaderOverlays>Sobreposições</TD.SettingHeaderOverlays>
+	<TD.SettingHeaderGameImprovements>Melhorias de jogo</TD.SettingHeaderGameImprovements>
+	<TD.SettingHeaderAI>IA/comportamento</TD.SettingHeaderAI>
+	<TD.SettingCleanZoneEdges>Bordas de zona mais limpas (e indicadores de alcance)</TD.SettingCleanZoneEdges>
+	<TD.SettingsHeaderArea>Coisas de área/zona</TD.SettingsHeaderArea>
+	<TD.SettingsCleanZone>Bordas de zona mais limpas (e indicadores de alcance)</TD.SettingsCleanZone>
+	<TD.SettingsHeaderOverlays>Sobreposições</TD.SettingsHeaderOverlays>
+	<TD.SettingsHeaderGame>Melhorias de jogo</TD.SettingsHeaderGame>
+	<TD.SettingsHeaderInfo>UI / Info</TD.SettingsHeaderInfo>
+	<TD.SettingsHeaderAlerts>Alertas</TD.SettingsHeaderAlerts>
+	<TD.SettingsHeaderAI>IA/comportamento</TD.SettingsHeaderAI>
+	<TD.EmptyWorkbench>Bancada Vazia</TD.EmptyWorkbench>
+	<TD.EmptyWorkbenchDesc>Há uma bancada sem receitas de trabalho configuradas</TD.EmptyWorkbenchDesc>
+	<TD.ClearEntireArea>Limpar toda a área (mas não eliminar da lista)</TD.ClearEntireArea>
+	<TD.PasteFrom>Colar de</TD.PasteFrom>
+	<TD.SettingsZoomToMouse>Zoom para o mouse</TD.SettingsZoomToMouse>
+	<TD.SettingsZoomToMouseDesc>(Shift-zoom ampliará para o centro)</TD.SettingsZoomToMouseDesc>
+	<TD.AlertBurning>Um colono está queimando e rapidamente ganhando insolação.</TD.AlertBurning>
+	<TD.AlertHeatstrike>Um colono está sofrendo de insolação. Isso não é bom.</TD.AlertHeatstrike>
+	<TD.AlertToxic>Um colono apresenta níveis não triviais de acúmulo tóxico. Isso não é bom.</TD.AlertToxic>
+	<TD.SettingRememberResourceReadout>O estado de leitura de recursos é salvo por jogo (modo categorizado)</TD.SettingRememberResourceReadout>
+	<TD.SettingNewGameOpenResourceReadout>Novo jogo: a leitura dos recursos inicia com cada categoria aberta</TD.SettingNewGameOpenResourceReadout>
+	<TD.AlertWindBlocked>Alerta para turbinas bloqueadas pelo vento</TD.AlertWindBlocked>
+	<TD.WindBlocked>Vento bloqueado</TD.WindBlocked>
+	<TD.WindBlockedDesc>Algo está bloqueando o vento e você provavelmente não quer que isso bloqueie o vento</TD.WindBlockedDesc>
+	<TD.Show>Mostrar "{0}"</TD.Show>
+	<TD.SettingHeaderToggleButtons>Mostrar/ocultar botões de alternância (no canto inferior direito)</TD.SettingHeaderToggleButtons>
+	<TD.SettingHeaderToggleButtonsDesc>Já que este mod adiciona tantos botões de sobreposição, que tal removermos alguns daqueles botões que você nunca usa:</TD.SettingHeaderToggleButtonsDesc>
+	<TD.MakeCopy>Fazer cópia</TD.MakeCopy>
+	<TD.WarningReColorAll>Esse botão mudará a cor de muitas coisas. Você pode querer fazer backup do seu arquivo salvo, a menos que tenha certeza de que deseja alterar as cores.</TD.WarningReColorAll>
+	<TD.OKIGetIt>Ok, eu entendi</TD.OKIGetIt>
+	<TD.HoldOn>Espere um pouco</TD.HoldOn>
+	<TD.SettingHeaderColorVariations>Variações de Cor</TD.SettingHeaderColorVariations>
+	<TD.SettingColorVariation>Aplique uma ligeira variação de cor nos itens criados</TD.SettingColorVariation>
+	<TD.SettingColorVariationDesc>Especificamente, até +/- 5% em HSV.\n\nApenas vestuário, já que as armas não têm cores personalizáveis.</TD.SettingColorVariationDesc>
+	<TD.SettingColorGenerator>Use o gerador de cores em itens criados</TD.SettingColorGenerator>
+	<TD.SettingColorGeneratorDesc>Você conhece aqueles itens que outras facções ganham em várias cores - você também pode!</TD.SettingColorGeneratorDesc>
+	<TD.SettingColorGeneratorChance>Chance de usar o gerador de cores em vez da cor do ingrediente:</TD.SettingColorGeneratorChance>
+	<TD.SettingReapplyColorVariations>Reaplicar variações de cores a todas as coisas atuais</TD.SettingReapplyColorVariations>
+	<TD.Go>Ir</TD.Go>
+	<TD.SettingReapplyColorVariationsDesc>(Isto também se aplica às duas últimas opções, estejam elas marcadas ou não)</TD.SettingReapplyColorVariationsDesc>
+	<TD.SettingFixColorStuff>Correção para usar a cor correta do ingrediente</TD.SettingFixColorStuff>
+	<TD.SettingFixColorStuffDesc>Por exemplo, não deve haver nenhuma armadura antiaérea branca. Obtém o 'branco' do aço, mas o aço deveria ser cinza, como acontece com as armas. É apenas 'branco' porque o arquivo .png de aço já é colorido, ao contrário do tecido/couro. Além disso: a armadura marinha cor de plastiaço parece legal!</TD.SettingFixColorStuffDesc>
+	<TD.SettingFixUncoloredStuff>Ignore ingredientes sem cor</TD.SettingFixUncoloredStuff>
+	<TD.SettingFixUncoloredStuffDesc>Algumas armaduras totalmente brancas se devem ao fato de os componentes não terem cor alguma. Os componentes não devem ser capazes de transmitir sua falta de cor aos itens criados a partir deles.</TD.SettingFixUncoloredStuffDesc>
+	<TD.ShowThisAreaForColonists>Mostrar esta área para colonos</TD.ShowThisAreaForColonists>
+	<TD.ShowThisAreaForAnimals>Mostrar esta área para animais</TD.ShowThisAreaForAnimals>
+	<TD.JumpToThisObject>Ir para este objeto</TD.JumpToThisObject>
+	<TD.CycleJumpingToTheseObjects>Ciclo pulando para esses objetos</TD.CycleJumpingToTheseObjects>
+	<TD.NoLimitOnTheNumberOfAreas>Não há limite para o número de áreas</TD.NoLimitOnTheNumberOfAreas>
+	<TD.SettingJumpToSelectedItems>No painel de informações de seleção, mostre um botão para ir para os itens selecionados</TD.SettingJumpToSelectedItems>
+	<TD.SettingStopForcedSlowdown>Pode pressionar Shift e clicar nos controles de tempo para parar a desaceleração forçada durante uma batalha</TD.SettingStopForcedSlowdown>
+		<TD.ConfirmRestoreAllSettings>Realmente restaurar todas as configurações?</TD.ConfirmRestoreAllSettings>
+	<TD.FeatureConfirmRestoreSettings>O botão 'Restaurar configurações' tem confirmação e salva um backup</TD.FeatureConfirmRestoreSettings>
+	
+</LanguageData>

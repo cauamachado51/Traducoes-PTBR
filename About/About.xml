@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	
+	<!-- visualização -->
+	<name>Traduções PTBR - Kit's Portuguese Pack</name>
+	<author>cauamachado51</author>
+	<packageId>cauamachado51.TraducoesPTBR</packageId>
+	<url>https://steamcommunity.com/sharedfiles/filedetails/?id=3197839259</url>
+	<supportedVersions>
+		<li>1.4</li>
+		<li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+	<modVersion>5 em andamento</modVersion>
+	<description><![CDATA[<size=16><b>•fiz esse mod para complementar:</b></size>
+
+ - Kit's Portuguese Pack
+ - Vanilla Expanded Framework, Vanilla Furniture Expanded - (AlgumaCoisa), Vanilla Factions Expanded - (AlgumaCoisa), Vanilla Vehicles Expanded
+ - Bambino RimPT-BR (só vi depois de lançar 1.1)
+
+<size=16><color=green><b>•Traduzido/Atualizado(%), 79:</b></color></size>
+
+ - [CAT] Show Hair With Hats or Hide All Hats
+ - [KV] Call Trade Ships
+ - [NL] Facial Animation - WIP
+ - [021] WikiRim (Continued)
+ - Animal Controls
+ - Animal Simple Command
+ - Animal Tab
+ - Animals Logic
+ - Auto-Extract Genes
+ - AutoVents
+ - Best Mix (Continued)
+ - Better ground-penetrating scanner
+ - Better Pawn Control
+ - Better Workbench Management
+ - BetterInfoCard
+ - Blueprints
+ - Camera+
+ - Caravan Item Selection Enhanced
+ - Chemfuel powered Portable Generator
+ - Clean Pathfinding 2
+ - Customize Animals
+ - Dubs Mint Menus: ~40%, apenas atualização dele
+ - Dubs Mint Minimap
+ - Dubs Performance Analyzer
+ - Gear Up And Go
+ - Giddy-Up 2
+ - Graphics Settings+
+ - Grouped Pawns Lists
+ - Harvest Everything![Adopted]: ~50%, sem PTBR do mod "Extended Human Body Simulation", mas tem na pasta "backup - mod progress" arquivo para traduzir
+ - Heat Map (Continued)
+ - Improve This
+ - Injured Carry
+ - InventoryTab
+ - Job In Bar
+ - LWM's Deep Storage: ??%, atualização de "Kit's Portuguese Pack"
+ - Mad Skills
+ - Map Preview
+ - Mid-saver Saver
+ - Mining Priority
+ - Numbers
+ - Offspring Inherit Xenogenes (Continued)
+ - Pawn Rules (Continued)
+ - Performance Optimizer
+ - Pharmacist - 1.5 Unofficial (+ Blood Rot & Lung Rot fix): ~10%, atualização dele
+ - Pick Up And Haul
+ - Plug and Play Joiner
+ - Power Tab 2
+ - Priority Treatment Ressurected
+ - QualityBuilder
+ - Quick Links
+ - Quick Stockpile Creation
+ - Range Finder
+ - Ranged DPS (Continued)
+ - Realistic Rooms Rewritten
+ - Recycle This
+ - Relevant Stats In Description
+ - Replace Stuff: ~50%, apenas atualização dele
+ - RimHUD: 80%, apenas atualização de: Kit's Portuguese Pack
+ - RocketMan - Performance Mod
+ - Simply More Bridges (Continued)
+ - Smarter Deconstruction and Mining
+ - Some more jobs: infelizmente não existe EXs para completar
+ - Stonecutting Extended: sem PTBR dos mods "Alpha Biomes", "CCP Stone Tweaks", "Cupro", "Extra Stone Cupro", "Extra Stone" e "RimNauts", mas tem na pasta "backup - mod progress" arquivo para traduzir
+ - TD Enhancement Pack
+ - Temperature Control Unit
+ - Toggleable Overlays
+ - Toggleable Readouts
+ - TradeHelper
+ - Tweaks Galore
+ - Use Bedrolls
+ - Vanilla Furniture Expanded: ~1%, keyed que não tem em "Vanilla Furniture Expanded Tradução PTBR"
+ - Vanilla Recycling Expanded
+ - Weight Price
+ - What's for sale
+ - What's That Mod
+ - While You Are Nearby
+ - While You're Up  PUAH+
+ - WVC - Work Modes
+ - XML Extensions
+
+<size=16><color=#0078d4><b>•Destraduzido/Renomeado titulo de mod options, 8:</b></color></size>
+
+ - Backup Power:
+ - Colony Manager:
+ - Medical Tab:
+ - Replace Stuff:
+ - Smart Medicine: substitui "Kit's Portuguese Pack"
+ - Vanilla Expanded Framework: tem 3, 2 com nome aleatório, foi possível agrupar 1, o outro é "animal behaviours"
+
+<size=16><color=#0078d4><b>•ajustes, 2:</b></color></size>
+
+ - Bambino RimPT-BR: se você assim como eu odeia que seja modificado algo do vanilla que já esteja traduzido, no carregador de mods do jogo pesquise Bambino RimPT-BR clique em avançado>abrir pasta, no explorador pesquise e exclua "MSSRPG_Common_Misc.xml", "MSSRPG_Common_Dialogs_Various", "Items_Exotic", "Apparel_Packs", "Apparel_Belts" e "Luciferium". (é dificil colocar ao vanilla, muitos nem sei onde encontro o original em game, só pesquisei por bardos, pergaminho apagar, talismã e poção que são os que notei, veio estes arquivos)
+ - Vanilla Furniture Expanded - Production: ~20%, ficar igual ao vanilla, EX: pedreiro»canteiro
+
+<size=16><color=#0078d4><b>•Correção para Auto Translation, 1:</b></color></size>
+
+ - CommonSense
+
+<size=16><color=yellow><b>•não suporta tradução ou não tem arquivos de exemplo em alguma língua e não tem mod de tradução, 7:</b></color></size>
+
+ - [NL] Dynamic Portraits
+ - CM Color Coded Mood Bar [1.1+]
+ - ED-EnhancedOptions [1.4]
+ - Export Agency
+ - Random's Gene Assistant
+ - Gene Trader
+ - Performance Fish
+ 
+<b>outros</b>
+ 
+Nota: sou apenas um aleatório que ao ver que é possivel traduzir mods de RimWorld com nenhum conhecimento de programação (simplesmente traduzir entre os códigos) decidiu traduzir os mods que usa/usou e agora está disponibilizando para qualquer um que queira.
+ 
+?esse mod quer ir depois de tal mod para substituir sua tradução pela destradução ou atualiza-lá, se quiser ignore. não precisa ir depois para traduzir.
+
+♥por favor deixe um like, mesmo contendo erros, fiquei dezenas de horas ativamente fazendo esse mod. cada tradução tendo uma pequena revisão, várias vezes coloquei em múltiplos tradutores porque só um não sabe traduzir qualquer frase/palavra.]]>
+	</description>
+
+	<!-- regras -->
+	<loadBefore>
+		<li>Krkr.RocketMan</li>
+		<li>majorhoff.rimthreaded</li>
+		<li>Taranchuk.PerformanceOptimizer</li>
+	</loadBefore>
+	<loadAfter>
+		<li>NR.vanillafactionsexpandedPTBR</li>
+		<li>KIT.PortuguesePack</li>
+		<li>Fluffy.MedicalTab</li>
+		<li>Uuugggg.ReplaceStuff</li>
+		<li>Fluffy.ColonyManager</li>
+		<li>Fluffy.BackupPower</li>
+		<li>NR.vanillaexpanded.vfeproductionPTBR</li>
+		<li>Bambino.Tradptbr</li>
+	</loadAfter>
+	
+</ModMetaData>

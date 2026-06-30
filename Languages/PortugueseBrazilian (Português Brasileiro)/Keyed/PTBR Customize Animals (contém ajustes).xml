@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+   <!-- ArmorRating.xml -->
+	<SY_CA.SeparatorArmorRating>Classificação de armadura</SY_CA.SeparatorArmorRating>
+	
+	<SY_CA.ArmorRating_Sharp>Classificação de armadura - Afiada</SY_CA.ArmorRating_Sharp>
+	<SY_CA.TooltipArmorRating_Sharp>Defina a classificação da armadura contra danos afiados
+Embora seja possível digitar mais, 200% é o limite superior</SY_CA.TooltipArmorRating_Sharp>
+
+	<SY_CA.ArmorRating_Blunt>Classificação de armadura – Contundente</SY_CA.ArmorRating_Blunt>
+	<SY_CA.TooltipArmorRating_Blunt>Defina a classificação da armadura contra danos contundentes
+Embora seja possível digitar mais, 200% é o limite superior</SY_CA.TooltipArmorRating_Blunt>
+
+	<SY_CA.ArmorRating_Heat>Classificação de armadura – Calor</SY_CA.ArmorRating_Heat>
+	<SY_CA.TooltipArmorRating_Heat>Defina a classificação da armadura contra danos causados pelo calor
+Embora seja possível digitar mais, 200% é o limite superior</SY_CA.TooltipArmorRating_Heat>
+
+   <!-- AttackFactors.xml -->
+	<SY_CA.SeparatorAttackModifiers>Modificadores de ataque</SY_CA.SeparatorAttackModifiers>
+	
+	<SY_CA.AttackPowerModifier>Modificador de poder de ataque</SY_CA.AttackPowerModifier>
+	<SY_CA.TooltipAttackPowerModifier>Modifique o dano causado pelos ataques deste animal
+Valores maiores que 1 aumentam o dano e o dano por segundo
+Valores menores que 1 diminuem o dano e o dano por segundo</SY_CA.TooltipAttackPowerModifier>
+
+	<SY_CA.AttackPowerModifierGlobal>Modificador de poder de ataque</SY_CA.AttackPowerModifierGlobal>
+	<SY_CA.TooltipAttackPowerModifierGlobal>Modifique o dano causado por todos os animais
+Valores maiores que 1 aumentam o dano e o dano por segundo
+Valores menores que 1 diminuem o dano e o dano por segundo</SY_CA.TooltipAttackPowerModifierGlobal>
+	
+	
+	<SY_CA.AttackCooldownModifier>Modificador de tempo de espera de ataque</SY_CA.AttackCooldownModifier>
+	<SY_CA.TooltipAttackCooldownModifier>Modifique o tempo de espera (cooldown) dos ataques deste animal
+Valores maiores que 1 aumentam o tempo de recarga, reduzindo o dano por segundo
+Valores menores que 1 diminuem o tempo de recarga, aumentando o dano por segundo</SY_CA.TooltipAttackCooldownModifier>
+	
+	<SY_CA.AttackCooldownModifierGlobal>Modificador de tempo de espera de ataque</SY_CA.AttackCooldownModifierGlobal>
+	<SY_CA.TooltipAttackCooldownModifierGlobal>Modifique o tempo de espera (cooldown) de todos os ataques de animais
+Valores maiores que 1 diminuem a velocidade de ataque e o dano por segundo
+Valores menores que 1 aumentam a velocidade de ataque e o dano por segundo</SY_CA.TooltipAttackCooldownModifierGlobal>
+
+	
+	<SY_CA.AttackModifierDPS>Dano estimado por segundo</SY_CA.AttackModifierDPS>
+	<SY_CA.TooltipAttackModifierDPSNoManipulation>Animal não tem partes do corpo “manipuladas”</SY_CA.TooltipAttackModifierDPSNoManipulation>
+	
+   <!-- BodySize.xml -->
+	<SY_CA.BodySize>Tamanho do corpo</SY_CA.BodySize>
+	<SY_CA.TooltipBodySize>Defina o tamanho do corpo deste animal
+O tamanho do corpo afeta a quantidade de carne e couro obtidos no abate, bem como a capacidade de carga, mas não, por exemplo, pontos de vida ou danos causados!</SY_CA.TooltipBodySize>
+
+	<SY_CA.BodySizeGlobal>Tamanho do corpo</SY_CA.BodySizeGlobal>
+	<SY_CA.TooltipBodySizeGlobal>Defina um modificador de tamanho corporal para todos os animais
+O tamanho do corpo afeta a quantidade de carne e couro obtidos no abate, bem como a capacidade de carga, mas não, por exemplo, pontos de vida ou danos causados!</SY_CA.TooltipBodySizeGlobal>
+
+   <!-- CaravanRidingSpeed.xml -->
+	<SY_CA.CaravanRidingSpeed>Fator de velocidade de condução em caravana</SY_CA.CaravanRidingSpeed>
+	<SY_CA.CaravanRidingSpeedDisabled>animal não é montável</SY_CA.CaravanRidingSpeedDisabled>
+	<SY_CA.TooltipCaravanRidingSpeed>Defina o fator de velocidade de condução da caravana para este animal (amplia a velocidade *do colono*[acho] ao ter o animal, 100% faz nada, as velocidades dos colonos são somadas e dividas = velocidade da caravana)</SY_CA.TooltipCaravanRidingSpeed>
+	<!-- ajuste -->
+	<SY_CA.TooltipCaravanRidingSpeedChk>Defina o animal para ser montado em caravanas (substitui "Dar um bônus de velocidade de caravana a montarias incomuns" de Giddy-Up 2 só de abrir este mod setting (mesmo as intactas), mas ao abrir o mod setting de Giddy-Up volta suas configs.)</SY_CA.TooltipCaravanRidingSpeedChk>
+
+	<SY_CA.CaravanRidingSpeedGlobal>Fator de velocidade de condução em caravana</SY_CA.CaravanRidingSpeedGlobal>
+	<SY_CA.TooltipCaravanRidingSpeedGlobal>Defina um modificador de velocidade de caravana para todos os animais
+Isso afetará apenas animais que podem ser montados!</SY_CA.TooltipCaravanRidingSpeedGlobal>
+
+   <!-- CarryingCapacity.xml -->
+	<SY_CA.CarryingCapacity>Capacidade de carga</SY_CA.CarryingCapacity>
+	<SY_CA.TooltipCarryingCapacity>Defina a capacidade de carga para este animal
+A capacidade de carga define o tamanho dos itens que um animal pode carregar ao transportar
+Não afetará a capacidade de massa para caravanas, a menos que a configuração esteja habilitada nas configurações globais</SY_CA.TooltipCarryingCapacity>
+	
+	<SY_CA.CarryingCapacityRange>Faixa de capacidade de carga</SY_CA.CarryingCapacityRange>
+	<SY_CA.TooltipMinCarryingCapacity>Defina um modificador de capacidade de carga mínima para todos os animais
+A capacidade de transporte real depende do tamanho do corpo e da estatística de manipulação
+Não afetará a capacidade de massa para caravanas, a menos que a configuração seja ativada em configurações globais</SY_CA.TooltipMinCarryingCapacity>
+	<SY_CA.TooltipMaxCarryingCapacity>Defina um modificador de capacidade de carga máxima para todos os animais
+A capacidade de transporte real depende do tamanho do corpo e da estatística de manipulação
+Não afetará a capacidade de massa para caravanas, a menos que a configuração seja ativada em configurações globais</SY_CA.TooltipMaxCarryingCapacity>
+	
+	
+	<SY_CA.AffectsMassCapacity>afetar a capacidade de massa de caravanas</SY_CA.AffectsMassCapacity>
+	<SY_CA.TooltipAffectsMassCapacity>Fazer com que a capacidade de carga afecte a capacidade de massa da caravana para todos os animais
+O valor base da capacidade de carga dos animais é 75, quanto maior for, maior será a massa que pode ser transportada, quanto menor for, menor será
+(Isto só é importante para animais de carga + humanos)</SY_CA.TooltipAffectsMassCapacity>
+
+   <!-- DrawSize.xml -->
+	<SY_CA.DrawSize>Tamanho do desenho</SY_CA.DrawSize>
+	<SY_CA.TooltipDrawSize>Alterar o tamanho do sorteio requer reiniciar o jogo para entrar em vigor</SY_CA.TooltipDrawSize>
+	
+	<SY_CA.DrawSizeGlobal>Tamanho do desenho</SY_CA.DrawSizeGlobal>
+	<SY_CA.TooltipDrawSizeGlobal>Alterar o tamanho do sorteio requer reiniciar o jogo para entrar em vigor</SY_CA.TooltipDrawSizeGlobal>
+	
+   <!-- EggLayer.xml -->
+	<SY_CA.EggLayer>Ovos</SY_CA.EggLayer>
+	<SY_CA.EggLayerFertilizedDef>Ovo fertilizado</SY_CA.EggLayerFertilizedDef>
+	<SY_CA.EggLayerUnfertilizedDef>Ovo não fertilizado</SY_CA.EggLayerUnfertilizedDef>
+	<SY_CA.EggLayerIntervalDays>Intervalo de posicionamento de ovos</SY_CA.EggLayerIntervalDays>
+	<SY_CA.TooltipEggLayerIntervalDays>Intervalo entre cada ovo botado em dias</SY_CA.TooltipEggLayerIntervalDays>
+	<SY_CA.EggLayerDaysToHatch>Dias para eclodir</SY_CA.EggLayerDaysToHatch>
+	<SY_CA.TooltipEggLayerDaysToHatch>Tempo até os ovos eclodirem em dias</SY_CA.TooltipEggLayerDaysToHatch>
+	<SY_CA.EggLayerCountRangeMin>Número mínimo de ovos</SY_CA.EggLayerCountRangeMin>
+	<SY_CA.TooltipEggLayerCountRangeMin>Número mínimo de ovos por lote</SY_CA.TooltipEggLayerCountRangeMin>
+	<SY_CA.EggLayerCountRangeMax>Número máximo de ovos</SY_CA.EggLayerCountRangeMax>
+	<SY_CA.TooltipEggLayerCountRangeMax>Número máximo de ovos por lote</SY_CA.TooltipEggLayerCountRangeMax>
+	<SY_CA.EggLayerFertilizationCountMax>Fertilizações máximas</SY_CA.EggLayerFertilizationCountMax>
+	<SY_CA.TooltipEggLayerFertilizationCountMax>Número de fertilizações por posicionamento de ovo
+Múltiplas fertilizações levarão a vários ovos sendo colocados, eu acho...</SY_CA.TooltipEggLayerFertilizationCountMax>
+	<SY_CA.EggLayerFemaleOnly>Apenas feminino</SY_CA.EggLayerFemaleOnly>
+	<SY_CA.EggLayerFemaleOnlyText>os machos só põem ovos não fertilizados</SY_CA.EggLayerFemaleOnlyText>
+	<SY_CA.TooltipEggLayerFemaleOnly>Permitir que os machos coloquem ovos
+Essa configuração só faz sentido se o animal puder colocar ovos não fertilizados, pois os machos nunca podem ser fertilizados</SY_CA.TooltipEggLayerFemaleOnly>
+
+	<SY_CA.EggLayerNoDef>---</SY_CA.EggLayerNoDef>
+
+	<SY_CA.EggBodySizeMass>Definição da massa do ovo através do tamanho do corpo</SY_CA.EggBodySizeMass>
+	<SY_CA.TooltipEggBodySizeMass>Se ativar esta definição, a massa de todos os ovos será definida em função do tamanho do corpo do animal progenitor:
+egg_mass = baseBodySize * mass_factor
+	
+Utilizando as galinhas como predefinição, obtém-se um fator de 0,5: 
+mass_factor = egg_mass (0.15) / baseBodySize (0.3)</SY_CA.TooltipEggBodySizeMass>
+	<SY_CA.EggBodySizeNutrition>Nutrição dos ovos definida pelo tamanho do corpo</SY_CA.EggBodySizeNutrition>
+	<SY_CA.TooltipEggBodySizeNutrition>Se ativar esta definição, a nutrição de todos os ovos será definida em função do tamanho do corpo do animal progenitor:
+egg_nutrition = baseBodySize * nutrition_factor
+	
+Utilizando as galinhas como predefinição, obtém-se um fator de 0,8333333: 
+nutrition_factor = egg_nutrition (0.25) / baseBodySize (0.3)</SY_CA.TooltipEggBodySizeNutrition>
+
+   <!-- FilthRate.xml -->
+	<SY_CA.FilthRate>Taxa de sujeira</SY_CA.FilthRate>
+	<SY_CA.FilthRateDisabled>sujeira desativada</SY_CA.FilthRateDisabled>
+	<SY_CA.TooltipFilthRate>Definir quantidade de sujeira produzida por este animal</SY_CA.TooltipFilthRate>
+	<SY_CA.TooltipFilthRateChk>Desative a sujeira para este animal</SY_CA.TooltipFilthRateChk>
+	
+	<SY_CA.MaximumFilthRate>Taxa máxima de sujeira</SY_CA.MaximumFilthRate>
+	<SY_CA.TooltipMaximumFilthRate>Limitar a taxa de sujeira de todos os animais a este máximo</SY_CA.TooltipMaximumFilthRate>
+	<SY_CA.TooltipMaximumFilthRateChk>Desative a sujeira para todos os animais</SY_CA.TooltipMaximumFilthRateChk>
+	
+   <!-- FoodType.xml -->
+	<SY_CA.FoodType>Tipo de comida</SY_CA.FoodType>
+	<SY_CA.TooltipFoodTypeAdd>Clique e selecione itens no menu suspenso para permitir um tipo de alimento para este animal</SY_CA.TooltipFoodTypeAdd>
+	<SY_CA.TooltipFoodTypeRemove>Clique e selecione itens no menu suspenso para proibir um tipo de alimento para este animal</SY_CA.TooltipFoodTypeRemove>
+	
+   <!-- General.xml -->
+	<SY_CA.SelectAnimalToCustomize>Selecione Animal para personalizar:</SY_CA.SelectAnimalToCustomize>
+
+	<SY_CA.GlobalSettings>Configurações globais</SY_CA.GlobalSettings>
+	<SY_CA.GlobalSettingsSubtitle>Modifica todos os animais - exceto humanos</SY_CA.GlobalSettingsSubtitle>
+	<SY_CA.GlobalSettingsResetAll>Redefinir tudo</SY_CA.GlobalSettingsResetAll>
+	<SY_CA.TooltipGlobalSettings>Permite modificar todos os animais de uma só vez</SY_CA.TooltipGlobalSettings>
+	<SY_CA.TooltipUseGlobal>Aplicar</SY_CA.TooltipUseGlobal>
+	<SY_CA.TooltipGlobalSettingsResetAll>Redefinir todas as mudanças</SY_CA.TooltipGlobalSettingsResetAll>
+	<SY_CA.DialogGlobalSettingsResetAll>Todas as configurações para 'personalizar animais' serão redefinidas</SY_CA.DialogGlobalSettingsResetAll>
+	
+	<SY_CA.TooltipSettingsReset>Redefinir todas as mudanças para '{0}'</SY_CA.TooltipSettingsReset>
+	<SY_CA.DialogSettingsReset>Configurações para '{0}' será redefinido</SY_CA.DialogSettingsReset>
+	<SY_CA.DialogConfirm>Tem certeza?</SY_CA.DialogConfirm>
+  
+	<SY_CA.Filter>filtro</SY_CA.Filter>
+	<SY_CA.TooltipFilter>Aplique um filtro na lista
+Use * para filtrar para entradas modificadas</SY_CA.TooltipFilter>
+  
+	<SY_CA.Clear>Limpar</SY_CA.Clear>
+	<SY_CA.TooltipClearFilter>Limpe o filtro</SY_CA.TooltipClearFilter>
+
+	<SY_CA.Reset>Redefinir</SY_CA.Reset>
+	<SY_CA.TooltipDefaultValue>Padrão:</SY_CA.TooltipDefaultValue>
+	
+	<SY_CA.NotApplicable>não aplicável</SY_CA.NotApplicable>
+	
+	<SY_CA.SubMenuGeneral>Geral</SY_CA.SubMenuGeneral>
+	<SY_CA.SubMenuReproduction>Reprodução</SY_CA.SubMenuReproduction>
+	<SY_CA.SubMenuProductivity>Produtividade</SY_CA.SubMenuProductivity>
+	
+	<SY_CA.SeparatorGeneralSettings>Configurações Gerais</SY_CA.SeparatorGeneralSettings>
+	<SY_CA.SeparatorAnimalSettings>Configurações de animais</SY_CA.SeparatorAnimalSettings>
+	<SY_CA.SeparatorReproduction>Reprodução</SY_CA.SeparatorReproduction>
+	<SY_CA.SeparatorProductivity>Produtividade</SY_CA.SeparatorProductivity>
+	
+   <!-- GestationPeriodDays.xml -->
+	<SY_CA.GestationPeriodDays>Período de gestação</SY_CA.GestationPeriodDays>
+	<SY_CA.TooltipGestationPeriodDays>Ajuste o período de gestação para este animal
+Valores negativos desabilitam a gravidez</SY_CA.TooltipGestationPeriodDays>
+	
+	<SY_CA.GestationPeriodDaysGlobal>Período de gestação</SY_CA.GestationPeriodDaysGlobal>
+	<SY_CA.TooltipGestationPeriodDaysGlobal>Defina um modificador de período de gestação para todos os animais</SY_CA.TooltipGestationPeriodDaysGlobal>
+	
+   <!-- GrowthTier.xml -->
+	<SY_CA.GrowthTier>Nível de crescimento</SY_CA.GrowthTier>
+	
+	<SY_CA.GrowthTierPointsRequirements>Pontos necessários para o nível de crescimento</SY_CA.GrowthTierPointsRequirements>
+	<SY_CA.TooltipGrowthTierPointsRequirements>Pontos necessários para alcançar este nível de crescimento</SY_CA.TooltipGrowthTierPointsRequirements>
+	
+	<SY_CA.PassionGainsPerTier>Paixões obtidas no nível de crescimento</SY_CA.PassionGainsPerTier>
+	<SY_CA.TooltipPassionGainsPerTier>Paixões obtidas neste nível de crescimento</SY_CA.TooltipPassionGainsPerTier>
+	
+	<SY_CA.PassionChoicesPerTier>Escolhas de paixão obtidas no nível de crescimento</SY_CA.PassionChoicesPerTier>
+	<SY_CA.TooltipPassionChoicesPerTier>Escolhas de paixão obtidas neste nível de crescimento</SY_CA.TooltipPassionChoicesPerTier>
+	
+	<SY_CA.TraitGainsPerTier>Características obtidas no nível de crescimento</SY_CA.TraitGainsPerTier>
+	<SY_CA.TooltipTraitGainsPerTier>Características obtidas neste nível de crescimento</SY_CA.TooltipTraitGainsPerTier>
+	
+	<SY_CA.TraitChoicesPerTier>Escolhas de características obtidas no nível de crescimento</SY_CA.TraitChoicesPerTier>
+	<SY_CA.TooltipTraitChoicesPerTier>Escolhas de características obtidas neste nível de crescimento</SY_CA.TooltipTraitChoicesPerTier>
+	
+	<SY_CA.GrowthMomentAges>Momento de crescimento envelhece</SY_CA.GrowthMomentAges>
+	<SY_CA.TooltipGrowthMomentAges>A idade em que uma criança experimenta esse momento de crescimento</SY_CA.TooltipGrowthMomentAges>
+	
+	<SY_CA.GrowthMomentAgesBaby>Bebê >> criança</SY_CA.GrowthMomentAgesBaby>
+	<SY_CA.GrowthMomentAgesChild>criança</SY_CA.GrowthMomentAgesChild>
+	<SY_CA.GrowthMomentAgesTeen>criança</SY_CA.GrowthMomentAgesTeen>
+	<SY_CA.GrowthMomentAgesAdult>Criança >> adulto</SY_CA.GrowthMomentAgesAdult>
+	
+   <!-- HealthScale.xml -->
+	<SY_CA.HealthScale>Pontos de vida</SY_CA.HealthScale>
+	<SY_CA.TooltipHealthScale>Defina os pontos de vida deste animal, ele também afeta os pontos de vida da parte do corpo
+Tenha cuidado ao reduzir esse valor, pois os animais com muitas feridas ou cicatrizes podem perder partes do corpo ou morrer instantaneamente!</SY_CA.TooltipHealthScale>
+
+	<SY_CA.HealthScaleGlobal>Escala de saúde</SY_CA.HealthScaleGlobal>
+	<SY_CA.TooltipHealthScaleGlobal>Defina um modificador de saúde para todos os animais
+Aumenta ou diminui a saúde para todos os animais por um fator</SY_CA.TooltipHealthScaleGlobal>
+
+   <!-- HungerRate.xml -->
+	<SY_CA.HungerRate>Taxa de fome</SY_CA.HungerRate>
+	<SY_CA.TooltipHungerRate>Ajuste a taxa de fome deste animal</SY_CA.TooltipHungerRate>
+	
+	<SY_CA.HungerRateRange>Faixa de taxa de fome</SY_CA.HungerRateRange>
+	<SY_CA.TooltipMinHungerRate>Ajuste a taxa de fome mínima de todos os animais</SY_CA.TooltipMinHungerRate>
+	<SY_CA.TooltipMaxHungerRate>Ajuste a taxa de fome máxima de todos os animais</SY_CA.TooltipMaxHungerRate>
+	
+   <!-- LeatherAmount.xml -->
+	<SY_CA.LeatherAmount>Quantidade de couro</SY_CA.LeatherAmount>
+	<SY_CA.LeatherAmountNoDef>Animal não tem couro</SY_CA.LeatherAmountNoDef>
+	<SY_CA.TooltipLeatherAmount>Defina a quantidade de couro neste animal
+Você não deve alterar esse valor se for 0 por padrão</SY_CA.TooltipLeatherAmount>
+
+	<SY_CA.LeatherAmountGlobal>Quantidade de couro</SY_CA.LeatherAmountGlobal>
+	<SY_CA.TooltipLeatherAmountGlobal>Defina um modificador de quantidade de couro para todos os animais
+Aumenta ou diminui a quantidade de couro em todos os animais por um fator</SY_CA.TooltipLeatherAmountGlobal>
+
+   <!-- LifeExpectancy.xml -->
+	<SY_CA.LifeExpectancy>Expectativa de vida</SY_CA.LifeExpectancy>
+	<SY_CA.TooltipLifeExpectancy>Defina a vida da expectativa deste animal
+Não faço ideia por que você precisaria ou querer mudar isso, mas ei ... você pode.
+Realmente não tem tanto efeito quanto se esperaria que ele tivesse</SY_CA.TooltipLifeExpectancy>
+
+	<SY_CA.LifeExpectancyGlobal>Expectativa de vida</SY_CA.LifeExpectancyGlobal>
+	<SY_CA.TooltipLifeExpectancyGlobal>Defina um modificador de expectativa de vida para todos os animais</SY_CA.TooltipLifeExpectancyGlobal>
+	
+   <!-- LifeStageAges.xml -->
+	<SY_CA.LifeStageAges>Idades da fase de vida</SY_CA.LifeStageAges>
+	<SY_CA.TooltipLifeStageAgeMinAge>A idade em que este animal atingirá a respectiva fase da vida
+Para a maioria das mecânicas do jogo, a fase de vida "adulto" é o único fator importante</SY_CA.TooltipLifeStageAgeMinAge>
+
+   <!-- LitterSizeCurve.xml -->
+	<SY_CA.LitterSizeCurve>Curva de tamanho da ninhada</SY_CA.LitterSizeCurve>
+	<SY_CA.TooltipLitterSizeCurve>O tamanho da ninhada é determinado usando uma curva com pontos, cada um com um valor para "tamanho da ninhada" e sua "probabilidade"
+Uma curva válida requer pelo menos 3 pontos e deve começar e terminar com um ponto com probabilidade em 0, caso contrário, o tamanho da ninhada será definido como 1</SY_CA.TooltipLitterSizeCurve>
+	<SY_CA.LitterSizeCurveCount>Tamanho da ninhada</SY_CA.LitterSizeCurveCount>
+	<SY_CA.LitterSizeCurveProbability>Probabilidade</SY_CA.LitterSizeCurveProbability>
+	
+	<SY_CA.TooltipLitterSizeCurveInvalidCount>Número inválido de pontos:
+3 ou mais pontos são necessários e os pontos de partida/final devem ter probabilidade de 0</SY_CA.TooltipLitterSizeCurveInvalidCount>
+	<SY_CA.TooltipLitterSizeCurveInvalidStartOrEnd>Início/final inválido:
+A curva precisa começar e terminar com uma probabilidade de 0</SY_CA.TooltipLitterSizeCurveInvalidStartOrEnd>
+	
+	<SY_CA.TooltipLitterSizeCurveAdd>Adicione um novo ponto</SY_CA.TooltipLitterSizeCurveAdd>
+	<SY_CA.TooltipLitterSizeCurveRemove>Remova este ponto</SY_CA.TooltipLitterSizeCurveRemove>
+	
+	<SY_CA.TooltipLitterSizeCurveRange>Faixa de tamanho de ninhada</SY_CA.TooltipLitterSizeCurveRange>
+	<SY_CA.TooltipLitterSizeCurveAverage>Tamanho médio da ninhada</SY_CA.TooltipLitterSizeCurveAverage>
+	
+	<SY_CA.TooltipLitterSizeCurveCount>x</SY_CA.TooltipLitterSizeCurveCount>
+	<SY_CA.TooltipLitterSizeCurveProbability>y</SY_CA.TooltipLitterSizeCurveProbability>
+	
+   <!-- Manhunter.xml -->
+	<SY_CA.ManhunterOnTameFail>Chance de vingança em falha de domar</SY_CA.ManhunterOnTameFail>
+	<SY_CA.TooltipManhunterOnTameFail>Defina a chance com a qual um animal procurará vingança em uma tentativa de domar fracassada
+A chance real também é afetada pela habilidade do domador</SY_CA.TooltipManhunterOnTameFail>
+	
+	<SY_CA.ManhunterOnTameFailRange>Possibilidade de vingança em caso de fracasso de domesticação</SY_CA.ManhunterOnTameFailRange>
+	<SY_CA.TooltipMinManhunterOnTameFail>Definir a menor probabilidade de vingança permitida para uma falha de domesticação</SY_CA.TooltipMinManhunterOnTameFail>
+	<SY_CA.TooltipMaxManhunterOnTameFail>Definir a maior probabilidade de vingança permitida para uma falha de domesticação</SY_CA.TooltipMaxManhunterOnTameFail>
+	
+	
+	<SY_CA.ManhunterOnDamage>Chance de vingança por dano</SY_CA.ManhunterOnDamage>
+	<SY_CA.TooltipManhunterOnDamage>Definir a chance com que um animal buscará vingança quando agredido
+A chance real também é afetada pela habilidade, arma e alcance do caçador até o alvo</SY_CA.TooltipManhunterOnDamage>
+	
+	<SY_CA.ManhunterOnDamageRange>Probabilidade de vingança no alcance do dano</SY_CA.ManhunterOnDamageRange>
+	<SY_CA.TooltipMinManhunterOnDamage>Definir a menor probabilidade permitida de vingança ao ser agredido</SY_CA.TooltipMinManhunterOnDamage>
+	<SY_CA.TooltipMaxManhunterOnDamage>Definir a maior probabilidade permitida de vingança ao ser agredido</SY_CA.TooltipMaxManhunterOnDamage>
+	
+   <!-- MarketValue.xml -->
+	<SY_CA.MarketValue>Valor de mercado</SY_CA.MarketValue>
+	<SY_CA.TooltipMarketValue>Defina o valor de mercado deste animal</SY_CA.TooltipMarketValue>
+
+	<SY_CA.MarketValueGlobal>Valor de mercado</SY_CA.MarketValueGlobal>
+	<SY_CA.TooltipMarketValueGlobal>Defina um modificador de valor de mercado para todos os animais</SY_CA.TooltipMarketValueGlobal>
+	
+   <!-- MateMtbHours.xml -->
+	<SY_CA.MateMtbHours>Intervalo de acasalamento</SY_CA.MateMtbHours>
+	<SY_CA.TooltipMateMtbHours>Ajuste o tempo médio antes de um animal acasalar
+Um valor de 0 desabilita o acasalamento</SY_CA.TooltipMateMtbHours>
+
+	<SY_CA.MateMtbHoursGlobal>Intervalo de acasalamento</SY_CA.MateMtbHoursGlobal>
+	<SY_CA.TooltipMateMtbHoursGlobal>Defina um modificador para todos os animais ajustarem o tempo médio antes que o animal acasale
+Modificadores muito pequenos podem fazer com que o tempo se torne 0, o que desativa o acasalamento</SY_CA.TooltipMateMtbHoursGlobal>
+
+   <!-- MeatAmount.xml -->
+	<SY_CA.MeatAmount>Quantidade de carne</SY_CA.MeatAmount>
+	<SY_CA.MeatAmountNoDef>Animal não tem carne</SY_CA.MeatAmountNoDef>
+	<SY_CA.TooltipMeatAmount>Defina a quantidade de carne neste animal
+Você não deve alterar esse valor se for 0 por padrão</SY_CA.TooltipMeatAmount>
+
+	<SY_CA.MeatAmountGlobal>Quantidade de carne</SY_CA.MeatAmountGlobal>
+	<SY_CA.TooltipMeatAmountGlobal>Defina um modificador de quantidade de carne para todos os animais
+Aumenta ou diminui a quantidade de carne em todos os animais por um fator</SY_CA.TooltipMeatAmountGlobal>
+
+   <!-- Milkable.xml -->
+	<SY_CA.SeparatorMilkable>Ordenhável</SY_CA.SeparatorMilkable>
+	
+	<SY_CA.MilkableIsMilkable>É ordenhável</SY_CA.MilkableIsMilkable>
+	<SY_CA.TooltipMilkableIsMilkable>Defina o leite para este animal
+Alterar esta configuração requer recarregar para aplicar as configurações!</SY_CA.TooltipMilkableIsMilkable>
+	<SY_CA.MilkableIsMilkableText>requer recarregar a mudança!</SY_CA.MilkableIsMilkableText>
+	
+	<SY_CA.MilkableDef>Tipo de leite</SY_CA.MilkableDef>
+	<SY_CA.TooltipMilkableDef>Defina o item produzido pela ordenha deste animal
+(Não restrito a líquidos!)</SY_CA.TooltipMilkableDef>
+	<SY_CA.MilkableNoDef>Milk def não definido</SY_CA.MilkableNoDef>
+	
+	<SY_CA.MilkableIntervalDays>Intervalo de ordenha</SY_CA.MilkableIntervalDays>
+	<SY_CA.TooltipMilkableIntervalDays>Defina o intervalo entre ordenhas em dias</SY_CA.TooltipMilkableIntervalDays>
+	
+	<SY_CA.MilkableAmount>Quantidade de leite</SY_CA.MilkableAmount>
+	<SY_CA.TooltipMilkableAmount>Defina a quantidade de leite produzido por ordenha</SY_CA.TooltipMilkableAmount>
+	
+	<SY_CA.MilkableFemaleOnly>Apenas feminino</SY_CA.MilkableFemaleOnly>
+	<SY_CA.TooltipMilkableFemaleOnly>Permitir ordenhar machos</SY_CA.TooltipMilkableFemaleOnly>
+	<SY_CA.MilkableFemaleOnlyText>defini para tornar os machos ordenháveis</SY_CA.MilkableFemaleOnlyText>
+	
+   <!-- MoveSpeed.xml -->
+	<SY_CA.MoveSpeed>Velocidade de movimento</SY_CA.MoveSpeed>
+	<SY_CA.TooltipMoveSpeed>Defina a velocidade de movimento deste animal</SY_CA.TooltipMoveSpeed>
+	
+	<SY_CA.MoveSpeedModifierGlobal>Velocidade de movimento</SY_CA.MoveSpeedModifierGlobal>
+	<SY_CA.TooltipMoveSpeedModifierGlobal>Defina um modificador de velocidade de movimento para todos os animais
+(Lembre -se de que a velocidade do movimento ainda estará limitada a um mínimo / máximo, portanto, nenhum movimento louco de velocidade de luz)</SY_CA.TooltipMoveSpeedModifierGlobal>
+
+   <!-- NuzzleMtbHours.xml -->
+	<SY_CA.NuzzleMtbHours>Intervalo de carícias</SY_CA.NuzzleMtbHours>
+	<SY_CA.TooltipNuzzleMtbHours>Definir o intervalo de carícias para este animal
+Valores negativos desactivam o ato de acariciar
+Valores positivos definem o tempo médio, em horas, antes de um animal acariciar os colonos quando domesticado</SY_CA.TooltipNuzzleMtbHours>
+	
+	<SY_CA.NuzzleMtbHoursRange>Faixa de intervalo de carícias</SY_CA.NuzzleMtbHoursRange>
+	<SY_CA.TooltipMinNuzzleMtbHours>Intervalo mais baixo permitido para todos os animais
+Os valores negativos desativam as carícias para todos os animais
+Os valores positivos definem um limite inferior para o intervalo de carícias</SY_CA.TooltipMinNuzzleMtbHours>
+	<SY_CA.TooltipMaxNuzzleMtbHours>Intervalo mais elevado permitido para todos os animais
+Os valores negativos definem o intervalo de carícias como ilimitado (permitindo que carícias seja desativado)
+Valores positivos ativam o acariciar para todos os animais e definem um limite superior para o intervalo de acariciar</SY_CA.TooltipMaxNuzzleMtbHours>
+
+   <!-- PackAnimal.xml -->
+	<SY_CA.PackAnimal>Animal de carga</SY_CA.PackAnimal>
+	<SY_CA.TooltipPackAnimal>Definir este animal como um animal de carga
+Todos os animais de carga têm de ter uma textura de carga; será utilizada uma textura fictícia se o animal não tiver nenhuma
+É necessário recarregar para que a textura de carga apareça nos animais que transportam objetos</SY_CA.TooltipPackAnimal>
+	<SY_CA.PackAnimalMassCapacity>carregar massa</SY_CA.PackAnimalMassCapacity>
+	
+   <!-- Predator.xml -->
+	<SY_CA.Predator>Predador / Tamanho máximo do corpo da presa</SY_CA.Predator>
+	<SY_CA.TooltipMaxPreyBodySize>A maior presa (tamanho do corpo) que este animal irá caçar naturalmente
+Não afeta os caçadores de homens, apenas o comportamento predatório natural</SY_CA.TooltipMaxPreyBodySize>
+	<SY_CA.TooltipPredator>Habilitar ou desabilitar o comportamento predatório natural para este animal</SY_CA.TooltipPredator>
+	
+	<SY_CA.MaxPreyBodySizeNotPredator>Animal não é um predador</SY_CA.MaxPreyBodySizeNotPredator>
+	
+   <!-- RoamMtbDays.xml -->
+	<SY_CA.RoamMtbDays>Intervalo de vaguear</SY_CA.RoamMtbDays>
+	<SY_CA.RoamMtbDaysDisabled>vagueio desativado</SY_CA.RoamMtbDaysDisabled>
+	<SY_CA.TooltipRoamMtbDaysChk>Ativar ou desativar a perambulação para este animal. Os animais que vagueiam necessitam de um cercado
+(Um cercado restringe os movimentos e torna o treino quase inútil)</SY_CA.TooltipRoamMtbDaysChk>
+	<SY_CA.TooltipRoamMtbDays>Intervalo de deslocações em dias. Desmarque a caixa de verificação para desativar a deslocação
+(Os vagueadores necessitam de um cercado que restringe os seus movimentos e torna o treino quase inútil)</SY_CA.TooltipRoamMtbDays>
+
+	<SY_CA.MinimumRoamMtbDays>Intervalo mínimo de vaguear</SY_CA.MinimumRoamMtbDays>
+	<SY_CA.TooltipMinimumRoamMtbDaysChk>Desativar a deslocação de todos os animais ou ativar um intervalo mínimo de deslocação para os animais que já são andantes
+(Os animais errantes necessitam de um cercado que restringe os seus movimentos e torna a treinabilidade quase inútil)</SY_CA.TooltipMinimumRoamMtbDaysChk>
+	<SY_CA.TooltipMinimumRoamMtbDays>Intervalo de deslocações em dias. Desmarque a caixa de verificação para desativar a perambulação
+Esta definição global apenas afetará os animais que já são errantes.
+(Os animais errantes precisam de um cercado que restringe os seus movimentos e torna o treino quase inútil)</SY_CA.TooltipMinimumRoamMtbDays>
+
+   <!-- Shearable.xml -->
+	<SY_CA.SeparatorShearable>Tosquiável</SY_CA.SeparatorShearable>
+	
+	<SY_CA.ShearableIsShearable>É tosquiável</SY_CA.ShearableIsShearable>
+	<SY_CA.TooltipShearableIsShearable>Defina a tosquiabilidade para este animal
+Alterar esta configuração requer recarregar para aplicar as configurações!</SY_CA.TooltipShearableIsShearable>
+	<SY_CA.ShearableIsShearableText>requer recarregar a mudança!</SY_CA.ShearableIsShearableText>
+	
+	<SY_CA.ShearableDef>Tipo de lã</SY_CA.ShearableDef>
+	<SY_CA.TooltipShearableDef>Defina o item produzido por tosquiamento deste animal
+(Não restrito a lã!)</SY_CA.TooltipShearableDef>
+	<SY_CA.ShearableNoDef>wool def não definido</SY_CA.ShearableNoDef>
+	
+	<SY_CA.ShearableIntervalDays>Intervalo de tosquia </SY_CA.ShearableIntervalDays>
+	<SY_CA.TooltipShearableIntervalDays>Definir o intervalo entre tosquias em dias</SY_CA.TooltipShearableIntervalDays>
+	
+	<SY_CA.ShearableAmount>Quantidade de lã</SY_CA.ShearableAmount>
+	<SY_CA.TooltipShearableAmount>Definir a quantidade de lã produzida por tosquia</SY_CA.TooltipShearableAmount>
+	
+   <!-- Temperature.xml -->
+	<SY_CA.MaxTemperature>Temperatura máxima confortável</SY_CA.MaxTemperature>
+	<SY_CA.TooltipMaxTemperature>Defina a temperatura máxima confortável para este animal.
+Tome cuidado! Definir a temperatura muito baixa pode resultar em insolação instantânea!</SY_CA.TooltipMaxTemperature>
+
+	<SY_CA.MaxTemperatureRange>Intervalo máximo de temperatura confortavel</SY_CA.MaxTemperatureRange>
+	<SY_CA.TooltipMinMaxTemperature>Defina a temperatura máxima confortável mais baixa permitida para todos os animais</SY_CA.TooltipMinMaxTemperature>
+	<SY_CA.TooltipMaxMaxTemperature>Defina a temperatura máxima confortável mais alta permitida para todos os animais
+Tome cuidado! Definir a temperatura muito baixa pode resultar em hipotermia instantânea!</SY_CA.TooltipMaxMaxTemperature>
+
+
+	<SY_CA.MinTemperature>Temperatura mínima confortável</SY_CA.MinTemperature>
+	<SY_CA.TooltipMinTemperature>Defina a temperatura mínima confortável para este animal.
+Tome cuidado! Definir a temperatura muito alta pode resultar em hipotermia instantânea!</SY_CA.TooltipMinTemperature>
+
+	<SY_CA.MinTemperatureRange>Intervalo minimo de temperatura confortavel</SY_CA.MinTemperatureRange>
+	<SY_CA.TooltipMinMinTemperature>Definir a temperatura mínima confortável mais baixa permitida para todos os animais
+Tenha cuidado! Se a temperatura for demasiado elevada, pode provocar uma insolação instantânea!</SY_CA.TooltipMinMinTemperature>
+	<SY_CA.TooltipMaxMinTemperature>Defina a temperatura mínima mais alta permitida para todos os animais</SY_CA.TooltipMaxMinTemperature>
+	
+   <!-- ToxicResistance.xml -->
+	<SY_CA.ToxicResistance>Resistência tóxica</SY_CA.ToxicResistance>
+	<SY_CA.TooltipToxicResistance>Defina a resistência tóxica para este animal
+A resistência tóxica ajusta o quão fortemente uma criatura é afetada pelo acúmulo tóxico</SY_CA.TooltipToxicResistance>
+	
+	<SY_CA.ToxicResistanceRange>Faixa de resistência tóxica</SY_CA.ToxicResistanceRange>
+	<SY_CA.TooltipMinToxicResistance>Defina uma resistência tóxica mínima para todos os animais</SY_CA.TooltipMinToxicResistance>
+	<SY_CA.TooltipMaxToxicResistance>Defina uma resistência tóxica máxima para todos os animais</SY_CA.TooltipMaxToxicResistance>
+	
+   <!-- Trainability.xml -->
+	<SY_CA.Trainability>Treinabilidade</SY_CA.Trainability>
+	<SY_CA.TooltipTrainabilityRoamingWarning>A capacidade de treino acima de "Nenhum" sem remover a vagueação (definida como 0) não tem qualquer utilidade, uma vez que os animais que necessitam de um cercado não podem sair do mesmo</SY_CA.TooltipTrainabilityRoamingWarning>
+	<SY_CA.TrainabilityNone>Nenhum</SY_CA.TrainabilityNone>
+	<SY_CA.TooltipTrainabilityNone>Sem trainabilidade</SY_CA.TooltipTrainabilityNone>
+	<SY_CA.TrainabilityIntermediate>Interm.</SY_CA.TrainabilityIntermediate>
+	<SY_CA.TooltipTrainabilityIntermediate>Guarda e ataque apenas</SY_CA.TooltipTrainabilityIntermediate>
+	<SY_CA.TrainabilityAdvanced>Adv.</SY_CA.TrainabilityAdvanced>
+	<SY_CA.TooltipTrainabilityAdvanced>Guarda, ataque, resgate e transporte</SY_CA.TooltipTrainabilityAdvanced>
+
+	<SY_CA.MinimumTrainability>Treinabilidade mínima</SY_CA.MinimumTrainability>
+
+	
+	<SY_CA.TrainingDecay>Velocidade de decaimento do treinamento</SY_CA.TrainingDecay>
+	<SY_CA.TooltipTrainingDecay>Ajuste a taxa na qual o treinamento se degrada
+Um valor de 1 é a velocidade base, menos diminui a taxa, maior aumenta a taxa</SY_CA.TooltipTrainingDecay>
+	
+	<SY_CA.TrainableLimits>Treinabilidade: desativar os limites de tamanho corporal</SY_CA.TrainableLimits>
+	<SY_CA.RescueLimit>resgatar</SY_CA.RescueLimit>
+	<SY_CA.TooltipRescueLimit>Permitir que todos os animais treináveis "Avançados" possam "Resgatar", independentemente do seu tamanho corporal</SY_CA.TooltipRescueLimit>
+	<SY_CA.HaulLimit>transporte</SY_CA.HaulLimit>
+	<SY_CA.TooltipHaulLimit>Permitir que todos os animais treináveis "Avançados" possam "Transportar", independentemente do seu tamanho corporal</SY_CA.TooltipHaulLimit>
+	
+   <!-- Wildness.xml -->
+	<SY_CA.Wildness>Selvageria</SY_CA.Wildness>
+	<SY_CA.TooltipWildness>Definir o carácter selvagem deste animal (0 = 0%, 0,5 = 50%, 1 = 100%)
+Valores de 100% ou superiores tornarão o animal indomável
+Não se esqueça que alguns animais não são supostamente domesticáveis, especialmente alguns animais de mods darão erros quando domesticados!</SY_CA.TooltipWildness>
+
+   <!-- WillNeverEat.xml -->
+	<SY_CA.WillNeverEat>Nunca vai comer</SY_CA.WillNeverEat>
+	<SY_CA.TooltipWillNeverEatAdd>A adição de plantas impede um animal de as comer
+Normalmente utilizado para impedir que os animais comam plantas especiais, como as árvores Anima ou Gauranlen
+Isto só é relevante para os animais que podem comer essas plantas, pois um animal está sempre limitado à sua definição de tipo de alimento</SY_CA.TooltipWillNeverEatAdd>
+	<SY_CA.TooltipWillNeverEatRemove>A remoção de plantas permitirá que um animal as coma</SY_CA.TooltipWillNeverEatRemove>
+
+</LanguageData>

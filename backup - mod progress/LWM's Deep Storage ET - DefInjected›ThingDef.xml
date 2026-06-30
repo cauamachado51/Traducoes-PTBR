@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+ <!-- Deep_Storage.xml -->
+  <!-- EN: A shelf for storing miscellaneous items, from artillery shells to artwork, from bionic arms to bricks, from chairs to corpses.  It doesn't ask questions, it just stores things.\n\nItems stored in this will not deteriorate, even if outside.\n\nThis shelf holds more than the regular one, and is not limited by weight (use your own judgement). -->
+  <LWM_BigShelf.description>Esta prateleira comporta o dobro da normal..\n\nOs itens armazenados não se deterioram, mesmo se estiverem do lado de fora.</LWM_BigShelf.description>
+  
+  <!-- EN: A covered rack for storing clothing for easy, quick access and a tidy room. -->
+  <LWM_Clothing_Rack.description>Um armário coberto para guardar roupas para um acesso fácil e rápido e um ambiente organizado.</LWM_Clothing_Rack.description>
+  
+  <!-- EN: A large metal bin for tossing heavy things in.  These skips are not covered; they are open to the weather.\n\nNote: tossing large amounts of steel in willy-nilly means that it takes a while to find the steel you want later.  The mod author has abstracted that as a longer time for storing large stacks of items.  Pretend your pawns have to climb in and stack everything so the doggies can pick it up easily. -->
+  <LWM_DeepStorage_Skip.description>Uma grande lixeira de metal para jogar coisas pesadas. Essas Caçamba não são cobertas; eles estão abertas ao clima.\n\nNota: jogar grandes quantidades de aço àtoa significa que demora um pouco para encontrar o aço desejado mais tarde. Colonos têm que subir e empilhar tudo para que os cachorrinhos possam pegá-lo facilmente.</LWM_DeepStorage_Skip.description>
+  
+  <!-- EN: This is a set of hampers made out of fabric.  The various pockets allow storing large amounts of diverse small items with ease.\n\nIf you really want to store fabric in bags, see the mod settings! -->
+  <LWM_FabricHamper.description>Este é um conjunto de cesto de tecido. Os vários bolsos permitem armazenar grandes quantidades de diversos itens pequenos com facilidade.\n\nSe você realmente deseja armazenar tecidos em bolsas, consulte as configurações do mod!</LWM_FabricHamper.description>
+  
+  <!-- EN: A mini-granary for storing raw food and plant matter. -->
+  <LWM_Food_Basket.description>Um mini-celeiro para armazenar alimentos crus e vegetais.</LWM_Food_Basket.description>
+  
+  <!-- EN: "A hayloft is a space above a barn, stable or cow-shed, traditionally used for storage of hay or other fodder for the animals below. Haylofts were used mainly before the widespread use of industrial sized farm machinery allowed creating very large haybales that cannot be easily lifted for storing..."  - -Encyclopedia Galactica\n\nLet's be honest here.  Unless you're using some farming mods I don't know about, your colonists are probably making piles of hay by hand, which is slow, backbreaking labor.  You know what?  Most farming is slow, backbreaking labor, and your colonists can't even hire migrant workers from other colonies.  Treat farmers and farm workers with respect: they work a lot harder than YOU do ;) Amazing people, good food.\n\nThis structure can be used to store hay, silage, and various other plant materials off of damp floors.  You probably want to build it under a (very tall) roof. -->
+  <LWM_Hayloft.description>"Um palheiro é um espaço acima de um celeiro, estábulo ou curral. \n\nEssa estrutura pode ser usada para armazenar feno, silagem e vários outros materiais vegetais de pisos úmidos.</LWM_Hayloft.description>
+  
+  <!-- EN: This is a tall tray rack; haulers carry meals and treats here for storage. -->
+  <LWM_MealRack.description>Colonos deixam refeições aqui para armazenamento.</LWM_MealRack.description>
+  
+  <!-- EN: A tall metal frame with several hooks hanging from chains.  A simple crank allows hoisting several hanging things into the air.  A way to store the dead bodies of fellow animals you have killed, before cutting them up and consuming their flesh.  You monster.\n\nNote that you can only fit so many giant corpses into one space, even if you stack them.  The frame will only hold so much weight. -->
+  <LWM_Meat_Hook.description>Uma estrutura de metal com vários ganchos pendurados em correntes. Uma manivela simples permite içar várias coisas suspensas no ar. Uma maneira de armazenar os cadáveres de outros animais que você matou, antes de cortá-los e consumir sua carne.\n\nObserve que você só pode colocar um determinado número de cadáveres de gigantes em um espaço, mesmo que os empilhe. O quadro só aguentará um certo peso.</LWM_Meat_Hook.description>
+  
+  <!-- EN: A set of cabinets and shelves for stocking medicines and drugs.  Recommended: keep an eye on children. -->
+  <LWM_Medicine_Cabinet.description>Um conjunto de armários para estocagem de remédios e drogas. Recomendado: fique de olho nas crianças.</LWM_Medicine_Cabinet.description>
+  
+  <!-- EN: A flat pallet for packing things.  Does not protect against the weather.  Sometimes difficult to manage, but useful nonetheless. -->
+  <LWM_Pallet.description>Uma palete plana para embalar coisas. Não protege contra as intempéries. Às vezes difícil de gerenciar, mas útil mesmo assim.</LWM_Pallet.description>
+  
+  <!-- EN: A flat pallet for packing things.  Wrapping things up in thick oilcloth keeps items secure and organized.  You can pack more types of things on this pallet because you can wrap items together, altho this slows you down a little. -->
+  <LWM_Pallet_Covered.description>Uma palete plana para embalar coisas. Embrulhar as coisas em um oleado grosso mantém os itens seguros e organizados. Você pode embalar mais tipos de coisas neste palete porque você pode embalar os itens juntos, embora isso o retarde um pouco.</LWM_Pallet_Covered.description>
+  
+  <!-- EN: A secure, lockable box for safely storing valuables against theft and/or damage from fire.\n\nNote: protection from fire not yet implemented) -->
+  <LWM_Safe.description>Uma caixa segura com chave para armazenar objetos de valor com segurança contra roubo ou danos causados por fogo.\n\nNota: proteção contra incêndio ainda não implementada.</LWM_Safe.description>
+  
+  <!-- EN: A set of tall covered shelves for storing miscellaneous items, from artillery shells to artwork, from bionic arms to bricks, from chairs to corpses.  It doesn't ask questions, it just stores things.\n\nPawns access the top shelves using a small rolling ladder (currently not pitured), so while many things can be stored here, it can take a while if you're putting a lot of tiny bottles on the top shelf.  Items stored in this will not deteriorate, even if outside.\n\nNote:  Use your own judgement about what you put here.  Grand Sculptures?  Probably don't ACTUALLY fit.  But if that's what you want here, you play you! I say go for it! -->
+  <LWM_VeryBigShelf.description>Uma prateleira grande para armazenar itens diversos.\n\nOs itens armazenados não se deterioram, mesmo se estiverem do lado de fora.</LWM_VeryBigShelf.description>
+  
+ <!-- Weapon_Lockers.xml -->
+  <!-- EN: A sturdy cabinet for storing multiple weapons. Items stored in this will not deteriorate, even if outside. -->
+  <LWM_WeaponsCabinet.description>Um robusto estoque para armazenar várias armas. Os itens armazenados não se deterioram.</LWM_WeaponsCabinet.description>
+  
+  <!-- EN: A high-capacity metal locker for securely storing many weapons. Items stored in this will not deteriorate, even if outside. -->
+  <LWM_WeaponsLocker.description>Um estoque de metal de alta capacidade para armazenar muitas armas com segurança. Os itens armazenados não se deterioram.</LWM_WeaponsLocker.description>
+
+</LanguageData>

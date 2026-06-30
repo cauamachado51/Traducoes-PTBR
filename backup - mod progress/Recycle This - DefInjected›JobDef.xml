@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: getting rid of TargetA. -->
+  <RecycleThisDestroy.reportString>去掉TargetA</RecycleThisDestroy.reportString>
+  
+  <!-- EN: scrapping TargetA. -->
+  <RecycleThisRecycle.reportString>销毁TargetA</RecycleThisRecycle.reportString>
+  
+</LanguageData>

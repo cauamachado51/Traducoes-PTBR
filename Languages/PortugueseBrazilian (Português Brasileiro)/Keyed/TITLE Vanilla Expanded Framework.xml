@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <!-- MVCF.xml -->
+  <MVCF.Setting>Vanilla Expanded Framework - Multi-Verb Combat Framework</MVCF.Setting>
+  
+  <!-- AnimalBehaviours.xml infelizmente não tem o titulo apenas a descrição -->
+  <VCE_AffectsAllAnimalMods>V A N I L L A  E X P A N D E D  F R A M E W O R K  Essas opções de comportamento animal afetarão todos os mods de animais que compartilham código do Vanilla Expanded Framework</VCE_AffectsAllAnimalMods>
+
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<ShowHair.ShowHair>[CAT] Show Hair With Hats or Hide All Hats</ShowHair.ShowHair>
+	<ShowHair.OnlyApplyToColonists>Apenas se aplica a colonos</ShowHair.OnlyApplyToColonists>
+	<ShowHair.Hats>chapéus</ShowHair.Hats>
+	<ShowHair.DefaultMode>padrão</ShowHair.DefaultMode>
+	<ShowHair.DraftedMode>Desenhado</ShowHair.DraftedMode>
+	<ShowHair.IndoorsMode>dentro de casa</ShowHair.IndoorsMode>
+	<ShowHair.BedMode>na cama</ShowHair.BedMode>
+	<ShowHair.RenderMode>chapéus</ShowHair.RenderMode>
+	<ShowsHair>Mostrar cabelo</ShowsHair>
+	<HideHat>Ocultar chapéu</HideHat>
+	<HidesAllHair>esconder todo o cabelo</HidesAllHair>
+	<HidesHairShowBeard>Ocultar cabelos, mostrar barba</HidesHairShowBeard>
+	<ShowsHairHidesBeard>Mostrar cabelo, esconder barba</ShowsHairHidesBeard>
+	<NormalRender>Normal</NormalRender>
+	<ForceOverHair>Força sobre o cabelo</ForceOverHair>
+	<ShowHair.HairThatWillBeHidden>cabelo que os chapéus esconderão</ShowHair.HairThatWillBeHidden>
+	<ShowHair.UseDontShaveHead>Use cabelo "Não raspe seu cabelo"</ShowHair.UseDontShaveHead>
+</LanguageData>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BPC.BetterPawnControl>Better Pawn Control</BPC.BetterPawnControl>
+
+	<BPC.Auto>Padrão</BPC.Auto>
+	<BPC.Rename>Renomear</BPC.Rename>
+	<BPC.Settings>Configurações de políticas</BPC.Settings>
+
+	<BPC.NewAnimalPolicy>Nova política animal</BPC.NewAnimalPolicy>
+	<BPC.AnimalPolicy>Política </BPC.AnimalPolicy>
+	<BPC.CurrentAnimalPolicy>Política animal ativa</BPC.CurrentAnimalPolicy>
+	
+	<BPC.NewAssignPolicy>Nova política de atribuição</BPC.NewAssignPolicy>
+	<BPC.AssignPolicy>Política </BPC.AssignPolicy>
+	<BPC.CurrentAssignPolicy>Política de atribuição ativa</BPC.CurrentAssignPolicy>
+	
+	<BPC.NewRestrictPolicy>Nova política de cronograma</BPC.NewRestrictPolicy>
+	<BPC.RestrictPolicy>Política </BPC.RestrictPolicy>
+	<BPC.CurrentRestrictPolicy>Política de cronograma ativo</BPC.CurrentRestrictPolicy>
+	
+	<BPC.NewWorkPolicy>Nova política de trabalho</BPC.NewWorkPolicy>
+	<BPC.WorkPolicy>Política </BPC.WorkPolicy>
+	<BPC.CurrentWorkPolicy>Política de trabalho ativa</BPC.CurrentWorkPolicy>
+	
+	<BPC.NewMechPolicy>Nova política mech</BPC.NewMechPolicy>
+	<BPC.MechPolicy>Política </BPC.MechPolicy>
+	<BPC.CurrentMechPolicy>Política Mech ativa</BPC.CurrentMechPolicy>
+	
+	<BPC.NewWeaponsPolicy>Nova política de armas</BPC.NewWeaponsPolicy>
+	<BPC.WeaponsPolicy>Política </BPC.WeaponsPolicy>
+	<BPC.CurrentWeaponsPolicy>Política de armas ativas</BPC.CurrentWeaponsPolicy>
+	
+	<BPC.WorkTab>Trabalho</BPC.WorkTab>
+	<BPC.RestrictTab>Cronograma</BPC.RestrictTab>
+	<BPC.AssignTab>Atribuição</BPC.AssignTab>
+	<BPC.AnimalTab>Animais</BPC.AnimalTab>
+	<BPC.MechTab>Mechs</BPC.MechTab>
+	<BPC.WeaponsTab>armas</BPC.WeaponsTab>
+	
+	<BPC.PoliciesConfigText>Criar/excluir/renomear as predefinições de políticas. Não se esqueça de configurá -los em cada aba depois</BPC.PoliciesConfigText>
+	
+	<BPC.DefaultsConfigText>Configure quais políticas definir quando um novo peão se junta à colônia</BPC.DefaultsConfigText>
+	<BPC.SelectedDefaultOutfit>Vestuário</BPC.SelectedDefaultOutfit>
+	<BPC.SelectedDefaultFood>Alimento</BPC.SelectedDefaultFood>
+	<BPC.SelectedDefaultDrug>Droga</BPC.SelectedDefaultDrug>
+	<BPC.SelectedDefaultMeds>Cuidados médicos</BPC.SelectedDefaultMeds>
+	<BPC.SelectedDefaultWeapons>Armas</BPC.SelectedDefaultWeapons>
+	
+	<BPC.SelectedPrisionerDefaultFood>Alimento</BPC.SelectedPrisionerDefaultFood>
+	<BPC.SelectedPrisionerMeds>Cuidados médicos</BPC.SelectedPrisionerMeds>
+	
+	<BPC.SelectedSlaveDefaultOutfit>Vestuário</BPC.SelectedSlaveDefaultOutfit>	
+	<BPC.SelectedSlaveDefaultFood>Alimento</BPC.SelectedSlaveDefaultFood>
+	<BPC.SelectedSlaveDefaultDrugs>Drogas</BPC.SelectedSlaveDefaultDrugs>
+	<BPC.SelectedSlaveDefaultMeds>Cuidados médicos</BPC.SelectedSlaveDefaultMeds>
+	
+	<BPC.ColonistDefaultHeader>Padrões de colonos</BPC.ColonistDefaultHeader>
+	<BPC.PrisionerDefaultHeader>Padrões de Prisioneiros</BPC.PrisionerDefaultHeader>
+	<BPC.SlaveDefaultHeader>Padrões de escravo</BPC.SlaveDefaultHeader>
+	
+	<BPC.Copy>Copiar política</BPC.Copy>
+	<BPC.Paste>Colar política</BPC.Paste>
+	
+	<BPC.CopySchedule>Copiar cronograma</BPC.CopySchedule>
+	<BPC.PasteSchedule>Colar cronograma</BPC.PasteSchedule>
+	
+	<BPC.ToggleEmergencyOn>Desligue a emergência. As políticas serão definidas para as configurações anteriores antes da emergência</BPC.ToggleEmergencyOn>
+	<BPC.ToggleEmergencyOff>Ativar Emergência. Configure quais as políticas que devem ser ativadas para todas as abas na Better Pawn Control engrenagem de configuração</BPC.ToggleEmergencyOff>
+	<BPC.AlertConfigText>Configurar as políticas a ativar quando o alerta está ligado. Utilizar um atalho de teclado para ativar ou desativar o alerta</BPC.AlertConfigText>
+	<BPC.EmergencyLocationTooltip>O botão de emergência encontra-se no canto inferior direito da janela do jogo, junto aos botões de alternância</BPC.EmergencyLocationTooltip>
+	
+	<BPC.BetterPawnControlSettingsName>Better Pawn Control</BPC.BetterPawnControlSettingsName>
+	<BPC.AutomaticPawnsInterruptSetting>Interrompe automaticamente o que os peões estão a fazer quando se liga a emergência?</BPC.AutomaticPawnsInterruptSetting>	
+	<BPC.DisableBPCOnWorkTabSetting>Desativar totalmente a integração do BPC com o mod WorkTab?</BPC.DisableBPCOnWorkTabSetting>
+	<BPC.DisableBPCOnWorkTabTooltip>Integração total, incluindo as prioridades mod internas (ou extendidas) do WorkTab.</BPC.DisableBPCOnWorkTabTooltip>
+	<BPC.DisableBPCWorkTabInnerPrioritiesSetting>Desativar a integração do BPC com as prioridades mod internas (ou extendidas) do WorkTab e manter as prioridades "normais?</BPC.DisableBPCWorkTabInnerPrioritiesSetting>
+	<BPC.DisableBPCWorkTabInnerPrioritiesTooltip>Isto permitirá continuar a utilizar o BPC com o WorkTab, mas sem guardar as prioridades internas.</BPC.DisableBPCWorkTabInnerPrioritiesTooltip>	
+</LanguageData>

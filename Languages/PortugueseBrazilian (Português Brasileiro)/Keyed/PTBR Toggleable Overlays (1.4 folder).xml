@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<ToggleableOverlays.Header.TextOverlays>Sobreposições de texto</ToggleableOverlays.Header.TextOverlays>
+	<ToggleableOverlays.Header.IconOverlays>Sobreposições de ícones</ToggleableOverlays.Header.IconOverlays>
+	<ToggleableOverlays.Header.Misc>Misc</ToggleableOverlays.Header.Misc>
+	
+	<ToggleableOverlays.Settings.HideItem>Itens</ToggleableOverlays.Settings.HideItem>
+	<ToggleableOverlays.Settings.HideStorage>Construções de armazenamento</ToggleableOverlays.Settings.HideStorage>
+	<ToggleableOverlays.Settings.HideBed>Atribuição de cama</ToggleableOverlays.Settings.HideBed>
+	<!-- Throne assignment -->
+	<ToggleableOverlays.Settings.HideThrone>Atribuição do trono</ToggleableOverlays.Settings.HideThrone>
+	<ToggleableOverlays.Settings.HidePlayerPawn>Peões do jogador</ToggleableOverlays.Settings.HidePlayerPawn>
+	<ToggleableOverlays.Settings.HideDraftedPawn>Peões alistados</ToggleableOverlays.Settings.HideDraftedPawn>
+	<ToggleableOverlays.Settings.HidePrisonerPawn>Prisioneiros</ToggleableOverlays.Settings.HidePrisonerPawn>
+	<ToggleableOverlays.Settings.HideSlavePawn>Escravos</ToggleableOverlays.Settings.HideSlavePawn>
+	<ToggleableOverlays.Settings.HideHostilePawn>Hostis</ToggleableOverlays.Settings.HideHostilePawn>
+	<ToggleableOverlays.Settings.HideOtherPawn>Amigáveis e neutros</ToggleableOverlays.Settings.HideOtherPawn>
+	<ToggleableOverlays.Settings.HidePower>Energia</ToggleableOverlays.Settings.HidePower>
+	<ToggleableOverlays.Settings.HideFuel>Combustível</ToggleableOverlays.Settings.HideFuel>
+	<ToggleableOverlays.Settings.HideBrokenDown>Quebrado</ToggleableOverlays.Settings.HideBrokenDown>
+	<ToggleableOverlays.Settings.HideForbidden>Itens proibidos</ToggleableOverlays.Settings.HideForbidden>
+	<ToggleableOverlays.Settings.HideForbiddenBuildings>Construções e projetos proibidos</ToggleableOverlays.Settings.HideForbiddenBuildings>
+	<ToggleableOverlays.Settings.QuickShowEnabled>Ativar exibição rápida</ToggleableOverlays.Settings.QuickShowEnabled>
+	<ToggleableOverlays.Settings.QuickShowAltMode>Ative o modo de alternância de exibição rápida</ToggleableOverlays.Settings.QuickShowAltMode>
+	<ToggleableOverlays.Settings.BlueprintTransparency>Transparência do projeto: {3} (requer salvar e recarregar o save)</ToggleableOverlays.Settings.BlueprintTransparency>
+	<ToggleableOverlays.Settings.UseOptimizedLister>Use listador otimizado</ToggleableOverlays.Settings.UseOptimizedLister>
+	<ToggleableOverlays.Settings.UseZoomFilter>Usar filtro de zoom</ToggleableOverlays.Settings.UseZoomFilter>
+	<ToggleableOverlays.Settings.HideMoteProgress>Ocultar medidor de trabalho</ToggleableOverlays.Settings.HideMoteProgress>
+	<ToggleableOverlays.Settings.HideFuelGauge>Ocultar medidor de combustível</ToggleableOverlays.Settings.HideFuelGauge>
+	<ToggleableOverlays.Settings.HideWindGauge>Ocultar medidor de vento</ToggleableOverlays.Settings.HideWindGauge>
+	<ToggleableOverlays.Settings.HideAllGauges>Ocultar todos os medidores</ToggleableOverlays.Settings.HideAllGauges>
+	
+	<ToggleableOverlays.Settings.HideItem.Desc>Ocultar quantidade e qualidade do item</ToggleableOverlays.Settings.HideItem.Desc>
+	<ToggleableOverlays.Settings.HideStorage.Desc>Ocultar sobreposições de construção de armazenamento (incluindo Deep Storage)</ToggleableOverlays.Settings.HideStorage.Desc>
+	<ToggleableOverlays.Settings.HideBed.Desc>Ocultar atribuições de cama e local para dormir</ToggleableOverlays.Settings.HideBed.Desc>
+	<!-- Hide throne assignments -->
+	<ToggleableOverlays.Settings.HideThrone.Desc>Ocultar atribuições de trono</ToggleableOverlays.Settings.HideThrone.Desc>
+	<ToggleableOverlays.Settings.HidePlayerPawn.Desc>Ocultar nomes de peões de jogadores</ToggleableOverlays.Settings.HidePlayerPawn.Desc>
+	<ToggleableOverlays.Settings.HideDraftedPawn.Desc>Ocultar nomes de peões alistados</ToggleableOverlays.Settings.HideDraftedPawn.Desc>
+	<ToggleableOverlays.Settings.HidePrisonerPawn.Desc>Ocultar nomes de peões de prisioneiros</ToggleableOverlays.Settings.HidePrisonerPawn.Desc>
+	<ToggleableOverlays.Settings.HideSlavePawn.Desc>Ocultar nomes de peões de escravos</ToggleableOverlays.Settings.HideSlavePawn.Desc>
+	<ToggleableOverlays.Settings.HideHostilePawn.Desc>Ocultar nomes de peões hostis</ToggleableOverlays.Settings.HideHostilePawn.Desc>
+	<ToggleableOverlays.Settings.HideOtherPawn.Desc>Ocultar outros nomes de peões</ToggleableOverlays.Settings.HideOtherPawn.Desc>
+	<ToggleableOverlays.Settings.HidePower.Desc>Ocultar sobreposições de energia (precisa de energia/desconectado)</ToggleableOverlays.Settings.HidePower.Desc>
+	<ToggleableOverlays.Settings.HideFuel.Desc>Ocultar sobreposições de combustível (precisa de combustível/não reabastecer))</ToggleableOverlays.Settings.HideFuel.Desc>
+	<ToggleableOverlays.Settings.HideBrokenDown.Desc>Ocultar a sobreposição quebrada</ToggleableOverlays.Settings.HideBrokenDown.Desc>
+	<ToggleableOverlays.Settings.HideForbidden.Desc>Ocultar a sobreposição do X vermelho proibido para itens</ToggleableOverlays.Settings.HideForbidden.Desc>
+	<ToggleableOverlays.Settings.HideForbiddenBuildings.Desc>Ocultar a sobreposição do X vermelho para construções e projetos proibidos</ToggleableOverlays.Settings.HideForbiddenBuildings.Desc>
+	<ToggleableOverlays.Settings.QuickShowEnabled.Desc>Permita que a tecla de atalho (CTRL por padrão) mostre todas as configurações de sobreposição. Use a interface normal de atalho de teclado nas opções para alterar esta tecla.</ToggleableOverlays.Settings.QuickShowEnabled.Desc>
+	<ToggleableOverlays.Settings.QuickShowAltMode.Desc>Com este modo ativado, a exibição rápida é ativada pressionando a tecla uma vez, em vez de mantê-la pressionada.</ToggleableOverlays.Settings.QuickShowAltMode.Desc>
+	<ToggleableOverlays.Settings.BlueprintTransparency.Desc>Permite alterar a transparência dos projetos (não funciona para portas). Você precisará recarregar seu save para que ele seja aplicado aos projetos existentes.</ToggleableOverlays.Settings.BlueprintTransparency.Desc>
+	<ToggleableOverlays.Settings.UseOptimizedLister.Desc>Substitua o loop de código responsável pela impressão de etiquetas nos itens por uma versão mais rápida. Você pode desativar esta opção se encontrar um problema de compatibilidade.</ToggleableOverlays.Settings.UseOptimizedLister.Desc>
+	<ToggleableOverlays.Settings.UseZoomFilter.Desc>Solicita que o listador otimizado pule os itens anteriores com base no filtro de zoom, melhorando muito o desempenho quando o zoom é reduzido. Você pode desativar isso caso encontre um conflito de mod relacionado à impressão de etiquetas em edifícios..</ToggleableOverlays.Settings.UseZoomFilter.Desc>
+	<ToggleableOverlays.Settings.HideMoteProgress.Desc>Oculte a barra de progresso que aparece acima da cabeça de um peão quando ele está trabalhando em algo.</ToggleableOverlays.Settings.HideMoteProgress.Desc>
+	<ToggleableOverlays.Settings.HideFuelGauge.Desc>Oculte o medidor de combustível desenhado sobre construções reabastecíveis, como o lançador de cápsulas.</ToggleableOverlays.Settings.HideFuelGauge.Desc>
+	<ToggleableOverlays.Settings.HideWindGauge.Desc>Oculte o medidor de vento desenhado sobre as turbinas eólicas.</ToggleableOverlays.Settings.HideWindGauge.Desc>
+	<ToggleableOverlays.Settings.HideAllGauges.Desc>Isso ocultará todos os medidores - aqueles listados especificamente nas opções acima, bem como todos os medidores diversos, incluindo aqueles que vêm de mods.</ToggleableOverlays.Settings.HideAllGauges.Desc>
+</LanguageData>

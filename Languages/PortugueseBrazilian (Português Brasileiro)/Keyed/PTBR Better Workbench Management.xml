@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <IW.ClickToDropTip>atualmente levando a saída para o estoque. Clique para largar no chão.</IW.ClickToDropTip>
+  <IW.ClickToTakeToStockpileTip>Atualmente largando a saída no chão. Clique para levar para o estoque.</IW.ClickToTakeToStockpileTip>
+  <IW.CopyJustBillsTip>Copiar apenas esta receita(bill)</IW.CopyJustBillsTip>
+  <IW.BreakLinkToOtherBillsTip>Quebra o link para outras receitas(bills)</IW.BreakLinkToOtherBillsTip>
+  <IW.TakeToLabel>Levar para</IW.TakeToLabel>
+  <IW.BestLabel>melhor</IW.BestLabel>
+  <IW.NullLabel>nulo</IW.NullLabel>
+  <IW.RenameBillTip>Renomear receita (use string vazia para redefinir)</IW.RenameBillTip>
+
+  <IW.BillsLabel>receitas(Bills)</IW.BillsLabel>
+
+  <IW.NoColRestrictionLabel>Sem restrição de colono</IW.NoColRestrictionLabel>
+
+  <IW.RestrictToLabel>restringir a</IW.RestrictToLabel>
+
+  <IW.RestrictJobToSpecificColonistTip>Restringir trabalho para colono específico</IW.RestrictJobToSpecificColonistTip>
+
+  <IW.CrafterWillToSpecificStockpileTip>Fabricante vai levar o produto final para armazenamento especificado</IW.CrafterWillToSpecificStockpileTip>
+  <IW.CopyFilterButton>copiar filtro</IW.CopyFilterButton>
+
+  <IW.CopyFilterTip>Copiar configurações de filtro de ingredientes, para colar em um filtro correspondente</IW.CopyFilterTip>
+  <IW.PasteFilterButton>Colar Filtro</IW.PasteFilterButton>
+
+  <IW.RenameTip>Clique para inserir um valor usando o teclado</IW.RenameTip>
+  <IW.CountOnStockpilesText>Contar em todos os estoques</IW.CountOnStockpilesText>
+
+  <IW.CountInText>Contar em</IW.CountInText>
+  <IW.WillCountTowardsTargetTip>Somente itens no estoque especificado contarão para o destino.</IW.WillCountTowardsTargetTip>
+
+  <!-- filtro de itens contados? -->
+  <IW.CountedItemsFilter>Itens contados para o filtro:</IW.CountedItemsFilter>
+  <IW.HitPointsTip>somente itens com o intervalo de vida dado contarão para o destino</IW.HitPointsTip>
+
+  <IW.QualityTip>somente itens da faixa de qualidade contarão para o destino</IW.QualityTip>
+
+  <IW.MatchInputIngredientsText>Corresponder entrada de ingredientes</IW.MatchInputIngredientsText>
+
+  <IW.IngredientsTip>somente itens feitos a partir de ingredientes no filtro de ingredientes de entrada (na coluna mais à direita) contarão para o destino</IW.IngredientsTip>
+
+  <IW.CountCorpseClothesLabel>Contar roupas de cadáver</IW.CountCorpseClothesLabel>
+  <IW.CountCorpseClothesDesc>Incluem vestuário desgastado(ou usado) de cadáver na contagem de itens</IW.CountCorpseClothesDesc>
+
+  <IW.CountInventoryLabel>Contar os itens do colono</IW.CountInventoryLabel>
+  <IW.CountInventoryDesc>Também contar itens que estão sendo usados atualmente, equipado ou transportado por qualquer colono ou colono animal</IW.CountInventoryDesc>
+
+  <IW.CountAwayLabel>Contar quando ausente</IW.CountAwayLabel>
+  <IW.CountAwayDesc>também contam itens em qualquer colono ou animal enviado em uma caravana, em cápsulas de transporte, em câmaras de criosono, ou de outra forma indisponível</IW.CountAwayDesc>
+
+  <IW.OutputFilterLabel>Contar itens adicionais</IW.OutputFilterLabel>
+
+  <IW.OutputFilterTitle>Também contar estes produtos:</IW.OutputFilterTitle>
+
+  <IW.CountInstalledLabel>Contar itens instalados</IW.CountInstalledLabel>
+  <!-- Also count items that have been installed as a building -->
+  <IW.CountInstalledDesc>Também contam itens que foram instalados como um edifício</IW.CountInstalledDesc>
+
+  <IW.OpenPreviousBillTip>Abrir receita anterior na bancada</IW.OpenPreviousBillTip>
+
+  <IW.OpenNextBillTip>Abrir próxima receita na bancada</IW.OpenNextBillTip>
+  <IW.DoUntilXText>Fazer até X</IW.DoUntilXText>
+
+  <IW.ChangeLinkedBillModeText>Use detalhes para alterar o modo de receita vinculado</IW.ChangeLinkedBillModeText>
+
+  <IW.CopyAllLabel>Copiar tudo</IW.CopyAllLabel>
+  <IW.CopyAllTip>Copiar todas as receitas nesta bancada</IW.CopyAllTip>
+
+  <IW.PasteAllLabel>Colar tudo</IW.PasteAllLabel>
+  <IW.Paste>Colar</IW.Paste>
+  <IW.PasteAllTip>Colar receita(s) copiada(s) como nova(s) receita(s) aqui.</IW.PasteAllTip>
+
+  <IW.PasteLinkLabel>Colar link</IW.PasteLinkLabel>
+  <IW.PasteLinkTip>Colar receita(s) copiada(s) e vinculá-la(s) ao original(s). As alterações serão espelhadas para todas as receitas conectadas.</IW.PasteLinkTip>
+
+  <IW.FoundOldBillText>Encontrar antiga receita</IW.FoundOldBillText>
+  <IW.MigratingToNewFormat>Migrando para novo formato</IW.MigratingToNewFormat>
+
+  <IW.AutoOpenBillTabLabel>Abrir automaticamente receitas e aba de armazenamento</IW.AutoOpenBillTabLabel>
+  <IW.AutoOpenBillTabDesc>Quando uma bancada (ou estoque) é selecionado, sua aba de receitas (ou armazenamento) será aberta imediatamente</IW.AutoOpenBillTabDesc>
+
+  <IW.ShowItemCountInFilterLabel>Mostrar contagem de itens no filtro</IW.ShowItemCountInFilterLabel>
+  <IW.ShowItemCountInFilterDesc>Mostrar contagem de itens na aba ingredientes em detalhes da receita</IW.ShowItemCountInFilterDesc>
+
+  <IW.EnableDragToReorder>Arraste para reordenar receitas</IW.EnableDragToReorder>
+  <IW.EnableDragToReorderDesc>Se você achar conflitante com outros mods, você pode desativar a funcionalidade 'arrastar para reordenar as receitas' na visão geral da bancada </IW.EnableDragToReorderDesc>
+
+  <IW.PasteBillSettings>Cole todas as configurações (exceto produto de saída) da receita copiada para este</IW.PasteBillSettings>
+
+  <IW.MirrorSuspendedStatus>Status suspenso de Espelho</IW.MirrorSuspendedStatus>
+  <IW.MirrorSuspendedStatusDesc>Se ativado, quando uma receita vinculada é suspensa ou insuspensa, todas as receitas vinculadas vão assumir o mesmo status. (Nota: Alternar esta configuração para verdadeiro desencadeará a sincronização em todas as receitas vinculadas)</IW.MirrorSuspendedStatusDesc>
+
+  <IW.DropOnFloorByDefault>Largar no chão por padrão</IW.DropOnFloorByDefault>
+  <IW.DropOnFloorByDefaultDesc>Novas receitas terão como padrão "largar no chão" em vez de "levar para o melhor estoque".</IW.DropOnFloorByDefaultDesc>
+
+  <IW.ShowExtraUIButtons>Mostrar botões extras de interface do usuário(UI)</IW.ShowExtraUIButtons>
+  <IW.ShowExtraUIButtonsDesc>Mostrar botões que permitem definir "contagem de destino" e "Nível de retomada", valores da receita em detalhes via teclado. Desativar se você tiver um mod ou linguagem que faz com que esses botões sejam deslocados.</IW.ShowExtraUIButtonsDesc>
+
+  <IW.CountOutsideStockpiles>Conte recursos fora dos estoques</IW.CountOutsideStockpiles>
+  <IW.CountOutsideStockpilesDesc>Um bug no jogo vanilla impede "itens de recursos" (por exemplo, refeições e medicina) de serem contados se não estiverem em estoque. Ative esta opção para corrigir isso ou desativar se você estiver usando outro mod para fazer isso.</IW.CountOutsideStockpilesDesc>
+</LanguageData>

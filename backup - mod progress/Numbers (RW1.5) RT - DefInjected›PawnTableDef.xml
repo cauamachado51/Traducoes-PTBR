@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Numbers_MainTable.label>Colonists</Numbers_MainTable.label>
+  <Numbers_Enemies.label>Enemies</Numbers_Enemies.label>
+  <Numbers_Prisoners.label>Prisoners</Numbers_Prisoners.label>
+  <Numbers_Corpses.label>Corpses</Numbers_Corpses.label>
+  <Numbers_Guests.label>Guests</Numbers_Guests.label>
+  <Numbers_Animals.label>Animals</Numbers_Animals.label>
+  <Numbers_WildAnimals.label>Wild animals</Numbers_WildAnimals.label>
+  <Numbers_AnimalCorpses.label>Animal corpses</Numbers_AnimalCorpses.label>
+  <Numbers_CombatPreset.label>combat</Numbers_CombatPreset.label>
+  <Numbers_WorkTabPlusPreset.label>WorkTab plus</Numbers_WorkTabPlusPreset.label>
+  <Numbers_ColonistNeedsPreset.label>colonist needs</Numbers_ColonistNeedsPreset.label>
+
+
+</LanguageData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <SCE_UsedSkill_Label>Habilidade Usada</SCE_UsedSkill_Label>
+  <SCE_UsedSkill_Description>A habilidade usada para cortar pedaços em blocos de pedra.</SCE_UsedSkill_Description>
+
+  <SCE_WorkingAndLearningSpeed_Label>Velocidade de Trabalho e Aprendizado</SCE_WorkingAndLearningSpeed_Label>
+  <SCE_WorkingAndLearningSpeed_Description>Defina os multiplicadores de velocidade de trabalho e aprendizado.</SCE_WorkingAndLearningSpeed_Description>
+
+  <SCE_WorkAmountMultiplier>Multiplicador de quantidade de trabalho</SCE_WorkAmountMultiplier>
+  <SCE_BulkWorkAmountMultiplier>Multiplicador de quantidade de trabalho em massa 3x</SCE_BulkWorkAmountMultiplier>
+  <SCE_SkillLearnFactor>Fator de aprendizagem de habilidades</SCE_SkillLearnFactor>
+  
+</LanguageData>

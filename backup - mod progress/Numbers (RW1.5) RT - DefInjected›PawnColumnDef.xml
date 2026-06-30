@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- things you won't find here: dynamically generated columns such as needs, skills, records, capacities, etc -->
+
+  <Numbers_Age.label>Age</Numbers_Age.label>
+  <Numbers_AnimalEggProgress.label>Egg progress</Numbers_AnimalEggProgress.label>
+  <Numbers_Milkfullness.label>Milk fullness</Numbers_Milkfullness.label>
+  <Numbers_AnimalWoolGrowth.label>Wool growth</Numbers_AnimalWoolGrowth.label>
+  <Numbers_Race.label>Race</Numbers_Race.label>
+  <Numbers_Backstory.label>Title</Numbers_Backstory.label>
+  <Numbers_Equipment.label>Equipment</Numbers_Equipment.label>
+  <Numbers_Inventory.label>Inventory</Numbers_Inventory.label>
+  <Numbers_JobCurrent.label>Current job</Numbers_JobCurrent.label>
+  <Numbers_JobQueued.label>Queued job</Numbers_JobQueued.label>
+  <Numbers_MentalState.label>Mental state</Numbers_MentalState.label>
+  <Numbers_PrisonerInteraction.label>Prisoner interaction</Numbers_PrisonerInteraction.label>
+  <Numbers_PrisonerRecruitmentDifficulty.label>Recruitment difficulty</Numbers_PrisonerRecruitmentDifficulty.label>
+  <Numbers_PrisonerResistance.label>Resistance remaining</Numbers_PrisonerResistance.label>
+  <Numbers_Pain.label>Pain</Numbers_Pain.label>
+  <Numbers_Bleedrate.label>Bleedrate</Numbers_Bleedrate.label>
+  <Numbers_NeedsTreatment.label>Needs treatment</Numbers_NeedsTreatment.label>
+  <Numbers_Operations.label>Operations</Numbers_Operations.label>
+  <Numbers_Forbidden.label>Forbidden</Numbers_Forbidden.label>
+  <Numbers_Inspiration.label>Inspiration</Numbers_Inspiration.label>
+
+  <Numbers_DiseaseProgress.label>Disease immunity margin</Numbers_DiseaseProgress.label>
+  <Numbers_DiseaseProgress.headerTip>Disease immunity margin</Numbers_DiseaseProgress.headerTip>
+
+  <Numbers_ManhunterOnTameFailChance.headerTip>Revenge chance on tame fail</Numbers_ManhunterOnTameFailChance.headerTip>
+  <Numbers_Wildness.label>Wildness</Numbers_Wildness.label>
+  <Numbers_TameChance.label>Tame chance</Numbers_TameChance.label>
+  <Numbers_SelfTend.headerTip>Self-tend</Numbers_SelfTend.headerTip>
+  <Numbers_HediffList.headerTip>Hediffs</Numbers_HediffList.headerTip>
+  <Numbers_Faction.label>Faction</Numbers_Faction.label>
+
+ <!-- part2 chinese traditional -->
+  <Numbers_AnimalFilthRate.label>Filth rate</Numbers_AnimalFilthRate.label>
+  <Numbers_Areas.label>allowed area</Numbers_Areas.label>
+  <Numbers_Bandwidth.label>Bandwidth</Numbers_Bandwidth.label>
+  <Numbers_Bandwidth.headerTip>Bandwidth</Numbers_Bandwidth.headerTip>
+  <Numbers_Endogenes.label>Germline genes</Numbers_Endogenes.label>
+  <Numbers_Endogenes.headerTip>Germline genes</Numbers_Endogenes.headerTip>
+  <Numbers_Entropy.label>Heat</Numbers_Entropy.label>
+  <Numbers_GenesRegrowTime.label>Genes Regrowing</Numbers_GenesRegrowTime.label>
+  <Numbers_GenesRegrowTime.headerTip>Genes Regrowing</Numbers_GenesRegrowTime.headerTip>
+  <Numbers_Guilt.label>Guilt</Numbers_Guilt.label>
+  <Numbers_Guilt.headerTip>Guilt</Numbers_Guilt.headerTip>
+  <Numbers_HediffBadList.headerTip>Bad hediffs</Numbers_HediffBadList.headerTip>
+  <Numbers_Ideology.label>Ideology</Numbers_Ideology.label>
+  <Numbers_Ideology.headerTip>Ideology and certainty</Numbers_Ideology.headerTip>
+  <Numbers_InventoryDropAll.label>Drop all inventory</Numbers_InventoryDropAll.label>
+  <Numbers_LeatherType.label>Leather type</Numbers_LeatherType.label>
+  <Numbers_Meditation.label>Focus</Numbers_Meditation.label>
+  <Numbers_Psyfocus.label>Psyfocus</Numbers_Psyfocus.label>
+  <Numbers_PsylinkLevel.label>Psylevel</Numbers_PsylinkLevel.label>
+  <Numbers_Recruitable.label>Unwaveringly loyal</Numbers_Recruitable.label>
+  <Numbers_Strip.label>Strip</Numbers_Strip.label>
+  <Numbers_Strip.headerTip>Strip</Numbers_Strip.headerTip>
+  
+  <Numbers_Traits.label>Traits</Numbers_Traits.label>
+  <Numbers_Traits.headerTip>Traits</Numbers_Traits.headerTip>
+  
+  <Numbers_Xenogenes.label>Xenogenes</Numbers_Xenogenes.label>
+  <Numbers_Xenogenes.headerTip>Xenogenes</Numbers_Xenogenes.headerTip>
+
+</LanguageData>

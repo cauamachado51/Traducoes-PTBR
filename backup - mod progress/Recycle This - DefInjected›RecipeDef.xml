@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Scrap apparel -->
+  <RecycleThis.label>分解衣物</RecycleThis.label>
+  <!-- EN: Scrap apparel yielding part of it's resources back.\n\n<i><color=#66E0E4FF>Recycle This</color></i> -->
+  <RecycleThis.description>分解衣物使其部分的资源得以回收。</RecycleThis.description>
+  <!-- EN: Scrapping apparel. -->
+  <RecycleThis.jobString>正在分解衣物。</RecycleThis.jobString>
+  
+</LanguageData>

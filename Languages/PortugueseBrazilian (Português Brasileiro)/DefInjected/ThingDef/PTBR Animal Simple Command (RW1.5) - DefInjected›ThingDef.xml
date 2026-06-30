@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <ASC_ManualHide.label>Livro sobre animais de estimação: Esconder</ASC_ManualHide.label>
+  <ASC_ManualHide.description>Ensine novas habilidades ao seu animal de estimação.
+
+·Esconder
+Eu me escondo e oculto.
+Será cancelado imediatamente se você se mover ou atacar.</ASC_ManualHide.description>
+
+  <ASC_ManualProvoke.label>Livro sobre animais de estimação: provocação</ASC_ManualProvoke.label>
+  <ASC_ManualProvoke.description>Ensine novas habilidades ao seu animal de estimação.
+
+·Provocação
+Atrai a atenção daqueles que estão ao seu redor.
+Todos os inimigos ao redor atacarão este animal de estimação.</ASC_ManualProvoke.description>
+
+  <ASC_ManualDefend.label>Livro para animais de estimação: parede de ferro</ASC_ManualDefend.label>
+  <ASC_ManualDefend.description>Ensine novas habilidades ao seu animal de estimação.
+
+・Parede de ferro
+Fortalece sua defesa e reduz os danos recebidos.
+Será cancelado imediatamente se você se mover ou atacar.</ASC_ManualDefend.description>
+
+  <ASC_ManualLeader.label>Livro sobre animais de estimação: Liderar</ASC_ManualLeader.label>
+  <ASC_ManualLeader.description>Ensine novas habilidades ao seu animal de estimação.
+
+・Liderar
+Dê instruções a todos os animais de estimação da colônia e faça-os agir todos de uma vez.</ASC_ManualLeader.description>
+</LanguageData>

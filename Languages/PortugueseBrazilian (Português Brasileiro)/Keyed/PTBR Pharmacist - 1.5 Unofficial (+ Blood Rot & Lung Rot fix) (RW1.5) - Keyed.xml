@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Fluffy.Pharmacist.DiseaseMargin.Tip>Margem de segurança utilizada no tratamento de doenças. \n\nSe a imunidade for inferior ao progresso da doença mais esta margem (e a gravidade for superior ao limite mínimo), a doença é tratada como uma lesão potencialmente fatal.\n\nPor exemplo, se uma doença progrediu 75%, a imunidade está em 80% e a margem é de 10%, a doença será classificada como potencialmente fatal. Se o limite fosse de 5%, a doença seria classificada como uma lesão grave.</Fluffy.Pharmacist.DiseaseMargin.Tip>
+
+</LanguageData>

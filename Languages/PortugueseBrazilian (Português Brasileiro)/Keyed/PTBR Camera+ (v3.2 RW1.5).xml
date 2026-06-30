@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+   <!-- Tags.xml -->
+	<!-- types -->
+	<AncientTag>Ancestral</AncientTag>
+	<NotAncientTag>Não é um ancestral</NotAncientTag>
+
+	<AnimalTag>Animal</AnimalTag>
+	<NotAnimalTag>Não é um animal</NotAnimalTag>
+
+	<CreepJoinerTag>Marceneiro assustador</CreepJoinerTag>
+	<NotCreepJoinerTag>Não é um marceneiro assustador</NotCreepJoinerTag>
+
+	<EmpireTag>Do império</EmpireTag>
+	<NotEmpireTag>Não do Império</NotEmpireTag>
+
+	<EntityTag>Entidade</EntityTag>
+	<NotEntityTag>Não é uma entidade</NotEntityTag>
+
+	<GhoulTag>Carniçal</GhoulTag>
+	<NotGhoulTag>Não é um carniçal</NotGhoulTag>
+
+	<HoraxCultTag>Cultista</HoraxCultTag>
+	<NotHoraxCultTag>Não é um cultista</NotHoraxCultTag>
+
+	<HumanTag>Humano</HumanTag>
+	<NotHumanTag>Não é um humano</NotHumanTag>
+
+	<InsectTag>Inseto</InsectTag>
+	<NotInsectTag>Não é um inseto</NotInsectTag>
+
+	<MechanoidTag>Mecanóide</MechanoidTag>
+	<NotMechanoidTag>Não é um mecanóide</NotMechanoidTag>
+
+	<Mechanitor>Mecanizador</Mechanitor>
+	<NotMechanitor>Não é um mecanizador</NotMechanitor>
+
+	<MutantTag>Mutante</MutantTag>
+	<NotMutantTag>Não é um mutante</NotMutantTag>
+
+	<PirateTag>Pirata</PirateTag>
+	<NotPirateTag>Não é um pirata</NotPirateTag>
+
+	<PrisonerTag>Prisioneiro</PrisonerTag>
+	<NotPrisonerTag>Não é um prisioneiro</NotPrisonerTag>
+
+	<ShamblerTag>Cambaleante</ShamblerTag>
+	<NotShamblerTag>Não é um cambaleante</NotShamblerTag>
+
+	<SlaveTag>Escravo</SlaveTag>
+	<NotSlaveTag>Não é um escravo</NotSlaveTag>
+
+	<VehicleTag>Veículo</VehicleTag>
+	<NotVehicleTag>Não é um veículo</NotVehicleTag>
+
+	<WildManTag>Homem selvagem</WildManTag>
+	<NotWildManTag>Não é um homem selvagem</NotWildManTag>
+
+
+	<!-- properties -->
+	<AdultTag>Adulto</AdultTag>
+	<NotAdultTag>Não é um adulto</NotAdultTag>
+
+	<AttackingTag>Atacante</AttackingTag>
+	<NotAttackingTag>Não é um atacante</NotAttackingTag>
+
+	<AwakeTag>Acordado</AwakeTag>
+	<NotAwakeTag>Dormindo</NotAwakeTag>
+
+	<AwokenCorpseTag>Cadáver despertado</AwokenCorpseTag>
+	<NotAwokenCorpseTag>Não é um cadáver despertado</NotAwokenCorpseTag>
+
+	<ChildTag>Criança</ChildTag>
+	<NotChildTag>Não é uma criança</NotChildTag>
+
+	<CanCastTag>Pode castar (magia)</CanCastTag>
+	<NotCanCastTag>Não pode castar (magia)</NotCanCastTag>
+
+	<ColonistTag>Colono</ColonistTag>
+	<NotColonistTag>Não é um colono</NotColonistTag>
+
+	<ControllableTag>Controlável</ControllableTag>
+	<NotControllableTag>Não controlável</NotControllableTag>
+
+	<CrawlingTag>Rastejando</CrawlingTag>
+	<NotCrawlingTag>Não rastejando</NotCrawlingTag>
+
+	<DeadTag>Morto</DeadTag>
+	<NotDeadTag>Vivo</NotDeadTag>
+
+	<DeathrestingTag>Descanso mortal</DeathrestingTag>
+	<NotDeathrestingTag>Não está em descanso mortal</NotDeathrestingTag>
+
+	<DownedTag>Abatido</DownedTag>
+	<NotDownedTag>Não abatido</NotDownedTag>
+
+	<DraftedTag>Alistado</DraftedTag>
+	<NotDraftedTag>Não alistado</NotDraftedTag>
+
+	<ExitingMapTag>Saindo do mapa</ExitingMapTag>
+	<NotExitingMapTag>Não sai do mapa</NotExitingMapTag>
+
+	<FemaleTag>Fêmea</FemaleTag>
+	<NotFemaleTag>Não é fêmea</NotFemaleTag>
+
+	<FreeTag>Livre</FreeTag>
+	<NotFreeTag>Não livre</NotFreeTag>
+
+	<GuestTag>Hóspede</GuestTag>
+	<NotGuestTag>Não é um hóspede</NotGuestTag>
+
+	<HasWeaponTag>Tem arma</HasWeaponTag>
+	<NotHasWeaponTag>Não tem arma</NotHasWeaponTag>
+
+	<HostileTag>Hostil</HostileTag>
+	<NotHostileTag>Amigável</NotHostileTag>
+
+	<IdleTag>Ocioso</IdleTag>
+	<NotIdleTag>Não ocioso</NotIdleTag>
+
+	<InjuredTag>Ferido</InjuredTag>
+	<NotInjuredTag>Não ferido</NotInjuredTag>
+
+	<InspiredTag>Inspirado</InspiredTag>
+	<NotInspiredTag>Não inspirado</NotInspiredTag>
+
+	<MaleTag>Macho</MaleTag>
+	<NotMaleTag>Não é macho</NotMaleTag>
+
+	<ManhunterTag>Caçador</ManhunterTag>
+	<NotManhunterTag>Não é um caçador</NotManhunterTag>
+
+	<MeleeTag>É corpo a corpo</MeleeTag>
+	<NotMeleeTag>Não corpo a corpo</NotMeleeTag>
+
+	<MentalTag>Em colapso mental</MentalTag>
+	<NotMentalTag>Não em colapso mental</NotMentalTag>
+
+	<ModdedTag>De mod</ModdedTag>
+	<NotModdedTag>Vanilla</NotModdedTag>
+
+	<OverseenTag>Supervisionado</OverseenTag>
+	<NotOverseenTag>Não sendo supervisionado</NotOverseenTag>
+
+	<PlayerFactionTag>Facção de jogador</PlayerFactionTag>
+	<NotPlayerFactionTag>Não é facção de jogador</NotPlayerFactionTag>
+
+	<PredatorHuntTag>Caçando como predador</PredatorHuntTag>
+	<NotPredatorHuntTag>Não caçando como predador</NotPredatorHuntTag>
+
+	<SelfShutdownTag>Desligado</SelfShutdownTag>
+	<NotSelfShutdownTag>Não desligado</NotSelfShutdownTag>
+
+	<TameTag>Domesticado</TameTag>
+	<NotTameTag>Selvagem</NotTameTag>
+
+	<TeenagerTag>Adolescente</TeenagerTag>
+	<NotTeenagerTag>Não é um adolescente</NotTeenagerTag>
+
+	<!-- names -->
+	<KindDefTag>Gentil</KindDefTag>
+	<NotKindDefTag>Não é gentil</NotKindDefTag>
+
+	<FactionNameTag>Facção</FactionNameTag>
+	<NotFactionNameTag>Não é facção</NotFactionNameTag>
+
+	<PawnNameTag>Nomeado</PawnNameTag>
+	<NotPawnNameTag>Não nomeado</NotPawnNameTag>
+
+	<HediffTag>Hediff (Estado anormal de saúde)</HediffTag>
+	<NotHediffTag>Not hediff (Sem estado anormal de saúde)</NotHediffTag>
+
+	<ApparelTag>Vestuário</ApparelTag>
+	<NotApparelTag>Não é vestuário</NotApparelTag>
+
+	<InventoryTag>Inventário</InventoryTag>
+	<NotInventoryTag>Não é inventário</NotInventoryTag>
+
+	<EquipmentTag>Equipamento</EquipmentTag>
+	<NotEquipmentTag>Não é equipamento</NotEquipmentTag>
+
+	<WeaponTag>Arma</WeaponTag>
+	<NotWeaponTag>Não é arma</NotWeaponTag>
+	
+   <!-- text.xml -->
+	<CameraPlus3>Bem-vindo à nova versão do Camera+! Explore opções de silhueta personalizadas aprimoradas no menu de configurações para melhorar sua experiência.</CameraPlus3>
+    <Zoom>Zoom</Zoom>
+    <ZoomedInPercent>Fator de zoom máximo</ZoomedInPercent>
+    <ZoomedOutPercent>Fator de zoom mínimo</ZoomedOutPercent>
+    <ForZoomedInPercent>Para maior fator de zoom</ForZoomedInPercent>
+    <ForZoomedOutPercent>Para menor fator de zoom</ForZoomedOutPercent>
+    <Exponentiality>Velocidade de zoom exponencial</Exponentiality>
+    <SoundNearness>Aproxime sons distantes</SoundNearness>
+    <HotKeys>Atalhos de teclado</HotKeys>
+    <RulesStart>Regras (para novos jogos)</RulesStart>
+    <RulesGame>Regras (salvas com o jogo)</RulesGame>
+    <SettingsKey>Configurações do Camera+</SettingsKey>
+    <LoadModifier>Carregar visualização</LoadModifier>
+    <SaveModifier>Salvar visualização</SaveModifier>
+    <DollyPercentLabel>Velocidade de rolagem</DollyPercentLabel>
+    <ScreenEdgeDollyFrictionLabel>Fator de rolagem de borda</ScreenEdgeDollyFrictionLabel>
+    <HideNamesWhenZoomedOut>Ocultar rótulos de nome ao diminuir o zoom</HideNamesWhenZoomedOut>
+    <Pixel>Pixel</Pixel>
+    <HidePawnLabelBelow>Ocultar rótulos de peões abaixo: </HidePawnLabelBelow>
+    <HideThingLabelBelow>Ocultar rótulos de pilha abaixo: </HideThingLabelBelow>
+    <HideDeadPawnsBelow>Oculte os peões mortos abaixo: </HideDeadPawnsBelow>
+    <ShowMarkerBelow>Mostrar como marcador abaixo: </ShowMarkerBelow>
+    <DotStyle>Estilo ponto{0}</DotStyle>
+    <VanillaDefault>Vanilla padrão</VanillaDefault>
+    <ClassicDots>Camera+ pontos</ClassicDots>
+    <BetterSilhouettes>Camera+ silhuetas</BetterSilhouettes>
+    <Animals>Animais</Animals>
+    <IncludeAnimals>Os animais têm o mesmo marcador</IncludeAnimals>
+    <AnimalsDifferent>Os animais têm um marcador diferente</AnimalsDifferent>
+    <HideAnimals>Os animais não têm marcador</HideAnimals>
+    <IncludeNotTamedAnimals>Incluir animais selvagens</IncludeNotTamedAnimals>
+    <ZoomToMouse>Zoom para o mouse</ZoomToMouse>
+    <DisableCameraShake>Desativar vibração da câmera</DisableCameraShake>
+    <MouseRevealsLabels>Mouse revela rótulos{0}</MouseRevealsLabels>
+    <EdgeIndicators>Indicadores de borda{0}</EdgeIndicators>
+    <KeyLeftShift>Shift esquerdo</KeyLeftShift>
+    <KeyLeftAlt>Alt esquerdo</KeyLeftAlt>
+    <KeyLeftControl>Ctrl esquerdo</KeyLeftControl>
+    <KeyLeftCommand>Cmd esquerdo</KeyLeftCommand>
+    <KeyLeftWindows>Win esquerdo</KeyLeftWindows>
+    <KeyRightShift>Shift direito</KeyRightShift>
+    <KeyRightAlt>Alt direito</KeyRightAlt>
+    <KeyRightControl>Ctrl direito</KeyRightControl>
+    <KeyRightCommand>Cmd direito</KeyRightCommand>
+    <KeyRightWindows>Win direito</KeyRightWindows>
+    <DotSilhouetteSize>Tamanho do ponto/silhueta</DotSilhouetteSize>
+    <EdgeDotSize>Tamanho do ponto da borda</EdgeDotSize>
+    <EdgeDistanceFactor>Distância da borda</EdgeDistanceFactor>
+    <OutlineSize>Largura do contorno</OutlineSize>
+    <Outline>contorno</Outline>
+    <Fill>preencher</Fill>
+    <Selected>selecionado</Selected>
+    <NewCondition>Adicionar nova condição</NewCondition>
+    <LoadCustomization>Carregar personalização</LoadCustomization>
+    <SaveCustomization>Salvar personalização</SaveCustomization>
+    <Opposite>Oposto</Opposite>
+    <Duplicate>Duplicado</Duplicate>
+    <TagCategoryType>Tipos</TagCategoryType>
+    <TagCategoryAttribute>Atributos</TagCategoryAttribute>
+    <TagCategoryText>Nomear</TagCategoryText>
+    <ColumnConditions>Regras de estilo de ponto</ColumnConditions>
+    <ColumnMode>Modo</ColumnMode>
+    <ColumnColors>Cores</ColumnColors>
+    <ColumnMap>Mapa</ColumnMap>
+    <ColumnEdge>Borda</ColumnEdge>
+    <ColumnMouseReveal>Mouse Revelar</ColumnMouseReveal>
+    <ColumnShowBelow>Mostrar abaixo</ColumnShowBelow>
+    <ColumnSize>Tamanho</ColumnSize>
+    <ColumnOutline>Contorno</ColumnOutline>
+    <OverwriteRuleSingular> (sobrescrito por {0} regra)</OverwriteRuleSingular>
+    <OverwriteRulePlural> (sobrescrito por {0} regras)</OverwriteRulePlural>
+
+</LanguageData>

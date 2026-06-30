@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <coverage>cobertura</coverage>
+  <body_part>parte do corpo</body_part>
+
+  <Collapsed_by_default>Recolhido por padrão</Collapsed_by_default>
+  <Focus_Search_by_default>Foco na pesquisa por padrão</Focus_Search_by_default>
+  <Open_Info_Card_Hotkey>Tecla de atalho para abrir cartão de informações</Open_Info_Card_Hotkey>
+  <Hide_Filtered_Stat>Ocultar estatísticas filtradas</Hide_Filtered_Stat>
+  <Greater_is_Better>Maior é melhor</Greater_is_Better>
+  <Lesser_is_Better>Menor é melhor</Lesser_is_Better>
+  <Stats_Compare_Detail>Estatísticas comparam detalhes</Stats_Compare_Detail>
+  <Init_width>Largura inicial</Init_width>
+  <Init_height>Altura inicial</Init_height>
+  <Reset>Redefinir</Reset>
+</LanguageData>

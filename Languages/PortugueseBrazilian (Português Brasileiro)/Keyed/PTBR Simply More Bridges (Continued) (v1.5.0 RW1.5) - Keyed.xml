@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Settings -->
+  <SimplyMoreBridges.CurrentModVersion>Versão do mod instalada: {0}</SimplyMoreBridges.CurrentModVersion>
+  <SimplyMoreBridges.RestartInfo>As alterações exigem o reinício do jogo para entrarem em vigor.</SimplyMoreBridges.RestartInfo>
+  <SimplyMoreBridges.AddVisualsLabel>Adicione diferentes visuais</SimplyMoreBridges.AddVisualsLabel>
+  <SimplyMoreBridges.AddVisualsTooltip>Também adiciona pontes com visuais de concreto, lajes e ladrilhos pavimentados.</SimplyMoreBridges.AddVisualsTooltip>
+  <SimplyMoreBridges.GenerateFromAllLabel>Gerar pontes a partir de mais materiais</SimplyMoreBridges.GenerateFromAllLabel>
+  <SimplyMoreBridges.GenerateFromAllTooltip>Irá gerar pontes de todos os materiais carregados de pedra, madeira e metal.</SimplyMoreBridges.GenerateFromAllTooltip>
+  <SimplyMoreBridges.GenerateFloorlikeLabel>Gerar pontes estéreis</SimplyMoreBridges.GenerateFloorlikeLabel>
+  <SimplyMoreBridges.GenerateFloorlikeTooltip>Adicionará pontes estéreis feitas de prata.</SimplyMoreBridges.GenerateFloorlikeTooltip>
+  <SimplyMoreBridges.BridgeCostPercent>Custo das pontes em porcentagem: {0}</SimplyMoreBridges.BridgeCostPercent>
+  <SimplyMoreBridges.SteelPercent>Porcentagem de aço em pontes normais: {0}
+Ponte de pedra: {1} pedra, {2} aço
+Ponte de metal: {3} metal, {4} aço</SimplyMoreBridges.SteelPercent>
+  <SimplyMoreBridges.SteelPercentDeep>Porcentagem de aço em pontes profundas: {0}
+Ponte profunda de pedra: {1} pedra, {2} aço
+Ponte profunda de metal: {3} metal, {4} aço</SimplyMoreBridges.SteelPercentDeep>
+  <SimplyMoreBridges.NoFloorsOnBridges>Não se pode construir um piso sem antes desconstruir a ponte</SimplyMoreBridges.NoFloorsOnBridges>
+  
+</LanguageData>

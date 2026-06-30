@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <XmlExtensions_Label>XML Extensions</XmlExtensions_Label>
+    <XmlExtensions_MoreModSettings>XML Extensions »</XmlExtensions_MoreModSettings>
+	<XmlExtensions_Confirmation>Tem certeza?</XmlExtensions_Confirmation>
+    <XmlExtensions_ResetSettings>Redefinir configurações</XmlExtensions_ResetSettings>
+    <XmlExtensions_EnableStackTrace>Ativar o rastreio de pilha para erros de correção XML</XmlExtensions_EnableStackTrace>
+    <XmlExtensions_StackTraceTip>Melhora o relatório de erros quando ativado</XmlExtensions_StackTraceTip>
+    <XmlExtensions_IncludeStandardMods>Apresentar configurações para todos os mods</XmlExtensions_IncludeStandardMods>
+    <XmlExtensions_IncludeStandardModsTip>Incluir definições de mods que não utilizam Extensões XML (não suporta definições criadas através da HugsLib)</XmlExtensions_IncludeStandardModsTip>
+    <XmlExtensions_ViewUnusedSettings>Ver configurações não utilizadas</XmlExtensions_ViewUnusedSettings>
+    <XmlExtensions_InactiveMods>Mods atualmente inativos:</XmlExtensions_InactiveMods>
+    <XmlExtensions_NoExtraSettings>No momento, não há configurações extras</XmlExtensions_NoExtraSettings>
+    <XmlExtensions_SelectedModUnusedKeys>Teclas não utilizadas do mod selecionado:</XmlExtensions_SelectedModUnusedKeys>
+    <XmlExtensions_Delete>Excluir</XmlExtensions_Delete>
+    <XmlExtensions_DeleteKeys>Excluir {0} teclas</XmlExtensions_DeleteKeys>
+    <XmlExtensions_ConfirmationResetMod>Tem a certeza de que pretende excluir todas as teclas não utilizadas do mod atual?</XmlExtensions_ConfirmationResetMod>
+    <XmlExtensions_DeleteAllUnusedKeys>Excluir todas {0} teclas não utilizadas</XmlExtensions_DeleteAllUnusedKeys>
+    <XmlExtensions_ConfirmResetAll>Tem a certeza de que pretende excluir todas as teclas não utilizadas de cada mod?</XmlExtensions_ConfirmResetAll>
+    <XmlExtensions_Open>Abrir</XmlExtensions_Open>
+    <XmlExtensions_Apply>Aplicar</XmlExtensions_Apply>
+    <XmlExtensions_ModSettingsFor>Configurações de mod para </XmlExtensions_ModSettingsFor>
+    <XmlExtensions_Unpin>Desfixar mod</XmlExtensions_Unpin>
+    <XmlExtensions_Pin>Fixar mod</XmlExtensions_Pin>
+    <XmlExtensions_HowToPin>Clique-direito num mod para o fixar</XmlExtensions_HowToPin>
+	<XmlExtensions_AddMainButton>Adicionar um botão principal para abrir o menu Mais configurações do mod</XmlExtensions_AddMainButton>
+	<XmlExtensions_AddMainButtonTip>Adiciona um botão principal que abre o menu Mais Configurações do Mod quando clicado</XmlExtensions_AddMainButtonTip>
+	<XmlExtensions_AdvancedDebugging>Ativar o modo de depuração avançada de XML? (Ativar durante a resolução de problemas)</XmlExtensions_AdvancedDebugging>
+	<XmlExtensions_AdvancedDebuggingTip>A ativação desta opção listará possíveis mods que estejam a causar erros XML, mas pode afetar os seus tempos de carregamento. Recomenda-se que só seja ativada quando estiver a tentar resolver conflitos de mods ou a resolver problemas.</XmlExtensions_AdvancedDebuggingTip>
+	<XmlExtensions_DefTypes>Def type:</XmlExtensions_DefTypes>
+	<XmlExtensions_PatchAnalyzer>Patch Analyzer</XmlExtensions_PatchAnalyzer>
+	<XmlExtensions_Defs>Def:</XmlExtensions_Defs>
+	<XmlExtensions_Mods>Mods:</XmlExtensions_Mods>
+	<XmlExtensions_EnableAdvancedDebuggingAndReboot>Iniciar o jogo enquanto a Depuração Avançada está ativada para utilizar o Patch Analyzer.</XmlExtensions_EnableAdvancedDebuggingAndReboot>
+	<XmlExtensions_PatchedDefs>Defs patched: </XmlExtensions_PatchedDefs>
+	<XmlExtensions_AppliedPatches>Patches aplicados: </XmlExtensions_AppliedPatches>
+	<XmlExtensions_ByDef>por Def</XmlExtensions_ByDef>
+	<XmlExtensions_ByDefTip>ver patches por Def</XmlExtensions_ByDefTip>
+	<XmlExtensions_ByMod>por Mod</XmlExtensions_ByMod>
+	<XmlExtensions_ByModTip>ver patches por Mod</XmlExtensions_ByModTip>
+	<XmlExtensions_Mode>Modo:</XmlExtensions_Mode>
+	<XmlExtensions_Summary>Resumo</XmlExtensions_Summary>
+	<XmlExtensions_SummaryTip>Ver um resumo dos patches</XmlExtensions_SummaryTip>
+	<XmlExtensions_TimeTaken>Tempo gasto: </XmlExtensions_TimeTaken>
+	<XmlExtensions_PatchesApplied>patch(es) aplicado(s)</XmlExtensions_PatchesApplied>
+	<XmlExtensions_DefsPatched>Def(s) patched</XmlExtensions_DefsPatched>
+	<XmlExtensions_Elapsed>elapsed</XmlExtensions_Elapsed>
+
+</LanguageData>

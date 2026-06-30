@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MUR_TCU.label>Unidade de controle de temperatura</MUR_TCU.label>
+  <MUR_TCU.description>Um equipamento combinado de aquecimento e resfriamento montado na parede.</MUR_TCU.description>
+
+  <MUR_TCU_Wide.label>Unidade de controle de temperatura (largo)</MUR_TCU_Wide.label>
+  <MUR_TCU_Wide.description>Um amplo equipamento combinado de aquecimento e resfriamento montado na parede.</MUR_TCU_Wide.description>
+
+  <MUR_TCU_Long.label>Unidade de controle de temperatura (longo)</MUR_TCU_Long.label>
+  <MUR_TCU_Long.description>Um longo equipamento combinado de aquecimento e resfriamento montado na parede.</MUR_TCU_Long.description>
+
+  <MUR_TCU_TwoByTwo.label>Unidade de controle de temperatura (2x2)</MUR_TCU_TwoByTwo.label>
+  <MUR_TCU_TwoByTwo.description>Um equipamento combinado de aquecimento e resfriamento 2x2 montado na parede.</MUR_TCU_TwoByTwo.description>
+
+</LanguageData>

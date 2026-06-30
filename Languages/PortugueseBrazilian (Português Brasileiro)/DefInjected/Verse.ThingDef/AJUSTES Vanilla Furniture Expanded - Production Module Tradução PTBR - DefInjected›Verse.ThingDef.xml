@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--Increases work speed when placed near a smithy. One workbench links up to two smithy cabinets.-->
+  <VFE_SmithyCabinet.description>Aumenta a velocidade de trabalho quando colocado perto de uma forja. Uma bancada liga-se a dois gabinetes de forja.</VFE_SmithyCabinet.description>
+  <!--large electric smithy-->
+  <VFE_TableSmithyLarge.label>grande forja elétrica</VFE_TableSmithyLarge.label>
+  <!--large stove-->
+  <VFE_TableStoveLarge.label>fogão grande elétrico</VFE_TableStoveLarge.label>
+  <!--large tailoring table-->
+  <VFE_TableTailorLarge.label>grande alfaiataria elétrica</VFE_TableTailorLarge.label>
+  <!--assembly bench-->
+  <VFE_ComponentFabricationBench.label>bancada de montagem de componentes</VFE_ComponentFabricationBench.label>
+  <!--A workbench equipped with advanced tools to produce components.-->
+  <VFE_ComponentFabricationBench.description>Uma bancada equipada com ferramentas avançadas para produzir componentes e componentes avançados (apenas).</VFE_ComponentFabricationBench.description>
+  <!--electric butcher-->
+  <VFE_TableButcherElectric.label>açougue elétrico</VFE_TableButcherElectric.label>
+  <!--electric stonecutter's table-->
+  <VFE_TableStonecutterElectric.label>canteiro elétrico</VFE_TableStonecutterElectric.label>
+  <!--Increases work speed when placed nearby a cooking stove.-->
+  <VFE_KitchenSinkCabinet.description>Aumenta a velocidade de trabalho quando colocado perto de um fogão. 1 pia para 1 fogão.</VFE_KitchenSinkCabinet.description>
+
+</LanguageData>

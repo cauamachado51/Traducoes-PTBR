@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TweakSection_Vanilla_General.label>Geral</TweakSection_Vanilla_General.label>
+  <TweakSection_Vanilla_IncidentControl.label>Incidentes</TweakSection_Vanilla_IncidentControl.label>
+
+  <TweakSection_Vanilla_Jobs.label>Trabalhos</TweakSection_Vanilla_Jobs.label>
+  <TweakSection_Vanilla_Jobs.description>Ajustes específicos para trabalhos de peões.</TweakSection_Vanilla_Jobs.description>
+
+  <TweakSection_Vanilla_Mechanoids.label>Mecanoides</TweakSection_Vanilla_Mechanoids.label>
+  <TweakSection_Vanilla_Mechanoids.description>Ajustes específicos para mecanoides.</TweakSection_Vanilla_Mechanoids.description>
+
+  <TweakSection_Vanilla_PennedAnimals.label>Animais cercados</TweakSection_Vanilla_PennedAnimals.label>
+
+  <TweakSection_Vanilla_Power.label>Energia</TweakSection_Vanilla_Power.label>
+  <TweakSection_Vanilla_Power.description>Permite ajustar a taxa de utilização de alguns edifícios.</TweakSection_Vanilla_Power.description>
+
+  <TweakSection_Vanilla_Research.label>Pesquisar</TweakSection_Vanilla_Research.label>
+
+  <TweakSection_Vanilla_ResearchProjects.label>Projetos de Pesquisa</TweakSection_Vanilla_ResearchProjects.label>
+  <TweakSection_Vanilla_ResearchProjects.description>Permite controle sobre o custo e as necessidades de impressão de tecnologia de qualquer Projeto de Pesquisa. Reiniciar o jogo é necessário para aplicar essas configurações.</TweakSection_Vanilla_ResearchProjects.description>
+
+  <TweakSection_Vanilla_Resources.label>Recursos</TweakSection_Vanilla_Resources.label>
+  <TweakSection_Vanilla_Resources.description>Isso só funcionará contra versões vanilla dos tipos de invasão, algumas invasões modificadas usam sua própria versão e ignorarão esses ajustes.</TweakSection_Vanilla_Resources.description>
+
+<!-- part2 1.5 mods -->
+ <!-- Section_01General (2).xml -->
+  <TweakSection_Ideology_General.label>Geral</TweakSection_Ideology_General.label>
+
+ <!-- Section_01General (3).xml -->
+  <TweakSection_Royalty_General.label>Geral</TweakSection_Royalty_General.label>
+
+ <!-- Section_01General.xml -->
+  <TweakSection_Anomaly_General.label>Geral</TweakSection_Anomaly_General.label>
+
+ <!-- Section_02Anima.xml -->
+  <TweakSection_Royalty_Anima.label>Anima</TweakSection_Royalty_Anima.label>
+
+ <!-- Section_02Entities.xml -->
+  <!-- Entities -->
+  <TweakSection_AnomalyEntities.label>Entidades</TweakSection_AnomalyEntities.label>
+
+ <!-- Section_02Gauranlen.xml -->
+  <TweakSection_Ideology_Gauranlen.label>Gauranlen</TweakSection_Ideology_Gauranlen.label>
+
+ <!-- Section_General.xml -->
+  <TweakSection_Biotech_General.label>Geral</TweakSection_Biotech_General.label>
+
+ <!-- Section_Polux.xml -->
+  <TweakSection_Biotech_Polux.label>Polux</TweakSection_Biotech_Polux.label>
+
+ <!-- TweakSectionDefs_Biotech.xml -->
+  <TweakSection_Biotech_Genepacks.label>Pacotes genéticos</TweakSection_Biotech_Genepacks.label>
+
+ <!-- TweakSectionDefs_Royalty.xml -->
+  <TweakSection_Royalty_RoyalTitles.label>Títulos Reais</TweakSection_Royalty_RoyalTitles.label>
+  <TweakSection_Royalty_RoyalPermits.label>Permissões Reais</TweakSection_Royalty_RoyalPermits.label>
+
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+	<PUAH.allowCorpses>Permitir colocar cadáveres no inventário</PUAH.allowCorpses>
+	<PUAH.allowCorpsesTooltip>Padrão desativado. Em vez disso, carregue-os diretamente nas mãos.</PUAH.allowCorpsesTooltip>
+	<PUAH.allowAnimals>Permitir que animais de carga domesticados usem seu inventário para transporte</PUAH.allowAnimals>
+	<PUAH.allowAnimalsTooltip>Padrão ativado. Funciona melhor com mods que dão mochilas para mais animais, como VFME Caravan Packs</PUAH.allowAnimalsTooltip>
+	<PUAH.allowMechanoids>Permitir que mecanóides hackeados usem seu inventário para transporte</PUAH.allowMechanoids>
+	<PUAH.allowMechanoidsTooltip>Requer What The Hack ou mods semelhantes. Padrão ativado.</PUAH.allowMechanoidsTooltip>
+	<!-- Minimum free inventory space to consider hauling to inventory -->
+	<PUAH.minimumFreeInventorySpace>Espaço mínimo de inventário livre para considerar o transporte por inventário</PUAH.minimumFreeInventorySpace>
+	<!-- Pawns with less free inventory space than defined here just directly use vanilla hauling. 0% makes them always try hauling to inventory, regardless of them having room for more than one potato or not. 100% results in PUAH requiring pawns to be completely naked. Default 20% -->
+	<!-- (PTBR modificado): Peões com menos espaço de inventário livre do que o definido aqui apenas usam o transporte direto de vanilla. 0% faz com que eles sempre tentem transportar para o estoque, independentemente de terem ou não espaço para mais de uma batata. 100% resulta em PUAH exigindo que os peões estejam completamente nus(sem itens) para colocar itens no seu inventário para transportar(ainda irão transportar com as mãos). Padrão 20% -->
+	<PUAH.minimumFreeInventorySpaceTooltip>(PTBR modificado): Peões com menos espaço de inventário livre do que o definido aqui apenas usam o transporte direto de vanilla. 0% faz com que eles sempre tentem transportar para o estoque, independentemente de terem ou não espaço reserva para pegar o que você ordenar. 100% resulta em PUAH exigindo que os peões estejam completamente nus(sem itens) para colocar itens no seu inventário para transportar(ainda irão transportar com as mãos como no vanilla). Padrão 20%</PUAH.minimumFreeInventorySpaceTooltip>
+</LanguageData>

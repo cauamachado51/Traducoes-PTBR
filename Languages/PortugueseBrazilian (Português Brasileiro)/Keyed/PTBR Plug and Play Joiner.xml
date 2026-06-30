@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<PlugAndPlayJoiner>Plug and Play Joiner</PlugAndPlayJoiner>
+	<DefaultAreaRestriction>Restrição de área padrão dos participantes</DefaultAreaRestriction>
+	<SettingAreaRestrictionWarning>Aviso: Por favor, defina a área após carregar um save.</SettingAreaRestrictionWarning>
+	<DefaultWorkPriority>Prioridade de trabalho padrão dos participantes.</DefaultWorkPriority>
+	<AutoProfessionalWorkPriority>Prioridade automática para trabalhos profissionais</AutoProfessionalWorkPriority>
+	<ResetAllButton>Redefinir todas as configurações.</ResetAllButton>
+	<ProfessionalWorkPriority>Prioridade de Trabalho Profissional</ProfessionalWorkPriority>
+	<MinimiumAverageSkills>Se a habilidade exceder</MinimiumAverageSkills>
+</LanguageData>

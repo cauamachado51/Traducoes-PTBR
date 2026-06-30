@@ -1,0 +1,43 @@
+<LanguageData>
+
+ <!-- Recipes_Stonecutting_RecipeDef.xml -->
+<!--Common/Defs/RecipeDefs/Recipes_Stonecutting.xml-->
+                                <!-- make sandstone blocks x3 -->
+<Make_StoneBlocksBulkSandstone.label>fazer blocos de arenito x3</Make_StoneBlocksBulkSandstone.label>
+                                      <!-- Cuts sandstone chunks into usable blocks in bulk. -->
+<Make_StoneBlocksBulkSandstone.description>Corta pedaços de arenito em blocos utilizáveis em massa..</Make_StoneBlocksBulkSandstone.description>
+                                    <!-- Cutting stone blocks from chunks in bulk. / Cortar blocos de pedra de pedaços em massa. -->
+<Make_StoneBlocksBulkSandstone.jobString>fazendo blocos de arenito x3 a partir de pedaços.</Make_StoneBlocksBulkSandstone.jobString>
+                              <!-- make granite blocks x3 -->
+<Make_StoneBlocksBulkGranite.label>fazer blocos de granito x3</Make_StoneBlocksBulkGranite.label>
+                                    <!-- Cuts granite chunks into usable blocks in bulk. -->
+<Make_StoneBlocksBulkGranite.description>Corta pedaços de granito em blocos utilizáveis em massa.</Make_StoneBlocksBulkGranite.description>
+                                  <!-- Cutting stone blocks from chunks in bulk. -->
+<Make_StoneBlocksBulkGranite.jobString>fazendo blocos de granito x3 a partir de pedaços</Make_StoneBlocksBulkGranite.jobString>
+                                <!-- make limestone blocks x3 -->
+<Make_StoneBlocksBulkLimestone.label>fazer blocos de calcário x3</Make_StoneBlocksBulkLimestone.label>
+                                      <!-- Cuts limestone chunks into usable blocks in bulk. -->
+<Make_StoneBlocksBulkLimestone.description>Corta pedaços de calcário em blocos utilizáveis em massa.</Make_StoneBlocksBulkLimestone.description>
+                                    <!-- Cutting stone blocks from chunks in bulk. -->
+<Make_StoneBlocksBulkLimestone.jobString>fazendo blocos de calcário x3 a partir de pedaços</Make_StoneBlocksBulkLimestone.jobString>
+                            <!-- make slate blocks x3 -->
+<Make_StoneBlocksBulkSlate.label>fazer blocos de ardósia x3</Make_StoneBlocksBulkSlate.label>
+                                  <!-- Cuts slate chunks into usable blocks in bulk. -->
+<Make_StoneBlocksBulkSlate.description>Corta pedaços de ardósia em blocos utilizáveis em massa.</Make_StoneBlocksBulkSlate.description>
+                                <!-- Cutting stone blocks from chunks in bulk. -->
+<Make_StoneBlocksBulkSlate.jobString>fazendo blocos de ardósia x3 a partir de pedaços</Make_StoneBlocksBulkSlate.jobString>
+                             <!-- make marble blocks x3 -->
+<Make_StoneBlocksBulkMarble.label>fazer blocos de mármore x3</Make_StoneBlocksBulkMarble.label>
+                                   <!-- Cuts marble chunks into usable blocks in bulk. -->
+<Make_StoneBlocksBulkMarble.description>Corta pedaços de mármore em blocos utilizáveis em massa.</Make_StoneBlocksBulkMarble.description>
+                                 <!-- Cutting stone blocks from chunks in bulk. -->
+<Make_StoneBlocksBulkMarble.jobString>fazendo blocos de mármore x3 a partir de pedaços</Make_StoneBlocksBulkMarble.jobString>
+
+                          <!-- make any stone blocks x3 -->
+<Make_StoneBlocksBulkAny.label>fazer qualquer bloco de pedra x3</Make_StoneBlocksBulkAny.label>
+                                <!-- Cut rock chunks into usable stone blocks in bulk -->
+<Make_StoneBlocksBulkAny.description>Corte pedaços de rocha em blocos de pedra utilizáveis em massa.</Make_StoneBlocksBulkAny.description>
+                              <!-- Cutting stone blocks from chunks in bulk. -->
+<Make_StoneBlocksBulkAny.jobString>fazendo qualquer blocos de pedra x3 a partir de pedaços</Make_StoneBlocksBulkAny.jobString>
+ 
+</LanguageData>

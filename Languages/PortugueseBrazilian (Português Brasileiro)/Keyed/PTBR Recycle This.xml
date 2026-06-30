@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <DesignatorDestroyThing>Destruir item</DesignatorDestroyThing>
+  <DesignatorDestroyThingDesc>Queima o item escolhido na fogueira mais próxima, destruindo-o completamente. Requer fogueira ou fundição para funcionar.</DesignatorDestroyThingDesc>
+  <MessageMustDesignateWeaponOrApparel>O item deve ser uma arma ou vestuário.</MessageMustDesignateWeaponOrApparel>
+  <DesignatorRecycleThing>Reciclar item</DesignatorRecycleThing>
+  <DesignatorRecycleThingDesc>Recicle o item escolhido para obter recursos valiosos dele. Se o item puder ser fundido, será necessário a fundição para ser reciclado, caso contrário, será descartado no local.</DesignatorRecycleThingDesc>
+  <RecycleThisNoAvailableWorkbenches>Não há bancadas disponíveis</RecycleThisNoAvailableWorkbenches>
+  <RecycleThisItemIsUnavailable>{0} é indisponível</RecycleThisItemIsUnavailable>
+  <RecycleThisCannotRefuel>Não é possível reabastecer {0}</RecycleThisCannotRefuel>
+</LanguageData>

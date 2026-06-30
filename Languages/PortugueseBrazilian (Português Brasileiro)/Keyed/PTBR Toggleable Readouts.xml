@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<ToggleableReadouts.Filter>Filtrar {0}</ToggleableReadouts.Filter>
+	<ToggleableReadouts.FilterApplied>{0} foi oculto. Vá para as opções do mod se desejar desfazer isso.</ToggleableReadouts.FilterApplied>
+	
+	<ToggleableReadouts.Pin>Fixar {0}</ToggleableReadouts.Pin>
+	<ToggleableReadouts.Unpin>Desfixar {0}</ToggleableReadouts.Unpin>
+	
+	<ToggleableReadouts.Settings.Help>Clique em um botão para removê-lo do filtro de leitura de recursos</ToggleableReadouts.Settings.Help>
+	<ToggleableReadouts.Settings.Thing>Coisa</ToggleableReadouts.Settings.Thing>
+	<ToggleableReadouts.Settings.ThingCategoryDef>Categoria</ToggleableReadouts.Settings.ThingCategoryDef>
+</LanguageData>

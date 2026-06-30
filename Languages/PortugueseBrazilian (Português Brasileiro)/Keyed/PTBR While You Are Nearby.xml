@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BasicSettings>Configurações básicas</BasicSettings>
+  <AdvancedSettings>Configurações avançadas</AdvancedSettings>
+  <DebugLog>Mensagens Log debug</DebugLog>
+  <DebugLogTooltips>Ative o log de depuração. Não use isso em jogos normais, pois é muito spam.</DebugLogTooltips>
+  <LongDistanceThreshold>"Limite de longa distância</LongDistanceThreshold>
+  <LongDistanceThresholdTooltips>Quando o trabalho vanilla for menor que essa distância, ele não será substituído.
+
+A procura de emprego nas proximidades só será ativada se o trabalho vanilla estiver mais longe do que esta distância.
+  </LongDistanceThresholdTooltips>
+  <MaxSearchRadius>Raio máximo de pesquisa de emprego nas proximidades</MaxSearchRadius>
+  <MaxSearchRadiusTooltips>Raio máximo da área para procurar empregos próximos.
+
+A procura de emprego nas proximidades não irá além deste raio.
+  </MaxSearchRadiusTooltips>
+  <PriorityBoost>Diferença máxima de prioridade entre trabalhos vanilla e próximos</PriorityBoost>
+  <PriorityBoostTooltips>Aumentamos a prioridade de empregos próximos.
+
+Os trabalhos próximos não serão considerados se a diferença entre a sua prioridade e o trabalho vanilla for superior a este valor.
+  </PriorityBoostTooltips>
+  <VanillaChancePercentage>Chance de ignorar aleatoriamente a pesquisa próxima e seguir o trabalho vanilla</VanillaChancePercentage>
+  <VanillaChancePercentageTooltips>Chance de pular a procura de emprego nas proximidades e seguir o comportamento básico
+
+Se esse valor for 100%, nunca procuramos emprego nas proximidades e sempre usamos o comportamento vanilla
+
+Se este valor for 0% sempre procuramos emprego nas proximidades, desde que o vanilla dê um emprego de longa distância.
+
+Defina isso para uma pequena porcentagem para que o colono não fique preso na mesma área por muito tempo.
+  </VanillaChancePercentageTooltips>
+  <ClickPlusToEdit>Clique em “+” para editar</ClickPlusToEdit>
+  <ExcludedLongDistanceWorkTypes>Não substitua estes tipos de trabalho em longa distância</ExcludedLongDistanceWorkTypes>
+  <ExcludedLongDistanceWorkTypesTooltips>Se ativado, qualquer trabalho de longa distância destes tipos selecionados não será substituído por trabalho próximo.
+
+Observação: alguns tipos de trabalho já não são afetados, mesmo que estejam listados aqui e não estejam selecionados.
+  </ExcludedLongDistanceWorkTypesTooltips>
+  <ExcludedNearbyWorkTypes>Não prefira esses tipos de trabalho próximos</ExcludedNearbyWorkTypes>
+  <ExcludedNearbyWorkTypesTooltips>Se ativado, qualquer trabalho próximo destes tipos selecionados não terá preferência sobre trabalhos de longa distância.
+
+Observação: alguns tipos de trabalho já não são afetados, mesmo que estejam listados aqui e não estejam selecionados.
+  </ExcludedNearbyWorkTypesTooltips>
+</LanguageData>

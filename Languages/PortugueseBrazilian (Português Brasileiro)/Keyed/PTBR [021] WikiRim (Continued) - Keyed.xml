@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- HelpDef_AutoGen.xml -->
+     <!-- Categorization Keys -->
+     <AutoHelpCategoryItems>Itens</AutoHelpCategoryItems>
+     <AutoHelpCategoryBuildings>Construções</AutoHelpCategoryBuildings>
+     <AutoHelpCategoryRecipes>Receitas</AutoHelpCategoryRecipes>
+     <AutoHelpCategoryResearch>Pesquisa</AutoHelpCategoryResearch>
+     <AutoHelpCategoryTerrain>Terreno &amp; Piso</AutoHelpCategoryTerrain>
+     <AutoHelpCategoryFloraAndFauna>Flora &amp; Fauna</AutoHelpCategoryFloraAndFauna>
+     <AutoHelpSubCategoryTerrain>Terreno</AutoHelpSubCategoryTerrain>
+     <AutoHelpSubCategoryFlooring>Piso</AutoHelpSubCategoryFlooring>
+     <AutoHelpSubCategoryPlants>Plantas</AutoHelpSubCategoryPlants>
+     <AutoHelpSubCategoryAnimals>Animais</AutoHelpSubCategoryAnimals>
+     <AutoHelpSubCategoryMechanoids>Mechanoids</AutoHelpSubCategoryMechanoids>
+     <AutoHelpSubCategoryHumanoids>Humanoids</AutoHelpSubCategoryHumanoids>
+     <AutoHelpSubCategoryBiomes>Biomas</AutoHelpSubCategoryBiomes>
+     <AutoHelpSubCategoryApparel>Vestuário</AutoHelpSubCategoryApparel>
+     <AutoHelpSubCategoryBodyParts>Partes do corpo &amp; Implantes</AutoHelpSubCategoryBodyParts>
+     <AutoHelpSubCategoryDrugs>Drogas</AutoHelpSubCategoryDrugs>
+     <AutoHelpSubCategoryMeals>Refeições</AutoHelpSubCategoryMeals>
+     <AutoHelpSubCategoryWeapons>Armas</AutoHelpSubCategoryWeapons>
+                           <!-- Stuff -->
+     <AutoHelpSubCategoryStuff>Coisas</AutoHelpSubCategoryStuff>
+     <AutoHelpSubCategoryAdvanced>Avançado</AutoHelpSubCategoryAdvanced>
+     <AutoHelpSubCategoryProjects>Projetos</AutoHelpSubCategoryProjects>
+     <AutoHelpSubCategorySpecial>Especial</AutoHelpSubCategorySpecial>
+     <!-- List Prepend Keys -->
+     <AutoHelpListFacilitiesAffecting>Afetado por</AutoHelpListFacilitiesAffecting>
+     <AutoHelpListFacilitiesAffected>Afeta</AutoHelpListFacilitiesAffected>
+                           <!-- Joy activities -->
+     <AutoHelpListJoyActivities>Atividades de alegria</AutoHelpListJoyActivities>
+     <AutoHelpListRecipeProducts>Produz</AutoHelpListRecipeProducts>
+     <AutoHelpListRecipes>Receitas</AutoHelpListRecipes>
+     <AutoHelpListRecipesLocked>Receitas bloqueadas</AutoHelpListRecipesLocked>
+     <AutoHelpListRecipesUnlocked>Receitas desbloqueadas</AutoHelpListRecipesUnlocked>
+     <AutoHelpListRecipesOnThings>Aplica-se a</AutoHelpListRecipesOnThings>
+     <AutoHelpListRecipesOnThingsLocked>Indisponível em</AutoHelpListRecipesOnThingsLocked>
+     <AutoHelpListRecipesOnThingsUnlocked>Disponível em</AutoHelpListRecipesOnThingsUnlocked>
+     <AutoHelpListResearchBy>Depois da pesquisa</AutoHelpListResearchBy>
+     <AutoHelpListResearchRequired>Pesquisa necessária</AutoHelpListResearchRequired>
+                           <!-- Leads to research -->
+     <AutoHelpListResearchLeadsTo>Leva à pesquisa</AutoHelpListResearchLeadsTo>
+     <AutoHelpListResearchLockout>Desativado pela pesquisa</AutoHelpListResearchLockout>
+                           <!-- Potential stuff -->
+     <AutoHelpListStuffCategories>Coisas potenciais</AutoHelpListStuffCategories>
+     <AutoHelpListPlantsLocked>Desativa o plantio</AutoHelpListPlantsLocked>
+     <AutoHelpListPlantsUnlocked>Ativa o plantio</AutoHelpListPlantsUnlocked>
+     <AutoHelpListPlantsIn>Em</AutoHelpListPlantsIn>
+     <AutoHelpListThingsLocked>Desativa a construção</AutoHelpListThingsLocked>
+     <AutoHelpListThingsUnlocked>Permite a construção</AutoHelpListThingsUnlocked>
+     <AutoHelpListCapacityModifiers>Modificadores de capacidade</AutoHelpListCapacityModifiers>
+     <AutoHelpListStatOffsets>Bônus de estatísticas</AutoHelpListStatOffsets>
+     <AutoHelpListVerbs>Verbs</AutoHelpListVerbs>
+     <AutoHelpListTools>Ferramentas</AutoHelpListTools>
+     <AutoHelpListNutrition>Valor nutricional</AutoHelpListNutrition>
+     <AutoHelpListNutritionPlant>Valor nutricional (planta)</AutoHelpListNutritionPlant>
+                      <!-- Facility bonus -->
+     <AutoHelpFacilityStats>Bônus de facilidade</AutoHelpFacilityStats>
+     <AutoHelpRequired>Requer</AutoHelpRequired>
+     <AutoHelpIdlePower>Desenho ocioso</AutoHelpIdlePower>
+     <AutoHelpGenerates>Gera</AutoHelpGenerates>
+     <AutoHelpStores>Armazena</AutoHelpStores>
+     <AutoHelpEfficiency>Eficiência</AutoHelpEfficiency>
+     <AutoHelpListPlantYield>Produz</AutoHelpListPlantYield>
+     <AutoHelpListCanBePlantedIn>Pode ser semeado em</AutoHelpListCanBePlantedIn>
+     <AutoHelpListAppearsInBiomes>Pode parecer selvagem em</AutoHelpListAppearsInBiomes>
+     <AutoHelpListUnlockableSowTags>Requer pesquisa para semear</AutoHelpListUnlockableSowTags>
+     <AutoHelpListTrainable>Treinável em</AutoHelpListTrainable>
+     <AutoHelpListLifestages>Estágios de vida</AutoHelpListLifestages>
+     <AutoHelpListReproduction>Reprodução</AutoHelpListReproduction>
+     <AutoHelpListButcher>Produtos de açougue</AutoHelpListButcher>
+     <AutoHelpListDisassemble>Produtos de desmontagem</AutoHelpListDisassemble>
+     <AutoHelpListMilk>Produtos de ordenha</AutoHelpListMilk>
+     <AutoHelpListShear>Produtos de tosquiar</AutoHelpListShear>
+     <AutoHelpListBiomeTerrain>Terreno</AutoHelpListBiomeTerrain>
+     <AutoHelpListBiomePlants>Plantas</AutoHelpListBiomePlants>
+     <AutoHelpListBiomeAnimals>Animais</AutoHelpListBiomeAnimals>
+     <AutoHelpListBiomeDiseases>Doenças (Chance por ano)</AutoHelpListBiomeDiseases>
+     <!-- Specific Keys -->
+     <AutoHelpSurgeryFixOrReplace>Corrige ou substitui</AutoHelpSurgeryFixOrReplace>
+     <AutoHelpCost>Custo</AutoHelpCost>
+                   <!-- Stuff cost ({0}) -->
+     <AutoHelpStuffCost>Custo das coisas ({0})</AutoHelpStuffCost>
+     <AutoHelpThingCost>Custo para construir</AutoHelpThingCost>
+     <AutoHelpTotalCost>Custo total:</AutoHelpTotalCost>
+     <AutoHelpMaximumAffected>Máximo afetado:</AutoHelpMaximumAffected>
+     <AutoHelpMaximumParticipants>Máximo de participantes:</AutoHelpMaximumParticipants>
+                 <!-- Joy kind -->
+     <AutoHelpJoyKind>Alegria gentil:</AutoHelpJoyKind>
+     <AutoHelpJoySkill>Habilidade:</AutoHelpJoySkill>
+     <AutoHelpListFertility>Fertilidade</AutoHelpListFertility>
+     <AutoHelpListPathCost>Deslocamento da velocidade de caminhada (quanto menor, mais rápido)</AutoHelpListPathCost>
+     <AutoHelpGrowDays>Dias até a maturidade:</AutoHelpGrowDays>
+     <AutoHelpMinFertility>Fertilidade mínima do solo:</AutoHelpMinFertility>
+     <AutoHelpLightRange>Luz necessária:</AutoHelpLightRange>
+     <AutoHelpHealthScale>Escala de saúde:</AutoHelpHealthScale>
+     <AutoHelpLifeExpectancy>Expectativa de vida:</AutoHelpLifeExpectancy>
+     <AutoHelpIntelligence>Inteligência:</AutoHelpIntelligence>
+     <AutoHelpDiet>Dieta:</AutoHelpDiet>
+     <AutoHelpGestationPeriod>Período de gestação:</AutoHelpGestationPeriod>
+     <AutoHelpLitterSize>Tamanho da ninhada:</AutoHelpLitterSize>
+                  <!-- Lays {0} eggs every {1} -->
+     <AutoHelpEggLayer>Estabelece {0} ovos a cada {1}</AutoHelpEggLayer>
+                <!-- every -->
+     <AutoHelpEveryX>a cada {0}</AutoHelpEveryX>
+     <AutoHelpPower>Energia</AutoHelpPower>
+     <!-- Misc -->
+     <LetterYear>{0}anos</LetterYear>
+     
+    <!-- KeyedTranslations.xml -->
+     <BuildingHelpDatabase>Construindo banco de dados de ajuda</BuildingHelpDatabase>
+     <NoHelpDefs>Nenhuma ajuda encontrada</NoHelpDefs>
+     <SearchModsAsWell>É nome de mod ↑</SearchModsAsWell>
+     <JumpToTopic>Clique para ir ao tópico</JumpToTopic>
+     <MaxAmountOfHits>Limite atingido (200)</MaxAmountOfHits>
+     <type>Tipo</type>
+     <range>Alcance</range>
+     <power>Energia</power>
+     <minRange>Alcance mínimo</minRange>
+     <warmupTime>Tempo de aquecimento</warmupTime>
+     <cooldownTime>Tempo de espera</cooldownTime>
+     <burstShotCount>Contagem de disparos contínuos</burstShotCount>
+     <ticksBetweenBurstShots>Ticks entre disparos contínuos</ticksBetweenBurstShots>
+     <armorPenetration>Penetração de armadura</armorPenetration>
+     <forcedMissRadius>Raio de erro forçado</forcedMissRadius>
+     <defaultProjectile>Projétil padrão</defaultProjectile>
+     <projectileDamage>Dano do projétil</projectileDamage>
+     <projectileStoppingPower>Poder de parada de projéteis</projectileStoppingPower>
+     <projectileExplosionRadius>Raio de explosão do projétil</projectileExplosionRadius>
+
+</LanguageData>

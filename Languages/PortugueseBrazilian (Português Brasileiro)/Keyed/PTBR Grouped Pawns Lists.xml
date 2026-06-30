@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <PTG_General>Geral</PTG_General>
+  <PTG_Tables>Abas</PTG_Tables>
+  <PTG_Columns>Colunas</PTG_Columns>
+  <ResolveAllColumns>Resolve all columns</ResolveAllColumns>
+  <LogColumns>Log columns</LogColumns>
+
+  <DebugOutput>Debug output</DebugOutput>
+  <HideHeaderIfOnlyOneGroup>Ocultar o cabeçalho do grupo se existir apenas uma seção</HideHeaderIfOnlyOneGroup>
+  <UsePrimarySortFunction>Use a função de classificação primária</UsePrimarySortFunction>
+  <DisableGroupCells>Desativar células de linha de grupo</DisableGroupCells>
+  <EnableGroupingInTables>Ativar agrupamento em tabelas:</EnableGroupingInTables>
+  <GroupByColumnExperimental>Agrupamento por valores de coluna (experimental)</GroupByColumnExperimental>
+  <FixWorkTabRw14LayoutIssues>Tente corrigir problemas de layout da aba de trabalho no RimWorld 1.4, mesmo se a tabela não estiver usando este mod</FixWorkTabRw14LayoutIssues>
+  <WorkTabRw14LayoutIssuesHint>Corrige a barra de rolagem vertical cortada na janela da aba Trabalho não modificada no modo compacto</WorkTabRw14LayoutIssuesHint>
+
+  <PTG_Select>Selecionar:</PTG_Select>
+  <PTG_None>nenhum</PTG_None>
+  <PTG_AllSupported>tudo suportado</PTG_AllSupported>
+  <PTG_AllCompatible>tudo compatível</PTG_AllCompatible>
+</LanguageData>

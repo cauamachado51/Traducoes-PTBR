@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Vanilla wooden bridge.
+	Оригинал: мост -->
+  <Bridge.label>ponte de madeira</Bridge.label>
+  <!-- Оригинал: ...можно располагать над водой... -->
+  <Bridge.description>Um deck plano de madeira sobre palafitas que pode ser colocado sobre águas rasas. Suporta apenas estruturas leves. Tenha cuidado: se a ponte desabar, o que está sobre ela desabará junto com ela.</Bridge.description>
+  <!-- EN: While there is no language-based script about bridge generation, all new bridges are named automatically like:
+	"material_bridge" for light bridges;
+	"material_bridge_(Type)" for heavy bridges;
+	"material_deep water bridge_(Type)" for deep water bridges;
+	And descriptions are identical (description base):
+	RU: Пока мы не напишем международный генератор названий, все мосты из новых материалов автоматически будут именоваться по схеме:
+	"материал_bridge" для лёгких мостов;
+	"материал_bridge_(Тип)" для крепких мостов;
+	"материал_deep water bridge_(Тип)" для глубоководных мостов;
+	И у всех одинаковое описание (description base):
+	Description base: A flat surface of the chosen material on supportive beams which can be built over water. You can even build heavy structures on these bridges, but be careful, they are still fragile. If a bridge falls, buildings on top of it fall as well.
+	Heavy stone bridges.
+	EN: jade bridge (StoneTile) -->
+  <HeavyBridgeJade.label>ponte de jade</HeavyBridgeJade.label>
+  <!-- EN: (description base, see above) -->
+  <HeavyBridgeJade.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</HeavyBridgeJade.description>
+  <!-- EN: jade bridge (FlagStone) -->
+  <HeavyBridgeJadeFlagstone.label>ponte de jade</HeavyBridgeJadeFlagstone.label>
+  <!-- EN: (description base, see above) -->
+  <HeavyBridgeJadeFlagstone.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</HeavyBridgeJadeFlagstone.description>
+  <!-- Пока не решена пробема укладки плитки на мосты, описания скорректированы в сторону узора.
+	EN: sandstone bridge -->
+  <HeavyBridgeSandstone.label>ponte de arenito</HeavyBridgeSandstone.label>
+  <!-- EN: (description base, see above) -->
+  <HeavyBridgeSandstone.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</HeavyBridgeSandstone.description>
+  <!-- EN: sandstone bridge (FlagStone) -->
+  <HeavyBridgeSandstoneFlagstone.label>ponte de arenito</HeavyBridgeSandstoneFlagstone.label>
+  <!-- EN: (description base, see above) -->
+  <HeavyBridgeSandstoneFlagstone.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</HeavyBridgeSandstoneFlagstone.description>
+  <!-- EN: granite bridge -->
+  <HeavyBridgeGranite.label>ponte de granito</HeavyBridgeGranite.label>
+  <!-- EN: (description base, see above) -->
+  <HeavyBridgeGranite.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</HeavyBridgeGranite.description>
+  <!-- EN: granite bridge (FlagStone) -->
+  <HeavyBridgeGraniteFlagstone.label>ponte de granito</HeavyBridgeGraniteFlagstone.label>
+  <!-- EN: (description base, see above) -->
+  <HeavyBridgeGraniteFlagstone.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</HeavyBridgeGraniteFlagstone.description>
+  <!-- EN: limestone bridge -->
+  <HeavyBridgeLimestone.label>ponte de calcário</HeavyBridgeLimestone.label>
+  <!-- EN: (description base, see above) -->
+  <HeavyBridgeLimestone.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</HeavyBridgeLimestone.description>
+  <!-- EN: limestone bridge (FlagStone) -->
+  <HeavyBridgeLimestoneFlagstone.label>ponte de calcário</HeavyBridgeLimestoneFlagstone.label>
+  <!-- EN: (description base, see above) -->
+  <HeavyBridgeLimestoneFlagstone.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</HeavyBridgeLimestoneFlagstone.description>
+  <!-- EN: slate bridge -->
+  <HeavyBridgeSlate.label>ponte de ardósia</HeavyBridgeSlate.label>
+  <!-- EN: (description base, see above) -->
+  <HeavyBridgeSlate.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</HeavyBridgeSlate.description>
+  <!-- EN: slate bridge (FlagStone) -->
+  <HeavyBridgeSlateFlagstone.label>ponte de ardósia</HeavyBridgeSlateFlagstone.label>
+  <!-- EN: (description base, see above) -->
+  <HeavyBridgeSlateFlagstone.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</HeavyBridgeSlateFlagstone.description>
+  <!-- EN: marble bridge -->
+  <HeavyBridgeMarble.label>ponte de mármore</HeavyBridgeMarble.label>
+  <!-- EN: (description base, see above) -->
+  <HeavyBridgeMarble.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</HeavyBridgeMarble.description>
+  <!-- EN: marble bridge (FlagStone) -->
+  <HeavyBridgeMarbleFlagstone.label>ponte de mármore</HeavyBridgeMarbleFlagstone.label>
+  <!-- EN: (description base, see above) -->
+  <HeavyBridgeMarbleFlagstone.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</HeavyBridgeMarbleFlagstone.description>
+  <!-- Heavy metal bridges \m/_
+	EN: silver bridge (FloorTile) -->
+  <HeavyBridgeSilver.label>ponte de prata</HeavyBridgeSilver.label>
+  <!-- EN: (description base, see above) -->
+  <HeavyBridgeSilver.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</HeavyBridgeSilver.description>
+  <!-- EN: silver bridge (PavedTile) -->
+  <HeavyBridgeSilverPavedTile.label>ponte de prata</HeavyBridgeSilverPavedTile.label>
+  <!-- EN: (description base, see above) -->
+  <HeavyBridgeSilverPavedTile.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</HeavyBridgeSilverPavedTile.description>
+  <!-- EN: silver bridge (Sterile) -->
+  <HeavyBridgeSilverSterile.label>ponte de prata (estéril)</HeavyBridgeSilverSterile.label>
+  <!-- EN: (description base, see above) -->
+  <HeavyBridgeSilverSterile.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</HeavyBridgeSilverSterile.description>
+  <!-- EN: gold bridge (FloorTile) -->
+  <HeavyBridgeGold.label>ponte de ouro</HeavyBridgeGold.label>
+  <!-- EN: (description base, see above) -->
+  <HeavyBridgeGold.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</HeavyBridgeGold.description>
+  <!-- EN: gold bridge (PavedTile) -->
+  <HeavyBridgeGoldPavedTile.label>ponte de ouro</HeavyBridgeGoldPavedTile.label>
+  <!-- EN: (description base, see above) -->
+  <HeavyBridgeGoldPavedTile.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</HeavyBridgeGoldPavedTile.description>
+  <!-- EN: steel bridge -->
+  <HeavyBridgeSteel.label>ponte de aço</HeavyBridgeSteel.label>
+  <!-- EN: (description base, see above) -->
+  <HeavyBridgeSteel.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</HeavyBridgeSteel.description>
+  <!-- EN: steel bridge (Concrete) -->
+  <HeavyBridgeSteelConcrete.label>ponte de aço (concreto)</HeavyBridgeSteelConcrete.label>
+  <!-- EN: (description base, see above) -->
+  <HeavyBridgeSteelConcrete.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</HeavyBridgeSteelConcrete.description>
+  <!-- EN: steel bridge (PavedTile) -->
+  <HeavyBridgeSteelPavedTile.label>ponte de aço</HeavyBridgeSteelPavedTile.label>
+  <!-- EN: (description base, see above) -->
+  <HeavyBridgeSteelPavedTile.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</HeavyBridgeSteelPavedTile.description>
+  <!-- EN: plasteel bridge -->
+  <HeavyBridgePlasteel.label>ponte de plastiaço</HeavyBridgePlasteel.label>
+  <!-- EN: (description base, see above) -->
+  <HeavyBridgePlasteel.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</HeavyBridgePlasteel.description>
+  <!-- EN: plasteel bridge (PavedTile) -->
+  <HeavyBridgePlasteelPavedTile.label>ponte de plastiaço</HeavyBridgePlasteelPavedTile.label>
+  <!-- EN: (description base, see above) -->
+  <HeavyBridgePlasteelPavedTile.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</HeavyBridgePlasteelPavedTile.description>
+  <!-- EN: uranium bridge (FloorTile) -->
+  <HeavyBridgeUranium.label>ponte de urânio</HeavyBridgeUranium.label>
+  <!-- EN: (description base, see above) -->
+  <HeavyBridgeUranium.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</HeavyBridgeUranium.description>
+  <!-- EN: uranium bridge (PavedTile) -->
+  <HeavyBridgeUraniumPavedTile.label>ponte de urânio</HeavyBridgeUraniumPavedTile.label>
+  <!-- EN: (description base, see above) -->
+  <HeavyBridgeUraniumPavedTile.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</HeavyBridgeUraniumPavedTile.description>
+  <!-- Deep water stone bridges.
+	EN: jade deep water bridge (StoneTile) -->
+  <DeepWaterBridgeJade.label>ponte de águas profundas de jade</DeepWaterBridgeJade.label>
+  <!-- EN: (description base, see above) -->
+  <DeepWaterBridgeJade.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</DeepWaterBridgeJade.description>
+  <!-- EN: jade deep water bridge (FlagStone) -->
+  <DeepWaterBridgeJadeFlagstone.label>ponte de águas profundas de jade</DeepWaterBridgeJadeFlagstone.label>
+  <!-- EN: (description base, see above) -->
+  <DeepWaterBridgeJadeFlagstone.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</DeepWaterBridgeJadeFlagstone.description>
+  <!-- EN: sandstone deep water bridge -->
+  <DeepWaterBridgeSandstone.label>ponte de águas profundas de arenito</DeepWaterBridgeSandstone.label>
+  <!-- EN: (description base, see above) -->
+  <DeepWaterBridgeSandstone.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</DeepWaterBridgeSandstone.description>
+  <!-- EN: sandstone deep water bridge (FlagStone) -->
+  <DeepWaterBridgeSandstoneFlagstone.label>ponte de águas profundas de arenito</DeepWaterBridgeSandstoneFlagstone.label>
+  <!-- EN: (description base, see above) -->
+  <DeepWaterBridgeSandstoneFlagstone.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</DeepWaterBridgeSandstoneFlagstone.description>
+  <!-- EN: granite deep water bridge -->
+  <DeepWaterBridgeGranite.label>ponte de águas profundas de granito</DeepWaterBridgeGranite.label>
+  <!-- EN: (description base, see above) -->
+  <DeepWaterBridgeGranite.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</DeepWaterBridgeGranite.description>
+  <!-- EN: granite deep water bridge (FlagStone) -->
+  <DeepWaterBridgeGraniteFlagstone.label>ponte de águas profundas de granito</DeepWaterBridgeGraniteFlagstone.label>
+  <!-- EN: (description base, see above) -->
+  <DeepWaterBridgeGraniteFlagstone.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</DeepWaterBridgeGraniteFlagstone.description>
+  <!-- EN: limestone deep water bridge -->
+  <DeepWaterBridgeLimestone.label>ponte de águas profundas de calcário</DeepWaterBridgeLimestone.label>
+  <!-- EN: (description base, see above) -->
+  <DeepWaterBridgeLimestone.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</DeepWaterBridgeLimestone.description>
+  <!-- EN: limestone deep water bridge (FlagStone) -->
+  <DeepWaterBridgeLimestoneFlagstone.label>ponte de águas profundas de calcário</DeepWaterBridgeLimestoneFlagstone.label>
+  <!-- EN: (description base, see above) -->
+  <DeepWaterBridgeLimestoneFlagstone.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</DeepWaterBridgeLimestoneFlagstone.description>
+  <!-- EN: slate deep water bridge -->
+  <DeepWaterBridgeSlate.label>ponte de águas profundas de ardósia</DeepWaterBridgeSlate.label>
+  <!-- EN: (description base, see above) -->
+  <DeepWaterBridgeSlate.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</DeepWaterBridgeSlate.description>
+  <!-- EN: slate deep water bridge (FlagStone) -->
+  <DeepWaterBridgeSlateFlagstone.label>ponte de águas profundas de ardósia</DeepWaterBridgeSlateFlagstone.label>
+  <!-- EN: (description base, see above) -->
+  <DeepWaterBridgeSlateFlagstone.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</DeepWaterBridgeSlateFlagstone.description>
+  <!-- EN: marble deep water bridge -->
+  <DeepWaterBridgeMarble.label>ponte de águas profundas de mármore</DeepWaterBridgeMarble.label>
+  <!-- EN: (description base, see above) -->
+  <DeepWaterBridgeMarble.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</DeepWaterBridgeMarble.description>
+  <!-- EN: marble deep water bridge (FlagStone) -->
+  <DeepWaterBridgeMarbleFlagstone.label>ponte de águas profundas de mármore</DeepWaterBridgeMarbleFlagstone.label>
+  <!-- EN: (description base, see above) -->
+  <DeepWaterBridgeMarbleFlagstone.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</DeepWaterBridgeMarbleFlagstone.description>
+  <!-- Deep water bridges of metal.
+	EN: silver deep water bridge (FloorTile) -->
+  <DeepWaterBridgeSilver.label>ponte de águas profundas de prata</DeepWaterBridgeSilver.label>
+  <!-- EN: (description base, see above) -->
+  <DeepWaterBridgeSilver.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</DeepWaterBridgeSilver.description>
+  <!-- EN: silver deep water bridge (PavedTile) -->
+  <DeepWaterBridgeSilverPavedTile.label>ponte de águas profundas de prata</DeepWaterBridgeSilverPavedTile.label>
+  <!-- EN: (description base, see above) -->
+  <DeepWaterBridgeSilverPavedTile.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</DeepWaterBridgeSilverPavedTile.description>
+  <!-- EN: silver deep water bridge (Sterile) -->
+  <DeepWaterBridgeSilverSterile.label>ponte de águas profundas de prata (estéril)</DeepWaterBridgeSilverSterile.label>
+  <!-- EN: (description base, see above) -->
+  <DeepWaterBridgeSilverSterile.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</DeepWaterBridgeSilverSterile.description>
+  <!-- EN: gold deep water bridge (FloorTile) -->
+  <DeepWaterBridgeGold.label>ponte de águas profundas de ouro</DeepWaterBridgeGold.label>
+  <!-- EN: (description base, see above) -->
+  <DeepWaterBridgeGold.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</DeepWaterBridgeGold.description>
+  <!-- EN: gold deep water bridge (PavedTile) -->
+  <DeepWaterBridgeGoldPavedTile.label>ponte de águas profundas de ouro</DeepWaterBridgeGoldPavedTile.label>
+  <!-- EN: (description base, see above) -->
+  <DeepWaterBridgeGoldPavedTile.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</DeepWaterBridgeGoldPavedTile.description>
+  <!-- EN: steel deep water bridge -->
+  <DeepWaterBridgeSteel.label>ponte de águas profundas de aço</DeepWaterBridgeSteel.label>
+  <!-- EN: (description base, see above) -->
+  <DeepWaterBridgeSteel.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</DeepWaterBridgeSteel.description>
+  <!-- EN: steel deep water bridge (Concrete) -->
+  <DeepWaterBridgeSteelConcrete.label>ponte de águas profundas de aço (concreto)</DeepWaterBridgeSteelConcrete.label>
+  <!-- EN: (description base, see above) -->
+  <DeepWaterBridgeSteelConcrete.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</DeepWaterBridgeSteelConcrete.description>
+  <!-- EN: steel deep water bridge (PavedTile) -->
+  <DeepWaterBridgeSteelPavedTile.label>ponte de águas profundas de aço</DeepWaterBridgeSteelPavedTile.label>
+  <!-- EN: (description base, see above) -->
+  <DeepWaterBridgeSteelPavedTile.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</DeepWaterBridgeSteelPavedTile.description>
+  <!-- EN: plasteel deep water bridge -->
+  <DeepWaterBridgePlasteel.label>ponte de águas profundas de plastiaço</DeepWaterBridgePlasteel.label>
+  <!-- EN: (description base, see above) -->
+  <DeepWaterBridgePlasteel.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</DeepWaterBridgePlasteel.description>
+  <!-- EN: plasteel deep water bridge (PavedTile) -->
+  <DeepWaterBridgePlasteelPavedTile.label>ponte de águas profundas de plastiaço</DeepWaterBridgePlasteelPavedTile.label>
+  <!-- EN: (description base, see above) -->
+  <DeepWaterBridgePlasteelPavedTile.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</DeepWaterBridgePlasteelPavedTile.description>
+  <!-- EN: uranium deep water bridge (FloorTile) -->
+  <DeepWaterBridgeUranium.label>ponte de águas profundas de urânio</DeepWaterBridgeUranium.label>
+  <!-- EN: (description base, see above) -->
+  <DeepWaterBridgeUranium.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</DeepWaterBridgeUranium.description>
+  <!-- EN: uranium deep water bridge (PavedTile) -->
+  <DeepWaterBridgeUraniumPavedTile.label>ponte de águas profundas de urânio</DeepWaterBridgeUraniumPavedTile.label>
+  <!-- EN: (description base, see above) -->
+  <DeepWaterBridgeUraniumPavedTile.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</DeepWaterBridgeUraniumPavedTile.description>
+  <!-- For material from "Concrete Walls" mod by Porohkun.
+	EN: concrete slab bridge (StoneTile) -->
+  <HeavyBridgeConcreteSlab.label>ponte de concreto</HeavyBridgeConcreteSlab.label>
+  <!-- EN: (description base, see above) -->
+  <HeavyBridgeConcreteSlab.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</HeavyBridgeConcreteSlab.description>
+  <!-- EN: concrete slab (FlagStone) -->
+  <HeavyBridgeConcreteSlabFlagstone.label>ponte de concreto</HeavyBridgeConcreteSlabFlagstone.label>
+  <!-- EN: (description base, see above) -->
+  <HeavyBridgeConcreteSlabFlagstone.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</HeavyBridgeConcreteSlabFlagstone.description>
+  <!-- EN: concrete slab deep water bridge (StoneTile) -->
+  <DeepWaterBridgeConcreteSlab.label>ponte de águas profundas de concreto</DeepWaterBridgeConcreteSlab.label>
+  <!-- EN: (description base, see above) -->
+  <DeepWaterBridgeConcreteSlab.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</DeepWaterBridgeConcreteSlab.description>
+  <!-- EN: concrete slab deep water bridge (FlagStone) -->
+  <DeepWaterBridgeConcreteSlabFlagstone.label>ponte de águas profundas de concreto</DeepWaterBridgeConcreteSlabFlagstone.label>
+  <!-- EN: (description base, see above) -->
+  <DeepWaterBridgeConcreteSlabFlagstone.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</DeepWaterBridgeConcreteSlabFlagstone.description>
+  <!-- For materials from "Rim of Madness Bones" mod by Sihv.
+	Bone.
+	EN: bone bridge -->
+  <WoodenBridgeBoneItem.label>ponte de osso</WoodenBridgeBoneItem.label>
+  <!-- EN: (description base, see above) -->
+  <WoodenBridgeBoneItem.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</WoodenBridgeBoneItem.description>
+  <!-- Bonecrete.
+	EN: bonecrete bridge (StoneTile) -->
+  <HeavyBridgeBonecrete.label>ponte de concreto ósseo</HeavyBridgeBonecrete.label>
+  <!-- EN: (description base, see above) -->
+  <HeavyBridgeBonecrete.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</HeavyBridgeBonecrete.description>
+  <!-- EN: bonecrete bridge (FlagStone) -->
+  <HeavyBridgeBonecreteFlagstone.label>ponte de concreto ósseo</HeavyBridgeBonecreteFlagstone.label>
+  <!-- EN: (description base, see above) -->
+  <HeavyBridgeBonecreteFlagstone.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</HeavyBridgeBonecreteFlagstone.description>
+  <!-- EN: bonecrete deep water bridge (StoneTile) -->
+  <DeepWaterBridgeBonecrete.label>ponte de águas profundas de concreto ósseo</DeepWaterBridgeBonecrete.label>
+  <!-- EN: (description base, see above) -->
+  <DeepWaterBridgeBonecrete.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</DeepWaterBridgeBonecrete.description>
+  <!-- EN: bonecrete deep water bridge (FlagStone) -->
+  <DeepWaterBridgeBonecreteFlagstone.label>ponte de águas profundas de concreto ósseo</DeepWaterBridgeBonecreteFlagstone.label>
+  <!-- EN: (description base, see above) -->
+  <DeepWaterBridgeBonecreteFlagstone.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</DeepWaterBridgeBonecreteFlagstone.description>
+  <!-- Bone ash.
+	EN: bone ash bridge (StoneTile) -->
+  <HeavyBridgeBoneChina.label>ponte de cinzas de osso</HeavyBridgeBoneChina.label>
+  <!-- EN: (description base, see above) -->
+  <HeavyBridgeBoneChina.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</HeavyBridgeBoneChina.description>
+  <!-- EN: bone ash bridge (FlagStone) -->
+  <HeavyBridgeBoneChinaFlagstone.label>ponte de cinzas de osso</HeavyBridgeBoneChinaFlagstone.label>
+  <!-- EN: (description base, see above) -->
+  <HeavyBridgeBoneChinaFlagstone.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</HeavyBridgeBoneChinaFlagstone.description>
+  <!-- EN: bone ash deep water bridge (StoneTile) -->
+  <DeepWaterBridgeBoneChina.label>ponte de águas profundas de cinzas de osso</DeepWaterBridgeBoneChina.label>
+  <!-- EN: (description base, see above) -->
+  <DeepWaterBridgeBoneChina.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</DeepWaterBridgeBoneChina.description>
+  <!-- EN: bone ash deep water bridge (FlagStone) -->
+  <DeepWaterBridgeBoneChinaFlagstone.label>ponte de águas profundas de cinzas de osso</DeepWaterBridgeBoneChinaFlagstone.label>
+  <!-- EN: (description base, see above) -->
+  <DeepWaterBridgeBoneChinaFlagstone.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</DeepWaterBridgeBoneChinaFlagstone.description>
+  <!-- Calcium polymer.
+	EN: calcium polymer bridge (FloorTile) -->
+  <HeavyBridgeBonePlastic.label>ponte de polímero de cálcio</HeavyBridgeBonePlastic.label>
+  <!-- EN: (description base, see above) -->
+  <HeavyBridgeBonePlastic.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</HeavyBridgeBonePlastic.description>
+  <!-- EN: calcium polymer bridge (PavedTile) -->
+  <HeavyBridgeBonePlasticPavedTile.label>ponte de polímero de cálcio</HeavyBridgeBonePlasticPavedTile.label>
+  <!-- EN: (description base, see above) -->
+  <HeavyBridgeBonePlasticPavedTile.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</HeavyBridgeBonePlasticPavedTile.description>
+  <!-- EN: calcium polymer deep water bridge (FloorTile) -->
+  <DeepWaterBridgeBonePlastic.label>ponte de águas profundas de polímero de cálcio</DeepWaterBridgeBonePlastic.label>
+  <!-- EN: (description base, see above) -->
+  <DeepWaterBridgeBonePlastic.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</DeepWaterBridgeBonePlastic.description>
+  <!-- EN: calcium polymer deep water bridge (PavedTile) -->
+  <DeepWaterBridgeBonePlasticPavedTile.label>ponte de águas profundas de polímero de cálcio</DeepWaterBridgeBonePlasticPavedTile.label>
+  <!-- EN: (description base, see above) -->
+  <DeepWaterBridgeBonePlasticPavedTile.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</DeepWaterBridgeBonePlasticPavedTile.description>
+  <!-- For materials from "Rimefeller" mod by Dubwise.
+	Synthylene.
+	EN: Synthylene bridge -->
+  <WoodenBridgeSynthylene.label>Ponte de Synthylene</WoodenBridgeSynthylene.label>
+  <!-- EN: (description base, see above) -->
+  <WoodenBridgeSynthylene.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</WoodenBridgeSynthylene.description>
+  <!-- Synthamide Composite.
+	EN: Synthamide Composite bridge (FloorTile) -->
+  <HeavyBridgeFiberComposite.label>Ponte de composto de Synthamide</HeavyBridgeFiberComposite.label>
+  <!-- EN: (description base, see above) -->
+  <HeavyBridgeFiberComposite.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</HeavyBridgeFiberComposite.description>
+  <!-- EN: Synthamide Composite bridge (PavedTile) -->
+  <HeavyBridgeFiberCompositePavedTile.label>Ponte de composto de Synthamide</HeavyBridgeFiberCompositePavedTile.label>
+  <!-- EN: (description base, see above) -->
+  <HeavyBridgeFiberCompositePavedTile.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</HeavyBridgeFiberCompositePavedTile.description>
+  <!-- EN: Synthamide Composite deep water bridge (FloorTile) -->
+  <DeepWaterBridgeFiberComposite.label>Ponte de águas profundas composta de Synthamide</DeepWaterBridgeFiberComposite.label>
+  <!-- EN: (description base, see above) -->
+  <DeepWaterBridgeFiberComposite.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</DeepWaterBridgeFiberComposite.description>
+  <!-- EN: Synthamide Composite deep water bridge (PavedTile) -->
+  <DeepWaterBridgeFiberCompositePavedTile.label>Ponte de águas profundas composta de Synthamide</DeepWaterBridgeFiberCompositePavedTile.label>
+  <!-- EN: (description base, see above) -->
+  <DeepWaterBridgeFiberCompositePavedTile.description>Uma superfície plana do material escolhido sobre vigas de suporte que podem ser construídas sobre a água. Você pode até construir estruturas pesadas nessas pontes, mas cuidado, elas ainda são frágeis. Se uma ponte cair, os edifícios que estão em cima dela também cairão.</DeepWaterBridgeFiberCompositePavedTile.description>
+</LanguageData>

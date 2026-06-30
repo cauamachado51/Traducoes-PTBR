@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TweaksGalore.MainCurrentPage>Página atual</TweaksGalore.MainCurrentPage>
+  <TweaksGalore.MainCurrentPageDesc>As descrições de configuração estão nas dicas de ferramentas. A barra de pesquisa só funciona para a página selecionada no momento.\nVocê precisará reiniciar o jogo para que muitas dessas configurações tenham efeito.</TweaksGalore.MainCurrentPageDesc>
+
+  <TweaksGalore.RestoreSectionButton>Restaurar padrões de seção</TweaksGalore.RestoreSectionButton>
+  <TweaksGalore.SectionRestoredRestart>Tweaks Galore: '{0}' ajustes restaurados aos padrões. Reinicialização necessária para ter efeito total.</TweaksGalore.SectionRestoredRestart>
+
+  <TweaksGalore.IncidentControlBool>Controle de Incidente</TweaksGalore.IncidentControlBool>
+  <TweaksGalore.IncidentControlBoolDesc>Permite controle sobre as chances de incidentes acontecerem, até mesmo reduzindo-as a zero, porque por que não. Incidentes definidos como chance zero de acontecer ainda podem ser acionados por outros meios, então isso nem sempre resulta em desabilitá-los.</TweaksGalore.IncidentControlBoolDesc>
+  <TweaksGalore.SliderNever>Nunca</TweaksGalore.SliderNever>
+  <TweaksGalore.SliderDisabled>Desabilitado</TweaksGalore.SliderDisabled>
+  <TweaksGalore.SliderHighChance>Grande chance</TweaksGalore.SliderHighChance>
+
+  <TweaksGalore.PennedAnimalsBool>Configuração de animais cercados</TweaksGalore.PennedAnimalsBool>
+  <TweaksGalore.PennedAnimalsBoolDesc>Permite controlar quais animais podem ser confinados e quantos dias demoram para que eles comecem a vagar se não estiverem em um cercado.</TweaksGalore.PennedAnimalsBoolDesc>
+  <TweaskGalore.SliderNotPennable>Não cercavel</TweaskGalore.SliderNotPennable>
+  <TweaksGalore.SliderDays> Dias</TweaksGalore.SliderDays>
+  <TweaksGalore.SliderDisabled>Desabilitado</TweaksGalore.SliderDisabled>
+  <TweaksGalore.Slider20Days>20 Dias</TweaksGalore.Slider20Days>
+
+  <TweaksGalore.PermitFaction>Facção: {0}</TweaksGalore.PermitFaction>
+  <TweaksGalore.PermitMinTitle>- Título Mínimo</TweaksGalore.PermitMinTitle>
+  <TweaksGalore.PermitPointCost>- Custo do ponto de permissão: {0}</TweaksGalore.PermitPointCost>
+  <TweaksGalore.PermitCooldownDays>- Dias de espera: {0}</TweaksGalore.PermitCooldownDays>
+  <TweaksGalore.PermitAidFavorCost>- Custo de Favor de Ajuda: {0}</TweaksGalore.PermitAidFavorCost>
+  <TweaksGalore.PermitAidPawnCount>- Contagem de peões de ajuda: {0}</TweaksGalore.PermitAidPawnCount>
+  <TweaksGalore.PermitAidDuration>- Dias de duração da ajuda: {0}</TweaksGalore.PermitAidDuration>
+
+  <TweaksGalore.TitleTags>Tags: {0}</TweaksGalore.TitleTags>
+  <TweaksGalore.TitleFavorCost>- Custo de favor: {0}</TweaksGalore.TitleFavorCost>
+  <TweaksGalore.TitleHeirQuestPoints>- Pontos de missão do herdeiro: {0}</TweaksGalore.TitleHeirQuestPoints>
+  <TweaksGalore.TitlePermitPoints>- Pontos de Permissão: {0}</TweaksGalore.TitlePermitPoints>
+  <TweaksGalore.TitleDignifiedMeditation>- Habilite a meditação digna</TweaksGalore.TitleDignifiedMeditation>
+  <TweaksGalore.TitleDignifiedMeditationDesc>Se habilitado, este título ativa a Meditação Digna para o peão, permitindo que ele medite em um trono.</TweaksGalore.TitleDignifiedMeditationDesc>
+  <TweaksGalore.TitleNoDisabledWork>- Nenhum trabalho desabilitado</TweaksGalore.TitleNoDisabledWork>
+  <TweaksGalore.TitleNoDisabledWorkDesc>Se habilitado, limpa qualquer trabalho desabilitado do título.</TweaksGalore.TitleNoDisabledWorkDesc>
+  <TweaksGalore.TitleDisableBedroomReqs>- Desabilitar requisitos de quarto</TweaksGalore.TitleDisableBedroomReqs>
+  <TweaksGalore.TitleDisableBedroomReqsDesc>Se habilitado, limpa todos os requisitos para quartos do título.</TweaksGalore.TitleDisableBedroomReqsDesc>
+  <TweaksGalore.TitleDisableThroneroomReqs>- Desabilitar requisitos da sala do trono</TweaksGalore.TitleDisableThroneroomReqs>
+  <TweaksGalore.TitleDisableThroneroomReqsDesc>Se habilitado, limpa todos os requisitos para salas de tronos do título.</TweaksGalore.TitleDisableThroneroomReqsDesc>
+
+  <TweaksGalore.IncapableOf>Tipos de trabalho com habilidades limitadas</TweaksGalore.IncapableOf>
+  <TweaksGalore.CannotDoThisWork>{0} só é capaz de fazer este trabalho com um nível de habilidade limitado.</TweaksGalore.CannotDoThisWork>
+  <TweaksGalore.IsIncapableOfViolenceLower>{0} não é violento e não tem arma atribuída</TweaksGalore.IsIncapableOfViolenceLower>
+
+  <TG_HunterLacksWeapon>O caçador não tem arma</TG_HunterLacksWeapon>
+  <TG_HunterLacksWeaponDesc>Um caçador não tem uma arma.\n\nEmbora eles ainda possam realizar seu trabalho, é altamente recomendável dar-lhes uma arma.</TG_HunterLacksWeaponDesc>
+
+  <TweaksGalore.PawnTraderSingle>Comerciante disponível</TweaksGalore.PawnTraderSingle>
+  <TweaksGalore.PawnTraderMulti>Comerciantes disponíveis</TweaksGalore.PawnTraderMulti>
+  <TweaksGalore.PawnTraderDesc>Comerciantes dessas facções estão visitando a colônia:\n\n{0}</TweaksGalore.PawnTraderDesc>
+  <TweaksGalore.OrbitalTraderSingle>Comerciante orbital disponível</TweaksGalore.OrbitalTraderSingle>
+  <TweaksGalore.OrbitalTraderMulti>Comerciantes orbitais disponíveis</TweaksGalore.OrbitalTraderMulti>
+  <TweaksGalore.OrbitalTraderDesc>Esses comerciantes estão atualmente em órbita:\n\n{0}\nUse o console de comunicações para negociar com eles.</TweaksGalore.OrbitalTraderDesc>
+  <TweaksGalore.Shipfrom>Nave de </TweaksGalore.Shipfrom>
+  <TweaksGalore.LeavesIn>- Deixa em {0}</TweaksGalore.LeavesIn>
+
+  <!-- General Worker Text -->
+  <TweaksGalore.RestoreDefaults>Restaurar padrões</TweaksGalore.RestoreDefaults>
+  <TweaksGalore.DefaultsRestoredRestartRequired>Tweaks Galore: '{0}' ajustes restaurados aos padrões. Reinicialização necessária para ter efeito total.</TweaksGalore.DefaultsRestoredRestartRequired>
+  <TweaksGalore.SliderMinValue>Min: {0}</TweaksGalore.SliderMinValue>
+  <TweaksGalore.SliderMaxValue>Max: {0}</TweaksGalore.SliderMaxValue>
+  <TweaksGalore.TechLevelValue>Nível de tecnologia:</TweaksGalore.TechLevelValue>
+  <TweaksGalore.ButtonAdd>Adicionar...</TweaksGalore.ButtonAdd>
+  <TweaksGalore.ButtonRemove>Remover...</TweaksGalore.ButtonRemove>
+  <TweaksGalore.TooltipIncompatibleMods>Mods incompatíveis:</TweaksGalore.TooltipIncompatibleMods>
+  <TweaksGalore.IncompatibleMod>- {0}</TweaksGalore.IncompatibleMod>
+
+  <!-- Research Projects -->
+  <TweaksGalore.ResearchCost>Custo base: {0}</TweaksGalore.ResearchCost>
+  <TweaksGalore.TechprintCount>Contagem de Techprint: {0}</TweaksGalore.TechprintCount>
+  <TweaksGalore.TechprintCountNote>A contagem de techprints controla quantas techprints são necessárias para desbloquear completamente o projeto de pesquisa. Definir como 0 significa que nenhuma techprint será necessária.</TweaksGalore.TechprintCountNote>
+  <TweaksGalore.TechprintCommonality>Comunalidade de Techprint: {0}</TweaksGalore.TechprintCommonality>
+  <TweaksGalore.TechprintMarketValue>Valor de mercado de Techprint: {0}</TweaksGalore.TechprintMarketValue>
+  <TweaksGalore.TechprintNoFactions>Nenhuma facção possui techprints para esta pesquisa. Se este for o padrão, pode ser que eles sejam obtidos por outros meios que não os que a Royalty normalmente usa.</TweaksGalore.TechprintNoFactions>
+  <TweaksGalore.TechprintFactionsHeld>Facções que detêm esta impressão Techprint: {0}</TweaksGalore.TechprintFactionsHeld>
+
+</LanguageData>

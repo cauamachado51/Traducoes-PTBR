@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+   <!--== ASC_CommandLabel.xml == -->
+	<!--== "Stay" == -->
+	<ASC_StayLabel>Stay</ASC_StayLabel>
+	<!--== "Stay here." == -->
+	<ASC_StayDesk>Stay here.</ASC_StayDesk>
+
+	<!--== "Move" == -->
+	<ASC_MoveLabel>Move</ASC_MoveLabel>
+	<!--== "Move to the target location." == -->
+	<ASC_MoveDesk>Move to the target location.</ASC_MoveDesk>
+
+	<!--== "Attack" == -->
+	<ASC_AttackLabel>Attack</ASC_AttackLabel>
+	<!--== "Attacks the target." == -->
+	<ASC_AttackDesk>Attacks the target.</ASC_AttackDesk>
+
+	<!--== "Haul" == -->
+	<ASC_HaulLabel>Haul</ASC_HaulLabel>
+	<!--== "Carries the target. Valid only if a suitable storage location is available." == -->
+	<ASC_HaulDesk>Carries the target. Valid only if a suitable storage location is available.</ASC_HaulDesk>
+
+	<!--== "Rescue" == -->
+	<ASC_RescueLabel>Rescue</ASC_RescueLabel>
+	<!--== "Rescues the target. Valid only if a suitable bed is available." == -->
+	<ASC_RescueDesk>Rescues the target. Valid only if a suitable bed is available.</ASC_RescueDesk>
+
+	<!--== "Hide" == -->
+	<ASC_HideLabel>Hide</ASC_HideLabel>
+	<!--== "Hide and Conceal. This effect is canceled if you move or attack." == -->
+	<ASC_HideDesk>Hide and Conceal. This effect is canceled if you move or attack.</ASC_HideDesk>
+
+	<!--== "Defend" == -->
+	<ASC_DefendLabel>Defend</ASC_DefendLabel>
+	<!--== "Protects you and reduces damage taken. This effect is canceled if you move or attack." == -->
+	<ASC_DefendDesk>Protects you and reduces damage taken. This effect is canceled if you move or attack.</ASC_DefendDesk>
+
+	<!--== "Provoke" == -->
+	<ASC_ProvokeLabel>Provoke</ASC_ProvokeLabel>
+	<!--== "Provoke surrounding enemies. All surrounding enemies will now attack you." == -->
+	<ASC_ProvokeDesk>Provoke surrounding enemies. All surrounding enemies will now attack you.</ASC_ProvokeDesk>
+
+	<!--== "Lead -Stay-" == -->
+	<ASC_LeadStayLabel>Lead -Stay-</ASC_LeadStayLabel>
+	<!--== "Instruct all the animals in the colony to wait there." == -->
+	<ASC_LeadStayDesk>Instruct all the animals in the colony to wait there.</ASC_LeadStayDesk>
+	<!--== "Lead -Move-" == -->
+	<ASC_LeadMoveLabel>Lead -Move-</ASC_LeadMoveLabel>
+	<!--== "Instruct all the animals in the colony to move to the target position." == -->
+	<ASC_LeadMoveDesk>Instruct all the animals in the colony to move to the target position.</ASC_LeadMoveDesk>
+	<!--== "Lead -Attack-" == -->
+	<ASC_LeadAttackLabel>Lead -Attack-</ASC_LeadAttackLabel>
+	<!--== "Instruct all animals in the colony to attack the target." == -->
+	<ASC_LeadAttackDesk>Instruct all animals in the colony to attack the target.</ASC_LeadAttackDesk>
+	<!--== "Lead -Brawl-" == -->
+	<ASC_LeadBrawlLabel>Lead -Brawl-</ASC_LeadBrawlLabel>
+	<!--== "Instruct all animals in the colony to attack the surrounding enemies at random." == -->
+	<ASC_LeadBrawlDesk>Instruct all animals in the colony to attack the surrounding enemies at random.</ASC_LeadBrawlDesk>
+	
+   <!--== ASC_ErrorMessage.xml == -->
+	<!--== "It can only be used for pets of your faction." == -->
+	<ASC_CanUseOnlyPet>It can only be used for pets of your faction.</ASC_CanUseOnlyPet>
+
+	<!--== "This pet has already learned the skill." == -->
+	<ASC_AlreadyUsed>This pet has already learned the skill.</ASC_AlreadyUsed>
+
+	<!--== "Cannot be used on this target." == -->
+	<ASC_CanNotUseNoComp>Cannot be used on this target.</ASC_CanNotUseNoComp>
+
+	<!--== "You need to train Tameness." == -->
+	<ASC_DisableTameness>You need to train Tameness.</ASC_DisableTameness>
+
+	<!--== "You need to train Guard." == -->
+	<ASC_DisableObedience>You need to train Guard.</ASC_DisableObedience>
+
+	<!--== "You need to train Attack." == -->
+	<ASC_DisableRelease>You need to train Attack.</ASC_DisableRelease>
+
+	<!--== "You need to train Haul." == -->
+	<ASC_DisableHaul>You need to train Haul.</ASC_DisableHaul>
+
+	<!--== "You need to train Rescue." == -->
+	<ASC_DisableRescue>You need to train Rescue.</ASC_DisableRescue>
+	
+   <!--== ASC_ModSetting.xml == -->
+	<!--== "Require training mode" == -->
+	<ASC_RecTrainMode>Require training mode</ASC_RecTrainMode>
+
+	<!--== "If you check this checkbox, you will need to be trained to use the command." == -->
+	<ASC_RecTrainText>If you check this checkbox, you will need to be trained to use the command.</ASC_RecTrainText>
+	
+</LanguageData>

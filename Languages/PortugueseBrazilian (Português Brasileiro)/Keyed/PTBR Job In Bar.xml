@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+  <JobInBar_NameColorButton>Cor do nome</JobInBar_NameColorButton>
+  <JobInBar_JobColorButton>Cor do trabalho</JobInBar_JobColorButton>
+  <JobInBar_ShowJobLabelFor>Mostrar</JobInBar_ShowJobLabelFor>
+  <JobInBar_Settings_Enabled>Mod ativado:</JobInBar_Settings_Enabled>
+  <JobInBar_Settings_Enabled_desc>Use isto para desabilitar totalmente o mod se as coisas estiverem se comportando de maneira estranha.</JobInBar_Settings_Enabled_desc>
+  <JobInBar_Settings_Positioning>Posicionamento de rótulo</JobInBar_Settings_Positioning>
+  <JobInBar_Settings_Ypos>Deslocamento vertical: </JobInBar_Settings_Ypos>
+  <JobInBar_Settings_Ydist>Deslocamento vertical entre rótulos: </JobInBar_Settings_Ydist>
+  <JobInBar_Settings_DrawBG>Desenhar plano de fundo:</JobInBar_Settings_DrawBG>
+  <JobInBar_Settings_DrawBG_desc>Desenhe uma caixa preta atrás do título do trabalho, assim como o rótulo do nome.</JobInBar_Settings_DrawBG_desc>
+  <JobInBar_Settings_Truncate>Encurtar rótulos longos</JobInBar_Settings_Truncate>
+  <JobInBar_Settings_Truncate_desc>Se desativado, títulos de trabalho longos irão transbordar. Parece feio, mas pode ser o comportamento que você deseja.</JobInBar_Settings_Truncate_desc>
+  <JobInBar_Settings_HideDrafted>Ocultar quando alistado</JobInBar_Settings_HideDrafted>
+  <JobInBar_Settings_HideDrafted_desc>Oculta o rótulo do trabalho quando o colono é convocado. Útil ao usar outros mods de barra de colonos, como Show Draftees Weapon.</JobInBar_Settings_HideDrafted_desc>
+  <JobInBar_Settings_OffsetWhenWeaponEquipped>Deslocamento do rótulo quando a arma está equipada</JobInBar_Settings_OffsetWhenWeaponEquipped>
+  <JobInBar_Settings_OffsetWhenWeaponEquipped_desc>Deslocamento para mover os rótulos quando o peão em questão tiver uma arma equipada. Fica melhor com o mod Show Draftees Weapon para mover os rótulos para fora do caminho da exibição da arma.</JobInBar_Settings_OffsetWhenWeaponEquipped_desc>
+  <JobInBar_Settings_Job>Desenhe títulos de trabalho</JobInBar_Settings_Job>
+  <JobInBar_Settings_Job_desc>Desenha o trabalho atual de um colono. A principal função do mod.</JobInBar_Settings_Job_desc>
+  <JobInBar_Settings_CurrentJobHeader>Ative a configuração abaixo para ter um rótulo ao passar o mouse que mostra qual tarefa um peão está executando no momento.
+   Observe que isso pode ter um impacto potencialmente negativo no desempenho.</JobInBar_Settings_CurrentJobHeader>
+  <JobInBar_Settings_DrawCurrentJob>Desenhe o rótulo para a tarefa atual do peão</JobInBar_Settings_DrawCurrentJob>
+  <JobInBar_Settings_DrawCurrentJob_desc>Se ativado, um rótulo será desenhado para o trabalho que um peão está executando atualmente (ou seja, limpeza/fabricação/construção). Observe que o rótulo só será desenhado para um peão sobre o qual o mouse estiver passando por motivos de desempenho e confusão visual.</JobInBar_Settings_DrawCurrentJob_desc>
+  <JobInBar_Settings_CurrentJobLabelColor>Cor do rótulo do trabalho atual</JobInBar_Settings_CurrentJobLabelColor>
+  <JobInBar_Settings_DrawOnlyOnHover>Mostra rótulos apenas ao passar o mouse</JobInBar_Settings_DrawOnlyOnHover>
+  <JobInBar_Settings_DrawOnlyOnHover_desc>Apenas desenha rótulos para peões sobre os quais o mouse está passando na barra de colonos.</JobInBar_Settings_DrawOnlyOnHover_desc>
+  <JobInBar_Settings_Role>Desenhar funções de especialista em Ideology (se disponível)</JobInBar_Settings_Role>
+  <JobInBar_Settings_Role_desc>Se o Ideology estiver instalado, desenha as funções dos especialistas na cor da sua ideologia abaixo do rótulo do trabalho.</JobInBar_Settings_Role_desc>
+  <JobInBar_Settings_RoleColor>Use a cor da ideologia para funções</JobInBar_Settings_RoleColor>
+  <JobInBar_Settings_RoleColor_desc>Desative esta opção se a cor da ideologia dificultar a leitura da cor da função do especialista ou se você achar que isso distrai.</JobInBar_Settings_RoleColor_desc>
+  <JobInBar_Settings_RoleColorAbility>Use a cor da função apenas se o tempo de espera da habilidade estiver pronto</JobInBar_Settings_RoleColorAbility>
+  <JobInBar_Settings_RoleColorAbility_desc>Se ativada, a cor da função da ideologia só será usada se o tempo de espera da habilidade da função estiver completo e a habilidade puder ser usada. Caso contrário, será da mesma cor que o rótulo do nome.</JobInBar_Settings_RoleColorAbility_desc>
+  <JobInBar_Settings_Title>Desenhe títulos de Royalty (se disponível)</JobInBar_Settings_Title>
+  <JobInBar_Settings_Title_desc>Se Royalty estiver instalado, desenha os títulos reais pertencentes a um peão abaixo do rótulo do trabalho.</JobInBar_Settings_Title_desc>
+  <JobInBar_Settings_Alpha>Opacidade para todos os rótulos</JobInBar_Settings_Alpha>
+  <JobInBar_Settings_JobLabelColor>Cor padrão do rótulo de trabalho</JobInBar_Settings_JobLabelColor>
+  <JobInBar_Settings_DefaultShow>Mostrar rótulo de trabalho por padrão</JobInBar_Settings_DefaultShow>
+  <JobInBar_Settings_DefaultShow_desc>Define o padrão para se os rótulos do trabalho devem ser mostrados. Pode ser alternado individualmente por colono.</JobInBar_Settings_DefaultShow_desc>
+  <JobInBar_Settings_DisplaySettingsLabel>Configurações de exibição</JobInBar_Settings_DisplaySettingsLabel>
+  <JobInBar_SettingsCategory>Job In Bar</JobInBar_SettingsCategory>
+  <JobInBar_Settings_ResetColor>Redefinir</JobInBar_Settings_ResetColor>
+
+</LanguageData>

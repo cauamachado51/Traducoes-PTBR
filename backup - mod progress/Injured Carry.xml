@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <InjuredCarry>Injured Carry</InjuredCarry>
+	<InjuredCarry.Settings.RescueNotInjured>Rescue not injured</InjuredCarry.Settings.RescueNotInjured>
+  <InjuredCarry.Settings.RescueNotInjured.Desc>Rescue not injured pawns</InjuredCarry.Settings.RescueNotInjured.Desc>
+</LanguageData>

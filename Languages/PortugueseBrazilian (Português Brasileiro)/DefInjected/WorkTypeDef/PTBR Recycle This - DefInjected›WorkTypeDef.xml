@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Do low-skilled scrapping, smelting and destroying of things.\n\n<i><color=#66E0E4FF>Recycle This</color></i> -->
+  <RecycleThis_Recycle.description>Faça sucateamento, fundição e destruição de coisas com pouca qualificação.</RecycleThis_Recycle.description>
+  <!-- EN: recycling -->
+  <RecycleThis_Recycle.gerundLabel>reciclando</RecycleThis_Recycle.gerundLabel>
+  <!-- EN: recycle -->
+  <RecycleThis_Recycle.labelShort>reciclar</RecycleThis_Recycle.labelShort>
+  <!-- EN: Recycler -->
+  <RecycleThis_Recycle.pawnLabel>Reciclador</RecycleThis_Recycle.pawnLabel>
+  <!-- EN: Recycle at -->
+  <RecycleThis_Recycle.verb>Reciclar em</RecycleThis_Recycle.verb>
+  
+</LanguageData>

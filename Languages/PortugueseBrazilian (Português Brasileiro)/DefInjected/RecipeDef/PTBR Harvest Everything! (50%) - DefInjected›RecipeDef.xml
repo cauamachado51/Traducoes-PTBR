@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallNaturalArm.label>transplante de braço</InstallNaturalArm.label>
+  <InstallNaturalArm.description>Transplante de braço.</InstallNaturalArm.description>
+  <InstallNaturalArm.jobString>Transplante de braço.</InstallNaturalArm.jobString>
+  
+  <InstallNaturalBrain.label>transplante de cérebro</InstallNaturalBrain.label>
+  <InstallNaturalBrain.description>transplante de cérebro.</InstallNaturalBrain.description>
+  <InstallNaturalBrain.jobString>transplante de cérebro.</InstallNaturalBrain.jobString>
+  
+  <InstallNaturalEar.label>transplante de orelha</InstallNaturalEar.label>
+  <InstallNaturalEar.description>transplante de orelha.</InstallNaturalEar.description>
+  <InstallNaturalEar.jobString>transplante de orelha.</InstallNaturalEar.jobString>
+  
+  <InstallNaturalEye.label>transplante de olho</InstallNaturalEye.label>
+  <InstallNaturalEye.description>transplante de olho.</InstallNaturalEye.description>
+  <InstallNaturalEye.jobString>transplante de olho.</InstallNaturalEye.jobString>
+  
+  <InstallNaturalFoot.label>transplante de pé</InstallNaturalFoot.label>
+  <InstallNaturalFoot.description>transplante de pé.</InstallNaturalFoot.description>
+  <InstallNaturalFoot.jobString>transplante de pé.</InstallNaturalFoot.jobString>
+  
+  <InstallNaturalHand.label>transplante de mão</InstallNaturalHand.label>
+  <InstallNaturalHand.description>transplante de mão.</InstallNaturalHand.description>
+  <InstallNaturalHand.jobString>transplante de mão.</InstallNaturalHand.jobString>
+  
+  <InstallNaturalJaw.label>transplante de maxilar</InstallNaturalJaw.label>
+  <InstallNaturalJaw.description>transplante de maxilar.</InstallNaturalJaw.description>
+  <InstallNaturalJaw.jobString>transplante de maxilar.</InstallNaturalJaw.jobString>
+  
+  <InstallNaturalLeg.label>transplante de perna</InstallNaturalLeg.label>
+  <InstallNaturalLeg.description>transplante de perna.</InstallNaturalLeg.description>
+  <InstallNaturalLeg.jobString>transplante de perna.</InstallNaturalLeg.jobString>
+  
+  <InstallNaturalNose.label>transplante de nariz</InstallNaturalNose.label>
+  <InstallNaturalNose.description>transplante de nariz.</InstallNaturalNose.description>
+  <InstallNaturalNose.jobString>transplante de nariz.</InstallNaturalNose.jobString>
+  
+  <InstallNaturalSpine.label>transplante de coluna</InstallNaturalSpine.label>
+  <InstallNaturalSpine.description>transplante de coluna.</InstallNaturalSpine.description>
+  <InstallNaturalSpine.jobString>transplante de coluna.</InstallNaturalSpine.jobString>
+
+  <InstallNaturalStomach.label>transplante de estômago</InstallNaturalStomach.label>
+  <InstallNaturalStomach.description>transplante de estômago.</InstallNaturalStomach.description>
+  <InstallNaturalStomach.jobString>transplante de estômago.</InstallNaturalStomach.jobString>
+  
+  <!--Mod: Extended Human Body Simulation (tinha nomes estranhos de orgãos que nem sei se existem, decidi não traduzir)-->
+
+</LanguageData>

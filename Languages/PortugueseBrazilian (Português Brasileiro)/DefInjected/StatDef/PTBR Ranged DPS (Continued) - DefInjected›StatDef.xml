@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- Stats_RangedDPS_Guns_StatDef.xml -->
+    <!--1.4/Defs/Stats_RangedDPS_Guns.xml-->
+                               <!-- average ranged DPS -->
+     <RangedWeapon_AverageDPS.label>DPS à distância (ideal)</RangedWeapon_AverageDPS.label>
+                                     <!-- Average potential damage dealt per second in ranged combat at the optimal range of this weapon.
+     
+     This stat doesn't factor in the shooter's skill or target defenses like cover and armor, so the actual value will be lower. -->
+     <RangedWeapon_AverageDPS.description>Dano potencial médio causado por segundo em combate à distância no alcance ideal desta arma.\n\nEsta estatística não leva em consideração a habilidade do atirador ou as defesas do alvo, como cobertura e armadura, portanto o valor real será menor.</RangedWeapon_AverageDPS.description>
+                           <!-- max ranged DPS -->
+     <RangedWeapon_MaxDPS.label>DPS à distância (máximo)</RangedWeapon_MaxDPS.label>
+                                 <!-- Maximum possible damage dealt per second in ranged combat, assuming all shots were to hit.  This is the maximum possible DPS you could get out of this gun in a target-rich environment.
+     
+     This stat doesn't factor in accuracy or target defenses like cover and armor, so the actual value will be lower. -->
+     <RangedWeapon_MaxDPS.description>O dano máximo possível causado por segundo em combate à distância, assumindo que todos os tiros atingiram o alvo. Este é o DPS máximo possível que você pode obter com esta arma em um ambiente rico em alvos.\n\nEsta estatística não leva em consideração a precisão ou as defesas do alvo, como cobertura e armadura, portanto o valor real será menor.</RangedWeapon_MaxDPS.description>
+                            <!-- ranged DPS -->
+     <RangedWeapon_PawnDPS.label>DPS à distância</RangedWeapon_PawnDPS.label>
+                                  <!-- Average damage per second this pawn can deal in ranged combat, factoring in both the weapon and this pawn's shooting accuracy.
+     
+     This stat doesn't factor in target defenses like cover and armor, but is accurate for unarmored targets not in cover. -->
+     <RangedWeapon_PawnDPS.description>O dano médio por segundo que este peão pode causar em combate à distância depende da arma e da precisão do tiro desse peão..\n\nEsta característica não leva em consideração as defesas do alvo, como cobertura e armadura, mas é precisa para alvos não blindados e não cobertos..</RangedWeapon_PawnDPS.description>
+     
+<!-- Stats_RangedDPS_Turrets_StatDef.xml -->
+    <!--1.4/Defs/Stats_RangedDPS_Turrets.xml-->
+                        <!-- ranged DPS -->
+     <RangedTurret_DPS.label>DPS à distância</RangedTurret_DPS.label>
+                              <!-- Average damage per second this turret can deal in ranged combat, factoring in both the weapon and this turret's shooting accuracy.  This stat is equivalent to the "Ranged DPS" stat on pawns.
+     
+     This stat doesn't factor in target defenses like cover and armor, but is accurate for unarmored targets not in cover. -->
+     <RangedTurret_DPS.description>O dano médio por segundo que esta torre pode causar em combate à distância depende da arma e da precisão dessa torre. Esta estatística é equivalente à estatística "DPS à distância" para peões.\n\nEsta característica não leva em consideração as defesas do alvo, como cobertura e armadura, mas é precisa para alvos não blindados e não cobertos..</RangedTurret_DPS.description>
+                              <!-- weapon ranged DPS -->
+     <RangedTurret_WeaponDPS.label>DPS à distância (ideal)</RangedTurret_WeaponDPS.label>
+                                    <!-- Average potential damage dealt per second in ranged combat at the optimal range of this turret's weapon, not factoring in the shooting accuracy of the turret mount.  This stat is equivalent to the "Average ranged DPS" stat on ranged weapons.
+     
+     This stat doesn't factor in the turret's shooting accuracy or target defenses like cover and armor, so the actual value will be lower. -->
+     <RangedTurret_WeaponDPS.description>O dano potencial médio causado por segundo em combate à distância no alcance ideal da arma desta torre, excluindo a precisão da torre. Esta estatística é equivalente à estatística "DPS à distância (ideal)" para armas de longo alcance.\n\nEsta estatística não leva em consideração a precisão do disparo da torre ou as defesas do alvo, como cobertura e armadura, portanto o valor real será menor.</RangedTurret_WeaponDPS.description>
+                           <!-- max ranged DPS -->
+     <RangedTurret_MaxDPS.label>DPS à distância (máximo)</RangedTurret_MaxDPS.label>
+                                 <!-- Maximum potential damage dealt per second in ranged combat, assuming all shots were to hit.  This is the maximum possible DPS you could get out of this turret in a target-rich environment.
+     
+     This stat doesn't factor in accuracy or target defenses like cover and armor, so the actual value will be lower. -->
+     <RangedTurret_MaxDPS.description>O dano potencial máximo causado por segundo em combate à distância, assumindo que todos os tiros atingiram o alvo. Este é o DPS máximo possível que você pode obter desta torre em um ambiente rico em alvos.\n\nEsta estatística não leva em consideração a precisão ou as defesas do alvo, como cobertura e armadura, portanto o valor real será menor.</RangedTurret_MaxDPS.description>
+                                      <!-- damage per resource -->
+     <RangedTurret_DamagePerResource.label>dano por recurso</RangedTurret_DamagePerResource.label>
+                                            <!-- The average amount of damage this turret can deal for every unit of resource used for ammo or barrel replenishment, including missed shots.  Higher values mean the turret is more resource-efficient at dealing damage.
+     
+     This stat refers to the actual amount of raw resources used, not the amount of "barrel durability" used up.  E.g., for a turret that is rearmed with steel, this is how much damage you get out of 1 unit of steel.  It does not account for the resources used to build the turret, only the resources used when the turret shoots. -->
+     <RangedTurret_DamagePerResource.description>A quantidade média de dano que esta torre pode causar para cada unidade de recurso usada para reabastecimento de munição ou cano, incluindo tiros perdidos. Valores mais altos significam que a torre é mais eficiente em recursos para causar dano.\n\n Esta estatística refere-se à quantidade real de recursos brutos utilizados, não à quantidade de “durabilidade do cano” consumida. Por exemplo, para uma torre rearmada com aço, este é o dano causado por 1 unidade de aço. Não leva em conta os recursos usados para construir a torre, apenas os recursos usados quando a torre dispara.</RangedTurret_DamagePerResource.description>
+                                         <!-- max damage per resource -->
+     <RangedTurret_MaxDamagePerResource.label>dano por recurso (máximo)</RangedTurret_MaxDamagePerResource.label>
+                                               <!-- The maximum amount of damage this turret can deal for every unit of resource used for ammo or barrel replenishment, assuming all shots were to hit.  Higher values mean the turret is more resource-efficient at dealing damage.  This is the maximum possible efficiency you could get out of this turret in a target-rich environment.
+     
+     This stat refers to the actual amount of raw resources used, not the amount of "barrel durability" used up.  E.g., for a turret that is rearmed with steel, this is how much damage you get out of 1 unit of steel.  It does not account for missed shots, so the actual value will be lower. -->
+     <RangedTurret_MaxDamagePerResource.description>A quantidade máxima de dano que esta torre pode causar para cada unidade de recurso usada para reposição de munição ou cano, assumindo que todos os tiros acertaram. Valores mais altos significam que a torre é mais eficiente em recursos para causar dano. Esta é a eficiência máxima possível que você pode obter desta torre em um ambiente rico em alvos.\n\n Esta estatística refere-se à quantidade real de recursos brutos utilizados, não à quantidade de “durabilidade do cano” consumida. Por exemplo, para uma torre rearmada com aço, este é o dano causado por 1 unidade de aço. Não leva em conta os tiros perdidos, portanto o valor real será menor.</RangedTurret_MaxDamagePerResource.description>
+
+</LanguageData>

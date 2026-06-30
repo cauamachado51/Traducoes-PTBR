@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!-- tabs -->
+	<Kopp_CISE_Weapons>Armas e vestuário</Kopp_CISE_Weapons>
+	<Kopp_CISE_Textiles>Têxteis</Kopp_CISE_Textiles>
+	<Kopp_CISE_Misc>Raramente usado</Kopp_CISE_Misc>
+	<Kopp_CISE_Unassigned>Desatribuido</Kopp_CISE_Unassigned>
+	<Kopp_CISE_UnassignedCopy>Desatribuido (copia)</Kopp_CISE_UnassignedCopy>
+	
+<!-- sections -->
+	<Kopp_CISE_PackAnimalsSection>Animais de carga</Kopp_CISE_PackAnimalsSection>
+	<Kopp_CISE_TrainedAnimalsObedienceSection>Animais treinados: Guarda</Kopp_CISE_TrainedAnimalsObedienceSection>
+	<Kopp_CISE_TrainedAnimalsReleaseSection>Animais treinados: ataque</Kopp_CISE_TrainedAnimalsReleaseSection>
+	<Kopp_CISE_TrainedAnimalsRescueSection>Animais treinados: resgate</Kopp_CISE_TrainedAnimalsRescueSection>
+	<Kopp_CISE_TrainedAnimalsHaulSection>Animais treinados: transporte</Kopp_CISE_TrainedAnimalsHaulSection>
+	<Kopp_CISE_PawnsOthers>Outros</Kopp_CISE_PawnsOthers>
+
+	<Kopp_CISE_BuildingMaterials>Materiais</Kopp_CISE_BuildingMaterials>
+	<Kopp_CISE_Stoneblocks>Blocos de pedra</Kopp_CISE_Stoneblocks>
+	<Kopp_CISE_Components>Componentes</Kopp_CISE_Components>
+	<Kopp_CISE_Shells>Munição</Kopp_CISE_Shells>
+	<Kopp_CISE_Rest>Sem categoria</Kopp_CISE_Rest>
+	<Kopp_CISE_PlantMatter>Matéria vegetal</Kopp_CISE_PlantMatter>
+	<Kopp_CISE_Artifacts>Artefatos</Kopp_CISE_Artifacts>
+	<Kopp_CISE_BuildingsItem>Construções</Kopp_CISE_BuildingsItem>
+	<Kopp_CISE_Bodyparts>Implantes</Kopp_CISE_Bodyparts>
+	<Kopp_CISE_Relicts>Relíquias</Kopp_CISE_Relicts>
+	<Kopp_CISE_Skilltrainers>Neuro treinadores</Kopp_CISE_Skilltrainers>
+	<Kopp_CISE_Techprints>Techprints</Kopp_CISE_Techprints>
+
+	<Kopp_CISE_Food>Refeições</Kopp_CISE_Food>
+	<Kopp_CISE_Medicine>Medicina</Kopp_CISE_Medicine>
+	<Kopp_CISE_Drugs>Drogas</Kopp_CISE_Drugs>
+	<Kopp_CISE_BuildingsTravelSupply>Construções</Kopp_CISE_BuildingsTravelSupply>
+	<Kopp_CISE_Ammunition>Munição</Kopp_CISE_Ammunition>
+	<Kopp_CISE_AnimalFood>Comida animal</Kopp_CISE_AnimalFood>
+
+	<Kopp_CISE_WeaponRangedSection>Armas de longo alcance</Kopp_CISE_WeaponRangedSection>
+	<Kopp_CISE_WeaponMeleeSection>Armas corpo a corpo</Kopp_CISE_WeaponMeleeSection>
+	<Kopp_CISE_ApparelArmorSection>Armaduras</Kopp_CISE_ApparelArmorSection>
+	<Kopp_CISE_ApparelUtilitySection>Utilidade</Kopp_CISE_ApparelUtilitySection>
+	<Kopp_CISE_ApparelNonArmorSection>Roupas</Kopp_CISE_ApparelNonArmorSection>
+
+	<Kopp_CISE_TextilesRest>Misc</Kopp_CISE_TextilesRest>
+	<Kopp_CISE_TextilesLeather>Couro</Kopp_CISE_TextilesLeather>
+	<Kopp_CISE_TextilesWool>Lã</Kopp_CISE_TextilesWool>
+
+	<Kopp_CISE_Meat>Carne crua</Kopp_CISE_Meat>
+	<Kopp_CISE_RawFood>Comida crua</Kopp_CISE_RawFood>
+	<Kopp_CISE_Eggs>Ovos</Kopp_CISE_Eggs>
+	<Kopp_CISE_Beddings>Roupas de cama</Kopp_CISE_Beddings>
+	<Kopp_CISE_StoneChunks>Pedaços</Kopp_CISE_StoneChunks>
+	<Kopp_CISE_Corpses>Cadáveres</Kopp_CISE_Corpses>
+
+<!-- settings menu -->
+	<Kopp_CISE_Button_SettingsMenu>Config. aba CISE</Kopp_CISE_Button_SettingsMenu>
+	<!-- Main -->
+	<Kopp_CISE_MainTabs_TabsSettings>Configurações de aba</Kopp_CISE_MainTabs_TabsSettings>
+	<Kopp_CISE_MainTabs_TabsSubcategories>Configurações de subcategoria</Kopp_CISE_MainTabs_TabsSubcategories>
+
+	<Kopp_CISE_Button_Helper>Me ajude</Kopp_CISE_Button_Helper>
+
+	<Kopp_CISE_Button_NewTab>Nova aba</Kopp_CISE_Button_NewTab>
+	<Kopp_CISE_Button_SwitchTab>Colocar aba na posição</Kopp_CISE_Button_SwitchTab>
+	<Kopp_CISE_Button_RenameTab>Renomear aba</Kopp_CISE_Button_RenameTab>
+	<Kopp_CISE_Button_NewTabFromCfg>Nova aba a partir da configuração salva</Kopp_CISE_Button_NewTabFromCfg>
+	<Kopp_CISE_Button_DeleteTab>Excluir aba</Kopp_CISE_Button_DeleteTab>
+	<Kopp_CISE_Button_LoadConfig>Carregar configuração</Kopp_CISE_Button_LoadConfig>
+	<Kopp_CISE_Button_SaveConfig>Salvar configuração</Kopp_CISE_Button_SaveConfig>
+	<Kopp_CISE_Button_DeleteConfig>Excluir configuração</Kopp_CISE_Button_DeleteConfig>
+	<Kopp_CISE_Button_RecreateDefaultConfig>Recriar configuração padrão</Kopp_CISE_Button_RecreateDefaultConfig>
+
+	<Kopp_CISE_TabGainsName>A aba agora se chama {0}.</Kopp_CISE_TabGainsName>
+	<Kopp_CISE_ConfirmLoadConfig>Realmente carregar a configuração {0}?\n\nSe a configuração que você está usando agora não for salva, ela será perdida se você continuar.</Kopp_CISE_ConfirmLoadConfig>
+	<Kopp_CISE_DefaultConfigRecreated>A configuração padrão foi recriada! A configuração padrão antiga foi mantida {0} thingDefs enquanto a nova configuração padrão permanece {1} thingDefs.</Kopp_CISE_DefaultConfigRecreated>
+	
+	<Kopp_CISE_UseVanillaPawnsTab>Defina como verdadeiro para mostrar a aba de peões vanilla em vez da de mods.\nPode ser útil/necessário se você usar mods que alteram a aba de peões vanilla.\nEsta configuração é aplicada a todas as configurações.</Kopp_CISE_UseVanillaPawnsTab>
+	<Kopp_CISE_ContentPawnsTab>O conteúdo da aba de peões é codificado\nE não pode ser alterado.\n\n\n\nA aba pode ser renomeada e sua posição pode\nSer trocado embora.</Kopp_CISE_ContentPawnsTab>
+	<!-- Subcategories -->
+	<Kopp_CISE_Button_NewSubcategory>Nova subcategoria</Kopp_CISE_Button_NewSubcategory>
+	<Kopp_CISE_Button_SwitchSubcategory>Mudar posição da subcategoria</Kopp_CISE_Button_SwitchSubcategory>
+	<Kopp_CISE_Button_RenameSubcategory>Renomear subcategoria</Kopp_CISE_Button_RenameSubcategory>
+	<Kopp_CISE_Button_ExclusiveSubcategory>Exclusivo ou não</Kopp_CISE_Button_ExclusiveSubcategory>
+	<Kopp_CISE_Button_DeleteSubcategory>Excluir subcategoria</Kopp_CISE_Button_DeleteSubcategory>
+	
+	<Kopp_CISE_SubcategoryGainsName>A subcategoria agora se chama {0}</Kopp_CISE_SubcategoryGainsName>
+	
+	<Kopp_CISE_ConfigSaved>A configuração é salva como {0}. Digite um nome válido para renomeá-lo.</Kopp_CISE_ConfigSaved>
+	<Kopp_CISE_ConfigGainsName>Configuração renomeada para {0}.</Kopp_CISE_ConfigGainsName>
+	<Kopp_CISE_ConfigGainsNameFail>O nome {0} é inválido ou já está em uso. Escolha outro.</Kopp_CISE_ConfigGainsNameFail>
+	
+	<!-- helper overlay -->
+	<Kopp_CISE_Helper_MainTabs>O mod tem 2 janelas diferentes: ‘Configurações de aba’ e ‘Configurações de subcategoria'.
+\nVanilla tem três abas: Peões, Suprimentos de Viagem e Itens.
+\nNo Vanilla apenas a aba Peões possui subcategorias: Colonos, Prisioneiros, Escravos, Animais, ...
+\nNa linha abaixo você pode ver todas as abas que sua configuração possui e alternar entre elas e então fazer as alterações.</Kopp_CISE_Helper_MainTabs>
+	
+	<Kopp_CISE_Helper_FilterUI>O filtro UI:
+Permitir itens que devem ser mostrados na aba correspondente.
+Você pode então anexar esses itens a subcategorias nas configurações de subcategoria, se desejar.
+\nOs itens podem aparecer em mais de uma aba.
+\nCoisas no mapa que não estão em nenhuma aba aparecerão automaticamente em uma nova aba chamada ‘Não atribuído’.
+Esta aba não é visível nas configurações da aba, pois não pode ser alterada.
+\nNo entanto: você pode facilmente criar uma nova aba com todas as coisas que ainda não atribuiu a uma aba usando o botão 'Nova aba da configuração salva' no lado direito da UI, selecione 'tmpConfig' e 'Não atribuído'.
+Observe que se você não atribuiu itens de uma determinada qualidade (e.g. armas lendárias) ou com uma certa porcentagem de pontos de vida para uma aba, a aba copiada não atribuída terá apenas aquelas permitidas, que estão no mapa no momento. E todo nível de qualidade/porcentagem de pontos de vida é permitido.</Kopp_CISE_Helper_FilterUI>
+
+	<Kopp_CISE_Helper_CategoryTabs>Adicione uma nova guia, em branco ou uma cópia (independente) de uma existente.
+A cópia terá todas as subcategorias do pai incluídas e todos os itens permitidos do pai selecionados.
+\nHá um máximo de 15 abas e 15 subcategorias por aba.</Kopp_CISE_Helper_CategoryTabs>
+	
+	<Kopp_CISE_Helper_Configs>Uma configuração contém todas as informações necessárias para 'desenhar' as abas e seu conteúdo na GUI da caravana/transportador.
+E.g. o número de abas, os nomes, as subcategorias e os itens selecionados.
+\nImagine ter uma folha de papel à sua frente com essas informações. Esta folha de papel SEMPRE será usada para desenhar as abas.
+Todas as alterações que você fizer SEMPRE serão feitas nessa planilha também. É chamado de 'tmpConfig'.
+Ao lado da planilha há uma pilha de papéis, que representam as configurações salvas.
+\nSe você carregar uma configuração, o papel correspondente da pilha será copiado e substituirá a folha à sua frente.
+Se você salvar uma configuração, a planilha à sua frente será copiada e a cópia será colocada na pilha de papéis.
+\nIsso significa que se você salvar uma configuração e fizer alterações nela posteriormente, essas alterações serão aplicadas à planilha à sua frente, mas não à configuração salva.
+\nComo resultado não é possível sobrescrever uma configuração. Você deve excluir o antigo e salvar o novo.
+As configurações são globais, não por jogo salvo. Suas alterações são salvas imediatamente ou ao fechar o menu de configurações da aba.
+A configuração que você vê ao usar este mod pela primeira vez é uma cópia de ‘defaultConfig’.
+Se você trabalha apenas com uma configuração, não precisa se preocupar em salvar/carregar ou com o sistema de configuração. Basta fazer mudanças e ser feliz.
+\nO botão 'recriar configuração padrão' pode ser útil se você adicionar/remover mods enquanto usa este mod para que a configuração padrão seja atualizada com novos itens (acho que quer dizer que os sem categoria tem que se regenerar, ou talvez seja ainda mais avançado e regera tudo seguindo alguns parametros).</Kopp_CISE_Helper_Configs>
+
+	<Kopp_CISE_Helper_Close>Para fechar a sobreposição auxiliar pressione o botão abaixo, ESC, o botão que você usou para abrir a sobreposição ou use o botão Fechar no canto superior direito.
+Desculpe pela má implementação...</Kopp_CISE_Helper_Close>
+
+	<!-- loading list -->
+	<Kopp_CISE_NeedsRestart>As seguintes configurações precisam de uma reinicialização para serem aplicadas!</Kopp_CISE_NeedsRestart>
+	<Kopp_CISE_ShowLoadingList>Mostrar lista de carregamento: </Kopp_CISE_ShowLoadingList>
+	<Kopp_CISE_ShowLoadingListTooltip>Se definido como verdadeiro, você poderá ver uma lista de todos os itens/peões já selecionados ao formar uma caravana (ou dividir ou carregar transportadores).</Kopp_CISE_ShowLoadingListTooltip>
+	<Kopp_CISE_Pawns>Peões</Kopp_CISE_Pawns>
+	<Kopp_CISE_Items>Itens</Kopp_CISE_Items>
+	<Kopp_CISE_CaravanItemSelectionEnhanced>Caravan Item Selection Enhanced</Kopp_CISE_CaravanItemSelectionEnhanced>
+
+	<!-- show 'select everything' even if dev mode is deactivated -->
+	<Kopp_CISE_ShowSelectEveryhing>Mostrar o botão 'Selecionar tudo' na caixa de diálogo de formação da caravana, independentemente de o modo de desenvolvimento estar ativo: </Kopp_CISE_ShowSelectEveryhing>
+
+	<!-- Dropdown menu when pressing 'Reform caravan' if all or none items should be pre selected -->
+	<Kopp_CISE_ReformCaravanDropdown>Mostrar um menu suspenso ao clicar em 'Reformar caravana' para definir se itens e peões devem ser pré-selecionados: </Kopp_CISE_ReformCaravanDropdown>
+	<Kopp_CISE_ReformSelectEverything>Pré-selecionar todos os (relevantes) itens e peões (vanilla)</Kopp_CISE_ReformSelectEverything>
+	<Kopp_CISE_ReformSelectNone>Não pré-selecione nenhum item ou peão</Kopp_CISE_ReformSelectNone>
+
+	<!-- presets -->
+	<Kopp_CISE_PresetGainsName>A aba agora se chama {0}.</Kopp_CISE_PresetGainsName>
+	<Kopp_CISE_UnselectedStuff>As seguintes coisas não puderam ser selecionadas:</Kopp_CISE_UnselectedStuff>
+	<Kopp_CISE_PresetContains>A predefinição contém o seguinte:</Kopp_CISE_PresetContains>
+	<Kopp_CISE_Presets>Predefinições</Kopp_CISE_Presets>
+	<Kopp_CISE_Preset>Predefinição: </Kopp_CISE_Preset>
+	<Kopp_CISE_Load>Carregar</Kopp_CISE_Load>
+	<Kopp_CISE_LoadOnTop>Carregar sobre a seleção atual</Kopp_CISE_LoadOnTop>
+	<Kopp_CISE_Rename>Renomear</Kopp_CISE_Rename>
+	<Kopp_CISE_Overwrite>Sobrescrever pela seleção atual</Kopp_CISE_Overwrite>
+	<Kopp_CISE_OverwriteConfirmation>Tem certeza de que deseja sobrescrever esta predefinição pela seleção atual?</Kopp_CISE_OverwriteConfirmation>
+	<Kopp_CISE_Delete>Excluir</Kopp_CISE_Delete>
+	<Kopp_CISE_DeleteConfirmation>Tem certeza de que deseja excluir esta predefinição?</Kopp_CISE_DeleteConfirmation>
+	<Kopp_CISE_ShowContent>Mostrar conteúdo</Kopp_CISE_ShowContent>
+	<Kopp_CISE_SavePreset>Salvar a seleção atual como uma nova predefinição</Kopp_CISE_SavePreset>
+	<Kopp_CISE_NewPreset>Nova predefinição</Kopp_CISE_NewPreset>
+	<Kopp_CISE_UnselectedStuffAgain>Mostrar novamente o que não foi possível selecionar</Kopp_CISE_UnselectedStuffAgain>
+	<Kopp_CISE_HitpointRange>Predefinições: faixa de pontos de vida permitidos: </Kopp_CISE_HitpointRange>
+	<Kopp_CISE_HitpointRangeTooltip>Se definido com um valor diferente de 100%, o mod leva em consideração os pontos de vida dos itens (que possuem uma qualidade ou são construções) ao carregar uma predefinição.\n\nExemplo: você salva uma predefinição com um revólver que tem 60% de pontos de vida restantes e define esse valor como 20%.\nAo carregar a predefinição, é necessário que haja um revólver disponível que tenha entre 40% e 80% de pontos de vida restantes (e que tenha a mesma qualidade do salvo), caso contrário, nenhum revólver será selecionado.</Kopp_CISE_HitpointRangeTooltip>
+
+	</LanguageData>

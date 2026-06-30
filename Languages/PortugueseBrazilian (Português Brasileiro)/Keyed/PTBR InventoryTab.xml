@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- Hearder Labels-->
+	<Options>Opções</Options>
+	
+	<Search>Forçar Pesquisa</Search>
+	
+	<TotalFound>Total de itens encontrados</TotalFound>
+	
+	<!--Settings Labels-->
+	<InventoryOptions>Opções de inventário</InventoryOptions>
+
+	<SearchMap>Pesquise todo o mapa</SearchMap>
+	<SearchMapToolTip>Pesquise itens em todo o mapa.</SearchMapToolTip>
+	
+	<SearchPawns>Pesquisar peões</SearchPawns>
+	<SearchPawnsToolTip>Pesquise os inventários de peões. Inclui colonos, prisioneiros, animais de caravana e mortos.</SearchPawnsToolTip>
+
+	<AutoUpdate>Auto atualizar</AutoUpdate>
+	<AutoUpdateToolTip>Usa 'Auto atualizar temporizador' para atualizar a lista de itens de um temporizador.</AutoUpdateToolTip>
+
+	<AutoUpdateTimeInterval>Auto atualizar temporizador</AutoUpdateTimeInterval>
+
+	<!--Tab Labels-->
+	<TabAll>Tudo</TabAll>
+	<TabFoods>Alimentos</TabFoods>
+	<TabManufactured>Produzido</TabManufactured>
+	<TabRawResources>Recursos brutos</TabRawResources>
+	<TabItems>Itens</TabItems>
+
+	<TabWeapons>Armas</TabWeapons>
+	<TabApparel>Vestuário</TabApparel>
+	<TabBuildings>Construções</TabBuildings>
+	<TabChunks>Pedaços</TabChunks>
+	<TabCorpses>Cadáveres</TabCorpses>
+</LanguageData>

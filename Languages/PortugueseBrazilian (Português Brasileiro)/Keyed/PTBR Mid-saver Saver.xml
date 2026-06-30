@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<MidSaverSaver.Settings.Label.Adding>Correções relacionadas à adição de mods:</MidSaverSaver.Settings.Label.Adding>
+	<MidSaverSaver.Settings.Label.Removing>Correções relacionadas à remoção de mods:</MidSaverSaver.Settings.Label.Removing>
+	<MidSaverSaver.Settings.Label.Misc>Misc:</MidSaverSaver.Settings.Label.Misc>
+	
+	<MidSaverSaver.ReloadNow>Pelo menos uma correção necessária para ser executada (verifique o console de depuração(debug console) para obter detalhes). Para que as correções se propaguem, salve seu jogo agora e carregue-o. Você não precisa reiniciar o jogo inteiro.</MidSaverSaver.ReloadNow>
+	<MidSaverSaver.ReloadNow.Header>Mid-saver Saver: É necessário recarregar</MidSaverSaver.ReloadNow.Header>
+	
+	<MidSaverSaver.Settings.DisableCompression>Corrigir colisões de hash</MidSaverSaver.Settings.DisableCompression>
+	<MidSaverSaver.Settings.DisableCompression.Desc>Se você encontrar uma colisão de hash após adicionar um mod, poderá notar problemas como:\n\n\n1.) Penhascos ou pedaços de pedra desapareceram ou se transformaram em um item diferente.\n\n2.)A broca profunda está revelando itens incomuns.\n\nTo use esta correção corretamente, você deve habilitá-la *antes* de adicionar o novo mod e então salvar seu jogo com ele habilitado(essa opção? o mod?). Isso cria um salvamento sem qualquer compactação (a compactação com perdas é a origem desse problema). Então você pode adicionar o mod e está livre para desabilitar esta configuração ou desabilitar este mod completamente.</MidSaverSaver.Settings.DisableCompression.Desc>
+	
+	<MidSaverSaver.Settings.GenerateMissingMineables>Gerar mineráveis ausentes</MidSaverSaver.Settings.GenerateMissingMineables>
+	<MidSaverSaver.Settings.GenerateMissingMineables.Desc>Se você adicionar um mod que adicione coisas novas às minas, como metal, carvão, etc., este patch irá gerá-las retroativamente em mapas existentes. Habilite-o e carregue seu save para acionar a correção.\n\nEsta configuração não é salva e será desativada na próxima reinicialização do jogo.</MidSaverSaver.Settings.GenerateMissingMineables.Desc>
+	
+	<MidSaverSaver.Settings.FixCorruptWorldObjects>Corrigir remoção de facção</MidSaverSaver.Settings.FixCorruptWorldObjects>
+	<MidSaverSaver.Settings.FixCorruptWorldObjects.Desc>Se você remover uma facção, poderá não conseguir visualizar o mapa mundial ou carregar novos salvamentos criados após a remoção das facções. Para usar esta correção:\n\n\n1.) Habilite-o e carregue seu save com os mod(s) de facção removidos. Você receberá muitos erros vermelhos, mas ignore-os. O console pode mencionar algo sobre objetos mundiais corrompidos sendo removidos.\n\n2.) Salve seu jogo.\n\n3.) Verifique se você consegue carregar seu save. Se puder, você está pronto e deve desabilitar esta correção, ou até mesmo o mod completamente.</MidSaverSaver.Settings.FixCorruptWorldObjects.Desc>
+	
+	<MidSaverSaver.Settings.FixCorruptSectors>Corrija áreas e seções corrompidas</MidSaverSaver.Settings.FixCorruptSectors>
+	<MidSaverSaver.Settings.FixCorruptSectors.Desc>Se você remover um mod que tivesse áreas codificadas personalizadas ou camadas de seção, isso poderia corromper os gerenciadores do mapa para esses componentes. Quando isso acontecer, você verá uma “tela cinza da morte” ao carregar um jogo salvo. Esta correção irá regenerá-los:\n\n\n1.) Habilite-o e carregue seu save com os mod(s) removidos. Você receberá muitos erros vermelhos, mas ignore-os.\n\n2.) Salve seu jogo.\n\n4.) Verifique se você consegue carregar seu save. Se puder, você está pronto e deve desabilitar essa correção, ou até mesmo o mod totalmente. Se suas áreas foram corrompidas, você mesmo precisará construí-las (a área da casa, áreas de telhado, áreas limpas de neve, etc.).</MidSaverSaver.Settings.FixCorruptSectors.Desc>
+	
+	<MidSaverSaver.Settings.FixCorruptWeather>Corrija o clima corrompido</MidSaverSaver.Settings.FixCorruptWeather>
+	<MidSaverSaver.Settings.FixCorruptWeather.Desc>Se você remover um mod que adicionou clima personalizado, poderá obter a “tela cinza da morte” durante o carregamento. Esta correção irá redefinir o sistema meteorológico:\n\n\n1.) Habilite-o e carregue seu save com os mod(s) removidos. Você receberá muitos erros vermelhos, mas ignore-os.\n\n2.) Salve seu jogo.\n\n4.) Verifique se você consegue carregar seu save. Se puder, você está pronto e deve desabilitar essa correção, ou até mesmo o mod totalmente. O clima será definido para a definição de clima "limpo" para todos os mapas corrompidos.</MidSaverSaver.Settings.FixCorruptWeather.Desc>
+	
+	<MidSaverSaver.Settings.FixMisc>Corrija problemas menos comuns</MidSaverSaver.Settings.FixMisc>
+	<MidSaverSaver.Settings.FixMisc.Desc>Uma coleção de correções diversas para problemas de nicho menos comuns.</MidSaverSaver.Settings.FixMisc.Desc>
+	
+	<MidSaverSaver.Settings.FixCorruptIdeos>Corrigir ideologias corrompidas</MidSaverSaver.Settings.FixCorruptIdeos>
+	<MidSaverSaver.Settings.FixCorruptIdeos.Desc>Se você abrir a IU das ideologias e for bombardeado por erros ao navegar nela, isso pode ser devido a preceitos corrompidos. Esta correção irá removê-los:\n\n\n1.) Habilite-o e carregue seu save com os mod(s) removidos. Você receberá muitos erros vermelhos, mas ignore-os. O console de depuração pode mencionar a remoção de preceitos corrompidos.\n\n2.) Salve seu jogo.\n\n3.) Verifique se você consegue carregar seu save. Se puder, você está pronto e deve desabilitar essa correção, ou até mesmo o mod totalmente. Você pode querer editar a ideologia para preencher quaisquer preceitos ausentes.</MidSaverSaver.Settings.FixCorruptIdeos.Desc>
+	
+	<MidSaverSaver.Settings.FixMissingStuff>Consertar materiais faltantes</MidSaverSaver.Settings.FixMissingStuff>
+	<MidSaverSaver.Settings.FixMissingStuff.Desc>Se você remover um mod que adicionou “coisas” (materiais com os quais os edifícios e itens são construídos, como aço e madeira), qualquer coisa que use esses materiais será carregada em um estado peculiar. Esta correção verificará isso e fornecerá a eles um material alternativo baseado em pontos em comum:\n\n\n1.) Habilite-o e carregue seu save com os mod(s) removidos. Você receberá muitos erros vermelhos, mas ignore-os. O console de depuração pode mencionar que itens com materiais faltantes foram corrigidos.\n\n2.) Desative esta correção quando terminar.</MidSaverSaver.Settings.FixMissingStuff.Desc>
+	
+	<MidSaverSaver.Settings.DisableErrorSpamControl>Desative temporariamente o controle de spam de erros (PERIGOSO)</MidSaverSaver.Settings.DisableErrorSpamControl>
+	<MidSaverSaver.Settings.DisableErrorSpamControl.Desc>Ao remover mods, você pode precisar ver mais erros do que o controlador de spam de erros permite. Você pode usar esta opção para desativar esta proteção. Esta opção não é salva e será redefinida ao normal ao reiniciar o jogo.\n\nAVISO: Não deixe o jogo rodando se estiver sendo bombardeado por erros. Sem controle de spam, o tamanho do arquivo do seu log de erros aumentará vários gigabytes.</MidSaverSaver.Settings.DisableErrorSpamControl.Desc>
+	
+	<MidSaverSaver.Alert.MidSaverSaver.Label>Mid-saver Saver ativo</MidSaverSaver.Alert.MidSaverSaver.Label>
+	<MidSaverSaver.Alert.MidSaverSaver.Desc>Uma das correções do Mid-saver Saver está atualmente ativa. Essas correções não devem ser deixadas passivamente ativadas enquanto você joga. Use-os apenas para corrigir problemas ativamente.</MidSaverSaver.Alert.MidSaverSaver.Desc>
+	
+	<MidSaverSaver.Alert.ErrorSpamControl.Label>À prova de falhas desativado</MidSaverSaver.Alert.ErrorSpamControl.Label>
+	<MidSaverSaver.Alert.ErrorSpamControl.Desc>Mid-saver desativou temporariamente o spam do log de erros à prova de falhas. Tenha cuidado com isso, pois o tamanho do arquivo de log pode aumentar rapidamente, esgotando potencialmente todo o espaço em disco..</MidSaverSaver.Alert.ErrorSpamControl.Desc>
+	
+	<MidSaverSaver.Map>Mapa</MidSaverSaver.Map>
+	<MidSaverSaver.GenerateMineable.Header>Mid-saver Saver: Gerar(ou gerado) minerável ausente</MidSaverSaver.GenerateMineable.Header>
+	<MidSaverSaver.GenerateMineable>Não {0} foi detectado no mapa "{1}". Você gostaria de gerá-lo retroativamente?\n\nNota sobre jogabilidade equilibrada: Devido a aglomerados mineráveis pré-existentes, a quantidade gerada aqui não corresponderá perfeitamente ao que seria gerado em um mapa novo. Cada vez que você adiciona novos aglomerados, a precisão será prejudicada nas futuras gerações retroativas. Portanto, se você está planejando adicionar novo conteúdo minerável, faça isso o menor número de vezes possível.\n\nAviso: O mapa precisará ser refogado quando isso for concluído.</MidSaverSaver.GenerateMineable>
+	<MidSaverSaver.GenerateMineable.Confirm>Gerar(ou gerado)</MidSaverSaver.GenerateMineable.Confirm>
+	<MidSaverSaver.GenerateMineable.Skip>Pular</MidSaverSaver.GenerateMineable.Skip>
+	
+	<MidSaverSaver.Settings.RemapBodyDefs>Corrigir mapeamento corporal</MidSaverSaver.Settings.RemapBodyDefs>
+	<MidSaverSaver.Settings.RemapBodyDefs.Desc>Se você instalar um mod que modifica o número de partes do corpo (como adicionar uma cauda, novos membros, etc.), isso pode fazer com que próteses pré-existentes e outros hediffs se misturem nas partes erradas do corpo, como um implante de nariz sendo repentinamente colocado no ranhura da orelha. Para usar esta correção:\n\n\n1.) Habilite-o e salve seu jogo *antes* de adicionar o novo mod. Isso registrará a aparência dos corpos.\n\n2.) Cancele quaisquer operações médicas pendentes que visem partes do corpo.\n\n3.) Habilite o mod e carregue seu save.\n\n4.) Salve seu jogo e desative esta correção.</MidSaverSaver.Settings.RemapBodyDefs.Desc>
+	
+	<MidSaverSaver.BodyMap.Header>Mid-saver Saver: Corrigir mapeamento corporal</MidSaverSaver.BodyMap.Header>
+	<MidSaverSaver.BodyMapSaved>{0} defesas corporais registradas. Você deve cancelar todas as operações pendentes que tenham como alvo uma parte do corpo e, em seguida, salvar o jogo. Depois disso, feche o jogo e carregue o novo mod.</MidSaverSaver.BodyMapSaved>
+	<MidSaverSaver.BodyMapWritten>{0} hediffs de partes do corpo para todos os peões e animais em todo o mundo foram remapeados. Você precisará salvar e recarregar esse salvamento para concluir o processo (a saúde de alguns peões não parecerá correta até que as coisas sejam reiniciadas na recarga).</MidSaverSaver.BodyMapWritten>
+</LanguageData>

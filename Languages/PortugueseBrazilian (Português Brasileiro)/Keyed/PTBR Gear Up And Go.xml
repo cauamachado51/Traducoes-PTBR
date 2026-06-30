@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<TD.GearAndGo>Gear &amp; Go</TD.GearAndGo>
+	<TD.GearAndGoDesc>Pegar o equipamento, fazer o alistamento e depois ir para o local alvo .\n\nSe estiver a utilizar o Better Pawn Control, isto também definirá a política (designada nas definições).\nClique-direito do mouse para definir a política a partir de um menu suspenso\n\nClique-Shift para redefinir a política de Better Pawn Control.\n\nAlt-clique ao apontar para o alvo não define a política de Better Pawn Control.\nShift-clique no alvo para colocar o comando em fila de espera.</TD.GearAndGoDesc>
+	<TD.GearUpAndGoSettingsName>Gear Up And Go</TD.GearUpAndGoSettingsName>
+	<TD.SettingBetterPawnControlPolicy>Se estiver a utilizar o Better Pawn Control, defina esta política quando clicar no botão:</TD.SettingBetterPawnControlPolicy>
+	<TD.SettingBetterPawnControlCustom>(clique-direito do mouse no botão para selecionar uma política a partir de um menu suspenso)</TD.SettingBetterPawnControlCustom>
+	<TD.SettingBetterPawnControlRemembered>A última política é memorizada, Shift-clique no botão, esta será redefinida</TD.SettingBetterPawnControlRemembered>
+	<TD.GearUpPolicySetAlert>Gear Up And Go definiu a Política de Better Pawn Control para uma batalha.\n\nClique para redefinir a política anterior</TD.GearUpPolicySetAlert>
+	
+</LanguageData>

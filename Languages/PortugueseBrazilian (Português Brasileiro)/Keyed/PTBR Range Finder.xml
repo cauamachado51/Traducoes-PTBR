@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<ShowWeaponRangeKeyTitle>Mostrar tecla de atalho do alcance da arma</ShowWeaponRangeKeyTitle>
+	<ShowWeaponRangeKeyExplained>Para mostrar o alcance da arma, selecione o peão e pressione esta tecla de atalho. Se você pressionar duas vezes a tecla, o alcance será mostrado até que você pressione a tecla novamente.</ShowWeaponRangeKeyExplained>
+
+	<ShowRangeAtMouseKeyTitle>Use a tecla de atalho da posição do mouse</ShowRangeAtMouseKeyTitle>
+	<ShowRangeAtMouseKeyExplained>Mantenha esta tecla pressionada para mostrar o alcance da posição atual do mouse em vez da posição dos peões.</ShowRangeAtMouseKeyExplained>
+
+	<UseColorCodingTitle>Usar codificação por cores</UseColorCodingTitle>
+	<UseColorCodingExplained>Quando ativado, dá a cada círculo de alcance uma cor distinta e marca o peão com a mesma cor.</UseColorCodingExplained>
+
+	<MaxRangeTitle>Alcance máximo para mostrar</MaxRangeTitle>
+	<MaxRangeExplained>RimWorld tem sua própria contagem máxima de células para renderização de contorno. Definir este valor muito alto resulta em erros.</MaxRangeExplained>
+
+	<ModifierKeyOptionNone>Desabilitado</ModifierKeyOptionNone>
+	<ModifierKeyOptionAlt>Alt</ModifierKeyOptionAlt>
+	<ModifierKeyOptionCtrl>Ctrl</ModifierKeyOptionCtrl>
+	<ModifierKeyOptionShift>Shift</ModifierKeyOptionShift>
+	<ModifierKeyOptionMeta>Win/Cmd</ModifierKeyOptionMeta>
+
+	<BooleanKeyOptionNo>Não</BooleanKeyOptionNo>
+	<BooleanKeyOptionYes>Sim</BooleanKeyOptionYes>
+
+	<CustomColors>Cores personalizadas</CustomColors>
+	<AddColor>Adicionar cor</AddColor>
+	<AddingCustomColors>Quando você adiciona cores personalizadas, elas substituem todas as cores existentes e são atribuídas na ordem listada aqui.</AddingCustomColors>
+
+</LanguageData>

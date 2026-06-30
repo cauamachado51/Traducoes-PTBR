@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<TD.UseBedrolls>Use Bedrolls</TD.UseBedrolls>
+	<TD.CarriedBy>Carregado por {0}</TD.CarriedBy>
+	<TD.TravelerOwned>{0} na caravana</TD.TravelerOwned>
+	<TD.PickBackUpBed>Pegue a cama de volta</TD.PickBackUpBed>
+	<TD.ExplainHomeBeds>Use Bedrolls para lembrar as camas atribuídas na colônia de origem da caravana. Por padrão, o jogo não modificado mantém a cama atribuída a um viajante, mas é desmarcada quando ele usa outra cama. Use Bedrolls irá recuperar sua cama quando retornar, se ela ainda estiver desatribuída.</TD.ExplainHomeBeds>
+	<TD.SettingReclaimAggresively>Recuperar as camas de casa, mesmo que tenham sido reivindicadas por outra pessoa</TD.SettingReclaimAggresively>
+	<TD.SettingReclaimAggresivelyDesc>Obviamente você não pode reivindicar camas que foram feitas para uso médico ou prisional</TD.SettingReclaimAggresivelyDesc>
+	<TD.SettingUnAssignOnExit>Cancele a desatribuição de camas ao sair do mapa</TD.SettingUnAssignOnExit>
+	<TD.SettingUnAssignOnExitDesc>Uma escolha óbvia quando sua caravana está formando uma nova colônia - e não é um problema de qualquer maneira se você usar a opção acima para recuperar</TD.SettingUnAssignOnExitDesc>
+	<TD.SettingFarFromBed>Use saco de dormir se estiver muito longe da cama atribuída</TD.SettingFarFromBed>
+	<TD.SettingFarFromBedAmount>Use o saco de dormir de inventário se a cama atribuída estiver pelo menos tão longe:</TD.SettingFarFromBedAmount>
+	<TD.SettingAlsoColonies>Use sacos de dormir em mapas de colônias</TD.SettingAlsoColonies>
+	<TD.SettingAlsoColoniesDesc>Este mod realmente deveria ser usado para caravanas, mas funciona em mapas de casa da mesma forma, mas geralmente você já tem camas atribuídas, mas essa não era a intenção de qualquer maneira, então está desativado por padrão, mas claro que você pode ativá-lo Eu acho</TD.SettingAlsoColoniesDesc>	<TD.UseBedrollsUpdated>Use Bedrolls atualizado</TD.UseBedrollsUpdated>
+	<TD.UpdateNewsColonyMaps>Ei! Nota rápida. Há uma nova configuração para usar sacos de dormir em mapas de colônias - o padrão é desativado, então {0} não está procurando camas desinstaladas no momento.</TD.UpdateNewsColonyMaps>
+
+
+</LanguageData>

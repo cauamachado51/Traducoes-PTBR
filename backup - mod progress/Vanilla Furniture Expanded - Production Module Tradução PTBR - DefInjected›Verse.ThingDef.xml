@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--drug cabinet-->
+  <VFE_DrugCabinet.label>armário de drogas</VFE_DrugCabinet.label>
+  <!--Increases work speed when placed near a drug lab. One workbench links up to two drug cabinets.-->
+  <VFE_DrugCabinet.description>Aumenta a velocidade de trabalho quando colocado perto de um laboratório de drogas. Uma bancada liga-se a dois armários de medicamentos.</VFE_DrugCabinet.description>
+  <!--machining cabinet-->
+  <VFE_MachiningCabinet.label>gabinete de usinagem</VFE_MachiningCabinet.label>
+  <!--Increases work speed when placed near a machining table. One workbench links up to two machining cabinets.-->
+  <VFE_MachiningCabinet.description>Aumenta a velocidade de trabalho quando colocado perto de uma mesa de usinagem. Uma bancada conecta até dois gabinetes de usinagem.</VFE_MachiningCabinet.description>
+  <!--smithing cabinet-->
+  <VFE_SmithyCabinet.label>gabinete de forja</VFE_SmithyCabinet.label>
+  <!--Increases work speed when placed near a smithy. One workbench links up to two smithy cabinets.-->
+  <VFE_SmithyCabinet.description>Aumenta a velocidade de trabalho quando colocado perto de uma ferraria. Uma bancada liga-se a dois gabinetes de ferraria.</VFE_SmithyCabinet.description>
+  <!--kitchen sink cabinet-->
+  <VFE_KitchenSinkCabinet.label>armário de pia de cozinha</VFE_KitchenSinkCabinet.label>
+  <!--Increases work speed when placed nearby a cooking stove.-->
+  <VFE_KitchenSinkCabinet.description>Aumenta a velocidade de trabalho quando colocado perto de um fogão.</VFE_KitchenSinkCabinet.description>
+  <!--tailor cabinet-->
+  <VFE_TailorCabinet.label>armário sob medida</VFE_TailorCabinet.label>
+  <!--Increases work speed when placed near a tailoring table. One workbench links up to two tailor cabinets.-->
+  <VFE_TailorCabinet.description>Aumenta a velocidade de trabalho quando colocado perto de uma mesa de alfaiataria. Uma bancada liga-se a dois gabinetes sob medida.</VFE_TailorCabinet.description>
+  <!--fabrication cabinet-->
+  <VFE_FabricationCabinet.label>armário de fabricação</VFE_FabricationCabinet.label>
+  <!--Increases work speed when placed near a fabrication bench. One workbench can link up to two fabrication cabinets.-->
+  <VFE_FabricationCabinet.description>Aumenta a velocidade de trabalho quando colocado perto de uma bancada de fabricação. Uma bancada pode conectar até dois gabinetes de fabricação.</VFE_FabricationCabinet.description>
+  <!--large machining table-->
+  <VFE_TableMachiningLarge.label>grande mesa de usinagem</VFE_TableMachiningLarge.label>
+  <!--A workbench equipped with advanced tools and enough space to produce technological marvels from simpler materials in shorter amounts of time. Consumes power.-->
+  <VFE_TableMachiningLarge.description>Uma bancada equipada com ferramentas avançadas e espaço suficiente para produzir maravilhas tecnológicas a partir de materiais mais simples em menos tempo. Consome energia.</VFE_TableMachiningLarge.description>
+  <!--large electric smithy-->
+  <VFE_TableSmithyLarge.label>grande ferraria elétrica</VFE_TableSmithyLarge.label>
+  <!--An electric-powered work center for smithing non-mechanical weapons and tools. Consumes a lot of power.-->
+  <VFE_TableSmithyLarge.description>Um centro de trabalho elétrico para forjar armas e ferramentas não mecânicas. Consome muita energia.</VFE_TableSmithyLarge.description>
+  <!--large stove-->
+  <VFE_TableStoveLarge.label>fogão grande</VFE_TableStoveLarge.label>
+  <!--A large size manufacturing stove as well as multiple ovens to prepare meals and cook significantly faster.-->
+  <VFE_TableStoveLarge.description>Um fogão de fabricação de grande porte, bem como vários fornos para preparar refeições e cozinhar significativamente mais rápido.</VFE_TableStoveLarge.description>
+  <!--large tailoring table-->
+  <VFE_TableTailorLarge.label>grande mesa de alfaiataria</VFE_TableTailorLarge.label>
+  <!--A large size manufacturing workbench with several tools for designers and a sewing machine for rapid tailoring of clothes. Can work without electricity at 33% of normal speed.-->
+  <VFE_TableTailorLarge.description>Bancada de fabricação de grandes dimensões com diversas ferramentas para designers e uma máquina de costura para confecção rápida de roupas. Pode trabalhar sem eletricidade a 33% da velocidade normal.</VFE_TableTailorLarge.description>
+  <!--assembly bench-->
+  <VFE_ComponentFabricationBench.label>bancada de montagem</VFE_ComponentFabricationBench.label>
+  <!--A workbench equipped with advanced tools to produce components.-->
+  <VFE_ComponentFabricationBench.description>Uma bancada equipada com ferramentas avançadas para produzir componentes.</VFE_ComponentFabricationBench.description>
+  <!--electric butcher-->
+  <VFE_TableButcherElectric.label>açougueiro elétrico</VFE_TableButcherElectric.label>
+  <!--A motorized table with a rotating saw blade for butchering dead creatures quicker into precise slices of raw meat. Consumes a lot of power.-->
+  <VFE_TableButcherElectric.description>Uma mesa motorizada com uma lâmina de serra rotativa para cortar criaturas mortas mais rapidamente em fatias precisas de carne crua. Consome muita energia.</VFE_TableButcherElectric.description>
+  <!--electric drug lab-->
+  <VFE_TableDrugLabElectric.label>laboratório elétrico de drogas</VFE_TableDrugLabElectric.label>
+  <!--An advanced work bench equipped with containers, heaters, and measurement devices for producing various drugs with more efficiency. Consumes a lot of power.-->
+  <VFE_TableDrugLabElectric.description>Uma bancada de trabalho avançada equipada com recipientes, aquecedores e dispositivos de medição para produzir vários medicamentos com mais eficiência. Consome muita energia.</VFE_TableDrugLabElectric.description>
+  <!--fueled smelter-->
+  <VFE_FueledSmelter.label>fundição alimentada</VFE_FueledSmelter.label>
+  <!--A wood-fueled station for smelting. Extracts usable metal from slag chunks and other mixed metal items.-->
+  <VFE_FueledSmelter.description>Uma estação de fundição movida a lenha. Extrai metal utilizável de pedaços de escória e outros itens de metal misto.</VFE_FueledSmelter.description>
+  <!--electric stonecutter's table-->
+  <VFE_TableStonecutterElectric.label>mesa de pedreiro elétrico</VFE_TableStonecutterElectric.label>
+  <!--An advanced work table with electrical saws and holders for cutting stone chunks into usable blocks in shorter duration of time on an assembly line. Consumes a lot of power.-->
+  <VFE_TableStonecutterElectric.description>Uma mesa de trabalho avançada com serras elétricas e suportes para cortar pedaços de pedra em blocos utilizáveis em menor tempo em uma linha de montagem. Consome muita energia.</VFE_TableStonecutterElectric.description>
+</LanguageData>

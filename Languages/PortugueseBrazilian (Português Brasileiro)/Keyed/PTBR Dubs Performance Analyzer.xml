@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!--Tabs-->
+	<tab.settings>configurações</tab.settings>
+	<tab.tick>Tick</tab.tick>
+	<tab.update>Atualizar</tab.update>
+	<tab.gui>GUI</tab.gui>
+	<tab.modder>Modder</tab.modder>
+
+	<!--Tab Descriptions-->
+	<tab.settings.desc>Ative e desative as configurações opcionais que efetuem quais informações são exibidas</tab.settings.desc>
+	<tab.tick.desc>Métodos baseados em tick</tab.tick.desc>
+	<tab.update.desc>Métodos baseados em atualização</tab.update.desc>
+	<tab.gui.desc>Métodos que são executados na GUI</tab.gui.desc>
+	<tab.modder.desc>Métodos que foram adicionados por modders via Analyzer.xml</tab.modder.desc>
+
+	<!--Settings-->
+  <settings.Overrides>Substitui</settings.Overrides>
+  <settings.Disabling>Desabilitando</settings.Disabling>
+  <settings.Optimizations>Otimizações</settings.Optimizations>
+	<settings.performance>Opções de desempenho</settings.performance>
+	<settings.developer>Opções do desenvolvedor</settings.developer>
+  <settings.debuglog>Ativar log sem o modo de depuração(debug mode)</settings.debuglog>
+	<settings.wiki>Analyzer Wiki</settings.wiki>
+	<settings.discord>Dubs Discord</settings.discord>
+	<settings.dnspy>caminho para Dnspy (incluindo o EXE)</settings.dnspy>
+	<settings.ups>Atualizações de estatísticas por segundo</settings.ups>
+	<settings.logging>Registro detalhado</settings.logging>
+	<settings.disable.tps.counter>Desativar contador FPS e TPS</settings.disable.tps.counter>
+	<settings.disable.cleanup>Desativar a limpeza automática</settings.disable.cleanup>
+	<settings.disable.cleanup.desc>Não faça isso se você não sabe o que está fazendo. Isso impedirá que o analisador seja limpo de automaticamente. O analisador pode ser forçado a limpar manualmente imediatamente clicando no botão da aba Menu e selecionando 'Limpeza'</settings.disable.cleanup.desc>
+
+	<!-- Dev Options -->
+	<devoptions.heading>Perfil</devoptions.heading>
+
+	<devoptions.input.method>Método</devoptions.input.method>
+	<devoptions.input.methodinternal>Método Interno</devoptions.input.methodinternal>
+	<devoptions.input.methodharmony>Método Harmony</devoptions.input.methodharmony>
+	<devoptions.input.type>Tipo</devoptions.input.type>
+	<devoptions.input.subclasses>Subclasse do tipo</devoptions.input.subclasses>
+	<devoptions.input.typeharmony>Tipo Harmony</devoptions.input.typeharmony>
+	<devoptions.input.assembly>Montagem</devoptions.input.assembly>
+
+	<devoptions.patchtype.tick>Tick</devoptions.patchtype.tick>
+	<devoptions.patchtype.update>Atualizar</devoptions.patchtype.update>
+
+	<!--Top Row-->
+	<top.pause.analyzer>Pausar/Despausar perfil que o analisador é feito, isso não é equivalente a unpatching</top.pause.analyzer>
+	<top.refresh>Atualize a lista de logs</top.refresh>
+	<top.search>Pesquisa por nome ou hora para filtrar quais entradas mostram</top.search>
+	<top.gc.tip>Isto irá mostrar uma estimativa aproximada da memória consumida e jogada fora em um determinado tempo</top.gc.tip>
+	<top.fps.tip>Isso mostrará seus quadros calculados por segundo</top.fps.tip>
+	<top.tps.tip>Isso mostrará seus ticks por segundo, os ticks são a métrica que o jogo usa para o tempo passar, vários ticks podem acontecer por segundo, o jogo tem como objetivo chegar a 60TPS(60 ticks por segundo) em 1x</top.tps.tip>
+
+	<!-- Logs -->
+	<logs.max>Max</logs.max>
+	<logs.av>Média</logs.av>
+	<logs.percent>porcentagem</logs.percent>
+	<logs.total>Total</logs.total>
+	<logs.calls>Chamadas</logs.calls>
+	<logs.name>Nome</logs.name>
+
+	<logs.max.desc>Classifique as linhas pelo pico máximo (ms) que o método atingiu</logs.max.desc>
+	<logs.av.desc>Classifique as linhas pela média (ms) que o método atingiu</logs.av.desc>
+	<logs.percent.desc>Classifique as linhas por porcentagem relativa na categoria</logs.percent.desc>
+	<logs.total.desc>Classifique as linhas pelo total (ms) Impacto</logs.total.desc>
+	<logs.calls.desc>Classifique as linhas pelo montante total de chamadas</logs.calls.desc>
+	<logs.name.desc>Classifique as linhas em ordem alfabética</logs.name.desc>
+
+	<!-- Entry -->
+
+	<!-- GUI -->
+	<entry.gui.colonistbar>Barra do colono OnGUI</entry.gui.colonistbar>
+	<entry.gui.colonistbar.tooltip>A barra do colono na parte superior da tela</entry.gui.colonistbar.tooltip>
+
+	<entry.gui.dotabs>Fazer abas</entry.gui.dotabs>
+	<entry.gui.dotabs.tooltip>O painel inspecionar que se abre ao selecionar uma coisa</entry.gui.dotabs.tooltip>
+
+	<entry.gui.gamecomponent>Componente de jogo OnGUI</entry.gui.gamecomponent>
+	<entry.gui.gamecomponent.tooltip>Os métodos da GUI para cada componente de jogo</entry.gui.gamecomponent.tooltip>
+
+	<entry.gui.resourcereadout>Leitura de recursos OnGUI</entry.gui.resourcereadout>
+	<entry.gui.resourcereadout.tooltip>A função da interface do usuário(UI) para a leitura do recurso à esquerda da tela</entry.gui.resourcereadout.tooltip>
+
+	<entry.gui.uiroot>UI Root OnGUI</entry.gui.uiroot>
+	<entry.gui.uiroot.tooltip>Uma variedade de métodos OnGUI para vários tipos, incluindo; UIRoot_Play, WindowStack, AlertsReadout, MainButtonsRoot</entry.gui.uiroot.tooltip>
+
+	<entry.gui.windowstack>Pilha de janela OnGUI</entry.gui.windowstack>
+	<entry.gui.windowstack.tooltip>O método OnGUI para a pilha de janela, deve mostrar perfil(analise?) para todas as janelas ativas</entry.gui.windowstack.tooltip>
+
+	<entry.gui.thingoverlay.ongui>ThingOverlayONGUI</entry.gui.thingoverlay.ongui>
+	<entry.gui.thingoverlay.ongui.tooltip>Coisa sobreposição ONGUI </entry.gui.thingoverlay.ongui.tooltip>
+	
+	<!-- Tick -->
+
+  <entry.tick.jobdrivertick>Job driver tick</entry.tick.jobdrivertick>
+  <entry.tick.jobdrivertick.tooltip>A detoured profiler for the whole job driver tick including the cost of ticking each individual driver</entry.tick.jobdrivertick.tooltip>
+
+  <entry.tick.single>Único Tick</entry.tick.single>
+	<entry.tick.single.tooltip>uma variedade de métodos de tick, incluindo; mundo, história, filthmonitor, contador de histórias</entry.tick.single.tooltip>
+
+	<entry.tick.pathfinder>buscador de caminho(Pathfinding)</entry.tick.pathfinder>
+	<entry.tick.pathfinder.tooltip>Mostra uma variedade de métodos que são usados em buscar caminhos</entry.tick.pathfinder.tooltip>
+
+	<entry.tick.gamecomponent>Componente de jogo tick</entry.tick.gamecomponent>
+	<entry.tick.gamecomponent.tooltip>Os métodos de tick para cada componente de jogo</entry.tick.gamecomponent.tooltip>
+
+	<entry.tick.lord>Senhores(Lords)</entry.tick.lord>
+	<entry.tick.lord.tooltip>Senhores são usados para o grupo AI, como casamentos, ataques, comerciantes etc</entry.tick.lord.tooltip>
+
+	<entry.tick.stats>estatísticas</entry.tick.stats>
+	<entry.tick.stats.tooltip>Uma variedade de métodos que são usados para calcular e procurar valores baseados em estatística</entry.tick.stats.tooltip>
+
+	<entry.tick.mapcomponent>Componente de mapa Tick</entry.tick.mapcomponent>
+	<entry.tick.mapcomponent.tooltip>O método de tick para componentes de mapa</entry.tick.mapcomponent.tooltip>
+
+	<entry.tick.needs>necessidades</entry.tick.needs>
+	<entry.tick.needs.tooltip>Mostra uma variedade de métodos que são usados em cálculos de necessidades</entry.tick.needs.tooltip>
+
+	<entry.tick.pawngen>Geração de peões</entry.tick.pawngen>
+	<entry.tick.pawngen.tooltip>mostra os métodos em torno de geração de peões e geração de peões para invasões </entry.tick.pawngen.tooltip>
+
+	<entry.tick.pawn>Peão Tick</entry.tick.pawn>
+	<entry.tick.pawn.tooltip>A variedade de métodos que são chamados no peão: tick, incluindo uma variedade de rastreadores</entry.tick.pawn.tooltip>
+
+	<entry.tick.room>Salas</entry.tick.room>
+	<entry.tick.room.tooltip>O método responsável pela atualização de estatísticas da sala</entry.tick.room.tooltip>
+
+	<entry.tick.thinknodes>ThinkNodes</entry.tick.thinknodes>
+	<!-- ThinkNodes are basically sets of general job givers filtered in an ai tree, like satisfying needs, optimizing apparel, fleeing, work is all combined in a single JobGiver_Work which can be individually profiled by looking at the Work Giver profiler -->
+	<entry.tick.thinknodes.tooltip>ThinkNodes são basicamente conjuntos de doadores gerais de empregos filtrados na árvore de IA, como satisfazer necessidades, roupas de otimização, fuga, trabalho é combinado em único trabalho doador de emprego que pode ser perfilado(analisado?) individualmente olhando para a aba do perfil(analise?) do doador de trabalho</entry.tick.thinknodes.tooltip>
+
+	<entry.tick.things>Coisas/Pertences Tick</entry.tick.things>
+	<entry.tick.things.tooltip>Perfis de métodos de ticking de várias coisas no mapa</entry.tick.things.tooltip>
+
+	<entry.tick.jobgiver>Doador de trabalho</entry.tick.jobgiver>
+	<!-- Work Giver is only jobs done for work, that means all the jobs listed in the Work tab, this does not include jobs run by the ai for things like satisfying needs or optimizing apparel, those can be found in the ThinkNodes profile tab  -->
+	<!-- O doador de trabalho é apenas trabalhos realizados para o trabalho, o que siginifica que todos os trabalhos listados na aba trabalho, isso não inclui trabalhos executados pela IA para coisas como satisfazer necessidades ou roupas de otimização, eles podem ser encontrados na aba ThinkNodes profile  -->
+	<entry.tick.jobgiver.tooltip>O doador de trabalho é apenas para trabalhos, ou seja todos os trabalhos listados na aba trabalho, isso não inclui trabalhos executados pela IA para coisas como satisfazer necessidades ou roupas de otimização, eles podem ser encontrados na aba ThinkNodes profile</entry.tick.jobgiver.tooltip>
+
+	<entry.tick.jobgiverd>Doador de trabalho (Detoured)</entry.tick.jobgiverd>
+	<entry.tick.jobgiverd.tooltip>O doador de empregos mostra empregos que procuram proativamente o trabalho a ser realizado. por exemplo, barris de fermentação à procura de ingredientes, receitas à procura de recursos, etc.</entry.tick.jobgiverd.tooltip>
+
+	<entry.tick.world>Mundo Tick</entry.tick.world>
+	<entry.tick.world.tooltip>Métodos tick para várias entradas do mundo, como; peões do mundo, facções, caravanas</entry.tick.world.tooltip>
+
+	<!-- Update  -->
+
+	<entry.update.alert>Alertas</entry.update.alert>
+	<entry.update.alert.tooltip>Métodos recalcular e desenhar para alertas</entry.update.alert.tooltip>
+
+	<entry.update.dynamicdraw>Desenhar coisas dinâmicas</entry.update.dynamicdraw>
+	<entry.update.dynamicdraw.tooltip>Método de desenho para coisas que são desenhadas através do DynamicDrawManager</entry.update.dynamicdraw.tooltip>
+
+	<entry.update.gamecomponent>Componente de jogo atualizar</entry.update.gamecomponent>
+	<entry.update.gamecomponent.tooltip>Método de atualização para cada componente de jogo</entry.update.gamecomponent.tooltip>
+
+	<entry.update.harmonypatches>Harmony Patches</entry.update.harmonypatches>
+	<entry.update.harmonypatches.tooltip>Patches de Harmony adicionados por mods (apenas prefixos e postfixes)</entry.update.harmonypatches.tooltip>
+
+	<entry.update.harmonytranspilers>Harmony Transpilers</entry.update.harmonytranspilers>
+	<entry.update.harmonytranspilers.tooltip>Mostra um perfil(analise?) semipreciso de todos os transpiladores de harmony, há uma redação no wiki entrando em detalhes sobre isso</entry.update.harmonytranspilers.tooltip>
+
+	<entry.update.infocard>Cartão de informações</entry.update.infocard>
+	<entry.update.infocard.tooltip>Uma variedade de métodos relacionados a painéis de informações, incluindo estatísticas e métodos de GUI(interface gráfica)</entry.update.infocard.tooltip>
+
+	<entry.update.mapcomponent>Componente de mapa atualizar</entry.update.mapcomponent>
+	<entry.update.mapcomponent.tooltip>Método de atualização para componentes do mapa</entry.update.mapcomponent.tooltip>
+
+	<entry.update.transpilermethods>Harmony Transpiled Methods</entry.update.transpilermethods>
+	<entry.update.transpilermethods.tooltip>Traça o perfil(analise?) de métodos inteiros que possuem correções(patches) do transpiler, não mostra o impacto de alterações individuais, apenas o método inteiro, um transpiler pode alterar a frequência com que algum código em um método é executado, não apenas chamar métodos extras, usar para comparar como um método é executado antes e depois de adicionar um mod que corrige isso</entry.update.transpilermethods.tooltip>
+
+	<entry.update.sectionlayer.thingsdrawlayer>Desenhar coisas impressas</entry.update.sectionlayer.thingsdrawlayer>
+	<entry.update.sectionlayer.thingsdrawlayer.tooltip>Analise quanto tempo cada item leva para ser impresso</entry.update.sectionlayer.thingsdrawlayer.tooltip>
+
+	<entry.update.sections>Seções</entry.update.sections>
+	<entry.update.sections.tooltip>Mostra o método de regeneração para Camadas de Secção (as camadas de secção são coisas como Neve, Sombras de Sol, Zonas)</entry.update.sections.tooltip>
+
+	<entry.update.pawnrenderer>Renderizador de peão</entry.update.pawnrenderer>
+	<entry.update.pawnrenderer.tooltip>Mostra a função de renderização de peões, que é responsável pela renderização de peões e vestuário</entry.update.pawnrenderer.tooltip>
+
+	<entry.update.root>Root</entry.update.root>
+	<entry.update.root.tooltip>Vários métodos de root</entry.update.root.tooltip>
+
+	<entry.update.sectionlayerthings>Coisas da camada de seção</entry.update.sectionlayerthings>
+	<entry.update.sectionlayerthings.tooltip>Perfil(analise?) mais aprofundado das camadas de seção, incluindo criação de malha e a função Take Print From</entry.update.sectionlayerthings.tooltip>
+
+	<entry.update.mapdrawer>Desenhador de mapas</entry.update.mapdrawer>
+	<entry.update.mapdrawer.tooltip>Método de desenho em cada camada de seção do mapa</entry.update.mapdrawer.tooltip>
+
+	<entry.update.shooting>Tiro e Combate</entry.update.shooting>
+	<entry.update.shooting.tooltip>Mostra uma variedade de métodos relacionados ao combate e tiro, incluindo verbos, torres, projéteis, etc.</entry.update.shooting.tooltip>
+
+	<entry.update.uiroot>UI Root Update</entry.update.uiroot>
+	<entry.update.uiroot.tooltip>Uma variedade de métodos de atualização para funcionalidades relacionadas à GUI, como;  Leitura de Alertas, Mensagens, Tutor</entry.update.uiroot.tooltip>
+
+	<entry.update.frametimes>Tempos de quadro</entry.update.frametimes>
+	<entry.update.frametimes.tooltip>Mostra entradas que se correlacionam com os tempos de quadro do seu jogo (quanto tempo leva para completar cada quadro)</entry.update.frametimes.tooltip>
+
+
+	<!-- Custom -->
+
+	<entry.update.custom>Atualização personalizada</entry.update.custom>
+	<entry.update.custom.tooltip>Métodos com perfil personalizado na categoria de atualização</entry.update.custom.tooltip>
+
+	<entry.tick.custom>Tick personalizado</entry.tick.custom>
+	<entry.tick.custom.tooltip>Métodos com perfil personalizado na categoria tick</entry.tick.custom.tooltip>
+
+	<!-- Performance Patches -->
+
+  <FixEverything>Consertar tudo</FixEverything>
+
+	<performance.alertsoverride>Desative alertas individualmente</performance.alertsoverride>
+	<performance.alertsoverride.tooltip>Escolha desativar alertas caros</performance.alertsoverride.tooltip>
+
+	<performance.alertsdisable>Desative todos os alertas</performance.alertsdisable>
+	<performance.alertsdisable.tooltip>Desative todos os alertas</performance.alertsdisable.tooltip>
+
+	<performance.sectionlayersnow>Melhore a velocidade de renderização da neve</performance.sectionlayersnow>
+	<performance.sectionlayersnow.tooltip>Substitui um Mathf.Lerp pela multiplicação de bytes no cálculo da cor da neve</performance.sectionlayersnow.tooltip>
+
+	<performance.lordnotifydamage>Remova algumas falhas da invasão AI</performance.lordnotifydamage>
+	<performance.lordnotifydamage.tooltip>Remove uma verificação redundante de notificação de danos das armadilhas do Senhor 'LordToil_AssaultColony' e 'LordToil_AssaultColonySappers'</performance.lordnotifydamage.tooltip>
+
+	<performance.killaudio>Desative a música do jogo</performance.killaudio>
+	<performance.killaudio.tooltip>Evite bugs no reprodutor de música prefixando destrutivamente a função 'MusicManagerPlay:MusicUpdate' </performance.killaudio.tooltip>
+
+	<performance.buildingrepair>Otimize o trabalho de reparo</performance.buildingrepair>
+	<performance.buildingrepair.tooltip>Remove objetos que não podem ser reparados ou que não possuem pontos de vida (que o tipo 'ListerBuildingsRepairable' não filtra)</performance.buildingrepair.tooltip>
+
+	<performance.roof>Otimize o construtor de telhados</performance.roof>
+	<performance.roof.tooltip>Armazena caches quando os telhados são removidos/precisam ser substituídos e evita que o doador de trabalho seja executado quando nenhum estado for alterado</performance.roof.tooltip>
+
+	<performance.wallsnconduits>Otimize o desenho de paredes e conduítes</performance.wallsnconduits>
+	<performance.wallsnconduits.tooltip>Defina o tipo de desenho de malha para paredes e conduítes como 'MapMeshOnly'</performance.wallsnconduits.tooltip>
+
+	<performance.compdeepdrill>Otimize perfurações profundas</performance.compdeepdrill>
+	<performance.compdeepdrill.tooltip>Ignora a verificação da pedra 'correta' sob uma broca, melhora o desempenho das brocas ao usar peões com alta mineração</performance.compdeepdrill.tooltip>
+
+	<performance.tempcache>Faixa de temperatura confortável do cache</performance.tempcache>
+	<performance.tempcache.tooltip>Armazena em cache a faixa de temperatura segura uma vez por tick, reduzindo o excesso de carga da CPU devido ao envio de spam para coisas como buscador de caminho</performance.tempcache.tooltip>
+
+	<performance.zoom>Reduza gagueira durante o zoom</performance.zoom>
+	<performance.zoom.tooltip>Reduz os TPS alvo ao fazer zoom para reduzir a gagueira</performance.zoom.tooltip>
+
+	<performance.drawlabelsfix>Otimize rótulos de peões</performance.drawlabelsfix>
+	<performance.drawlabelsfix.tooltip>Otimize o desenho de nomes de peões e animais no mapa</performance.drawlabelsfix.tooltip>
+
+	<!-- Temporary -->
+	<temp.section>Otimize o carregamento do mapa</temp.section>
+	<temp.section.tooltip>Tipos de cache no construtor para 'Section' - isso deve ser corrigido em uma atualização futura do RW</temp.section.tooltip>
+
+	<!-- Fixes -->
+
+  <fix.fixmodremoval>Corrigir a remoção do mod, pode resolver o problema da tela cinza</fix.fixmodremoval>
+	<fix.fixmodremoval.tooltip>Isso corrige o gerenciador de área tentando percorrer classes de área nulas de mods ausentes</fix.fixmodremoval.tooltip>
+
+	<fix.faction>Corrigir facções de mod ausentes</fix.faction>
+	<fix.faction.tooltip>Remove todas as referências a facções excluídas em objetos mundiais. Isso resolverá problemas ao remover facções durante o meio do save</fix.faction.tooltip>
+
+</LanguageData>

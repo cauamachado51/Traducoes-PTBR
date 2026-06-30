@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Arm.label>braço</Arm.label>
+  <Arm.description>O braço humano. Os braços são como os pés, mas podem ser usadas para transportar coisas.</Arm.description>
+  
+  <Brain.label>cérebro</Brain.label>
+  <Brain.description>O cérebro humano. O receptáculo da autoconsciência.</Brain.description>
+  
+  <Ear.label>orelha</Ear.label>
+  <Ear.description>O ouvido humano. Recetivo às vibrações do ar, permite às pessoas ouvir.</Ear.description>
+  
+  <Eye.label>olho</Eye.label>
+  <Eye.description>O olho humano. Percebe a luz, permitindo que uma pessoa reconheça o que está à sua volta.</Eye.description>
+
+  <Foot.label>pé</Foot.label>
+  <Foot.description>O pé humano. Algo em que se podem calçar sapatos.</Foot.description>
+  
+  <Hand.label>mão</Hand.label>
+  <Hand.description>O melhor amigo do homem.</Hand.description>
+
+  <Jaw.label>mandíbula</Jaw.label>
+  <Jaw.description>Mandíbula humana. Um bom conjunto de dentes para mastigar alimentos e falar.</Jaw.description>
+
+  <Leg.label>perna</Leg.label>
+  <Leg.description>Pernas humanas. Varas longas e carnudas que permitem a locomoção.</Leg.description>
+  
+  <Nose.label>nariz</Nose.label>
+  <Nose.description>Nariz humano. Órgão bastante útil para o reconhecimento de odores, permite-lhe decorar o seu rosto.</Nose.description>
+
+  <Spine.label>coluna vertebral</Spine.label>
+  <Spine.description>A coluna vertebral humana. Necessária para se manter de pé e andar, bem como para o sustentar.</Spine.description>  
+
+  <Stomach.label>estômago</Stomach.label>
+  <Stomach.description>Estômago humano. Digere os alimentos e transforma-os em energia e nutrientes.</Stomach.description>
+
+  <!--Mod: Extended Human Body Simulation (tinha nomes estranhos de orgãos que nem sei se existem, decidi não traduzir)-->
+
+</LanguageData>
