@@ -23,6 +23,7 @@
 	<Mint.DeleteTemplate>Delete Template</Mint.DeleteTemplate>
 	<Mint.CloneWorktable>Clone the bill stack from this worktable</Mint.CloneWorktable>
 	<Mint.SelectABenchToAddBills>Select a bench to add a bill</Mint.SelectABenchToAddBills>
+	<MintResourceReadout>Mint Resource Readout</MintResourceReadout>
 	
    <!-- velho? -->
 	<AutoCloseArchitect>Close on select</AutoCloseArchitect>
@@ -64,7 +65,6 @@
 	<HideFinishedProjects>Hide finished research projects</HideFinishedProjects>
 	<HideLockedProjects>Hide locked research projects</HideLockedProjects>
 	<PinnedRes>Pinned</PinnedRes>
-	<MintResourceReadout>Mint Resource Readout</MintResourceReadout>
 	<MintExperimental>Extras</MintExperimental>
 	<Autoprojectstep>Auto project step</Autoprojectstep>
 	<AutoprojectstepDesc>Automatically start the next research project step to complete the target project</AutoprojectstepDesc>
@@ -74,7 +74,7 @@
 	<InfocardWidth>Infocard Width</InfocardWidth>
 	<TopOffset>Top Offset</TopOffset>
 	<MaxHeight>Max Height</MaxHeight>
-	<MintPlants>Plants</MintPlants>
+	<MintPlants>Plants</MintPlants> <!-- ptbr: <MintPlants>Menus de plants</MintPlants> -->
 	<BoxSizeX>Box Width</BoxSizeX>
 	<BoxSizeY>Box Height</BoxSizeY>
 	<MintResetAll>Reset All</MintResetAll>
